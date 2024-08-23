@@ -2,16 +2,20 @@ project:
   type: book
 
 book:
-  title: "handbook"
-  author: "Norah Jones"
-  date: "8/22/2024"
+  title: "CMC GI Surgical Oncology"
+  author: "Jonathan Salo MD"
+  #date: "8/22/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - 01-cmc_inpatient.qmd
+    - 01-pv_inpatient.qmd
+    - 01-rounds.qmd
+    - 01-notes.qmd
+    - 01-signout.qmd
+    - 01-discharges.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: bibliography.bib
 
 format:
   html:

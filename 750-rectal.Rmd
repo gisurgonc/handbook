@@ -1,0 +1,30 @@
+# (PART\*) Rectal Cancer {-}
+
+# RectalCa SCORE
+
+[Rectal CA SCORE](https://www.surgicalcore.org/modulecontent.aspx?id=130244)
+
+## Anatomy
+
+  -Venous drainge
+
+## Presentation
+
+  - Assessment of sphincter function
+
+## Operative Tx
+
+### [Total mesorectal excision](767-rectal_surgery.html)
+
+### Transanal excision
+
+### Isolated liver mets
+
+## [Adjuvant therapy](770-rectal_RT.html)
+
+  - Standard course chemoRT
+  - Swedish preop RT
+  - Total Neoadjuvant Therapy
+
+
+
