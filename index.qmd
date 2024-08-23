@@ -1,6 +1,6 @@
 # Handbook {.unnumbered}
 
-This is a Quarto book....
+Not rendered locally
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
