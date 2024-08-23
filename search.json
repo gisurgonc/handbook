@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "handbook",
+    "title": "CMC GI Surgical Oncology",
     "section": "",
     "text": "Handbook\nNot rendered locally\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
@@ -10,33 +10,163 @@
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "01-cmc_inpatient.html",
+    "href": "01-cmc_inpatient.html",
+    "title": "1  CMC Inpatient",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.1 Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "objectID": "01-cmc_inpatient.html#rounds",
+    "href": "01-cmc_inpatient.html#rounds",
+    "title": "1  CMC Inpatient",
+    "section": "1.2 Rounds",
+    "text": "1.2 Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "objectID": "01-cmc_inpatient.html#resident-epic-teams",
+    "href": "01-cmc_inpatient.html#resident-epic-teams",
+    "title": "1  CMC Inpatient",
+    "section": "1.3 Resident Epic teams:",
+    "text": "1.3 Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
     "crumbs": [
-      "References"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
+    ]
+  },
+  {
+    "objectID": "01-cmc_inpatient.html#consults",
+    "href": "01-cmc_inpatient.html#consults",
+    "title": "1  CMC Inpatient",
+    "section": "1.4 Consults",
+    "text": "1.4 Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
+    ]
+  },
+  {
+    "objectID": "01-cmc_inpatient.html#postop-clinic-appt",
+    "href": "01-cmc_inpatient.html#postop-clinic-appt",
+    "title": "1  CMC Inpatient",
+    "section": "1.5 Postop Clinic Appt",
+    "text": "1.5 Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
+    ]
+  },
+  {
+    "objectID": "01-cmc_inpatient.html#conferences",
+    "href": "01-cmc_inpatient.html#conferences",
+    "title": "1  CMC Inpatient",
+    "section": "1.6 Conferences",
+    "text": "1.6 Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
+    ]
+  },
+  {
+    "objectID": "01-cmc_inpatient.html#medicine-consults",
+    "href": "01-cmc_inpatient.html#medicine-consults",
+    "title": "1  CMC Inpatient",
+    "section": "1.7 Medicine Consults",
+    "text": "1.7 Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
+    ]
+  },
+  {
+    "objectID": "01-pv_inpatient.html",
+    "href": "01-pv_inpatient.html",
+    "title": "2  Rounds",
+    "section": "",
+    "text": "2.1 Resident Epic teams:\nResidents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+    ]
+  },
+  {
+    "objectID": "01-pv_inpatient.html#resident-epic-teams",
+    "href": "01-pv_inpatient.html#resident-epic-teams",
+    "title": "2  Rounds",
+    "section": "",
+    "text": "Colorectal Surgery Pineville",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+    ]
+  },
+  {
+    "objectID": "01-pv_inpatient.html#consults",
+    "href": "01-pv_inpatient.html#consults",
+    "title": "2  Rounds",
+    "section": "2.2 Consults",
+    "text": "2.2 Consults\nEstablished patients and directed should be discussed with the attending surgeon.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+    ]
+  },
+  {
+    "objectID": "01-pv_inpatient.html#postop-clinic-appts",
+    "href": "01-pv_inpatient.html#postop-clinic-appts",
+    "title": "2  Rounds",
+    "section": "2.3 Postop Clinic Appts",
+    "text": "2.3 Postop Clinic Appts\nPostoperative patients are generally seen for a Transition of Care visit at about two weeks.\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nHale Mock\nKamisha Wilson\nMadeline Georgino\n\nPlease include the following information in the Canopy Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appointment\nNeed for Wound Ostomy RN appointment at same time (essential for new stomas)\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\n\n\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+    ]
+  },
+  {
+    "objectID": "01-pv_inpatient.html#conferences",
+    "href": "01-pv_inpatient.html#conferences",
+    "title": "2  Rounds",
+    "section": "2.4 Conferences",
+    "text": "2.4 Conferences\n\nGI Tumor Planning Conf Monday 7-8am (Teams)\nResident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conference Friday 7-8am (Teams)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+    ]
+  },
+  {
+    "objectID": "01-rounds.html",
+    "href": "01-rounds.html",
+    "title": "3  Rounds",
+    "section": "",
+    "text": "The following format will help speed communication of data on rounds.\nID: One line description: “Mr Glenn: PostOp day 3 after low anterior resection”\n24 hour events: Summary of important events in prior 24 hrs\nData Communication (organized by system)\nNeuro: Pain control, level of alertness, psychotropic meds, sedatives, and pain meds.\nCardioVascular: Vital signs (normal OR cite the range of systolic blood pressures and range of heart rate). Heart rhythm. Cardiac meds. Most recent recommendations of cardiology consult.\nRespiratory: Pulmonary exam, oxygen saturation, supplied oxygen, ventilator setting. Results of CXR.\nGI: Diet, bowel function, NG output. Drain outputs can often be summarized unless they are unusually high or low (and ready to be removed. New finding of bile in any abdominal drain needs special emphasis. GI meds (eg protonix, Entereg). Tube feed formula, rate and duration (continuous or nocturnal). Status of C Diff tests. Results of JP drain amylase levels (gastroesophageal patients). Results of JP triglycerides or creatinine, if sent,\nRenal: Urine output in 24 hours AND in most recent 8 hour shift. Presence (or absence) of Foley catheter and plans for removal, if present. Most recent creatinine. If diuretics administered, dosage and amount of urine output during the shift when it was administered. Most recent potassium in any patient receiving (or about to receive) furosemide (Lasix). Results of Mg and Phos if abnormal.\nHeme: Hemoglobin, platelets, DVT prophylaxis. PLEASE CHECK THE MAR SUMMARY DAILY to be certain that the ordered DVT prophylaxis has been given.\nID: WBC, Tmax in past 24 hours, culture results.\nEndo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.\nAssessment/Plan (organized by Problem List):\nEach of the patients problems are addressed with an assessment and plan. Pre-existing medical problems and postoperative complications need to be addressed in the plan. An assessment and plan for each organ system is usually not necessary, except for the most complex patients. Patients active medical problems should be documented on the Patient List for rounds. This helps to remind the team about medical problems which the team is managing:\n\nChronic anticoagulation\nDiabetes\nMalnutrition\n\nThis problem list-oriented approach will also be helpful to writing problem-oriented notes.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Rounds</span>"
+    ]
+  },
+  {
+    "objectID": "01-notes.html",
+    "href": "01-notes.html",
+    "title": "4  Progress Notes",
+    "section": "",
+    "text": "Progress notes need to reflect the problems which are being managed by the team. The current medical problems being managed by the team should be added to the problem list for that hospitalization. This will make it easier to generate notes which are oriented to the patient’s problem list.\nIn addition, the progress notes provide a narrative which can later be used to generate the discharge summary (particularly for complex patients). Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.\nNotes should be forwarded to the patient’s attending (unless out of town)\nEsophagectomy Events to be Documented:\n\nExtubation date/time\nNG Removal date\nChest tube removal date\nMBS date(s) and results (aspiration | penetration)\nICU DC orders written\nICU discharge (transfer to ward)\n\nEsophagectomy Complications to be Documented:\n\n\n\n\n\n\n\nN\nDelirium\n\n\n\nStroke\n\n\nCV\nNew arrhythmia req Rx\n\n\n\nMI\n\n\nR\nPneumonia (3 of fever | WBC | infiltrate | abx | sputum cx)\n\n\n\nEffusion req drainage\n\n\n\nReintubation\n\n\n\nAtelectasis req bronchoscopy\n\n\n\nARDS\n\n\n\nPE\n\n\n\nVentilation &gt;48 hours after leaving OR\n\n\nGI\nAnastomotic leak (medical rx | stent | surgery)\n\n\n\nDelayed gastric emptying req botox or NG &gt;7d\n\n\n\nC Diff\n\n\nGU\nUrinary Retention\n\n\n\nDischarge with foley catheter\n\n\nH\nDVT req treatment\n\n\n\nReturn to OR\n\n\n\nReturn to ICU\n\n\n\nCommunication\nPlease add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:\nPlease message “GI Surgical Oncology Colorectal LCI CMC” via Haiku 24/7. Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.”",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Progress Notes</span>"
+    ]
+  },
+  {
+    "objectID": "01-signout.html",
+    "href": "01-signout.html",
+    "title": "CMC GI Surgical Oncology",
+    "section": "",
+    "text": "#Signout\nEvening Signout\nThe Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill, Squires, and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.\nWeekend Signout\nThe senior resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>01-signout.html</span>"
+    ]
+  },
+  {
+    "objectID": "01-discharges.html",
+    "href": "01-discharges.html",
+    "title": "6  Discharges",
+    "section": "",
+    "text": "Discharge Prescriptions\nPrescriptions should be ideally be prepared the day prior to anticipated discharge and sent to the patient’s pharmacy. According to North Carolina STOP guidelines, opioid prescriptions for postoperative patients should be for no more than a 7 day supply. At the same time, patients taking narcotics in the hospital should have the same dosages for their outpatient prescription, to avoid patients running out of narcotics between the time of discharge and their first clinic visit.\nNote that metoprolol is available in liquid form in the hospital, but is not available for outpatient prescription\nNote that in many cases narcotics for patients living in South Carolina a prescription from an attending.\nAdditional Appointments\nIf followup appointments in additional to surgical followup are needed, these should be designated on the discharge orders. Particularly:\n\nPrimary Care Physician\nCardiologist (if new cardiac medicines)\nCo-surgeons (Urology, Thoracic Surgery, GYN)\n\nDischarge Summary\nThe discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:\n\n\n\n\n\n\n\nN\nFollowup plan for chronic pain management\n\n\n\nStroke\n\n\nCV\nPostop Arrhythmia? | MI? | CHF?\n\n\n\nIf new cardiac meds: Who is managing medications\n\n\n\nIf afib: CHADS score and anticoagulation plan\n\n\nR\nPneumonia? | ARDS? | TRACH?\n\n\n\nNeed for home oxygen?\n\n\n\nCXR needed at first postop visit?\n\n\nGI\nDelayed gastric emptying? | leak? | ileus?\n\n\n\nTube feed regimen\n\n\n\nDiet at discharge (Low residue | Full liquds | Meds with thickened water |NPO)\n\n\n\nNew stoma (ileostomy | colostomy)\n\n\n\nWound care needs (VAc | Prevena)\n\n\nGU\nUrinary Retention\n\n\n\nDischarge with foley catheter\n\n\nH\nComplications: DVT | PE\n\n\n\nAnticoagulation Plan\n\n\nEndo\nInsulin regimen at DC (dose will be in med rec)\n\n\nID\nAntibiotics at DC\n\n\n\nReturn to ICU\n\n\n\nCommunication\nIt is essential that discharge summaries be sent to the patient’s primary MD and referring physician. Please review the initial consultation note for the names of providers involved in a patient’s care.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Discharges</span>"
     ]
   }
 ]
