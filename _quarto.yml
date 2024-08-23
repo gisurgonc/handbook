@@ -15,7 +15,7 @@ book:
     - 01-discharges.qmd
     - references.qmd
 
-bibliography: bibliography.bib
+bibliography: zotero.bib
 
 format:
   html:
