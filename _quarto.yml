@@ -16,7 +16,7 @@ book:
       - 01-signout.qmd
       - 01-discharges.qmd
       - 01-students.qmd
-      - 01-clinic.qmd
+      - 01-clinic_salo.qmd
     - part: 02-operating_room.qmd
       chapters:
       - 02-colorectal_hill.qmd
