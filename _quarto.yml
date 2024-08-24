@@ -7,12 +7,19 @@ book:
   #date: "8/22/2024"
   chapters:
     - index.qmd
-    - 01-cmc_inpatient.qmd
-    - 01-pv_inpatient.qmd
-    - 01-rounds.qmd
-    - 01-notes.qmd
-    - 01-signout.qmd
-    - 01-discharges.qmd
+    - part: 01-clinical_care.qmd
+      chapters: 
+      - 01-cmc_inpatient.qmd
+      - 01-pv_inpatient.qmd
+      - 01-rounds.qmd
+      - 01-notes.qmd
+      - 01-signout.qmd
+      - 01-discharges.qmd
+      - 01-students.qmd
+      - 01-clinic.qmd
+    - part: 02-operating_room.qmd
+      chapters:
+      - 02-colorectal_hill.qmd
     - references.qmd
 
 bibliography: zotero.bib

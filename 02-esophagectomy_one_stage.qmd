@@ -1,18 +1,8 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-```{r, include=F}
-# Placeholder for clinical evaluation
-# = history and physical
-# Nutritional evaluation
-```
 # Esophagectomy 1 Stage
 
 ## Indications
 
-MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to esophagectomy. The patient is positioned in ‘corkscrew’ position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest. 
+MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to esophagectomy. The patient is positioned in ‘corkscrew’ position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest.
 
 ## Room Prep
 
@@ -28,63 +18,63 @@ Walter 'Long Arm' retractor
 
 Salo Positioning Cart:
 
-- Four black side-rail clamps
-- Four rectangular lateral positioners
-- Yassargil socket
-- Well-leg holder (used as an arm holder)
+-   Four black side-rail clamps
+-   Four rectangular lateral positioners
+-   Yassargil socket
+-   Well-leg holder (used as an arm holder)
 
 Harmonic Scalpel generator box
 
 Critical supplies (chek prior to pt in room)
 
-- Stapler 25mm DSTXL
-- Orvil 25mm
-- Stapler 21mm DSTXL
-- Orvil 21mm
-- Echelon 60mm stapler with 10 gold loads and 2 gray loads
-- Gel Port
+-   Stapler 25mm DSTXL
+-   Orvil 25mm
+-   Stapler 21mm DSTXL
+-   Orvil 21mm
+-   Echelon 60mm stapler with 10 gold loads and 2 gray loads
+-   Gel Port
 
 \newpage
 
 **Anesthesia**
 
-- Dual-lumen ETT tube (taped to left)
-- Arterial line (left arm will be on arm board)
-- Anesthesia may place paraspinal muscle blocks on right side. 
+-   Dual-lumen ETT tube (taped to left)
+-   Arterial line (left arm will be on arm board)
+-   Anesthesia may place paraspinal muscle blocks on right side.
 
 ## Position
 
-Supine on blue foam pad. 
+Supine on blue foam pad.
 
-Mark upper midline with skin marker 
+Mark upper midline with skin marker
 
-Foley catheter (with Criticor temp sensor) 
+Foley catheter (with Criticor temp sensor)
 
-Bovie pad 
+Bovie pad
 
-Lower-body Bair Hugger at level of thighs 
+Lower-body Bair Hugger at level of thighs
 
 Hair clipped from abdomen, right chest, and right axilla.
 
 Pre-existing jejunostomy
 
-- Prep into field
-- Remove any eschar at site
-- Secure to skin inferiorly with 0 silk
+-   Prep into field
+-   Remove any eschar at site
+-   Secure to skin inferiorly with 0 silk
 
-Shoulders are shifted to the right in preparation for ‘corkscrew’ positioning 
+Shoulders are shifted to the right in preparation for ‘corkscrew’ positioning
 
-Lateral positioners positioned with pad extending from greater trochanter inferiorly. 
+Lateral positioners positioned with pad extending from greater trochanter inferiorly.
 
 Velcro strap over thighs and over lateral positioners
 
-Yassargil socket attached to headpiece of bed on left side. 
+Yassargil socket attached to headpiece of bed on left side.
 
 Well-leg holder attached to Yassargil socket and used to support right forearm (which will cross body). Right arm crosses body and is supported on well-leg holder.
 
-Lateral positioner placed posterior to spine and scapula to support right chest, allowing access for thoracoscopy. 
+Lateral positioner placed posterior to spine and scapula to support right chest, allowing access for thoracoscopy.
 
-Arm holder is dropped towards the floor enough that right arm is brought forward. 
+Arm holder is dropped towards the floor enough that right arm is brought forward.
 
 **Prep**
 
@@ -92,7 +82,7 @@ Chloroprep (two sticks) of abdomen, right chest, right axilla. Particular attent
 
 **Drape**
 
-Proximal right arm draped with 1000 (clear adhesive) drape. 
+Proximal right arm draped with 1000 (clear adhesive) drape.
 
 Two blue plastic “U” drapes with center of the “U” on either lateral side with tails forming the perimeter of the field Trauma drape. All of right chest and axilla is kept within the field, as is the lateral aspect of the left upper quadrant. The field does not need to extend inferior to the umbilicus. In general, it is usually possible to keep all of these area in the field without cutting the drape, except in very large patients. Ioban strips (4") aound the periphery of the surgical field after the trauma drape. Laparoscopic cords (gas, light cord, camera) to tower at left shoulder. Suction irrigator brought off field. Laparoscopic LigaSure (2 bars) and Bovie (30/30).
 
@@ -104,8 +94,8 @@ Tumor location and likelihood of division of esophagus from abdomen (two-phase o
 
 Blood:
 
-- Surgeon’s expectation of blood loss
-- Availability of blood (type/screen vs type/cross).
+-   Surgeon’s expectation of blood loss
+-   Availability of blood (type/screen vs type/cross).
 
 *Comorbidities:*
 
@@ -115,8 +105,8 @@ Beta blockage: Note whether patient on home beta blockade and if so, whether hom
 
 Anticipated Intraop Problems:
 
-- Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection
-- Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest Gastric mobilization – Greater Curvature
+-   Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection
+-   Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest Gastric mobilization – Greater Curvature
 
 ## Gastric Mobilization
 
@@ -126,10 +116,9 @@ If feasible, division of gastrocolic omentum starts by delivering transverse col
 
 Colon is returned to abdomen and gastricolic ligament divided going using LigaSure, taking care to avoid the colon and the right gastroepiploic artery. For patients with a bulky omentum, it may be helpful to place an additional port in the left mid-quadrant for the camera to facilitate dissection of omentum off the transverse colon. Stomach is retracted to the patient’s right with the back of the left hand, placing the gastrocolic ligament (and short gastric arteries) on stretch. Left gastroepippoic artery divided with LigaSure near its origin. Short gastric arteries divided with Ligasure close to spleen. As superior aspect of short gastrics is reached, the dissection plane shifts medially to create a tunnel towards the base of the left crus. This places the most superior short gastric vessels on stretch and facilitates their division. Once all short gastric vessels divided, peritoneum tethering fundus to diaphragm is incised, and fundus brushed medially.
 
-
 ### Distal mobilization
 
-Attention is directed to mobilizing the lateral aspect of the duodenum. This can either be accomplished with the camera through a LUQ port and a 45 degree camera or by placing an additional 5mm port in the RLQ. Hook cautery is used to incise the connective tissue lateral and posterior to the duodenum.  The gastrocolic ligament is now dissected distally, taking care to preserve the integrity of the right gastroepiploic vessels. An areolar plane generally exists between the fat pad containing the right gastroepiploic vessels and that containing the transverse mesocolon vessels.
+Attention is directed to mobilizing the lateral aspect of the duodenum. This can either be accomplished with the camera through a LUQ port and a 45 degree camera or by placing an additional 5mm port in the RLQ. Hook cautery is used to incise the connective tissue lateral and posterior to the duodenum. The gastrocolic ligament is now dissected distally, taking care to preserve the integrity of the right gastroepiploic vessels. An areolar plane generally exists between the fat pad containing the right gastroepiploic vessels and that containing the transverse mesocolon vessels.
 
 ### Left gastric artery
 
@@ -143,42 +132,31 @@ The esophagus is now dissected circumferentially at the gastroesophageal junctio
 
 Penrose Drain (Four-Phase only) In a four-phase approach, the esophagus is divided from the chest. In order to facilitate the thoracic dissection, a 1/4″ penrose drain is tied around the distal esophagus and the drain is slid cephalad into the mediastinum. The ‘tails’ of the drain are directed into the right chest so that they can be grasped from the right chest during the thoracic phase and can be used to provide traction on the esophagus
 
-### Entry into right chest 
+### Entry into right chest
 
 The pneumoperitoneum in the abdomen is vented and the gas pressure turned down to 8mmHg in preparation for the thoracic phase. The bed is rotated to the left 20 degrees. A site for entry in to the left chest is selected just posterior to the tip of the scapula. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. Two 12mm ports are placed. The more superior is placed lateral and superior to the nipple. The inferior port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5
 
-Division of Esophagus (Two-Phase)
-In patients with low-lying tumors, it is possible to divide the esophagus above the tumor from the abdominal approach. This evaluation is facilitated by review of the properative endoscopy (and EUS), and the PET scan, particularly the PET obtained prior to neoadjuvant chemoradiation.
+Division of Esophagus (Two-Phase) In patients with low-lying tumors, it is possible to divide the esophagus above the tumor from the abdominal approach. This evaluation is facilitated by review of the properative endoscopy (and EUS), and the PET scan, particularly the PET obtained prior to neoadjuvant chemoradiation.
 
 After dissection of the mediastinum, a Echelon stapler with a 60mm Medium-Thick (Gold) load is inserted through a 12mm port either placed either through the GelPort or by upsizing the most lateral LUQ
 
-Construction of Conduit
-The distal esophagus and stomach is exteriorized through the GelPort. The lesser curvature vessels are divided with the LigaSure 7-9cm cephalad from the pylorus. The stomach is now placed on stretch along the greater curvature. An Echelon Medium-Thick (Gold) stapler is used to construct a 5-6cm wide gastric tube. In constructing the conduit in a patient with a tumor of the GE jnction invading into the cardia, it is important to be certain that the staple line to construct the conduit stays clear of the tumor. Patients with tumors invading the cardia are at risk of a positive distal margin, meaning that microscopic tumor may be left in the wall of the gastric conduit. To make things more complicated, in patients with low-lying esophageal or GE junction tumors, not all of the length of the conduit are needed in order to reach to the level of the esophageal transection. After construction of the anastomosis, the ‘extra’ cephalad portion of the conduit (near the angle of His) are excised as the ‘additional gastric margin.’ In order to distinguish which portions of the conduit staple line which will be used to replace the esophagus and those which will be included in the ‘additional gastric margin’, both sides of the gastric conduit staple line are marked with sutures designated ‘A’, ‘B’, ‘C’, etc proceeding from the Angle of His to the antrum.
+Construction of Conduit The distal esophagus and stomach is exteriorized through the GelPort. The lesser curvature vessels are divided with the LigaSure 7-9cm cephalad from the pylorus. The stomach is now placed on stretch along the greater curvature. An Echelon Medium-Thick (Gold) stapler is used to construct a 5-6cm wide gastric tube. In constructing the conduit in a patient with a tumor of the GE jnction invading into the cardia, it is important to be certain that the staple line to construct the conduit stays clear of the tumor. Patients with tumors invading the cardia are at risk of a positive distal margin, meaning that microscopic tumor may be left in the wall of the gastric conduit. To make things more complicated, in patients with low-lying esophageal or GE junction tumors, not all of the length of the conduit are needed in order to reach to the level of the esophageal transection. After construction of the anastomosis, the ‘extra’ cephalad portion of the conduit (near the angle of His) are excised as the ‘additional gastric margin.’ In order to distinguish which portions of the conduit staple line which will be used to replace the esophagus and those which will be included in the ‘additional gastric margin’, both sides of the gastric conduit staple line are marked with sutures designated ‘A’, ‘B’, ‘C’, etc proceeding from the Angle of His to the antrum.
 
 The distal esophagus and GE junction are now sent for frozen section.
 
-Feeding jejunostomy
-The ligament of Trietz is identified and the jejunum is identified 20cm distal and marked with a directional suture. A site is selected to the left of the handport incision. A 16Fr Cook Introducer Kit is used to pass a 16Ga needle, followed by a J wire, through the left rectus muscle. A skin incision 4mm in length is made adjacent to the J wire. The 16Fr dilator and sheath are now passed through the rectus muscle and the dilator and wire removed. A 14Fr Jejunostomy Tube 0301-14 is selected and the ‘wings’ trimmed off with a scalpel. The jejunostomy tube is passed through the peelaway sheath, which is removed.
+Feeding jejunostomy The ligament of Trietz is identified and the jejunum is identified 20cm distal and marked with a directional suture. A site is selected to the left of the handport incision. A 16Fr Cook Introducer Kit is used to pass a 16Ga needle, followed by a J wire, through the left rectus muscle. A skin incision 4mm in length is made adjacent to the J wire. The 16Fr dilator and sheath are now passed through the rectus muscle and the dilator and wire removed. A 14Fr Jejunostomy Tube 0301-14 is selected and the ‘wings’ trimmed off with a scalpel. The jejunostomy tube is passed through the peelaway sheath, which is removed.
 
 A pursestring suture 1.5cm in diameter is placed on the antimesenteric border of the jejunum. The pursestring is started and ends on the lateral aspect. A second 16Fr Cook Introduced Kit is used to introduce the J wire through the center of the pursestring.
 
-Placement of Drains
-Two (or three) 19Fr full-fluted Blake drains (72230) are placed:
+Placement of Drains Two (or three) 19Fr full-fluted Blake drains (72230) are placed:
 
-JP1: placed into the left pleura through the hiatus. Drain is brought out through the most lateral 5mm port site on the LUQ
-JP2: placed into the right pleura through the hiatus. Drain is brought out through the next most medial 5mm LUQ port site
-JP3: (optional) placed in the abdomen posterior to the left lateral segment of the liver and brought out through the most medial 5mm LUQ port site
-Transposition of Conduit
-The gastric conduit is now placed into the right pleura through the mediastinum, with the assistance of a laparoscopic Babcock and gentle pressure on the greater curvature with the fingers.
+JP1: placed into the left pleura through the hiatus. Drain is brought out through the most lateral 5mm port site on the LUQ JP2: placed into the right pleura through the hiatus. Drain is brought out through the next most medial 5mm LUQ port site JP3: (optional) placed in the abdomen posterior to the left lateral segment of the liver and brought out through the most medial 5mm LUQ port site Transposition of Conduit The gastric conduit is now placed into the right pleura through the mediastinum, with the assistance of a laparoscopic Babcock and gentle pressure on the greater curvature with the fingers.
 
-Entrance into the R chest (Two Phase)
-For two-phase operations, ports are now placed into the right chest, as stated above . In similar fashion, the inferior pulmonary ligament in dissected and the lung reflected anterior.
+Entrance into the R chest (Two Phase) For two-phase operations, ports are now placed into the right chest, as stated above . In similar fashion, the inferior pulmonary ligament in dissected and the lung reflected anterior.
 
-Anastomosis
-The right chest is entered and the right lung reflected anterior with the paddle placed in the superior/anterior port. The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy. The paddle retractor is now moved from the anterior/inferior port to the anterior/superior 12mm port and the lung reflected anterior and inferior.
+Anastomosis The right chest is entered and the right lung reflected anterior with the paddle placed in the superior/anterior port. The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy. The paddle retractor is now moved from the anterior/inferior port to the anterior/superior 12mm port and the lung reflected anterior and inferior.
 
-OrVil
-The OrVil device is now used to place a EEA anvil into the distal esophagus. In general, a 25mm size is selected, unless the patient has particularly small frame, in which case a 21mm size is used. Two stay sutures of 2-0 silk on RB-1 needles are placed in the center of the esophageal staple line 3mm apart. A Harmonic scalpel is used to divide the staple line. The OrVil device is passed through the mouth and is passed through the fenestration in the staple line. The anvil portion of the OrVil is oriented so that the rounded portion is placed against the roof of the mouth. The OrVil is guided into the hypopharynx by pulling on the the tube end of the device. As the anvil approaches the hypopharynx, the jaw is pulled forward to allow passage of the anvil.
+OrVil The OrVil device is now used to place a EEA anvil into the distal esophagus. In general, a 25mm size is selected, unless the patient has particularly small frame, in which case a 21mm size is used. Two stay sutures of 2-0 silk on RB-1 needles are placed in the center of the esophageal staple line 3mm apart. A Harmonic scalpel is used to divide the staple line. The OrVil device is passed through the mouth and is passed through the fenestration in the staple line. The anvil portion of the OrVil is oriented so that the rounded portion is placed against the roof of the mouth. The OrVil is guided into the hypopharynx by pulling on the the tube end of the device. As the anvil approaches the hypopharynx, the jaw is pulled forward to allow passage of the anvil.
 
 The shaft of the anvil is brought through the esophageal staple line, and the tube disconnected from the anvil by cutting the blue sutures.
 
@@ -186,11 +164,8 @@ The superior end of the conduit is opened along the staple line and the DST XL s
 
 The anastomosis is completed by firing a Echelon Medium-Thick (Gold) linear) across the conduit cephalad to the anastomosis. The excess conduit is sent for pathologic exam as ‘additional gastric margin.’
 
-NG Tube
-A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.
+NG Tube A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.
 
-Chest Tube
-A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.
+Chest Tube A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.
 
-Closure
-The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.
+Closure The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.
