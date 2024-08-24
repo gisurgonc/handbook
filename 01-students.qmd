@@ -26,9 +26,9 @@ Exams:
 
 Holidays:
 
--   Must be excused from responsibilities from 5pm on the day prior to the holiday on the academic calendar through the holiday[^1]
+-   Must be excused from responsibilities from 5pm on the day prior to the holiday on the academic calendar through the holiday[^01-students-1]
 
-[^1]: From Faculty as Teacher 2023
+[^01-students-1]: From Faculty as Teacher 2023
 
 ## Procedures/Diseases
 
@@ -60,11 +60,11 @@ Holidays:
 
 [Subcuticular suturing video](https://www.youtube.com/watch?v=M3vISruyFkI)
 
-## Recommended Resources:[^2]
+## Recommended Resources:[^01-students-2]
 
-[^2]: from Spring 2023 Surgery Syllabus
+[^01-students-2]: from Spring 2023 Surgery Syllabus
 
--   Essentials of general surgery, 6th edition, [edited by] Peter F. Lawrence
+-   Essentials of general surgery, 6th edition, \[edited by\] Peter F. Lawrence
 -   Surgery: A Case Based Clinical Review (Christian de Virgilio)
 -   Kaplan Surgery Notes
 -   NMS Surgery CaseBook

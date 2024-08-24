@@ -2,7 +2,7 @@
 
 ## Beta blockade and anti-hypertensives
 
-Atrial fibrillation occurs in the postoperative period in 20% of patients. For this reason, beta blockers are used to atrial fibrillation prevention.  In the ICU, metoprolol is administered intravenously and is subsequently changed to enteral administration.  Because metoprolol also lowers blood pressure, patients on home anti-hypertensives frequently have them held during their hospital stay (and after discharge).  At the first postoperative visit, patients who were not treated with beta blockade preoperatively are generally switched from metoprolol back to their home anti-hypertensives.
+Atrial fibrillation occurs in the postoperative period in 20% of patients. For this reason, beta blockers are used to atrial fibrillation prevention. In the ICU, metoprolol is administered intravenously and is subsequently changed to enteral administration. Because metoprolol also lowers blood pressure, patients on home anti-hypertensives frequently have them held during their hospital stay (and after discharge). At the first postoperative visit, patients who were not treated with beta blockade preoperatively are generally switched from metoprolol back to their home anti-hypertensives.
 
 ## Weaning Tube Feeds in Diabetics
 

@@ -6,7 +6,7 @@ Prescriptions should be ideally be prepared the day prior to anticipated dischar
 
 Note that metoprolol is available in liquid form in the hospital, but is not available for outpatient prescription
 
-Note that in many cases narcotics for patients living in South Carolina a prescription from an attending. 
+Note that in many cases narcotics for patients living in South Carolina a prescription from an attending.
 
 **Additional Appointments**
 
@@ -21,7 +21,7 @@ If followup appointments in additional to surgical followup are needed, these sh
 The discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:
 
 |      |                                                                                   |
-|------------|------------------------------------------------------------|
+|------|-----------------------------------------------------------------------------------|
 | N    | Followup plan for chronic pain management                                         |
 |      | Stroke                                                                            |
 | CV   | Postop Arrhythmia? \| MI? \| CHF?                                                 |

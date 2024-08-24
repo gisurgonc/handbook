@@ -1,9 +1,5 @@
-# Handbook {.unnumbered}
+# Introduction {.unnumbered}
 
-Not rendered locally
+This handbook is designed for education and guidance of surgical trainees at Carolinas Medical Center.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+Please forward corrections or suggestions to Jonathan.Salo\@atriuhealth.org

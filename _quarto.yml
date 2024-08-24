@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "CMC GI Surgical Oncology"
+  title: "CMC GI Surgical Oncology Handbook"
   author: "Jonathan Salo MD"
   #date: "8/22/2024"
   chapters:
@@ -20,8 +20,8 @@ bibliography: zotero.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+#  pdf:
+#    documentclass: scrreprt
 
 editor: visual
 
