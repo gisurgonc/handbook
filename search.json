@@ -2,11 +2,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CMC GI Surgical Oncology",
+    "title": "CMC GI Surgical Oncology Handbook",
     "section": "",
-    "text": "Handbook\nNot rendered locally\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "Introduction\nThis handbook is designed for education and guidance of surgical trainees at Carolinas Medical Center.\nPlease forward corrections or suggestions to Jonathan.Salo@atriuhealth.org",
     "crumbs": [
-      "Handbook"
+      "Introduction"
     ]
   },
   {
@@ -152,11 +152,11 @@
   {
     "objectID": "01-signout.html",
     "href": "01-signout.html",
-    "title": "CMC GI Surgical Oncology",
+    "title": "5  Signout",
     "section": "",
-    "text": "#Signout\nEvening Signout\nThe Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill, Squires, and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.\nWeekend Signout\nThe senior resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.",
+    "text": "Evening Signout\nThe Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill, Squires, and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.\nWeekend Signout\nThe senior resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>01-signout.html</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Signout</span>"
     ]
   },
   {
