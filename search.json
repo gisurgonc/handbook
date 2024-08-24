@@ -16,7 +16,7 @@
     "section": "",
     "text": "1.1 Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -27,7 +27,7 @@
     "section": "1.2 Rounds",
     "text": "1.2 Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -38,7 +38,7 @@
     "section": "1.3 Resident Epic teams:",
     "text": "1.3 Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -49,7 +49,7 @@
     "section": "1.4 Consults",
     "text": "1.4 Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -60,7 +60,7 @@
     "section": "1.5 Postop Clinic Appt",
     "text": "1.5 Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -71,7 +71,7 @@
     "section": "1.6 Conferences",
     "text": "1.6 Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -82,7 +82,7 @@
     "section": "1.7 Medicine Consults",
     "text": "1.7 Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -93,7 +93,7 @@
     "section": "",
     "text": "2.1 Resident Epic teams:\nResidents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -104,7 +104,7 @@
     "section": "",
     "text": "Colorectal Surgery Pineville",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -115,7 +115,7 @@
     "section": "2.2 Consults",
     "text": "2.2 Consults\nEstablished patients and directed should be discussed with the attending surgeon.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -126,7 +126,7 @@
     "section": "2.3 Postop Clinic Appts",
     "text": "2.3 Postop Clinic Appts\nPostoperative patients are generally seen for a Transition of Care visit at about two weeks.\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nHale Mock\nKamisha Wilson\nMadeline Georgino\n\nPlease include the following information in the Canopy Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appointment\nNeed for Wound Ostomy RN appointment at same time (essential for new stomas)\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\n\n\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -137,7 +137,7 @@
     "section": "2.4 Conferences",
     "text": "2.4 Conferences\n\nGI Tumor Planning Conf Monday 7-8am (Teams)\nResident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conference Friday 7-8am (Teams)",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -148,7 +148,7 @@
     "section": "",
     "text": "The following format will help speed communication of data on rounds.\nID: One line description: “Mr Glenn: PostOp day 3 after low anterior resection”\n24 hour events: Summary of important events in prior 24 hrs\nData Communication (organized by system)\nNeuro: Pain control, level of alertness, psychotropic meds, sedatives, and pain meds.\nCardioVascular: Vital signs (normal OR cite the range of systolic blood pressures and range of heart rate). Heart rhythm. Cardiac meds. Most recent recommendations of cardiology consult.\nRespiratory: Pulmonary exam, oxygen saturation, supplied oxygen, ventilator setting. Results of CXR.\nGI: Diet, bowel function, NG output. Drain outputs can often be summarized unless they are unusually high or low (and ready to be removed. New finding of bile in any abdominal drain needs special emphasis. GI meds (eg protonix, Entereg). Tube feed formula, rate and duration (continuous or nocturnal). Status of C Diff tests. Results of JP drain amylase levels (gastroesophageal patients). Results of JP triglycerides or creatinine, if sent,\nRenal: Urine output in 24 hours AND in most recent 8 hour shift. Presence (or absence) of Foley catheter and plans for removal, if present. Most recent creatinine. If diuretics administered, dosage and amount of urine output during the shift when it was administered. Most recent potassium in any patient receiving (or about to receive) furosemide (Lasix). Results of Mg and Phos if abnormal.\nHeme: Hemoglobin, platelets, DVT prophylaxis. PLEASE CHECK THE MAR SUMMARY DAILY to be certain that the ordered DVT prophylaxis has been given.\nID: WBC, Tmax in past 24 hours, culture results.\nEndo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.\nAssessment/Plan (organized by Problem List):\nEach of the patients problems are addressed with an assessment and plan. Pre-existing medical problems and postoperative complications need to be addressed in the plan. An assessment and plan for each organ system is usually not necessary, except for the most complex patients. Patients active medical problems should be documented on the Patient List for rounds. This helps to remind the team about medical problems which the team is managing:\n\nChronic anticoagulation\nDiabetes\nMalnutrition\n\nThis problem list-oriented approach will also be helpful to writing problem-oriented notes.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -159,7 +159,7 @@
     "section": "",
     "text": "Progress notes need to reflect the problems which are being managed by the team. The current medical problems being managed by the team should be added to the problem list for that hospitalization. This will make it easier to generate notes which are oriented to the patient’s problem list.\nIn addition, the progress notes provide a narrative which can later be used to generate the discharge summary (particularly for complex patients). Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.\nNotes should be forwarded to the patient’s attending (unless out of town)\nEsophagectomy Events to be Documented:\n\nExtubation date/time\nNG Removal date\nChest tube removal date\nMBS date(s) and results (aspiration | penetration)\nICU DC orders written\nICU discharge (transfer to ward)\n\nEsophagectomy Complications to be Documented:\n\n\n\n\n\n\n\nN\nDelirium\n\n\n\nStroke\n\n\nCV\nNew arrhythmia req Rx\n\n\n\nMI\n\n\nR\nPneumonia (3 of fever | WBC | infiltrate | abx | sputum cx)\n\n\n\nEffusion req drainage\n\n\n\nReintubation\n\n\n\nAtelectasis req bronchoscopy\n\n\n\nARDS\n\n\n\nPE\n\n\n\nVentilation &gt;48 hours after leaving OR\n\n\nGI\nAnastomotic leak (medical rx | stent | surgery)\n\n\n\nDelayed gastric emptying req botox or NG &gt;7d\n\n\n\nC Diff\n\n\nGU\nUrinary Retention\n\n\n\nDischarge with foley catheter\n\n\nH\nDVT req treatment\n\n\n\nReturn to OR\n\n\n\nReturn to ICU\n\n\n\nCommunication\nPlease add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:\nPlease message “GI Surgical Oncology Colorectal LCI CMC” via Haiku 24/7. Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.”",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Progress Notes</span>"
     ]
   },
@@ -170,7 +170,7 @@
     "section": "",
     "text": "Evening Signout\nThe Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill, Squires, and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.\nWeekend Signout\nThe senior resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Signout</span>"
     ]
   },
@@ -181,7 +181,7 @@
     "section": "",
     "text": "Discharge Prescriptions\nPrescriptions should be ideally be prepared the day prior to anticipated discharge and sent to the patient’s pharmacy. According to North Carolina STOP guidelines, opioid prescriptions for postoperative patients should be for no more than a 7 day supply. At the same time, patients taking narcotics in the hospital should have the same dosages for their outpatient prescription, to avoid patients running out of narcotics between the time of discharge and their first clinic visit.\nNote that metoprolol is available in liquid form in the hospital, but is not available for outpatient prescription\nNote that in many cases narcotics for patients living in South Carolina a prescription from an attending.\nAdditional Appointments\nIf followup appointments in additional to surgical followup are needed, these should be designated on the discharge orders. Particularly:\n\nPrimary Care Physician\nCardiologist (if new cardiac medicines)\nCo-surgeons (Urology, Thoracic Surgery, GYN)\n\nDischarge Summary\nThe discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:\n\n\n\n\n\n\n\nN\nFollowup plan for chronic pain management\n\n\n\nStroke\n\n\nCV\nPostop Arrhythmia? | MI? | CHF?\n\n\n\nIf new cardiac meds: Who is managing medications\n\n\n\nIf afib: CHADS score and anticoagulation plan\n\n\nR\nPneumonia? | ARDS? | TRACH?\n\n\n\nNeed for home oxygen?\n\n\n\nCXR needed at first postop visit?\n\n\nGI\nDelayed gastric emptying? | leak? | ileus?\n\n\n\nTube feed regimen\n\n\n\nDiet at discharge (Low residue | Full liquds | Meds with thickened water |NPO)\n\n\n\nNew stoma (ileostomy | colostomy)\n\n\n\nWound care needs (VAc | Prevena)\n\n\nGU\nUrinary Retention\n\n\n\nDischarge with foley catheter\n\n\nH\nComplications: DVT | PE\n\n\n\nAnticoagulation Plan\n\n\nEndo\nInsulin regimen at DC (dose will be in med rec)\n\n\nID\nAntibiotics at DC\n\n\n\nReturn to ICU\n\n\n\nCommunication\nIt is essential that discharge summaries be sent to the patient’s primary MD and referring physician. Please review the initial consultation note for the names of providers involved in a patient’s care.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Discharges</span>"
     ]
   },
@@ -192,7 +192,7 @@
     "section": "",
     "text": "7.1 Medical Student Duty Hours\nHours:\nBreaks: Students will\nExams:\nHolidays:",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -203,7 +203,7 @@
     "section": "",
     "text": "Students will not work longer hours than residents on the same service\nStudents will not work more than 80 hours/week averaged over 4 weeks.\n\n\n\nhave 4 24-hour periods free from assigned activities over a 4 week period\nnot work longer than 16 continuous hoours\nhave a 8 hour break from clinical/academic hours following a 16-hour shift\ncan only work a maximum of 5 sequential overnight shifts\n\n\n\nMust be excused no later than midnight prior to the day of the shift or final exam\n\n\n\nMust be excused from responsibilities from 5pm on the day prior to the holiday on the academic calendar through the holiday1",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -214,7 +214,7 @@
     "section": "7.2 Procedures/Diseases",
     "text": "7.2 Procedures/Diseases\n\nWound Care (VAC/dressing change, identify infection)\nSuture/Staple removal\nSuture Skin\nFoley catheter insertion (adult)\nInsert nasogastric tube (or OG in OR)\nMake an incision, any site\nParticipate in intubation, bag mask ventilation in OR\nXray 3-way of abdomen (interpret)\nXray chest (interpret)\nAssist with insertion of chest tube or pigtail",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -225,7 +225,7 @@
     "section": "7.3 Ask a Resident (5min discussion)",
     "text": "7.3 Ask a Resident (5min discussion)\n\nAbdominal Pain (RUQ)\nAcute Limb Ischemia (vascular disease)\nDiverticulitis\nNeoplastic process (Breast Mass, GI Mass, soft tissue)\nAbdominal wall mass or hernia\nABC’s of trauma, Primary/Secondary survey\nIleus, small and large bowel obstruction\nEvaluate acute surgical abdomen (participate)\nPost-op fever in surgical inpatient (discuss and participate)\nPost-op pain management (discuss and participate)",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -236,7 +236,7 @@
     "section": "7.4 Medical Student Resources",
     "text": "7.4 Medical Student Resources\nSubcuticular suturing video",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -247,7 +247,7 @@
     "section": "7.5 Recommended Resources:2",
     "text": "7.5 Recommended Resources:2\n\nEssentials of general surgery, 6th edition, [edited by] Peter F. Lawrence\nSurgery: A Case Based Clinical Review (Christian de Virgilio)\nKaplan Surgery Notes\nNMS Surgery CaseBook\nSurgical Recall (Lorne H. Blackbourne)\nUWorld QBank\nAquifer / Wise-MD\nOnlineMedEd",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -258,7 +258,7 @@
     "section": "7.6 SHELF exam",
     "text": "7.6 SHELF exam\nSHELF exam topic areas",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -269,7 +269,7 @@
     "section": "7.7 Entrustable Professional Activities",
     "text": "7.7 Entrustable Professional Activities\n\nGather a history and perform a physical examination\nPrioritize a differential diagnosis following a clinical encounter\nRecommend and interpret common diagnostic and screening tests\nEnter and discuss orders and prescriptions\nDocument a clinical encounter in the patient record\nProvide an oral presentation of a clinical encounter\nForm clinical questions and retrieve evidence to advance patient care\nGive or receive a patient handover to transition care responsibility\nCollaborate as a member of an interprofessional team\nRecognize a patient requiring urgent or emergent care and initiate evaluation and management\nObtain informed consent for tests and/or procedures\nPerform general procedures of a physician\nIdentify system failures and contribute to a culture of safety and improvement",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -280,7 +280,7 @@
     "section": "",
     "text": "From Faculty as Teacher 2023↩︎\nfrom Spring 2023 Surgery Syllabus↩︎",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
     ]
   },
@@ -291,7 +291,7 @@
     "section": "",
     "text": "8.1 Beta blockade and anti-hypertensives\nAtrial fibrillation occurs in the postoperative period in 20% of patients. For this reason, beta blockers are used to atrial fibrillation prevention. In the ICU, metoprolol is administered intravenously and is subsequently changed to enteral administration. Because metoprolol also lowers blood pressure, patients on home anti-hypertensives frequently have them held during their hospital stay (and after discharge). At the first postoperative visit, patients who were not treated with beta blockade preoperatively are generally switched from metoprolol back to their home anti-hypertensives.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Postop Care after Esophagectomy</span>"
     ]
   },
@@ -302,7 +302,7 @@
     "section": "8.2 Weaning Tube Feeds in Diabetics",
     "text": "8.2 Weaning Tube Feeds in Diabetics\nAs outpatients begin eating more orally, their tube feeds are reduced.\nWeaning from 5 cans to 4 cans: Easiest method is to maintain the same schedule (16 hours) and reduce insulin dosage by 20%. For instance, the above patient who is on 5 cans at 75mL/hour x 16 hours is receiving 16N + 8R at start of tube feeds and 6 hours later. This patient could be weaned by reducing rate form 75mL/hour x 16 hours to 60mL/hour x 16 hours and reducing insulin to 12N + 6R at the start of tube feeds AND another dose of 12N + 6R after 6 hours.\nWeaning from 4 cans to 3 cans: One option is to decrease the duration of tube feeds from 16 hours to 12 hours, while maintaining rate of 60mL/hour. In this case, the insulin dosage could be kept the same at the start of tube feeds, BUT the dose 6 hours after the start of tube feeds could be omitted.\nOnce patients are on 3 cans per night, further weaning can be accomplished by skipping tube feeds (and insulin) every other night in a “tube feed holiday”. This allows an evening of interrupted sleep and can tend to increase the appetite the morning after tube feeds are held.",
     "crumbs": [
-      "CMC Inpatient",
+      "Clinical Care",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Postop Care after Esophagectomy</span>"
     ]
   },
@@ -313,7 +313,7 @@
     "section": "",
     "text": "9.1 Preop\nADULT SURG Colorectal ERAS MPP Hill This is what has all of the main ERAS components. Tylenol, gabapentin, Decadron, Alvimopan and heparin are all given in pre-op holding\nADULT STANDING Antimicrobial colorectal In general, I will give Ancef to patients with almost all patients with allergies to PCN. They have to remember the “severe” reaction. If it is a severe reaction, please use the second line antibiotics listed in the power plan.\nType and Screen are not typically needed for colectomy. They will have an antibody screen from office. If antibodies present, then d/w attending",
     "crumbs": [
-      "CMC Inpatient",
+      "Operating Room",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Colorectal Cases - Hill/Squires</span>"
     ]
   },
@@ -324,148 +324,96 @@
     "section": "9.2 Intraop",
     "text": "9.2 Intraop\nPositioning: Attending will typically position patients personally\nRight sided=supine; Left sided=lithotomy; All laparoscopic colon cases will have their arms tucked with a chest tape strap.\nNG/OG tubes: usually not needed, unless there is gastric distension. Patients receive multiple oral medicatinos in preop.\nReview anesthesia fluid management during time out. 2L max volume, urine output not an accurate indicator.",
     "crumbs": [
-      "CMC Inpatient",
+      "Operating Room",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Colorectal Cases - Hill/Squires</span>"
     ]
   },
   {
-    "objectID": "01-clinical_care.html",
-    "href": "01-clinical_care.html",
-    "title": "CMC Inpatient",
+    "objectID": "02-cv_port_ij.html",
+    "href": "02-cv_port_ij.html",
+    "title": "10  CV Port (IJ)",
     "section": "",
-    "text": "Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
+    "text": "Room Prep\n\nSlider bed (Skytron 3600B) with head section\nC-Arm\n\nRadiology technician alerted to need for C-Arm\nWill need lead and thyroid shields for everyone in room\n\nUltrasound with hockey-stick probe near patient’s RIGHT SHOULDER\n\nInstruments - Minor instrument pan\nDisposables/Meds\n\nConfirm choice of port with surgeon. Usual options\n\nBard PowerPort VUE with 8Fr attachable catheter (1708062)\nBard PowerPort slim Implanted port (for patients with low BMI)\n\nHeparin 5mL of 1000U/ml labeled as “1000 U/ml”\nHeparin 5mL of 1000U/ml + 45mL saline labeled as “100 U/ml”\nLocal\nIf general anesthesia: Marcaine 0.5% with epinephrine\nIf MAC: Xylocains 1% with epinephrine\n1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total\nSuture\n\n3-0 Prolene RB-1 double-arm\n3-0 Vicryl SH\n4-0 Monocryl PS2\n\n\nPosition\n\nSupine with left arm tucked, right arm on armboard at side.\n\nRight arm on armboard in case needed by anesthetist\nNO shoulder roll\n\nFoley catheter: usually NOT required – check with surgeon\nLower body Bair Hugger from abdomen to feet with ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs.\n\nPrep\nChloroprep: RIGHT chest, neck to chin and earlobe, shoulder to include deltopectoral groove.\nDrape\n1000 plastic drapes outline the sterile field for the port. The skin is stretched to avoid a gap between drape and skin. Allow access to the right sternocleidomastoid, right deltopectoral groove, and sternal notch. Blue paper drapes on top of 1000 drapes Transverse drape reversed head-to-foot. Ioban around edges of port field. Skin over SCM is left without Ioban to facilitate ultrasound\nPreop evaluation\n\nAllergies\nBlood thinners or anti-platelet agents\nHx of prior central lines or ports\nHistory of neck surgery\n\nOperation\nReverse Trendelenburg\nPort pocket is constructed 1cm below and parallel to clavicle 3cm long. It is essential that there is no bleeding in the pocket (to avoid a port pocket hematoma).\nTrendelenburg\nUltrasound set up so that the lateral neck appears on the right side of the screen (as if looking towards the feet)\nRight internal jugular vein is identified and its course cephalad-caudad marked on the skin.\nFinder needle (22Ga) OR micropuncture kit passed into IJ. The needle should enter the vein directly beneath the ultrasound probe.\nSkin anesthetized and transverse 6mm counter-incision made at needle entry site\nRespiration held by anesthesia\n16Ga needle passed into IJ under ultrasound. It is essential that the vein is scanned up and down by rolling the the probe to visualize the tip of the needle as it passes inferior.\nJ Wire passed through 16Ga needle and needle withdrawn\nAnesthesia resumes respirations\nUltrasound used to confirm presence of wire within the vein by scanning up and down.\nLevel bed\nFluoroscopy used to confirm position of wire. Dilator and sheath inserted under fluoroscopic visualization (‘live’). C-arm backed away off field.\nTunneler connected to tubing on the end with small numbers. Port collected to tubing on the opposite end. Tubing must come to rest 1mm from the body of the port. Clear plastic collar is pushed over the tubing and the edge must be flush with the body of the port. Tunneler bent into a curve to avoid injury to the carotid artery.\nCatheter tunneled from port pocket to counter-incision over SCM. The tunneler path describes a gentle arc to avoid kinking the catheter. The port is moved to the top of the port pocket by traction on the catheter. Tonsil clamp placed at 25cm and fluoroscopy used to evaluate the length of the catheter, which is trimmed with a heavy scissors.\nCatheter placed through dilator into central circulation. Peel-away sheath split and removed. Port accessed with straight Huber needle with 100U/ml heparinized saline. Blood is withdrawn into port. Needle is left in the port and the syringe detached.\nC-arm is returned to the field to confirm catheter placement. It may be necessary to ‘orbit’ the C-arm if the catheter overlies the spine.\nSyringe with concentrated flush (1000U/ml) is attached to the needle and the port flushed (without aspiration of blood). Syringe and needle are removed.\nPort sutured to the underlying pectoralis fascia with 2 sutures of 3-0 Prolene, one forehand and one backhand. Sutures are tied and cut.\nThe port pocket irrigated and the incision closed with two layers of subcutaneous 3-0 Vicryl followed by subcuticular 4-0 Monocryl. The skin is dressed with Dermabond.\nPostop Orders\nCXR in recovery to confirm central line placement",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CV Port (IJ)</span>"
     ]
   },
   {
-    "objectID": "01-clinical_care.html#rounds",
-    "href": "01-clinical_care.html#rounds",
-    "title": "CMC Inpatient",
-    "section": "Rounds",
-    "text": "Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
-    "crumbs": [
-      "CMC Inpatient"
-    ]
-  },
-  {
-    "objectID": "01-clinical_care.html#resident-epic-teams",
-    "href": "01-clinical_care.html#resident-epic-teams",
-    "title": "CMC Inpatient",
-    "section": "Resident Epic teams:",
-    "text": "Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
-    "crumbs": [
-      "CMC Inpatient"
-    ]
-  },
-  {
-    "objectID": "01-clinical_care.html#consults",
-    "href": "01-clinical_care.html#consults",
-    "title": "CMC Inpatient",
-    "section": "Consults",
-    "text": "Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
-    "crumbs": [
-      "CMC Inpatient"
-    ]
-  },
-  {
-    "objectID": "01-clinical_care.html#postop-clinic-appt",
-    "href": "01-clinical_care.html#postop-clinic-appt",
-    "title": "CMC Inpatient",
-    "section": "Postop Clinic Appt",
-    "text": "Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
-    "crumbs": [
-      "CMC Inpatient"
-    ]
-  },
-  {
-    "objectID": "01-clinical_care.html#conferences",
-    "href": "01-clinical_care.html#conferences",
-    "title": "CMC Inpatient",
-    "section": "Conferences",
-    "text": "Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
-    "crumbs": [
-      "CMC Inpatient"
-    ]
-  },
-  {
-    "objectID": "01-clinical_care.html#medicine-consults",
-    "href": "01-clinical_care.html#medicine-consults",
-    "title": "CMC Inpatient",
-    "section": "Medicine Consults",
-    "text": "Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
-    "crumbs": [
-      "CMC Inpatient"
-    ]
-  },
-  {
-    "objectID": "02-operating_room.html",
-    "href": "02-operating_room.html",
-    "title": "CMC Inpatient",
+    "objectID": "02-lap_jejunostomy.html",
+    "href": "02-lap_jejunostomy.html",
+    "title": "11  Lap Jejunostomy",
     "section": "",
-    "text": "Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
+    "text": "Room Prep\n\nEGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)\nIf central venous port is placed at the same time:\nSlider bed (Skytron 3600B) with head section\nRadiology technician alerted to need for C-Arm\nBK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER\n\nInstruments\n\n5mm 30 degree scope AND 5mm 0 degree scope\nSRI laparoscopic Pan\nSalo laparoscopic instruments\n\nDisposables/Meds\n\nVeress needle (with 10mL syringe and saline)\n5mm Z-thread optical port (3 on table, 2 more in room)\nTransverse drape AND laparoscopy drape\nConfirm choice of port with surgeon. Usual options\n\nBard PowerPort 8Fr xx8062\nBard PowerPort 8Fr xx8000 (low profile)\n\nHeparinized saline: 100U/ml (dilute) and 1000U/ml (concentrated)\n1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total\nMicropuncture kit available/not open (from Anesthesia)\nJejunostomy tube: MIC 0301-14\nSilk 2-0 on RB-1 needle (on Surgical Oncology suture cart)\n\nPosition\n\nSupine with left arm tucked, right arm on armboard at side.\nFoley catheter: Usually required – check with surgeon\nLower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.\n\nPrep\nChloroprep (two sticks) of abdomen (need to keep pubis in field, as well as right anterior superior iliac spine), both costal margins.\nIf port: RIGHT chest, neck to chin and earlobe, shoulder to include deltopectoral groove\nDrape\nIf central venous port: Perimeter of field draped with 1000 (clear adhesive) drapes. Four 1000 drapes around port site:\n\nMedial border: From Angle of Louis superiorly along midline to chin.\nSuperior border: Inferior to jaw (to allow access to right internal jugular vein and SCM)\nLaterally: From inferior to ear down to right shoulder\nInferior: From lateral shoulder medially to Angle of Louis\n\nAbdomen: Two 1000 drapes used inferiorly keeping pubis and right anterior inferior iliac spine in field. This is critical as the far inferior/lateral RLQ needs to be in the field for optimal port placement.\nSix Blue Paper Drapes around perimeter of field (on top of 1000 drapes)\nIf central venous port: Transverse sheet TURNED HEAD-TO-FOOT turned at an angle to keep deltopectoral groove and SCM within the field\nLaparoscopy drape skewed to inferior and right to keep pubis and right ASIS in the field.\nTurn on Bair Hugger only AFTER drapes in place\nIndications\nLaparoscopic jejunostomy is used for enteral nutrition in patients prior to planned (or possible) esophagectomy or gastrectomy or those for whom the stomach is otherwise not available (ie after esophagectomy or gastrectomy). Patients with metastatic esophageal cancer who need enteral access are generally treated with a gastrostomy, which does not require feeding with a pump\nPreop (Resident) Preop orderset: search for “Jejunostomy”\nReview Clinical Information (Resident) Review staging scans (especially PET scan) to identify suspicious areas on imaging which need to be investigated at the time of laparoscopy Outpatient anticoagulation use (warfarin, Xaralto, aspirin, Plavix) Review dietitian’s recommendations (how many cans of feeding per day?) If patient is scheduled for central venous port Confirm that a port has not already been placed Prior history of central venous lines? Confirm location of port placement with surgeon (left vs right)\nOperation\nIf a central venous port is placed, the port is performed first. See IJ Port\nAbdominal access is obtained in one of two ways:\nInfraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port (Applied Medical Kii Fios First Entry Z-Thread Trocar) Veress needle inserted in LEFT upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical Z-Thread port. 5mm port in right upper quadrant, 5mm port in RLQ just lateral to rectus, 5mm camera port between RUQ and RLQ ports\nThe transverse colon is now elevated (using the umbilical port, if used) and the ligament of Treitz is identified. The proximal bowel is arranged in a “C” configuration to confirm the proximal and distal ends of bowel.\nA site for placement of the jejunostomy is selected on the skin, left lateral and just superior to the umbilicus. A site is selected on the bowel in the most proximal site on the jejunostomy selected which would allow for placement of the jejunostomy without tension, but at least 20cm from ligament of Treitz.\nThe proximal jejunum is sutured to the anterior abdominal wall with 2-0 silk. This is usually done with a 9″ suture which is introduced into the abdomen with a needle driver “Korean Style” or “Paraguayan Style.” Two cm distal to this suture, a diamond of sutures is placed around the proposed tube site, and one suture placed distal to avoid torsion. The final arrangement of sutures is one proximal and one distal and 4-6 sutures around the tube. All sutures were marked with hemostatic clips to facilitate replacement of the tube via fluoroscopy should the tube become dislodged.\nUsing Seldinger technique, a 16Fr Cook catheter introducer kit is placed within the jejunum.\nA MIC 14Fr jejunostomy tube (0301-14) with the tabs trimmed with a scalpel, is inserted through the sheath and positioned in the jejunum. The tube was secured with a suture of 0 silk.\nIf a balloon tube is used, an 18Fr Cook dilater and sheath is used, followed by a MIC 14Fr jejunustomy tube (0200-14) and the balloon inflated with 7mL of sterile WATER.\nThe tube is secured with 0 silk and dressed with a BioPatch and a Tagederm dressing.\nThe abdomen is desufflated and the port sites closed with 4-0 Monocryl, followed by dermabond.\nAfter dressings are applied, a Lopez valve is attached with the long Christmas-tree end placed into the jejunostomy tube.\nEndoscopy The scope is set up:\nSuction and aspiration valves inserted and working Suction tubing attached Biopsy valve attached and not leaking Cart set up for recording by powering on the Stryker SDC digital capture box A bite block is used and the scope lubricated. A neonatal scope may be necessary in patients with a tight stricture. Important findings to record:\nLevel in cm from the incisors, of the most proximal area of Barrett’s esophagus. Level in cm from the incisors of the GE junction Appearance of the GE junction on retroflexed view. Extent of invasion of the tumor into the cardia or fundus. The scope is withdrawn and the hypopharynx suctioned. The liquid from the ‘First Step’ disinfectant is suctioned through the scope, followed by water.",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lap Jejunostomy</span>"
     ]
   },
   {
-    "objectID": "02-operating_room.html#rounds",
-    "href": "02-operating_room.html#rounds",
-    "title": "CMC Inpatient",
-    "section": "Rounds",
-    "text": "Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
+    "objectID": "02-lap_gastrostomy.html",
+    "href": "02-lap_gastrostomy.html",
+    "title": "12  Lap Gastrostomy",
+    "section": "",
+    "text": "Room Prep\n\nEGD cart near patient’s LEFT SHOULDER (with NEONATAL EGD scope)\nIf central venous port is placed at the same time:\n\nSlider bed (Skytron 3600B) with head section\nRadiology technician alerted to need for C-Arm\nBK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER\n\n\nInstruments\n\n5mm 30 degree scope AND 5mm 0 degree scope\nSRI laparoscopic Pan (available)\n\nDisposables/Meds\n\nVeress needle (with 10mL syringe and saline)\n5mm Z-thread optical port (3 more in room)\nTransverse drape AND laparoscopy drape\nConfirm choice of port with surgeon. Usual options\n\nBard PowerPort 8Fr xx8062\nBard PowerPort 8Fr xx8000 (low profile)\n\nHeparinized saline: 100U/ml (dilute) and 1000U/ml (concentrated)\n1000 drape x4 AND blue plastic adhesive drapes 4 packs of 2 each = 8 total\nMicropuncture kit available/not open (from Anesthesia)\n20Fr Laparoscopic gastrostomy kit in room/not open\n16Fr MIC gastrostomy tube in room/not open\nGastrostomy 20Fr Pull PEG (in vending machine)\nGI Anchors (“T-fasteners”) in room/not open\n\nEndoscope Setup – Neonatal EGD scope\n\nValves attached and working (suction/aspiration/biopsy cap)\nSuction tubing attached\nConnect water bottle to left-hand port\nGauze sponges, lubricant, plastic “tray” from gauze filled with water\nYellow (small) bite block\n“First step” sanitizer\n\nAnesthesia\n\nET Tube taped to left. Head turned to the left on donut\nNo EKG electrodes on anterior right chest\n\nPosition\n\nSupine with left arm tucked, right arm on armboard at side.\nFoley catheter: usually NOT required – check with surgeon\nLower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.\n\nPrep\nChloroprep (two sticks) of abdomen (need to keep pubis in field, as well as right anterior superior iliac spine), both costal margins.\nIf port: RIGHT chest, neck to chin and earlobe, shoulder to include deltopectoral groove\nIndications\nLaparoscopic gastrostomy is used in patients with esophageal obstruction . Gastrostomy feedings are much easier than jejunostomy, as they can be administered via syringe or gravity bag. By contrast, jejunostomy feedings require administration via pump. Gastrostomy is usually done as an outpatient unless there are concerns for refeeding.\nReview Clinical Information (Resident)\nReview staging scans (especially PET scan) to identify suspicious areas on imaging which need to be investigated at the time of laparoscopy Outpatient anticoagulation use (warfarin, Xaralto, aspirin, Plavix) Review dietitian’s recommendations (how many cartons per day?)\nDrape\nIf central venous port: Perimeter of field draped with 1000 (clear adhesive) drapes. Four 1000 drapes around port site:\n\nMedial border: From Angle of Louis superiorly along midline to chin.\nSuperior border: Inferior to jaw (to allow access to right internal jugular vein and SCM)\nLaterally: From inferior to ear down to right shoulder\nInferior: From lateral shoulder medially to Angle of Louis\n\nAbdomen: Blue adhesive drapes used inferiorly keeping pubis and right anterior inferior iliac spine in field. This is critical as the far inferior/lateral RLQ needs to be in the field for optimal port placement if the patient needs a jejunostomy.\nSix Blue Adhesive Drapes around perimeter of field (on top of 1000 drapes)\nIf central venous port: Transverse sheet TURNED HEAD-TO-FOOT turned at an angle to keep deltopectoral groove and SCM within the field\nLaparoscopy drape skewed to inferior and right to keep pubis and right ASIS in the field.\nTurn on Bair Hugger only AFTER drapes in place\nOperation\nIf a central venous port is placed, the port is performed first. See IJ Port\nAbdominal access is obtained in one of two ways:\n\nVeress needle inserted in left upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical port at lateral border of rectus just superior to umbilicus\nInfraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port\n\nThe insufflation pressure is decreased to 4mmHg and the abdomen vented to drop the pressure. A 30 degree scope is passed inferior to the falciform ligament into the left upper quadrant over the lateral segment of liver. The post of the scope is positioned to the left, allowing visualization of the lesser curvature of the stomach with the end of the scope near the left aspect of the falciform.\nA site for placement of the gastrostomy is selected on the skin, using a 22Ga needle as a finder. The site is marked, then infiltrated with local anesthetic and a 5mm transverse incision made.\nEndoscopy is performed and the following noted:\nLevel in cm from the incisors, of the most proximal area of Barrett’s esophagus. Level in cm from the incisors of the GE junction Appearance of the GE junction on retroflexed view. Extent of invasion of the tumor into the cardia or fundus.\nA bite block is positioned (unless the patient is edentulous). The endoscope (usually a neonatal scope) is introduced into the esophagus and the video capture started. If the tumor will not allow passage of the scope, do not force the scope.\nOnce the scope is passed into the stomach, the fundus and duodenal bulb are suctioned.\nInsufflation is then reduced to 4mm and the stomach insufflated to find the optimal location for tube placement which will minimize tension and will avoid injury to the right gastroepiploic artery. The reduced laparoscopic insufflation pressure allows endoscopic insufflation of the stomach.\nGastrostomy tube placement is done either by Pull or Seldinger technique.\nSeldinger Gastrostomy\nFour T-fasteners are then used to affix the stomach to the anterior abdominal wall. These are arranged at 8:00, 10:00, 2:00, 4:00 relative to the proposed tube site. T-fasteners are not placed inferior to the tube site to avoid injury to right gastroepiploic vessels.\nThe J wire is then passed into the stomach, followed by the dilators, up to 20Fr. A 16Fr MIC gastrostomy tube is introduced and the balloon inflated with 5mL of water.\nPull Gastrostomy\nA 20Fr PULL PEG tube kit is opened. The snare and tube are passed to the upper operator. The snare is passed through the scope and opened in anticipation of the passage of the wire.\nThe angiocath from the kit is placed into the stomach through the abdominal wall. Once the snare has grasped the angiocath, the needle is withdrawn and the split wire passed through the Angiocath into the stomach. The snare is adjusted to grasp the split wire, which is pulled out through the mouth.\nThe laparoscopic port site is considered clean. The PEG tube, once it is pulled through the mouth, is considered dirty. The right abdomen is covered with a towel to protect the laparoscopic site.\nThe recording is now stopped. The split wire is joined to the PEG tube, which is pulled into place by the abdominal operator. The tapered portion of the tube will be the first source of resistance, which may require firm traction. The split wire (and PEG tube) is dropped of the table to the patient’s left.\nOnce the tapered portion of the tube is through the abdominal wall skin, the next point of resistance will be the bumper of the PEG tube passing through the tumor. In general, if a 5mm neonatal scope can pass the tumor, a 20Fr PEG tube can pass as well.\nThe tube is pulled into position and the measurement at the skin noted. The stomach is aspirated by the upper operator and insufflation is resumed at 8mmHg. Tension on the PEG tube is adjusted to allow apposition of the gastric serosa to the abdominal wall. If the tube is not easily apposed to the abdominal wall, T fasteners (“GI Anchors”) must be employed.\nThe scope is withdrawn and the hypopharynx suctioned. The liquid from the ‘First Step’ disinfectant is suctioned through the scope, followed by water.\nThe abdomen is desufflated and the port sites closed with 4-0 Monocryl.",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Lap Gastrostomy</span>"
     ]
   },
   {
-    "objectID": "02-operating_room.html#resident-epic-teams",
-    "href": "02-operating_room.html#resident-epic-teams",
-    "title": "CMC Inpatient",
-    "section": "Resident Epic teams:",
-    "text": "Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
+    "objectID": "02-robot_STgastrectomy.html",
+    "href": "02-robot_STgastrectomy.html",
+    "title": "13  Subtotal Gastrectomy",
+    "section": "",
+    "text": "Room Prep\n\nEGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)\n\nInstruments\n\n5mm 30 degree scope AND 5mm 0 degree scope\nSRI laparoscopic Pan (available)\n\nDisposables/Meds\n\nVeress needle (with 10mL syringe and saline)\n5mm Z-thread optical port\nRobot prostatectomy drape\n1000 drape x4 AND blue plastic adhesive drapes 2 packs of 2 each = 8 total\n\nEndoscope Setup –Adult EGD scope\n\nValves attached and working (suction/aspiration/biopsy cap)\nSuction tubing attached\nConnect water bottle to left-hand port\nGauze sponges, lubricant, plastic “tray” from gauze filled with water\nYellow (small) bite block\n“First step” sanitizer\nICG bottle reconstituted with 10ml Water (ask first)\n25% albumin (to mix with ICG)\n\nWill mix 2mL of ICG solution with 5mL of 25% albumin\n\n\nPosition\n\nSupine arms an arm boards\nFoley catheter\nBovie pad\nLower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.\n\nPrep\nChloroprep of abdomen from midline at the level of the nipples to the pubis, and table to table\nReview Clinical Information (Resident)\nReview staging scans (especially PET scan) to identify suspicious areas on imaging which need to be investigated at the time of laparoscopy Outpatient anticoagulation use (warfarin, Xaralto, aspirin, Plavix)\nDrape\nAbdomen: Four Blue Adhesive Drapes around perimeter of field (on top of 1000 drapes)\n3/4 sheet over thighs\nProstate Drape\nOperation\nAbdominal access is obtained in one of two ways:\n\nVeress needle inserted in left upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical port at lateral border of rectus just superior to umbilicus\nInfraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port\n\n** Ports**\nLocation of ports (cephalad-caudad) depends upon proximal extent of tumor.\nAbdominal entry in RUQ 8-9cm from midline with OptiView port. This will be upsized to 8mm robot port (#1)\nPort #4 as far lateral as possible in LUQ.\nPort #3 in LUQ midway between midline and Port #4\nPort #2 in midline\nAssisting port in LLQ: - 5mm or 12m port inferior to the midway point between Port #3 and Port #4. (Can be used later for robotic stapler port #3A)\nRetraction port in RLQ for flexible liver retractor held by Endosopic Bookwalter\nFlexible liver retractor can be omitted in very distal lesions. Other options include suspending the lateral sector of liver with a 10cm Penrose drain or using a 0 silk on Keith needle to suspend falciform ligament and distract it to patient’s right\nPorta Hepatis\n\nMark pylorus with cautery by making 2-3 dots 1cm proximal to the pylorus\nDissect pylorus off porta hepatis\nMobilize duodenum if needed\n\n** Mobilize Greater Curvature**\nCan be done with bipolar + monopolar scissors or Extend vessel sealer Enter lesser sac and check for peritoneal disease posterior to stomach on an anterior surface of pancreas",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Subtotal Gastrectomy</span>"
     ]
   },
   {
-    "objectID": "02-operating_room.html#consults",
-    "href": "02-operating_room.html#consults",
-    "title": "CMC Inpatient",
-    "section": "Consults",
-    "text": "Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
+    "objectID": "02-esophagectomy_one_stage.html",
+    "href": "02-esophagectomy_one_stage.html",
+    "title": "14  Esophagectomy 1 Stage",
+    "section": "",
+    "text": "14.1 Indications\nMI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to esophagectomy. The patient is positioned in ‘corkscrew’ position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest.",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Esophagectomy 1 Stage</span>"
     ]
   },
   {
-    "objectID": "02-operating_room.html#postop-clinic-appt",
-    "href": "02-operating_room.html#postop-clinic-appt",
-    "title": "CMC Inpatient",
-    "section": "Postop Clinic Appt",
-    "text": "Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
+    "objectID": "02-esophagectomy_one_stage.html#room-prep",
+    "href": "02-esophagectomy_one_stage.html#room-prep",
+    "title": "14  Esophagectomy 1 Stage",
+    "section": "14.2 Room Prep",
+    "text": "14.2 Room Prep\nDouble-decker Back Table\nEGD Cart (check w/ Salo regarding adult vs neonatal scope)\nDoppler box with foot pedal\nBK Ultrasound (with laparoscopic probe)\nWalter ‘Long Arm’ retractor\nSalo Positioning Cart:\n\nFour black side-rail clamps\nFour rectangular lateral positioners\nYassargil socket\nWell-leg holder (used as an arm holder)\n\nHarmonic Scalpel generator box\nCritical supplies (chek prior to pt in room)\n\nStapler 25mm DSTXL\nOrvil 25mm\nStapler 21mm DSTXL\nOrvil 21mm\nEchelon 60mm stapler with 10 gold loads and 2 gray loads\nGel Port\n\nAnesthesia\n\nDual-lumen ETT tube (taped to left)\nArterial line (left arm will be on arm board)\nAnesthesia may place paraspinal muscle blocks on right side.",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Esophagectomy 1 Stage</span>"
     ]
   },
   {
-    "objectID": "02-operating_room.html#conferences",
-    "href": "02-operating_room.html#conferences",
-    "title": "CMC Inpatient",
-    "section": "Conferences",
-    "text": "Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
+    "objectID": "02-esophagectomy_one_stage.html#position",
+    "href": "02-esophagectomy_one_stage.html#position",
+    "title": "14  Esophagectomy 1 Stage",
+    "section": "14.3 Position",
+    "text": "14.3 Position\nSupine on blue foam pad.\nMark upper midline with skin marker\nFoley catheter (with Criticor temp sensor)\nBovie pad\nLower-body Bair Hugger at level of thighs\nHair clipped from abdomen, right chest, and right axilla.\nPre-existing jejunostomy\n\nPrep into field\nRemove any eschar at site\nSecure to skin inferiorly with 0 silk\n\nShoulders are shifted to the right in preparation for ‘corkscrew’ positioning\nLateral positioners positioned with pad extending from greater trochanter inferiorly.\nVelcro strap over thighs and over lateral positioners\nYassargil socket attached to headpiece of bed on left side.\nWell-leg holder attached to Yassargil socket and used to support right forearm (which will cross body). Right arm crosses body and is supported on well-leg holder.\nLateral positioner placed posterior to spine and scapula to support right chest, allowing access for thoracoscopy.\nArm holder is dropped towards the floor enough that right arm is brought forward.\nPrep\nChloroprep (two sticks) of abdomen, right chest, right axilla. Particular attention to prepping as far as possible to the left lateral side and the right lateral side. Nipple prepped into field.\nDrape\nProximal right arm draped with 1000 (clear adhesive) drape.\nTwo blue plastic “U” drapes with center of the “U” on either lateral side with tails forming the perimeter of the field Trauma drape. All of right chest and axilla is kept within the field, as is the lateral aspect of the left upper quadrant. The field does not need to extend inferior to the umbilicus. In general, it is usually possible to keep all of these area in the field without cutting the drape, except in very large patients. Ioban strips (4”) aound the periphery of the surgical field after the trauma drape. Laparoscopic cords (gas, light cord, camera) to tower at left shoulder. Suction irrigator brought off field. Laparoscopic LigaSure (2 bars) and Bovie (30/30).\n\n14.3.1 Time Out\nOperation header on consent\nTumor location and likelihood of division of esophagus from abdomen (two-phase operation) vs division of esophagus from chest (four-phage operation).\nBlood:\n\nSurgeon’s expectation of blood loss\nAvailability of blood (type/screen vs type/cross).\n\nComorbidities:\nCardiopulmonary disease. If echo, ejection fraction and aortic valve area (if abnormal)\nBeta blockage: Note whether patient on home beta blockade and if so, whether home medication was taken the morning of surgery.\nAnticipated Intraop Problems:\n\nPossibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection\nExpectation of ventilatory difficulties due to carbon dioxide entry into the right chest Gastric mobilization – Greater Curvature",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Esophagectomy 1 Stage</span>"
     ]
   },
   {
-    "objectID": "02-operating_room.html#medicine-consults",
-    "href": "02-operating_room.html#medicine-consults",
-    "title": "CMC Inpatient",
-    "section": "Medicine Consults",
-    "text": "Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
+    "objectID": "02-esophagectomy_one_stage.html#gastric-mobilization",
+    "href": "02-esophagectomy_one_stage.html#gastric-mobilization",
+    "title": "14  Esophagectomy 1 Stage",
+    "section": "14.4 Gastric Mobilization",
+    "text": "14.4 Gastric Mobilization\n7cm upper midline incision for handport. Incision is centered over pylorus. GelPort inserted, and abdomen insufflated to 15mmHg. Two 5mm ports placed LUQ. Medial LUQ 5mm port placed in angle between left costal margin and superior edge of GelPort ring. Lateral LUQ 5mm port placed as far lateral as possible. Depending upon visualization, a third port may be required between these two and somewhat more inferior.\nIf feasible, division of gastrocolic omentum starts by delivering transverse colon into GelPort and dividing ligament with cautery and LigaSure in the avascular plane just cephalad to transverse colon. Dissection proceeds as far proximal and distal and feasible. It is important to avoid damage to the right gastroepiploic artery.\nColon is returned to abdomen and gastricolic ligament divided going using LigaSure, taking care to avoid the colon and the right gastroepiploic artery. For patients with a bulky omentum, it may be helpful to place an additional port in the left mid-quadrant for the camera to facilitate dissection of omentum off the transverse colon. Stomach is retracted to the patient’s right with the back of the left hand, placing the gastrocolic ligament (and short gastric arteries) on stretch. Left gastroepippoic artery divided with LigaSure near its origin. Short gastric arteries divided with Ligasure close to spleen. As superior aspect of short gastrics is reached, the dissection plane shifts medially to create a tunnel towards the base of the left crus. This places the most superior short gastric vessels on stretch and facilitates their division. Once all short gastric vessels divided, peritoneum tethering fundus to diaphragm is incised, and fundus brushed medially.\n\n14.4.1 Distal mobilization\nAttention is directed to mobilizing the lateral aspect of the duodenum. This can either be accomplished with the camera through a LUQ port and a 45 degree camera or by placing an additional 5mm port in the RLQ. Hook cautery is used to incise the connective tissue lateral and posterior to the duodenum. The gastrocolic ligament is now dissected distally, taking care to preserve the integrity of the right gastroepiploic vessels. An areolar plane generally exists between the fat pad containing the right gastroepiploic vessels and that containing the transverse mesocolon vessels.\n\n\n14.4.2 Left gastric artery\nLymph nodes around the celiac axis and left gastric artery are now dissected. The extend of dissection depends upon the tumor location and the presence of nodes her either based upon imaging or palpation. Dissection begins on the superior edge of the pancreas, and proceeds superiorly to the right crus. The left gastric (coronary) vein is usually located to the left of the arery and is divided with the LigaSure. In a two-phase approach, the left gastric artery is now divided with a 30mm gray load (2.0mm) Echelon linear stapler. For patients with mid-esophageal tumors, (for whom a four-phase approach is used), if there is any question about the resectability of the tumor, division of the left gastric gastric artery is generally deferred until the second abdominal phase.\n\n\n14.4.3 Mediastinal dissection\nThe esophagus is now dissected circumferentially at the gastroesophageal junction. The peritoneum overlying the diaphragm is incised, and circumferential dissection of esopahgus performed. On the left side, it is helpful to distract the left crus laterally with a Prestige clamp placed on the left crus The right pleura is widely entered in otder to both facilitate the thoracic dissection of the esophagus and placing the conduit into the right chest in preparation for the final thoracic phase. Division of Esophagus (Two-Phase only) In a four-phase approach, the esophagus is divided from the right chest during the first (of two) thoracic phases. In a two-phase approach, the esophagus is divided from the abdomen by reaching up into the mediastinum to divide the esophagus above the tumor. This is only feasible for tumors of the gastroesophageal junction. In a two-phase approach, the esophagus is divided with a 60mm Medium-Thich (Gold) Echelon TriStaple stapler.\n\n\n14.4.4 Division of Esophagus (Four-Phase)\nPenrose Drain (Four-Phase only) In a four-phase approach, the esophagus is divided from the chest. In order to facilitate the thoracic dissection, a 1/4″ penrose drain is tied around the distal esophagus and the drain is slid cephalad into the mediastinum. The ‘tails’ of the drain are directed into the right chest so that they can be grasped from the right chest during the thoracic phase and can be used to provide traction on the esophagus\n\n\n14.4.5 Entry into right chest\nThe pneumoperitoneum in the abdomen is vented and the gas pressure turned down to 8mmHg in preparation for the thoracic phase. The bed is rotated to the left 20 degrees. A site for entry in to the left chest is selected just posterior to the tip of the scapula. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. Two 12mm ports are placed. The more superior is placed lateral and superior to the nipple. The inferior port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5\nDivision of Esophagus (Two-Phase) In patients with low-lying tumors, it is possible to divide the esophagus above the tumor from the abdominal approach. This evaluation is facilitated by review of the properative endoscopy (and EUS), and the PET scan, particularly the PET obtained prior to neoadjuvant chemoradiation.\nAfter dissection of the mediastinum, a Echelon stapler with a 60mm Medium-Thick (Gold) load is inserted through a 12mm port either placed either through the GelPort or by upsizing the most lateral LUQ\nConstruction of Conduit The distal esophagus and stomach is exteriorized through the GelPort. The lesser curvature vessels are divided with the LigaSure 7-9cm cephalad from the pylorus. The stomach is now placed on stretch along the greater curvature. An Echelon Medium-Thick (Gold) stapler is used to construct a 5-6cm wide gastric tube. In constructing the conduit in a patient with a tumor of the GE jnction invading into the cardia, it is important to be certain that the staple line to construct the conduit stays clear of the tumor. Patients with tumors invading the cardia are at risk of a positive distal margin, meaning that microscopic tumor may be left in the wall of the gastric conduit. To make things more complicated, in patients with low-lying esophageal or GE junction tumors, not all of the length of the conduit are needed in order to reach to the level of the esophageal transection. After construction of the anastomosis, the ‘extra’ cephalad portion of the conduit (near the angle of His) are excised as the ‘additional gastric margin.’ In order to distinguish which portions of the conduit staple line which will be used to replace the esophagus and those which will be included in the ‘additional gastric margin’, both sides of the gastric conduit staple line are marked with sutures designated ‘A’, ‘B’, ‘C’, etc proceeding from the Angle of His to the antrum.\nThe distal esophagus and GE junction are now sent for frozen section.\nFeeding jejunostomy The ligament of Trietz is identified and the jejunum is identified 20cm distal and marked with a directional suture. A site is selected to the left of the handport incision. A 16Fr Cook Introducer Kit is used to pass a 16Ga needle, followed by a J wire, through the left rectus muscle. A skin incision 4mm in length is made adjacent to the J wire. The 16Fr dilator and sheath are now passed through the rectus muscle and the dilator and wire removed. A 14Fr Jejunostomy Tube 0301-14 is selected and the ‘wings’ trimmed off with a scalpel. The jejunostomy tube is passed through the peelaway sheath, which is removed.\nA pursestring suture 1.5cm in diameter is placed on the antimesenteric border of the jejunum. The pursestring is started and ends on the lateral aspect. A second 16Fr Cook Introduced Kit is used to introduce the J wire through the center of the pursestring.\nPlacement of Drains Two (or three) 19Fr full-fluted Blake drains (72230) are placed:\nJP1: placed into the left pleura through the hiatus. Drain is brought out through the most lateral 5mm port site on the LUQ JP2: placed into the right pleura through the hiatus. Drain is brought out through the next most medial 5mm LUQ port site JP3: (optional) placed in the abdomen posterior to the left lateral segment of the liver and brought out through the most medial 5mm LUQ port site Transposition of Conduit The gastric conduit is now placed into the right pleura through the mediastinum, with the assistance of a laparoscopic Babcock and gentle pressure on the greater curvature with the fingers.\nEntrance into the R chest (Two Phase) For two-phase operations, ports are now placed into the right chest, as stated above . In similar fashion, the inferior pulmonary ligament in dissected and the lung reflected anterior.\nAnastomosis The right chest is entered and the right lung reflected anterior with the paddle placed in the superior/anterior port. The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy. The paddle retractor is now moved from the anterior/inferior port to the anterior/superior 12mm port and the lung reflected anterior and inferior.\nOrVil The OrVil device is now used to place a EEA anvil into the distal esophagus. In general, a 25mm size is selected, unless the patient has particularly small frame, in which case a 21mm size is used. Two stay sutures of 2-0 silk on RB-1 needles are placed in the center of the esophageal staple line 3mm apart. A Harmonic scalpel is used to divide the staple line. The OrVil device is passed through the mouth and is passed through the fenestration in the staple line. The anvil portion of the OrVil is oriented so that the rounded portion is placed against the roof of the mouth. The OrVil is guided into the hypopharynx by pulling on the the tube end of the device. As the anvil approaches the hypopharynx, the jaw is pulled forward to allow passage of the anvil.\nThe shaft of the anvil is brought through the esophageal staple line, and the tube disconnected from the anvil by cutting the blue sutures.\nThe superior end of the conduit is opened along the staple line and the DST XL stapler (matching the diameter of the OrVil) introduced through the Alexis device. The stapler shaft is placed into the open end of the gastric conduit and the conduit pulled over it (‘sock over shoe’). The stapler spike is brought out through the greater curvature. The anvil is grasped with a Maryland grasper placed through a superior 5mm port and the two components of the stapler are mated and the stapler tightened and fired. The knob of the stapler is rotated two turns counter-clockwise until a click is felt, at which time the anvil will flip. The stapler is withdrawn and the donuts examined and sent for pathologic exam.\nThe anastomosis is completed by firing a Echelon Medium-Thick (Gold) linear) across the conduit cephalad to the anastomosis. The excess conduit is sent for pathologic exam as ‘additional gastric margin.’\nNG Tube A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.\nChest Tube A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.\nClosure The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.",
     "crumbs": [
-      "CMC Inpatient"
+      "Operating Room",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Esophagectomy 1 Stage</span>"
     ]
   }
 ]
