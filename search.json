@@ -16,6 +16,7 @@
     "section": "",
     "text": "1.1 Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -26,6 +27,7 @@
     "section": "1.2 Rounds",
     "text": "1.2 Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -36,6 +38,7 @@
     "section": "1.3 Resident Epic teams:",
     "text": "1.3 Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -46,6 +49,7 @@
     "section": "1.4 Consults",
     "text": "1.4 Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -56,6 +60,7 @@
     "section": "1.5 Postop Clinic Appt",
     "text": "1.5 Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -66,6 +71,7 @@
     "section": "1.6 Conferences",
     "text": "1.6 Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -76,6 +82,7 @@
     "section": "1.7 Medicine Consults",
     "text": "1.7 Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
     ]
   },
@@ -86,6 +93,7 @@
     "section": "",
     "text": "2.1 Resident Epic teams:\nResidents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -96,6 +104,7 @@
     "section": "",
     "text": "Colorectal Surgery Pineville",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -106,6 +115,7 @@
     "section": "2.2 Consults",
     "text": "2.2 Consults\nEstablished patients and directed should be discussed with the attending surgeon.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -116,6 +126,7 @@
     "section": "2.3 Postop Clinic Appts",
     "text": "2.3 Postop Clinic Appts\nPostoperative patients are generally seen for a Transition of Care visit at about two weeks.\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nHale Mock\nKamisha Wilson\nMadeline Georgino\n\nPlease include the following information in the Canopy Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appointment\nNeed for Wound Ostomy RN appointment at same time (essential for new stomas)\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\n\n\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -126,6 +137,7 @@
     "section": "2.4 Conferences",
     "text": "2.4 Conferences\n\nGI Tumor Planning Conf Monday 7-8am (Teams)\nResident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conference Friday 7-8am (Teams)",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -136,6 +148,7 @@
     "section": "",
     "text": "The following format will help speed communication of data on rounds.\nID: One line description: “Mr Glenn: PostOp day 3 after low anterior resection”\n24 hour events: Summary of important events in prior 24 hrs\nData Communication (organized by system)\nNeuro: Pain control, level of alertness, psychotropic meds, sedatives, and pain meds.\nCardioVascular: Vital signs (normal OR cite the range of systolic blood pressures and range of heart rate). Heart rhythm. Cardiac meds. Most recent recommendations of cardiology consult.\nRespiratory: Pulmonary exam, oxygen saturation, supplied oxygen, ventilator setting. Results of CXR.\nGI: Diet, bowel function, NG output. Drain outputs can often be summarized unless they are unusually high or low (and ready to be removed. New finding of bile in any abdominal drain needs special emphasis. GI meds (eg protonix, Entereg). Tube feed formula, rate and duration (continuous or nocturnal). Status of C Diff tests. Results of JP drain amylase levels (gastroesophageal patients). Results of JP triglycerides or creatinine, if sent,\nRenal: Urine output in 24 hours AND in most recent 8 hour shift. Presence (or absence) of Foley catheter and plans for removal, if present. Most recent creatinine. If diuretics administered, dosage and amount of urine output during the shift when it was administered. Most recent potassium in any patient receiving (or about to receive) furosemide (Lasix). Results of Mg and Phos if abnormal.\nHeme: Hemoglobin, platelets, DVT prophylaxis. PLEASE CHECK THE MAR SUMMARY DAILY to be certain that the ordered DVT prophylaxis has been given.\nID: WBC, Tmax in past 24 hours, culture results.\nEndo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.\nAssessment/Plan (organized by Problem List):\nEach of the patients problems are addressed with an assessment and plan. Pre-existing medical problems and postoperative complications need to be addressed in the plan. An assessment and plan for each organ system is usually not necessary, except for the most complex patients. Patients active medical problems should be documented on the Patient List for rounds. This helps to remind the team about medical problems which the team is managing:\n\nChronic anticoagulation\nDiabetes\nMalnutrition\n\nThis problem list-oriented approach will also be helpful to writing problem-oriented notes.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Rounds</span>"
     ]
   },
@@ -146,6 +159,7 @@
     "section": "",
     "text": "Progress notes need to reflect the problems which are being managed by the team. The current medical problems being managed by the team should be added to the problem list for that hospitalization. This will make it easier to generate notes which are oriented to the patient’s problem list.\nIn addition, the progress notes provide a narrative which can later be used to generate the discharge summary (particularly for complex patients). Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.\nNotes should be forwarded to the patient’s attending (unless out of town)\nEsophagectomy Events to be Documented:\n\nExtubation date/time\nNG Removal date\nChest tube removal date\nMBS date(s) and results (aspiration | penetration)\nICU DC orders written\nICU discharge (transfer to ward)\n\nEsophagectomy Complications to be Documented:\n\n\n\n\n\n\n\nN\nDelirium\n\n\n\nStroke\n\n\nCV\nNew arrhythmia req Rx\n\n\n\nMI\n\n\nR\nPneumonia (3 of fever | WBC | infiltrate | abx | sputum cx)\n\n\n\nEffusion req drainage\n\n\n\nReintubation\n\n\n\nAtelectasis req bronchoscopy\n\n\n\nARDS\n\n\n\nPE\n\n\n\nVentilation &gt;48 hours after leaving OR\n\n\nGI\nAnastomotic leak (medical rx | stent | surgery)\n\n\n\nDelayed gastric emptying req botox or NG &gt;7d\n\n\n\nC Diff\n\n\nGU\nUrinary Retention\n\n\n\nDischarge with foley catheter\n\n\nH\nDVT req treatment\n\n\n\nReturn to OR\n\n\n\nReturn to ICU\n\n\n\nCommunication\nPlease add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:\nPlease message “GI Surgical Oncology Colorectal LCI CMC” via Haiku 24/7. Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.”",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Progress Notes</span>"
     ]
   },
@@ -156,6 +170,7 @@
     "section": "",
     "text": "Evening Signout\nThe Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill, Squires, and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.\nWeekend Signout\nThe senior resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Signout</span>"
     ]
   },
@@ -166,7 +181,291 @@
     "section": "",
     "text": "Discharge Prescriptions\nPrescriptions should be ideally be prepared the day prior to anticipated discharge and sent to the patient’s pharmacy. According to North Carolina STOP guidelines, opioid prescriptions for postoperative patients should be for no more than a 7 day supply. At the same time, patients taking narcotics in the hospital should have the same dosages for their outpatient prescription, to avoid patients running out of narcotics between the time of discharge and their first clinic visit.\nNote that metoprolol is available in liquid form in the hospital, but is not available for outpatient prescription\nNote that in many cases narcotics for patients living in South Carolina a prescription from an attending.\nAdditional Appointments\nIf followup appointments in additional to surgical followup are needed, these should be designated on the discharge orders. Particularly:\n\nPrimary Care Physician\nCardiologist (if new cardiac medicines)\nCo-surgeons (Urology, Thoracic Surgery, GYN)\n\nDischarge Summary\nThe discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:\n\n\n\n\n\n\n\nN\nFollowup plan for chronic pain management\n\n\n\nStroke\n\n\nCV\nPostop Arrhythmia? | MI? | CHF?\n\n\n\nIf new cardiac meds: Who is managing medications\n\n\n\nIf afib: CHADS score and anticoagulation plan\n\n\nR\nPneumonia? | ARDS? | TRACH?\n\n\n\nNeed for home oxygen?\n\n\n\nCXR needed at first postop visit?\n\n\nGI\nDelayed gastric emptying? | leak? | ileus?\n\n\n\nTube feed regimen\n\n\n\nDiet at discharge (Low residue | Full liquds | Meds with thickened water |NPO)\n\n\n\nNew stoma (ileostomy | colostomy)\n\n\n\nWound care needs (VAc | Prevena)\n\n\nGU\nUrinary Retention\n\n\n\nDischarge with foley catheter\n\n\nH\nComplications: DVT | PE\n\n\n\nAnticoagulation Plan\n\n\nEndo\nInsulin regimen at DC (dose will be in med rec)\n\n\nID\nAntibiotics at DC\n\n\n\nReturn to ICU\n\n\n\nCommunication\nIt is essential that discharge summaries be sent to the patient’s primary MD and referring physician. Please review the initial consultation note for the names of providers involved in a patient’s care.",
     "crumbs": [
+      "CMC Inpatient",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Discharges</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html",
+    "href": "01-students.html",
+    "title": "7  Education",
+    "section": "",
+    "text": "7.1 Medical Student Duty Hours\nHours:\nBreaks: Students will\nExams:\nHolidays:",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#medical-student-duty-hours",
+    "href": "01-students.html#medical-student-duty-hours",
+    "title": "7  Education",
+    "section": "",
+    "text": "Students will not work longer hours than residents on the same service\nStudents will not work more than 80 hours/week averaged over 4 weeks.\n\n\n\nhave 4 24-hour periods free from assigned activities over a 4 week period\nnot work longer than 16 continuous hoours\nhave a 8 hour break from clinical/academic hours following a 16-hour shift\ncan only work a maximum of 5 sequential overnight shifts\n\n\n\nMust be excused no later than midnight prior to the day of the shift or final exam\n\n\n\nMust be excused from responsibilities from 5pm on the day prior to the holiday on the academic calendar through the holiday1",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#proceduresdiseases",
+    "href": "01-students.html#proceduresdiseases",
+    "title": "7  Education",
+    "section": "7.2 Procedures/Diseases",
+    "text": "7.2 Procedures/Diseases\n\nWound Care (VAC/dressing change, identify infection)\nSuture/Staple removal\nSuture Skin\nFoley catheter insertion (adult)\nInsert nasogastric tube (or OG in OR)\nMake an incision, any site\nParticipate in intubation, bag mask ventilation in OR\nXray 3-way of abdomen (interpret)\nXray chest (interpret)\nAssist with insertion of chest tube or pigtail",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#ask-a-resident-5min-discussion",
+    "href": "01-students.html#ask-a-resident-5min-discussion",
+    "title": "7  Education",
+    "section": "7.3 Ask a Resident (5min discussion)",
+    "text": "7.3 Ask a Resident (5min discussion)\n\nAbdominal Pain (RUQ)\nAcute Limb Ischemia (vascular disease)\nDiverticulitis\nNeoplastic process (Breast Mass, GI Mass, soft tissue)\nAbdominal wall mass or hernia\nABC’s of trauma, Primary/Secondary survey\nIleus, small and large bowel obstruction\nEvaluate acute surgical abdomen (participate)\nPost-op fever in surgical inpatient (discuss and participate)\nPost-op pain management (discuss and participate)",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#medical-student-resources",
+    "href": "01-students.html#medical-student-resources",
+    "title": "7  Education",
+    "section": "7.4 Medical Student Resources",
+    "text": "7.4 Medical Student Resources\nSubcuticular suturing video",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#recommended-resources01-students-2",
+    "href": "01-students.html#recommended-resources01-students-2",
+    "title": "7  Education",
+    "section": "7.5 Recommended Resources:2",
+    "text": "7.5 Recommended Resources:2\n\nEssentials of general surgery, 6th edition, [edited by] Peter F. Lawrence\nSurgery: A Case Based Clinical Review (Christian de Virgilio)\nKaplan Surgery Notes\nNMS Surgery CaseBook\nSurgical Recall (Lorne H. Blackbourne)\nUWorld QBank\nAquifer / Wise-MD\nOnlineMedEd",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#shelf-exam",
+    "href": "01-students.html#shelf-exam",
+    "title": "7  Education",
+    "section": "7.6 SHELF exam",
+    "text": "7.6 SHELF exam\nSHELF exam topic areas",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#entrustable-professional-activities",
+    "href": "01-students.html#entrustable-professional-activities",
+    "title": "7  Education",
+    "section": "7.7 Entrustable Professional Activities",
+    "text": "7.7 Entrustable Professional Activities\n\nGather a history and perform a physical examination\nPrioritize a differential diagnosis following a clinical encounter\nRecommend and interpret common diagnostic and screening tests\nEnter and discuss orders and prescriptions\nDocument a clinical encounter in the patient record\nProvide an oral presentation of a clinical encounter\nForm clinical questions and retrieve evidence to advance patient care\nGive or receive a patient handover to transition care responsibility\nCollaborate as a member of an interprofessional team\nRecognize a patient requiring urgent or emergent care and initiate evaluation and management\nObtain informed consent for tests and/or procedures\nPerform general procedures of a physician\nIdentify system failures and contribute to a culture of safety and improvement",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-students.html#footnotes",
+    "href": "01-students.html#footnotes",
+    "title": "7  Education",
+    "section": "",
+    "text": "From Faculty as Teacher 2023↩︎\nfrom Spring 2023 Surgery Syllabus↩︎",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Education</span>"
+    ]
+  },
+  {
+    "objectID": "01-clinic_salo.html",
+    "href": "01-clinic_salo.html",
+    "title": "8  Postop Care after Esophagectomy",
+    "section": "",
+    "text": "8.1 Beta blockade and anti-hypertensives\nAtrial fibrillation occurs in the postoperative period in 20% of patients. For this reason, beta blockers are used to atrial fibrillation prevention. In the ICU, metoprolol is administered intravenously and is subsequently changed to enteral administration. Because metoprolol also lowers blood pressure, patients on home anti-hypertensives frequently have them held during their hospital stay (and after discharge). At the first postoperative visit, patients who were not treated with beta blockade preoperatively are generally switched from metoprolol back to their home anti-hypertensives.",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Postop Care after Esophagectomy</span>"
+    ]
+  },
+  {
+    "objectID": "01-clinic_salo.html#weaning-tube-feeds-in-diabetics",
+    "href": "01-clinic_salo.html#weaning-tube-feeds-in-diabetics",
+    "title": "8  Postop Care after Esophagectomy",
+    "section": "8.2 Weaning Tube Feeds in Diabetics",
+    "text": "8.2 Weaning Tube Feeds in Diabetics\nAs outpatients begin eating more orally, their tube feeds are reduced.\nWeaning from 5 cans to 4 cans: Easiest method is to maintain the same schedule (16 hours) and reduce insulin dosage by 20%. For instance, the above patient who is on 5 cans at 75mL/hour x 16 hours is receiving 16N + 8R at start of tube feeds and 6 hours later. This patient could be weaned by reducing rate form 75mL/hour x 16 hours to 60mL/hour x 16 hours and reducing insulin to 12N + 6R at the start of tube feeds AND another dose of 12N + 6R after 6 hours.\nWeaning from 4 cans to 3 cans: One option is to decrease the duration of tube feeds from 16 hours to 12 hours, while maintaining rate of 60mL/hour. In this case, the insulin dosage could be kept the same at the start of tube feeds, BUT the dose 6 hours after the start of tube feeds could be omitted.\nOnce patients are on 3 cans per night, further weaning can be accomplished by skipping tube feeds (and insulin) every other night in a “tube feed holiday”. This allows an evening of interrupted sleep and can tend to increase the appetite the morning after tube feeds are held.",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Postop Care after Esophagectomy</span>"
+    ]
+  },
+  {
+    "objectID": "02-colorectal_hill.html",
+    "href": "02-colorectal_hill.html",
+    "title": "9  Colorectal Cases - Hill/Squires",
+    "section": "",
+    "text": "9.1 Preop\nADULT SURG Colorectal ERAS MPP Hill This is what has all of the main ERAS components. Tylenol, gabapentin, Decadron, Alvimopan and heparin are all given in pre-op holding\nADULT STANDING Antimicrobial colorectal In general, I will give Ancef to patients with almost all patients with allergies to PCN. They have to remember the “severe” reaction. If it is a severe reaction, please use the second line antibiotics listed in the power plan.\nType and Screen are not typically needed for colectomy. They will have an antibody screen from office. If antibodies present, then d/w attending",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Colorectal Cases - Hill/Squires</span>"
+    ]
+  },
+  {
+    "objectID": "02-colorectal_hill.html#intraop",
+    "href": "02-colorectal_hill.html#intraop",
+    "title": "9  Colorectal Cases - Hill/Squires",
+    "section": "9.2 Intraop",
+    "text": "9.2 Intraop\nPositioning: Attending will typically position patients personally\nRight sided=supine; Left sided=lithotomy; All laparoscopic colon cases will have their arms tucked with a chest tape strap.\nNG/OG tubes: usually not needed, unless there is gastric distension. Patients receive multiple oral medicatinos in preop.\nReview anesthesia fluid management during time out. 2L max volume, urine output not an accurate indicator.",
+    "crumbs": [
+      "CMC Inpatient",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Colorectal Cases - Hill/Squires</span>"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html",
+    "href": "01-clinical_care.html",
+    "title": "CMC Inpatient",
+    "section": "",
+    "text": "Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html#rounds",
+    "href": "01-clinical_care.html#rounds",
+    "title": "CMC Inpatient",
+    "section": "Rounds",
+    "text": "Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html#resident-epic-teams",
+    "href": "01-clinical_care.html#resident-epic-teams",
+    "title": "CMC Inpatient",
+    "section": "Resident Epic teams:",
+    "text": "Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html#consults",
+    "href": "01-clinical_care.html#consults",
+    "title": "CMC Inpatient",
+    "section": "Consults",
+    "text": "Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html#postop-clinic-appt",
+    "href": "01-clinical_care.html#postop-clinic-appt",
+    "title": "CMC Inpatient",
+    "section": "Postop Clinic Appt",
+    "text": "Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html#conferences",
+    "href": "01-clinical_care.html#conferences",
+    "title": "CMC Inpatient",
+    "section": "Conferences",
+    "text": "Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "01-clinical_care.html#medicine-consults",
+    "href": "01-clinical_care.html#medicine-consults",
+    "title": "CMC Inpatient",
+    "section": "Medicine Consults",
+    "text": "Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html",
+    "href": "02-operating_room.html",
+    "title": "CMC Inpatient",
+    "section": "",
+    "text": "Admissions\nProvider group: “GI Surg Onc Attending LCI CMC”\nList Attending Surgeon in addition\nPatient List is CMC GI Surgical Oncology",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html#rounds",
+    "href": "02-operating_room.html#rounds",
+    "title": "CMC Inpatient",
+    "section": "Rounds",
+    "text": "Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html#resident-epic-teams",
+    "href": "02-operating_room.html#resident-epic-teams",
+    "title": "CMC Inpatient",
+    "section": "Resident Epic teams:",
+    "text": "Resident Epic teams:\n\nGI Surgical Oncology Colorectal LCI CMC\nColorectal Surgery Pineville\n\nIt is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team GI Surgical Oncology Colorectal LCI CMC for that patient to facilitate communication from nursing.",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html#consults",
+    "href": "02-operating_room.html#consults",
+    "title": "CMC Inpatient",
+    "section": "Consults",
+    "text": "Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html#postop-clinic-appt",
+    "href": "02-operating_room.html#postop-clinic-appt",
+    "title": "CMC Inpatient",
+    "section": "Postop Clinic Appt",
+    "text": "Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html#conferences",
+    "href": "02-operating_room.html#conferences",
+    "title": "CMC Inpatient",
+    "section": "Conferences",
+    "text": "Conferences\n\nGI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)\nResident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conf Fri 7-8am (via Teams)",
+    "crumbs": [
+      "CMC Inpatient"
+    ]
+  },
+  {
+    "objectID": "02-operating_room.html#medicine-consults",
+    "href": "02-operating_room.html#medicine-consults",
+    "title": "CMC Inpatient",
+    "section": "Medicine Consults",
+    "text": "Medicine Consults\nFor medicine consults, please use “CHG Service Hospitalists CMC” for all new consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.",
+    "crumbs": [
+      "CMC Inpatient"
     ]
   }
 ]
