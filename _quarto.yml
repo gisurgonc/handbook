@@ -7,7 +7,7 @@ book:
   #date: "8/22/2024"
   chapters:
     - index.qmd
-    - part: 01-clinical_care.qmd
+    - part: "Clinical Care"
       chapters: 
       - 01-cmc_inpatient.qmd
       - 01-pv_inpatient.qmd
@@ -17,9 +17,14 @@ book:
       - 01-discharges.qmd
       - 01-students.qmd
       - 01-clinic_salo.qmd
-    - part: 02-operating_room.qmd
+    - part: "Operating Room"
       chapters:
       - 02-colorectal_hill.qmd
+      - 02-cv_port_ij.qmd
+      - 02-lap_jejunostomy.qmd
+      - 02-lap_gastrostomy.qmd
+      - 02-robot_STgastrectomy.qmd
+      - 02-esohagectomy_one_stage.qmd
     - references.qmd
 
 bibliography: zotero.bib
