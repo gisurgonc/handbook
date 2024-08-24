@@ -27,7 +27,7 @@ jobs:
         with:
           cache-version: 1
           
-       - name: Set up TinyTex
+      - name: Set up TinyTex
         uses: r-lib/actions/setup-tinytex@master
 
       - name: Render and Publish
