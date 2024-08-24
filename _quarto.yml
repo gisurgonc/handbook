@@ -24,7 +24,7 @@ book:
       - 02-lap_jejunostomy.qmd
       - 02-lap_gastrostomy.qmd
       - 02-robot_STgastrectomy.qmd
-      - 02-esohagectomy_one_stage.qmd
+      - 02-esophagectomy_one_stage.qmd
     - references.qmd
 
 bibliography: zotero.bib
