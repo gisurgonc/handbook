@@ -89,56 +89,56 @@
   {
     "objectID": "01-pv_inpatient.html",
     "href": "01-pv_inpatient.html",
-    "title": "2  Rounds",
+    "title": "2  Pineville Inpatient",
     "section": "",
-    "text": "2.1 Resident Epic teams:\nResidents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.",
+    "text": "2.1 Rounds\nStarting time for rounds is variable from day to day. Maddie Georgino will help organize work and timing of rounds, etc.",
     "crumbs": [
       "Clinical Care",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pineville Inpatient</span>"
     ]
   },
   {
     "objectID": "01-pv_inpatient.html#resident-epic-teams",
     "href": "01-pv_inpatient.html#resident-epic-teams",
-    "title": "2  Rounds",
-    "section": "",
-    "text": "Colorectal Surgery Pineville",
+    "title": "2  Pineville Inpatient",
+    "section": "2.2 Resident Epic teams:",
+    "text": "2.2 Resident Epic teams:\n\nColorectal Surgery Pineville\n\nResidents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.\nPlease append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.",
     "crumbs": [
       "Clinical Care",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pineville Inpatient</span>"
     ]
   },
   {
     "objectID": "01-pv_inpatient.html#consults",
     "href": "01-pv_inpatient.html#consults",
-    "title": "2  Rounds",
-    "section": "2.2 Consults",
-    "text": "2.2 Consults\nEstablished patients and directed should be discussed with the attending surgeon.",
+    "title": "2  Pineville Inpatient",
+    "section": "2.3 Consults",
+    "text": "2.3 Consults\nEstablished patients and directed should be discussed with the attending surgeon.",
     "crumbs": [
       "Clinical Care",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pineville Inpatient</span>"
     ]
   },
   {
     "objectID": "01-pv_inpatient.html#postop-clinic-appts",
     "href": "01-pv_inpatient.html#postop-clinic-appts",
-    "title": "2  Rounds",
-    "section": "2.3 Postop Clinic Appts",
-    "text": "2.3 Postop Clinic Appts\nPostoperative patients are generally seen for a Transition of Care visit at about two weeks.\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nHale Mock\nKamisha Wilson\nMadeline Georgino\n\nPlease include the following information in the Canopy Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appointment\nNeed for Wound Ostomy RN appointment at same time (essential for new stomas)\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\n\n\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.",
+    "title": "2  Pineville Inpatient",
+    "section": "2.4 Postop Clinic Appts",
+    "text": "2.4 Postop Clinic Appts\nPostoperative patients are generally seen for a Transition of Care visit at about two weeks.\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nHale Mock\nKamisha Wilson\nMadeline Georgino\n\nPlease include the following information in the Canopy Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appointment\nNeed for Wound Ostomy RN appointment at same time (essential for new stomas)\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\n\n\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.",
     "crumbs": [
       "Clinical Care",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pineville Inpatient</span>"
     ]
   },
   {
     "objectID": "01-pv_inpatient.html#conferences",
     "href": "01-pv_inpatient.html#conferences",
-    "title": "2  Rounds",
-    "section": "2.4 Conferences",
-    "text": "2.4 Conferences\n\nGI Tumor Planning Conf Monday 7-8am (Teams)\nResident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conference Friday 7-8am (Teams)",
+    "title": "2  Pineville Inpatient",
+    "section": "2.5 Conferences",
+    "text": "2.5 Conferences\n\nGI Tumor Planning Conf Monday 7-8am (Teams)\nResident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.\nBone and Soft Tissue Conference Friday 7-8am (Teams)",
     "crumbs": [
       "Clinical Care",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Rounds</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pineville Inpatient</span>"
     ]
   },
   {
