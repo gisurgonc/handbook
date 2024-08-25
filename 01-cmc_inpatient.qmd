@@ -29,8 +29,7 @@ Established patients and directed should be discussed with the attending surgeon
 
 Unassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”
 
-In general, benign colorectal consults are staffed by Dr Davis.  Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for "GI Surgical Oncology Colorectal Attending"
-
+In general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for "GI Surgical Oncology Colorectal Attending"
 
 ## Postop Clinic Appt
 

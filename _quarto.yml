@@ -35,7 +35,7 @@ book:
       - 04-eso_surgery.qmd
     - part: "Gastric Cancer"
       chapters:
-      - 04_gastric_CDH1.qmd
+      - 05-gastric_CDH1.qmd
     - part: "Colon Cancer"
     - part: "Rectal Cancer"
     - part: "Anal Cancer"
