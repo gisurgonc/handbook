@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>2&nbsp; Pineville Inpatient – CMC GI Surgical Oncology Handbook</title>
+<title>18&nbsp; Staging – CMC GI Surgical Oncology Handbook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./01-rounds.html" rel="next">
-<link href="./01-cmc_inpatient.html" rel="prev">
+<link href="./04-eso_nutrition.html" rel="next">
+<link href="./04-eso_objectives_chief.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +89,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -81,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-cmc_inpatient.html">Clinical Care</a></li><li class="breadcrumb-item"><a href="./01-pv_inpatient.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-eso_overview.html">Esophageal Cancer</a></li><li class="breadcrumb-item"><a href="./04-eso_staging.html"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Staging</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -129,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01-pv_inpatient.html" class="sidebar-item-text sidebar-link active">
+  <a href="./01-pv_inpatient.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></span></a>
   </div>
 </li>
@@ -247,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04-eso_staging.html" class="sidebar-item-text sidebar-link">
+  <a href="./04-eso_staging.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Staging</span></span></a>
   </div>
 </li>
@@ -300,25 +349,15 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#rounds" id="toc-rounds" class="nav-link active" data-scroll-target="#rounds"><span class="header-section-number">2.1</span> Rounds</a></li>
-  <li><a href="#resident-epic-teams" id="toc-resident-epic-teams" class="nav-link" data-scroll-target="#resident-epic-teams"><span class="header-section-number">2.2</span> Resident Epic teams:</a></li>
-  <li><a href="#consults" id="toc-consults" class="nav-link" data-scroll-target="#consults"><span class="header-section-number">2.3</span> Consults</a></li>
-  <li><a href="#postop-clinic-appts" id="toc-postop-clinic-appts" class="nav-link" data-scroll-target="#postop-clinic-appts"><span class="header-section-number">2.4</span> Postop Clinic Appts</a></li>
-  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences"><span class="header-section-number">2.5</span> Conferences</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-cmc_inpatient.html">Clinical Care</a></li><li class="breadcrumb-item"><a href="./01-pv_inpatient.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-eso_overview.html">Esophageal Cancer</a></li><li class="breadcrumb-item"><a href="./04-eso_staging.html"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Staging</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></h1>
+<h1 class="title"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Staging</span></h1>
 </div>
 
 
@@ -335,56 +374,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="rounds" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="rounds"><span class="header-section-number">2.1</span> Rounds</h2>
-<p>Starting time for rounds is variable from day to day. Maddie Georgino will help organize work and timing of rounds, etc.</p>
-</section>
-<section id="resident-epic-teams" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="resident-epic-teams"><span class="header-section-number">2.2</span> Resident Epic teams:</h2>
-<ul>
-<li>Colorectal Surgery Pineville</li>
-</ul>
-<p>Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.</p>
-<p>Please append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.</p>
-</section>
-<section id="consults" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="consults"><span class="header-section-number">2.3</span> Consults</h2>
-<p>Established patients and directed should be discussed with the attending surgeon.</p>
-</section>
-<section id="postop-clinic-appts" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="postop-clinic-appts"><span class="header-section-number">2.4</span> Postop Clinic Appts</h2>
-<p>Postoperative patients are generally seen for a Transition of Care visit at about two weeks.</p>
-<p>Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:</p>
-<ul>
-<li>Hale Mock</li>
-<li>Kamisha Wilson</li>
-<li>Madeline Georgino</li>
-</ul>
-<p>Please include the following information in the Canopy Message:</p>
-<ul>
-<li>Name of attending</li>
-<li>Ward from which the patient is being discharged</li>
-<li>Desired date for appointment</li>
-<li>Need for Wound Ostomy RN appointment at same time (essential for new stomas)</li>
-<li>Need for bloodwork at first visit</li>
-<li>Other studies to be done after discharge
-<ul>
-<li>Upper GI</li>
-<li>Chest X-ray</li>
-</ul></li>
-</ul>
-<p>For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.</p>
-</section>
-<section id="conferences" class="level2" data-number="2.5">
-<h2 data-number="2.5" class="anchored" data-anchor-id="conferences"><span class="header-section-number">2.5</span> Conferences</h2>
-<ul>
-<li>GI Tumor Planning Conf Monday 7-8am (Teams)</li>
-<li>Resident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.</li>
-<li>Bone and Soft Tissue Conference Friday 7-8am (Teams)</li>
-</ul>
+<p>The staging workup begins once a diagnosis is made on endoscopy.</p>
+<p>The first step is to make a preliminary determination whether the tumor is early stage (and can be treated with endoscopy or primary surgery) or later stage (and treated with chemoradiation followed by surgery or with)</p>
+<p>Patients with minimal dysphagia, no weight loss, and tumors with less than 3cm cranio-caudal extent have a reasonable change of being T1 or T2 tumors. Tumors &lt;3cm in length are much more likely to represent T1-2 lesions than those <span class="math inline">\(\geq\)</span> 3cm<span class="citation" data-cites="hollis1114">(<a href="references.html#ref-hollis1114" role="doc-biblioref">Hollis et al. 2017</a>)</span>. For these patients, determining the precise T stage is important in their workup, so <strong>endoscopic ultrasound</strong> is the most frequent staging study after diagnosis.</p>
+<p>Patients who present with dysphagia are likely to have T3 or T4 disease, which is generally treated with neoadjuvant chemoradiation followed by surgery. Data from Memorial Sloan Kettering [Ripley 226] among 61 patients with esophageal cancer who presented with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors. On the other hand, among 53 patients without dysphagia, 25 (47%) were uT1-2, and were potentially candidates for primary surgery. Their conclusion was that EUS could be omitted from the workup of patients with dysphagia, but is useful in patients without dysphagia.</p>
+<p>PET can be helpful in evaluating patients who may have T1-2 disease, and might be candidates for primary surgical therapy. A comparison of PET and EUS [malik,claxton,1] showed that uT1-2 tumors had median metabolic tumor volume (MTV) of 6.7cm<sup>3</sup>, compared with uT3-4 tumors, with a median SUV of 35.7cm<sup>3</sup>.</p>
 
 
-</section>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-hollis1114" class="csl-entry" role="listitem">
+Hollis, Alexander C., Lauren M. Quinn, James Hodson, Emily Evans, James Plowright, Ruksana Begum, Harriet Mitchell, Mike T. Hallissey, John L. Whiting, and Ewen A. Griffiths. 2017. <span>“Prognostic Significance of Tumor Length in Patients Receiving Esophagectomy for Esophageal Cancer.”</span> <em>Journal of Surgical Oncology</em> 116 (8): 1114–22. <a href="https://doi.org/10.1002/jso.24789">https://doi.org/10.1002/jso.24789</a>.
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -809,13 +810,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./01-cmc_inpatient.html" class="pagination-link" aria-label="CMC Inpatient">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">CMC Inpatient</span></span>
+      <a href="./04-eso_objectives_chief.html" class="pagination-link" aria-label="EsoCa Objectives - Chief">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">EsoCa Objectives - Chief</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./01-rounds.html" class="pagination-link" aria-label="Rounds">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Rounds</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./04-eso_nutrition.html" class="pagination-link" aria-label="Nutrition">
+        <span class="nav-page-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Nutrition</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

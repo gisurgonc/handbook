@@ -437,5 +437,81 @@
       "Operating Room",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Esophagectomy 1 Stage</span>"
     ]
+  },
+  {
+    "objectID": "04-eso_overview.html",
+    "href": "04-eso_overview.html",
+    "title": "15  Esophageal Overview",
+    "section": "",
+    "text": "Esophageal cancers can be grouped into 4 treatment categories:\n\nSuperficial \\(\\rightarrow\\) Endoscopic therapy\nLocalized \\(\\rightarrow\\) Primary surgery\nLocally Advanced \\(\\rightarrow\\) Trimodality therapy\nMetastatic \\(\\rightarrow\\) Systemic therapy\n\nPatients with minimal dysphagia, no weight loss, and small (&lt;3cm length) tumors are evaluated with endoscopic ultrasound:\n\nIf uT1 on EUS and &lt;2cm in size, endoscopic mucosal resection yields more information and may be therapeutic for tumors with negative margins and without high-risk features.\nIf uT2N0 on EUS, and PET scan shows a small tumor (MTV &lt;10cm3), primary surgery is preferred in patients who are good surgical risks\nIf T3 or N+ on EUS, if PET shows no metastatic disease, neoadjuvant therapy is optimal)\n\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be evaluated with PET scan.\n\nIf PET shows disease confined to the esophagus and regional nodes, trimodality therapy (chemoradiation followed by surgery) is optimal.\nIf PET shows metastatic disease, patients are eligible for palliative chemotherapy with radiation for treatment of symptoms of dysphagia.\nIf PET shows extra-regional lymph node disease, patient is at high risk for distant disease and can be treated with induction chemotherapy followed by chemoradiation and surgical evaluation.",
+    "crumbs": [
+      "Esophageal Cancer",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Esophageal Overview</span>"
+    ]
+  },
+  {
+    "objectID": "04-eso_objectives.html",
+    "href": "04-eso_objectives.html",
+    "title": "16  EsoCa SCORE - JR",
+    "section": "",
+    "text": "Junior Resident SCORE - Esophageal Neoplasms\nJunior Resident SCORE - Esophagectomy\nAnatomy\nEpidemiology and Prevention\n\nWorldwide distribution\nRisk factors\n\nPresentation\n\nSymptoms\nNutritional consequences\n\nDiagnosis and Staging\n\nPhysical findings\nRole of PET scan\nRole of EUS\nTNM staging system\nTreatment Categories\n\nSuperficial\nLocalized\nLocally-advanced\nMetastatic\n\n\nOperative Treatment\n\nIndications for surgery\nOperative anatomy\nGastric tube construction\nIvor Lewis\nTranshiatal\nMcKeown\n\nComplications\n\nPostoperative hypovolemia\nChylothorax\nAnastomotic leak - chest\nAnastomotic leak - neck\nAtrial fibrillation\nAspiration\nVocal cord paralysis\nStomach ischemia\n\nIntraop Decision-making\n\nLiver metastasis\nPeritoneal lesion\n\nNonoperative management\n\nPalliative Radiation\nEsophageal stents",
+    "crumbs": [
+      "Esophageal Cancer",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>EsoCa SCORE - JR</span>"
+    ]
+  },
+  {
+    "objectID": "04-eso_objectives_chief.html",
+    "href": "04-eso_objectives_chief.html",
+    "title": "17  EsoCa Objectives - Chief",
+    "section": "",
+    "text": "Chief Resident SCORE\nEpidemiology and Prevention\n\nWorldwide distribution\nRisk factors for squamous cell carcinoma\nRisk factors for adenocarcinoma\n\nPresentation\n\nSymptoms\nNutritional consequences\n\nDiagnosis and Staging\n\nPhysical findings\nRole of PET scan\nRole of EUS\nTNM staging system\nTreatment Categories\n\nSuperficial\nLocalized\nLocally-advanced\nMetastatic\n\n\nMultidisciplinary Management\n\nHigh-grade dysplasia\nEndoscopic therapy\nPrimary surgical therapy\nTrimodality therapy\n\nOperative Mangement\n\nIvor Lewis\nTranshiatal\nLeft thoracoabdominal\nMcKeown\nAlternative conduits\nComplications and their management\n\nReferences\n\nCROSS Trial Behind the Knife Podcast\nMAGIC Trial\nFREGAT\nDutch TIME trial",
+    "crumbs": [
+      "Esophageal Cancer",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>EsoCa Objectives - Chief</span>"
+    ]
+  },
+  {
+    "objectID": "04-eso_staging.html",
+    "href": "04-eso_staging.html",
+    "title": "18  Staging",
+    "section": "",
+    "text": "The staging workup begins once a diagnosis is made on endoscopy.\nThe first step is to make a preliminary determination whether the tumor is early stage (and can be treated with endoscopy or primary surgery) or later stage (and treated with chemoradiation followed by surgery or with)\nPatients with minimal dysphagia, no weight loss, and tumors with less than 3cm cranio-caudal extent have a reasonable change of being T1 or T2 tumors. Tumors &lt;3cm in length are much more likely to represent T1-2 lesions than those \\(\\geq\\) 3cm(Hollis et al. 2017). For these patients, determining the precise T stage is important in their workup, so endoscopic ultrasound is the most frequent staging study after diagnosis.\nPatients who present with dysphagia are likely to have T3 or T4 disease, which is generally treated with neoadjuvant chemoradiation followed by surgery. Data from Memorial Sloan Kettering [Ripley 226] among 61 patients with esophageal cancer who presented with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors. On the other hand, among 53 patients without dysphagia, 25 (47%) were uT1-2, and were potentially candidates for primary surgery. Their conclusion was that EUS could be omitted from the workup of patients with dysphagia, but is useful in patients without dysphagia.\nPET can be helpful in evaluating patients who may have T1-2 disease, and might be candidates for primary surgical therapy. A comparison of PET and EUS [malik,claxton,1] showed that uT1-2 tumors had median metabolic tumor volume (MTV) of 6.7cm3, compared with uT3-4 tumors, with a median SUV of 35.7cm3.\n\n\n\n\nHollis, Alexander C., Lauren M. Quinn, James Hodson, Emily Evans, James Plowright, Ruksana Begum, Harriet Mitchell, Mike T. Hallissey, John L. Whiting, and Ewen A. Griffiths. 2017. “Prognostic Significance of Tumor Length in Patients Receiving Esophagectomy for Esophageal Cancer.” Journal of Surgical Oncology 116 (8): 1114–22. https://doi.org/10.1002/jso.24789.",
+    "crumbs": [
+      "Esophageal Cancer",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Staging</span>"
+    ]
+  },
+  {
+    "objectID": "04-eso_nutrition.html",
+    "href": "04-eso_nutrition.html",
+    "title": "19  Nutrition",
+    "section": "",
+    "text": "19.1 Jejunostomy tubes\nJejunostomy tubes are the conventional method used for nutritional support in patients with esophageal cancer who may under surgery in the future. Jejunostomy avoids potential damage to the (future) gastric conduit most commonly used for reconstruction of the esophagus.",
+    "crumbs": [
+      "Esophageal Cancer",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "04-eso_nutrition.html#gastrostomy-tubes",
+    "href": "04-eso_nutrition.html#gastrostomy-tubes",
+    "title": "19  Nutrition",
+    "section": "19.2 Gastrostomy tubes",
+    "text": "19.2 Gastrostomy tubes\nPEG in esophageal cancer (Margolis et al. 2003). PEG placement planned in 119/179 patients with new diagnosis of esophageal cancer. Successful in 103/119. No incidence of tumor inoculation metastasis noted. 61 patients underwent surgery and none had difficulty with gastrostomy closure. PEG patients were more likely to complete chemoRT and had better survival at 12 months.\nCase report of PEG causing injury to right gastroepiploic artery (Ohnmacht et al. 2006)\n\n\n\n\nMargolis, Marc, Pendleton Alexander, Gregory D Trachiotis, Farid Gharagozloo, and Timothy Lipman. 2003. “Percutaneous Endoscopic Gastrostomy Before Multimodality Therapy in Patients with Esophageal Cancer.” The Annals of Thoracic Surgery 76 (5): 1694–98. https://doi.org/10.1016/S0003-4975(02)04890-7.\n\n\nOhnmacht, G. A., M. S. Allen, S. D. Cassivi, C. Deschamps, F. C. Nichols, and P. C. Pairolero. 2006. “Percutaneous Endoscopic Gastrostomy Risks Rendering the Gastric Conduit Unusable for Esophagectomy.” Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus 19 (4): 311–12. https://doi.org/10.1111/j.1442-2050.2006.00588.x.",
+    "crumbs": [
+      "Esophageal Cancer",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Nutrition</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Hollis, Alexander C., Lauren M. Quinn, James Hodson, Emily Evans, James\nPlowright, Ruksana Begum, Harriet Mitchell, Mike T. Hallissey, John L.\nWhiting, and Ewen A. Griffiths. 2017. “Prognostic Significance of\nTumor Length in Patients Receiving Esophagectomy for Esophageal\nCancer.” Journal of Surgical Oncology 116 (8): 1114–22.\nhttps://doi.org/10.1002/jso.24789.\n\n\nMargolis, Marc, Pendleton Alexander, Gregory D Trachiotis, Farid\nGharagozloo, and Timothy Lipman. 2003. “Percutaneous Endoscopic\nGastrostomy Before Multimodality Therapy in Patients with Esophageal\nCancer.” The Annals of Thoracic Surgery 76 (5): 1694–98.\nhttps://doi.org/10.1016/S0003-4975(02)04890-7.\n\n\nOhnmacht, G. A., M. S. Allen, S. D. Cassivi, C. Deschamps, F. C.\nNichols, and P. C. Pairolero. 2006. “Percutaneous Endoscopic\nGastrostomy Risks Rendering the Gastric Conduit Unusable for\nEsophagectomy.” Diseases of the Esophagus: Official Journal\nof the International Society for Diseases of the Esophagus 19 (4):\n311–12. https://doi.org/10.1111/j.1442-2050.2006.00588.x.",
+    "crumbs": [
+      "References"
+    ]
   }
 ]
