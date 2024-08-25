@@ -25,6 +25,20 @@ book:
       - 02-lap_gastrostomy.qmd
       - 02-robot_STgastrectomy.qmd
       - 02-esophagectomy_one_stage.qmd
+    - part: "Esophageal Cancer"
+      chapters: 
+      - 04-eso_overview.qmd
+      - 04-eso_objectives.qmd
+      - 04-eso_objectives_chief.qmd
+      - 04-eso_staging.qmd
+      - 04-eso_nutrition.qmd
+      - 04-eso_surgery.qmd
+    - part: "Gastric Cancer"
+    - part: "Colon Cancer"
+    - part: "Rectal Cancer"
+    - part: "Anal Cancer"
+    - part: "Sarcomda"
+    - part: "Melanoma"
     - references.qmd
 
 bibliography: zotero.bib
