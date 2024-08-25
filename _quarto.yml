@@ -5,6 +5,10 @@ book:
   title: "CMC GI Surgical Oncology Handbook"
   author: "Jonathan Salo MD"
   #date: "8/22/2024"
+  repo-url: https://github.com/gisurgonc/handbook/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  reader-mode: true
   chapters:
     - index.qmd
     - part: "Clinical Care"
@@ -50,6 +54,7 @@ format:
     theme: cosmo
   pdf:
     documentclass: book
+    #documentclass: scrbook
 
 editor: visual
 
