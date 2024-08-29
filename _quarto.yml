@@ -43,6 +43,8 @@ book:
     - part: "Colon Cancer"
     - part: "Rectal Cancer"
     - part: "Anal Cancer"
+      chapters: 
+      - 08-anal_SCCA.qmd
     - part: "Sarcomda"
     - part: "Melanoma"
     - references.qmd
