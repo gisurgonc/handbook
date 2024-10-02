@@ -35,8 +35,16 @@ book:
       - 04-eso_objectives.qmd
       - 04-eso_objectives_chief.qmd
       - 04-eso_staging.qmd
+      - 04-eso_t0.qmd
+      - 04-eso_t1.qmd
+      - 04-eso_t3.qmd
+      - 04-eso_m1.qmd
+      - 04-eso_dCRT.qmd
+      - o4-eso_salvage.qmd
       - 04-eso_nutrition.qmd
       - 04-eso_surgery.qmd
+      - 04-eso_survivorship.qmd
+      - 04-eso_surveillance.qmd
     - part: "Gastric Cancer"
       chapters:
       - 05-gastric_CDH1.qmd
