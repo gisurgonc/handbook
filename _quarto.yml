@@ -29,6 +29,15 @@ book:
       - 02-lap_gastrostomy.qmd
       - 02-robot_STgastrectomy.qmd
       - 02-esophagectomy_one_stage.qmd
+    - part: "Postop Care"
+      - 03-postop_colectomy.qmd
+      - 03-postop_lar.qmd
+      - 03-postop_apr.qmd
+      - 03-gastrostomy.qmd
+      - 03-jejunostomy.qmd
+      - 03-jejunostomy_diabetes.qmd
+      - 03-icu_esophagectomy.qmd
+      - 03-ward_esophagectomy.qmd
     - part: "Esophageal Cancer"
       chapters: 
       - 04-eso_overview.qmd

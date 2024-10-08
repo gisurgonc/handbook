@@ -1,0 +1,53 @@
+# Jejunostomy Feedings
+
+Due to the osmotic load, jejunostomy feedings are given via enteral (Kangaroo) pump rather than bolus feeding. Feedings are generally begun as continuous (around-the-clock) and are then transitioned to nocturnal (generally 6pm to 10am) prior to discharge.
+
+Jejunostomy feedings carry a small but significant risk (~1%) of small bowel necrosis, as evidenced by the findings of pneumatosis on CT scan and in some cases small bowel necrosis and perforation. The existing literature would suggest that the early symptoms associated with small bowel necrosis are abdominal distension. As a result, patients on jejunostomy tube feeding need to be carefully monitored for distension, and tube feeds held if distension develops.[@taylor34] Tube feeds are generally started at 30mL/hour in the immediate postoperative patients. In patients who are awake and in whom it is possible to determine whether or not there are issues of tube feed intolerance, the rate of tube feedings is increased 10mL/hour every 12 hours to a goal of 60mL/hour for women and 75mL/hour for men. In patients who are intubated/sedated, the advancement of tube feeds is individualized, and decisions are made on a daily basis on rounds.
+
+
+For patients who receive tube feedings preoperatively, the same formula is generally used after surgery.
+
+For patients with BMI less than 35, Osmolite 1.5 is used as a starting formula. If Osmolite is not tolerated due to diarrhea, Vital 1.5 can be used. For patients with BMI greater than 35, Promote is used as a starting formula, as it contains a lower amount of carbohydrates then Osmolite 1.5. Patients who are intolerant to Promote can be switched to Vital High Protein.
+
+Patients less than 150 pounds receive 4 cans of tube feedings, administered at 60mL/hour x 16 hours (6pm to 10am). Patients greater than 150 pounds receive 5 cans of tube feedings, administered at 75mL/hour x 16 hours (6pm to 10am). Patients with BMI >35 receive 5 cans of Promote (or Vital High Protein).
+
+Glucerna is formulated with carbohydrates with low glycemic index, which is particularly helpful for bolus feeding (via gastrostomy) or patients who are eating. Glycemic index is less important in patients on continuous tube feeds (eg via jejunostomy). In addition, the high fiber context of Glucerna may make this formula more prone to causing clogging of jejunostomy tubes.
+Free Water Flushes
+
+Once patients are transferred to the ward, free water via jejunostomy should be ordered as 240mL via jejunostomy qid. This is entered under Flush Enteral Tube for Free Water Requirements.
+Diarrhea with Jejunostomy Feedings
+
+Patients who experience diarrhea during jejunostomy administration (especially diarrhea at night) will need this addressed. Several steps
+
+  - Send stool for C Diff
+  - Consider changing tube feedings to a more easily digestible formula. Patients on Osmolite 1.5 can be changed to Vital 1.5. Patients on Vital 1.5 can be changed to Vivonex. Patients on Promote can be changed to Vital High Protein
+  - Stop tube feedings for 2-4 hours to allow diarrhea to resolve
+  - restart tube feeds at a lower rate (eg 20mL/hour lower than the prior rate).
+  - Bannatrol can be given to patients taking an oral diet. Bannatrol is NOT given via jejunostomy tube to avoid clogging.
+  - Lomotil is generally used as a last resort.
+
+
+## Med Administration via J-Tubes
+
+Patients who have difficulty with dysphagia or complete esophageal obstruction will need to have their medicines administered via jejunostomy tube. The process of designing a medicine regimen which can safely be administered via enteral tube can be a challenge and may require a consultation with the hospital pharmacist. One the other hand, the financial consequences of a clogged feeding tube are substantial. **Flomax is never given via jejunostomy tubes due to risk of clogging**.
+
+Several common medicines are available in liquid form:
+
+- Acetaminophen (pediatric formulation)
+- Gabapentin
+- Oxycodone
+- Hydrocodone + acetaminophen
+- Reglan
+
+
+Apart from delayed-release medicines and Flomax (tamsulosin), most medicines can be crushed and resuspended and administered via gastrostomy tube if needed.
+
+Nexium can be administered by opening the capsule and resuspending the beads in 50mL of water.  The beads are resuspended and administered.  In this case, the beads don't dissolve in the syringe, but can be administered without risk of clogging.
+
+## Occluded Jejunostomy Tubes
+
+Jejunostomy tubes which are refractory to the usual non-invasive means (warm water, Coca-Cola) will need to be changed over a wire in Interventional Radiology.
+
+## Jejunostomy feedings on preop Patients
+
+Scope Anesthesia policy states the jejunostomy feeds are considered equivalent to oral solid food in terms of NPO interval.  In general, jejunostomy tube feeds should be held at midnight the night before surgery.

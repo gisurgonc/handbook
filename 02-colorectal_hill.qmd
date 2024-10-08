@@ -1,4 +1,4 @@
-# Colorectal Cases - Hill/Squires
+# Colorectal Cases
 
 ## Preop
 
@@ -7,6 +7,12 @@ ADULT SURG Colorectal ERAS MPP Hill This is what has all of the main ERAS compon
 ADULT STANDING Antimicrobial colorectal In general, I will give Ancef to patients with almost all patients with allergies to PCN. They have to remember the “severe” reaction. If it is a severe reaction, please use the second line antibiotics listed in the power plan.
 
 Type and Screen are not typically needed for colectomy. They will have an antibody screen from office. If antibodies present, then d/w attending
+
+Entereg for all colorectal patients (if they are not taking preoperative opoids)
+
+VTE prophylaxix
+
+Carbohydrate load (2 hours preop)
 
 ## Intraop
 
@@ -17,3 +23,9 @@ Right sided=supine; Left sided=lithotomy; All laparoscopic colon cases will have
 NG/OG tubes: usually not needed, unless there is gastric distension. Patients receive multiple oral medicatinos in preop.
 
 Review anesthesia fluid management during time out. 2L max volume, urine output not an accurate indicator.
+
+Open procedures: No Epidural
+
+## Postop
+
+Fluids: Goal of 3 liters total in first 24 hours
