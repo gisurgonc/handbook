@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>2&nbsp; Pineville Inpatient – CMC GI Surgical Oncology Handbook</title>
+<title>19&nbsp; Jejunostomy Feedings – CMC GI Surgical Oncology Handbook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./01-rounds.html" rel="next">
-<link href="./01-cmc_inpatient.html" rel="prev">
+<link href="./03-jejunostomy_diabetes.html" rel="next">
+<link href="./03-gastrostomy.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-cmc_inpatient.html">Clinical Care</a></li><li class="breadcrumb-item"><a href="./01-pv_inpatient.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-postop_colectomy.html">Postop Care</a></li><li class="breadcrumb-item"><a href="./03-jejunostomy.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Jejunostomy Feedings</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -137,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01-pv_inpatient.html" class="sidebar-item-text sidebar-link active">
+  <a href="./01-pv_inpatient.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></span></a>
   </div>
 </li>
@@ -261,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03-jejunostomy.html" class="sidebar-item-text sidebar-link">
+  <a href="./03-jejunostomy.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Jejunostomy Feedings</span></span></a>
   </div>
 </li>
@@ -446,20 +466,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#rounds" id="toc-rounds" class="nav-link active" data-scroll-target="#rounds"><span class="header-section-number">2.1</span> Rounds</a></li>
-  <li><a href="#resident-epic-teams" id="toc-resident-epic-teams" class="nav-link" data-scroll-target="#resident-epic-teams"><span class="header-section-number">2.2</span> Resident Epic teams:</a></li>
-  <li><a href="#consults" id="toc-consults" class="nav-link" data-scroll-target="#consults"><span class="header-section-number">2.3</span> Consults</a></li>
-  <li><a href="#postop-clinic-appts" id="toc-postop-clinic-appts" class="nav-link" data-scroll-target="#postop-clinic-appts"><span class="header-section-number">2.4</span> Postop Clinic Appts</a></li>
-  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences"><span class="header-section-number">2.5</span> Conferences</a></li>
+  <li><a href="#med-administration-via-j-tubes" id="toc-med-administration-via-j-tubes" class="nav-link active" data-scroll-target="#med-administration-via-j-tubes"><span class="header-section-number">19.1</span> Med Administration via J-Tubes</a></li>
+  <li><a href="#occluded-jejunostomy-tubes" id="toc-occluded-jejunostomy-tubes" class="nav-link" data-scroll-target="#occluded-jejunostomy-tubes"><span class="header-section-number">19.2</span> Occluded Jejunostomy Tubes</a></li>
+  <li><a href="#jejunostomy-feedings-on-preop-patients" id="toc-jejunostomy-feedings-on-preop-patients" class="nav-link" data-scroll-target="#jejunostomy-feedings-on-preop-patients"><span class="header-section-number">19.3</span> Jejunostomy feedings on preop Patients</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/01-pv_inpatient.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/03-jejunostomy.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-cmc_inpatient.html">Clinical Care</a></li><li class="breadcrumb-item"><a href="./01-pv_inpatient.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-postop_colectomy.html">Postop Care</a></li><li class="breadcrumb-item"><a href="./03-jejunostomy.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Jejunostomy Feedings</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></h1>
+<h1 class="title"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Jejunostomy Feedings</span></h1>
 </div>
 
 
@@ -476,55 +494,50 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="rounds" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="rounds"><span class="header-section-number">2.1</span> Rounds</h2>
-<p>Starting time for rounds is variable from day to day. Maddie Georgino will help organize work and timing of rounds, etc.</p>
-</section>
-<section id="resident-epic-teams" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="resident-epic-teams"><span class="header-section-number">2.2</span> Resident Epic teams:</h2>
+<p>Due to the osmotic load, jejunostomy feedings are given via enteral (Kangaroo) pump rather than bolus feeding. Feedings are generally begun as continuous (around-the-clock) and are then transitioned to nocturnal (generally 6pm to 10am) prior to discharge.</p>
+<p>Jejunostomy feedings carry a small but significant risk (~1%) of small bowel necrosis, as evidenced by the findings of pneumatosis on CT scan and in some cases small bowel necrosis and perforation. The existing literature would suggest that the early symptoms associated with small bowel necrosis are abdominal distension. As a result, patients on jejunostomy tube feeding need to be carefully monitored for distension, and tube feeds held if distension develops.<span class="citation" data-cites="taylor34">(<a href="references.html#ref-taylor34" role="doc-biblioref">Taylor et al. 2014</a>)</span> Tube feeds are generally started at 30mL/hour in the immediate postoperative patients. In patients who are awake and in whom it is possible to determine whether or not there are issues of tube feed intolerance, the rate of tube feedings is increased 10mL/hour every 12 hours to a goal of 60mL/hour for women and 75mL/hour for men. In patients who are intubated/sedated, the advancement of tube feeds is individualized, and decisions are made on a daily basis on rounds.</p>
+<p>For patients who receive tube feedings preoperatively, the same formula is generally used after surgery.</p>
+<p>For patients with BMI less than 35, Osmolite 1.5 is used as a starting formula. If Osmolite is not tolerated due to diarrhea, Vital 1.5 can be used. For patients with BMI greater than 35, Promote is used as a starting formula, as it contains a lower amount of carbohydrates then Osmolite 1.5. Patients who are intolerant to Promote can be switched to Vital High Protein.</p>
+<p>Patients less than 150 pounds receive 4 cans of tube feedings, administered at 60mL/hour x 16 hours (6pm to 10am). Patients greater than 150 pounds receive 5 cans of tube feedings, administered at 75mL/hour x 16 hours (6pm to 10am). Patients with BMI &gt;35 receive 5 cans of Promote (or Vital High Protein).</p>
+<p>Glucerna is formulated with carbohydrates with low glycemic index, which is particularly helpful for bolus feeding (via gastrostomy) or patients who are eating. Glycemic index is less important in patients on continuous tube feeds (eg via jejunostomy). In addition, the high fiber context of Glucerna may make this formula more prone to causing clogging of jejunostomy tubes. Free Water Flushes</p>
+<p>Once patients are transferred to the ward, free water via jejunostomy should be ordered as 240mL via jejunostomy qid. This is entered under Flush Enteral Tube for Free Water Requirements. Diarrhea with Jejunostomy Feedings</p>
+<p>Patients who experience diarrhea during jejunostomy administration (especially diarrhea at night) will need this addressed. Several steps</p>
 <ul>
-<li>Colorectal Surgery Pineville</li>
+<li>Send stool for C Diff</li>
+<li>Consider changing tube feedings to a more easily digestible formula. Patients on Osmolite 1.5 can be changed to Vital 1.5. Patients on Vital 1.5 can be changed to Vivonex. Patients on Promote can be changed to Vital High Protein</li>
+<li>Stop tube feedings for 2-4 hours to allow diarrhea to resolve</li>
+<li>restart tube feeds at a lower rate (eg 20mL/hour lower than the prior rate).</li>
+<li>Bannatrol can be given to patients taking an oral diet. Bannatrol is NOT given via jejunostomy tube to avoid clogging.</li>
+<li>Lomotil is generally used as a last resort.</li>
 </ul>
-<p>Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.</p>
-<p>Please append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.</p>
-</section>
-<section id="consults" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="consults"><span class="header-section-number">2.3</span> Consults</h2>
-<p>Established patients and directed should be discussed with the attending surgeon.</p>
-</section>
-<section id="postop-clinic-appts" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="postop-clinic-appts"><span class="header-section-number">2.4</span> Postop Clinic Appts</h2>
-<p>Postoperative patients are generally seen for a Transition of Care visit at about two weeks.</p>
-<p>Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:</p>
+<section id="med-administration-via-j-tubes" class="level2" data-number="19.1">
+<h2 data-number="19.1" class="anchored" data-anchor-id="med-administration-via-j-tubes"><span class="header-section-number">19.1</span> Med Administration via J-Tubes</h2>
+<p>Patients who have difficulty with dysphagia or complete esophageal obstruction will need to have their medicines administered via jejunostomy tube. The process of designing a medicine regimen which can safely be administered via enteral tube can be a challenge and may require a consultation with the hospital pharmacist. One the other hand, the financial consequences of a clogged feeding tube are substantial. <strong>Flomax is never given via jejunostomy tubes due to risk of clogging</strong>.</p>
+<p>Several common medicines are available in liquid form:</p>
 <ul>
-<li>Hale Mock</li>
-<li>Kamisha Wilson</li>
-<li>Madeline Georgino</li>
+<li>Acetaminophen (pediatric formulation)</li>
+<li>Gabapentin</li>
+<li>Oxycodone</li>
+<li>Hydrocodone + acetaminophen</li>
+<li>Reglan</li>
 </ul>
-<p>Please include the following information in the Canopy Message:</p>
-<ul>
-<li>Name of attending</li>
-<li>Ward from which the patient is being discharged</li>
-<li>Desired date for appointment</li>
-<li>Need for Wound Ostomy RN appointment at same time (essential for new stomas)</li>
-<li>Need for bloodwork at first visit</li>
-<li>Other studies to be done after discharge
-<ul>
-<li>Upper GI</li>
-<li>Chest X-ray</li>
-</ul></li>
-</ul>
-<p>For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.</p>
+<p>Apart from delayed-release medicines and Flomax (tamsulosin), most medicines can be crushed and resuspended and administered via gastrostomy tube if needed.</p>
+<p>Nexium can be administered by opening the capsule and resuspending the beads in 50mL of water. The beads are resuspended and administered. In this case, the beads don’t dissolve in the syringe, but can be administered without risk of clogging.</p>
 </section>
-<section id="conferences" class="level2" data-number="2.5">
-<h2 data-number="2.5" class="anchored" data-anchor-id="conferences"><span class="header-section-number">2.5</span> Conferences</h2>
-<ul>
-<li>GI Tumor Planning Conf Monday 7-8am (Teams)</li>
-<li>Resident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.</li>
-<li>Bone and Soft Tissue Conference Friday 7-8am (Teams)</li>
-</ul>
+<section id="occluded-jejunostomy-tubes" class="level2" data-number="19.2">
+<h2 data-number="19.2" class="anchored" data-anchor-id="occluded-jejunostomy-tubes"><span class="header-section-number">19.2</span> Occluded Jejunostomy Tubes</h2>
+<p>Jejunostomy tubes which are refractory to the usual non-invasive means (warm water, Coca-Cola) will need to be changed over a wire in Interventional Radiology.</p>
+</section>
+<section id="jejunostomy-feedings-on-preop-patients" class="level2" data-number="19.3">
+<h2 data-number="19.3" class="anchored" data-anchor-id="jejunostomy-feedings-on-preop-patients"><span class="header-section-number">19.3</span> Jejunostomy feedings on preop Patients</h2>
+<p>Scope Anesthesia policy states the jejunostomy feeds are considered equivalent to oral solid food in terms of NPO interval. In general, jejunostomy tube feeds should be held at midnight the night before surgery.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-taylor34" class="csl-entry" role="listitem">
+Taylor, Fiona G. M., Philip Quirke, Richard J. Heald, Brendan J. Moran, Lennart Blomqvist, Ian R. Swift, David Sebag-Montefiore, Paris Tekkis, Gina Brown, and Magnetic Resonance Imaging in Rectal Cancer European Equivalence Study Study Group. 2014. <span>“Preoperative Magnetic Resonance Imaging Assessment of Circumferential Resection Margin Predicts Disease-Free Survival and Local Recurrence: 5-Year Follow-up Results of the <span>MERCURY</span> Study.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 32 (1): 34–43. <a href="https://doi.org/10.1200/JCO.2012.45.3258">https://doi.org/10.1200/JCO.2012.45.3258</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -950,13 +963,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./01-cmc_inpatient.html" class="pagination-link" aria-label="CMC Inpatient">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">CMC Inpatient</span></span>
+      <a href="./03-gastrostomy.html" class="pagination-link" aria-label="Gastrostomy Feeds">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Gastrostomy Feeds</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./01-rounds.html" class="pagination-link" aria-label="Rounds">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Rounds</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./03-jejunostomy_diabetes.html" class="pagination-link" aria-label="Jejunostomy + Diabetes">
+        <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Jejunostomy + Diabetes</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -965,4 +978,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/01-pv_inpatient.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/03-jejunostomy.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

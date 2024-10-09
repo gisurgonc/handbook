@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>2&nbsp; Pineville Inpatient – CMC GI Surgical Oncology Handbook</title>
+<title>28&nbsp; Superficial EsoCa (T1) – CMC GI Surgical Oncology Handbook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./01-rounds.html" rel="next">
-<link href="./01-cmc_inpatient.html" rel="prev">
+<link href="./04-eso_t3.html" rel="next">
+<link href="./04-eso_t0.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-cmc_inpatient.html">Clinical Care</a></li><li class="breadcrumb-item"><a href="./01-pv_inpatient.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-eso_overview.html">Esophageal Cancer</a></li><li class="breadcrumb-item"><a href="./04-eso_t1.html"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Superficial EsoCa (T1)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -137,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01-pv_inpatient.html" class="sidebar-item-text sidebar-link active">
+  <a href="./01-pv_inpatient.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></span></a>
   </div>
 </li>
@@ -326,7 +346,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04-eso_t1.html" class="sidebar-item-text sidebar-link">
+  <a href="./04-eso_t1.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Superficial EsoCa (T1)</span></span></a>
   </div>
 </li>
@@ -446,20 +466,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#rounds" id="toc-rounds" class="nav-link active" data-scroll-target="#rounds"><span class="header-section-number">2.1</span> Rounds</a></li>
-  <li><a href="#resident-epic-teams" id="toc-resident-epic-teams" class="nav-link" data-scroll-target="#resident-epic-teams"><span class="header-section-number">2.2</span> Resident Epic teams:</a></li>
-  <li><a href="#consults" id="toc-consults" class="nav-link" data-scroll-target="#consults"><span class="header-section-number">2.3</span> Consults</a></li>
-  <li><a href="#postop-clinic-appts" id="toc-postop-clinic-appts" class="nav-link" data-scroll-target="#postop-clinic-appts"><span class="header-section-number">2.4</span> Postop Clinic Appts</a></li>
-  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences"><span class="header-section-number">2.5</span> Conferences</a></li>
+  <li><a href="#emr" id="toc-emr" class="nav-link active" data-scroll-target="#emr"><span class="header-section-number">28.1</span> Endscopic Mucosal Resection (EMR)</a></li>
+  <li><a href="#esd" id="toc-esd" class="nav-link" data-scroll-target="#esd"><span class="header-section-number">28.2</span> Endoscopic submucosal dissection (ESD).</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/01-pv_inpatient.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/04-eso_t1.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-cmc_inpatient.html">Clinical Care</a></li><li class="breadcrumb-item"><a href="./01-pv_inpatient.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-eso_overview.html">Esophageal Cancer</a></li><li class="breadcrumb-item"><a href="./04-eso_t1.html"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Superficial EsoCa (T1)</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pineville Inpatient</span></h1>
+<h1 class="title"><span id="superficial" class="quarto-section-identifier"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Superficial EsoCa (T1)</span></span></h1>
 </div>
 
 
@@ -476,55 +493,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="rounds" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="rounds"><span class="header-section-number">2.1</span> Rounds</h2>
-<p>Starting time for rounds is variable from day to day. Maddie Georgino will help organize work and timing of rounds, etc.</p>
-</section>
-<section id="resident-epic-teams" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="resident-epic-teams"><span class="header-section-number">2.2</span> Resident Epic teams:</h2>
+<p>Superficial esophageal cancer is usually asymptomatic, which means that the diagnosis is generally made in the context of surveillance for Barrett’s esophagus.</p>
+<p>Nodular Barrett’s esophagus can be best evaluated with endoscopic mucosal resection, which can provide further staging information if an adenocarcinoma is found, such as depth of invasion, differentiation, and lymphovascular invasion.</p>
+<p>Larger lesions arising within Barrett’s esophagus should first be evaluated with endoscopic ultrasound (EUS)</p>
+<p>EUS is less sensitive for T1 lesions <span class="citation" data-cites="bergeron765">(<a href="references.html#ref-bergeron765" role="doc-biblioref">Bergeron et al. 2014</a>)</span> -&gt; use EMR for diagnosis <span class="citation" data-cites="maish1777">(<a href="references.html#ref-maish1777" role="doc-biblioref">Maish and DeMeester 2004</a>)</span></p>
+<p>T1a tumors have a low risk of nodal metastasis <span class="citation" data-cites="dunbar850">(<a href="references.html#ref-dunbar850" role="doc-biblioref">Dunbar and Spechler 2012</a>)</span></p>
+<section id="emr" class="level2" data-number="28.1">
+<h2 data-number="28.1" class="anchored" data-anchor-id="emr"><span class="header-section-number">28.1</span> Endscopic Mucosal Resection (EMR)</h2>
+<p>For patients with nodular Barrett’s esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.</p>
+<p>EMR is likely sufficient for small tumors with favorable pathologic factors<span class="citation" data-cites="pech652">(<a href="references.html#ref-pech652" role="doc-biblioref">Oliver Pech et al. 2014</a>)</span> <span class="citation" data-cites="nurkin1090">(<a href="references.html#ref-nurkin1090" role="doc-biblioref">Nurkin et al. 2014</a>)</span>:</p>
 <ul>
-<li>Colorectal Surgery Pineville</li>
+<li>Size less than 2cm</li>
+<li>Lateral and deep margins clear</li>
+<li>Absence of lymphovascular invasion</li>
+<li>Well- or moderately- differentiated</li>
 </ul>
-<p>Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Epic schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.</p>
-<p>Please append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.</p>
+<p>Need for RFA of Barrett’s after EMR: <span class="citation" data-cites="haidry87">(<a href="references.html#ref-haidry87" role="doc-biblioref">Haidry et al. 2013</a>)</span> Combination therapy with EMR and RFA results in lower rate of recurrence than EMR alone.<span class="citation" data-cites="pech1200">(<a href="references.html#ref-pech1200" role="doc-biblioref">O. Pech et al. 2008</a>)</span></p>
+<p>Review of EMR: <span class="citation" data-cites="soetikno4490">(<a href="references.html#ref-soetikno4490" role="doc-biblioref">Soetikno et al. 2005</a>)</span> <!---JCO 2005---></p>
 </section>
-<section id="consults" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="consults"><span class="header-section-number">2.3</span> Consults</h2>
-<p>Established patients and directed should be discussed with the attending surgeon.</p>
-</section>
-<section id="postop-clinic-appts" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="postop-clinic-appts"><span class="header-section-number">2.4</span> Postop Clinic Appts</h2>
-<p>Postoperative patients are generally seen for a Transition of Care visit at about two weeks.</p>
-<p>Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:</p>
-<ul>
-<li>Hale Mock</li>
-<li>Kamisha Wilson</li>
-<li>Madeline Georgino</li>
-</ul>
-<p>Please include the following information in the Canopy Message:</p>
-<ul>
-<li>Name of attending</li>
-<li>Ward from which the patient is being discharged</li>
-<li>Desired date for appointment</li>
-<li>Need for Wound Ostomy RN appointment at same time (essential for new stomas)</li>
-<li>Need for bloodwork at first visit</li>
-<li>Other studies to be done after discharge
-<ul>
-<li>Upper GI</li>
-<li>Chest X-ray</li>
-</ul></li>
-</ul>
-<p>For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.</p>
-</section>
-<section id="conferences" class="level2" data-number="2.5">
-<h2 data-number="2.5" class="anchored" data-anchor-id="conferences"><span class="header-section-number">2.5</span> Conferences</h2>
-<ul>
-<li>GI Tumor Planning Conf Monday 7-8am (Teams)</li>
-<li>Resident Teaching Conf 7-8am in Conference Room. Please review the upcoming clinic schedule and choose a case to present.</li>
-<li>Bone and Soft Tissue Conference Friday 7-8am (Teams)</li>
-</ul>
+<section id="esd" class="level2" data-number="28.2">
+<h2 data-number="28.2" class="anchored" data-anchor-id="esd"><span class="header-section-number">28.2</span> Endoscopic submucosal dissection (ESD).</h2>
+<p>Endoscopic submucosal dissection is a technique for deeper endoscopic removal of esophageal lesions using endoscopic cautery, which dissects through the submucosa. ESD has a higher rate of curative resection <span class="citation" data-cites="cao751">(<a href="references.html#ref-cao751" role="doc-biblioref">Cao et al. 2009</a>)</span> albeit at the cost of prolonged operative times and increased risk of complications such a bleeding. <span class="citation" data-cites="repici715">(<a href="references.html#ref-repici715" role="doc-biblioref">Repici et al. 2010</a>)</span></p>
+<p>ESD takes more time and has higher R0 resection rate but similar recurrence rate at 2 years <span class="citation" data-cites="terheggen783">(<a href="references.html#ref-terheggen783" role="doc-biblioref">Terheggen et al. 2017</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-bergeron765" class="csl-entry" role="listitem">
+Bergeron, Edward J., Jules Lin, Andrew C. Chang, Mark B. Orringer, and Rishindra M. Reddy. 2014. <span>“Endoscopic Ultrasound Is Inadequate to Determine Which <span>T1</span>/<span>T2</span> Esophageal Tumors Are Candidates for Endoluminal Therapies.”</span> <em>The Journal of Thoracic and Cardiovascular Surgery</em> 147 (2): 765-771: Discussion 771-773. <a href="https://doi.org/10.1016/j.jtcvs.2013.10.003">https://doi.org/10.1016/j.jtcvs.2013.10.003</a>.
+</div>
+<div id="ref-cao751" class="csl-entry" role="listitem">
+Cao, Y., C. Liao, A. Tan, Y. Gao, Z. Mo, and F. Gao. 2009. <span>“Meta-Analysis of Endoscopic Submucosal Dissection Versus Endoscopic Mucosal Resection for Tumors of the Gastrointestinal Tract.”</span> <em>Endoscopy</em> 41 (9): 751–57. <a href="https://doi.org/10.1055/s-0029-1215053">https://doi.org/10.1055/s-0029-1215053</a>.
+</div>
+<div id="ref-dunbar850" class="csl-entry" role="listitem">
+Dunbar, Kerry B., and Stuart Jon Spechler. 2012. <span>“The Risk of Lymph-Node Metastases in Patients with High-Grade Dysplasia or Intramucosal Carcinoma in <span>Barrett</span>’s Esophagus: A Systematic Review.”</span> <em>The American Journal of Gastroenterology</em> 107 (6): 850–862; quiz 863. <a href="https://doi.org/10.1038/ajg.2012.78">https://doi.org/10.1038/ajg.2012.78</a>.
+</div>
+<div id="ref-haidry87" class="csl-entry" role="listitem">
+Haidry, Rehan J., Jason M. Dunn, Mohammed A. Butt, Matthew G. Burnell, Abhinav Gupta, Sarah Green, Haroon Miah, et al. 2013. <span>“Radiofrequency Ablation and Endoscopic Mucosal Resection for Dysplastic Barrett’s Esophagus and Early Esophageal Adenocarcinoma: Outcomes of the <span>UK</span> <span>National</span> <span>Halo</span> <span>RFA</span> <span>Registry</span>.”</span> <em>Gastroenterology</em> 145 (1): 87–95. <a href="https://doi.org/10.1053/j.gastro.2013.03.045">https://doi.org/10.1053/j.gastro.2013.03.045</a>.
+</div>
+<div id="ref-maish1777" class="csl-entry" role="listitem">
+Maish, Mary S., and Steven R. DeMeester. 2004. <span>“Endoscopic Mucosal Resection as a Staging Technique to Determine the Depth of Invasion of Esophageal Adenocarcinoma.”</span> <em>The Annals of Thoracic Surgery</em> 78 (5): 1777–82. <a href="https://doi.org/10.1016/j.athoracsur.2004.04.064">https://doi.org/10.1016/j.athoracsur.2004.04.064</a>.
+</div>
+<div id="ref-nurkin1090" class="csl-entry" role="listitem">
+Nurkin, Steven J., Hector R. Nava, Sai Yendamuri, Charles M. LeVea, Chumy E. Nwogu, Adrienne Groman, Gregory Wilding, Andrew J. Bain, Steven N. Hochwald, and Nikhil I. Khushalani. 2014. <span>“Outcomes of Endoscopic Resection for High-Grade Dysplasia and Esophageal Cancer.”</span> <em>Surgical Endoscopy</em> 28 (4): 1090–95. <a href="https://doi.org/10.1007/s00464-013-3270-3">https://doi.org/10.1007/s00464-013-3270-3</a>.
+</div>
+<div id="ref-pech1200" class="csl-entry" role="listitem">
+Pech, O., A. Behrens, A. May, L. Nachbar, L. Gossner, T. Rabenstein, H. Manner, et al. 2008. <span>“Long-Term Results and Risk Factor Analysis for Recurrence After Curative Endoscopic Therapy in 349 Patients with High-Grade Intraepithelial Neoplasia and Mucosal Adenocarcinoma in <span>Barrett</span>’s Oesophagus.”</span> <em>Gut</em> 57 (9): 1200–1206. <a href="https://doi.org/10.1136/gut.2007.142539">https://doi.org/10.1136/gut.2007.142539</a>.
+</div>
+<div id="ref-pech652" class="csl-entry" role="listitem">
+Pech, Oliver, Andrea May, Hendrik Manner, Angelika Behrens, Jürgen Pohl, Maren Weferling, Urs Hartmann, et al. 2014. <span>“Long-Term Efficacy and Safety of Endoscopic Resection for Patients with Mucosal Adenocarcinoma of the Esophagus.”</span> <em>Gastroenterology</em> 146 (3): 652–660.e1. <a href="https://doi.org/10.1053/j.gastro.2013.11.006">https://doi.org/10.1053/j.gastro.2013.11.006</a>.
+</div>
+<div id="ref-repici715" class="csl-entry" role="listitem">
+Repici, Alessandro, Cesare Hassan, Alessandra Carlino, Nico Pagano, Angelo Zullo, Giacomo Rando, Giuseppe Strangio, et al. 2010. <span>“Endoscopic Submucosal Dissection in Patients with Early Esophageal Squamous Cell Carcinoma: Results from a Prospective <span>Western</span> Series.”</span> <em>Gastrointestinal Endoscopy</em> 71 (4): 715–21. <a href="https://doi.org/10.1016/j.gie.2009.11.020">https://doi.org/10.1016/j.gie.2009.11.020</a>.
+</div>
+<div id="ref-soetikno4490" class="csl-entry" role="listitem">
+Soetikno, Roy, Tonya Kaltenbach, Ronald Yeh, and Takuji Gotoda. 2005. <span>“Endoscopic Mucosal Resection for Early Cancers of the Upper Gastrointestinal Tract.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 23 (20): 4490–98. <a href="https://doi.org/10.1200/JCO.2005.19.935">https://doi.org/10.1200/JCO.2005.19.935</a>.
+</div>
+<div id="ref-terheggen783" class="csl-entry" role="listitem">
+Terheggen, Grischa, Eva Maria Horn, Michael Vieth, Helmut Gabbert, Markus Enderle, Alexander Neugebauer, Brigitte Schumacher, and Horst Neuhaus. 2017. <span>“A Randomised Trial of Endoscopic Submucosal Dissection Versus Endoscopic Mucosal Resection for Early <span>Barrett</span>’s Neoplasia.”</span> <em>Gut</em> 66 (5): 783–93. <a href="https://doi.org/10.1136/gutjnl-2015-310126">https://doi.org/10.1136/gutjnl-2015-310126</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -950,13 +977,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./01-cmc_inpatient.html" class="pagination-link" aria-label="CMC Inpatient">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">CMC Inpatient</span></span>
+      <a href="./04-eso_t0.html" class="pagination-link" aria-label="Barrett's Esophagus">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Barrett’s Esophagus</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./01-rounds.html" class="pagination-link" aria-label="Rounds">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Rounds</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./04-eso_t3.html" class="pagination-link" aria-label="Locally Advanced EsoCa">
+        <span class="nav-page-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Locally Advanced EsoCa</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -965,4 +992,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/01-pv_inpatient.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/04-eso_t1.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
