@@ -30,6 +30,7 @@ book:
       - 02-robot_STgastrectomy.qmd
       - 02-esophagectomy_one_stage.qmd
     - part: "Postop Care"
+      chapters:
       - 03-postop_colectomy.qmd
       - 03-postop_lar.qmd
       - 03-postop_apr.qmd
