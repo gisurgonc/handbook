@@ -12,20 +12,20 @@
 
 -   5mm 30 degree scope AND 5mm 0 degree scope
 -   SRI laparoscopic Pan
--   Salo laparoscopic instruments
+-   Salo laparoscopic instruments (or pan with laparoscopic needle drivers)
 
 **Disposables/Meds**
 
 -   Veress needle (with 10mL syringe and saline)
 -   5mm Z-thread optical port (3 on table, 2 more in room)
--   Transverse drape AND laparoscopy drape
+-   Transverse drape (for port) AND laparoscopy drape
 -   Confirm choice of port with surgeon. Usual options
     -   Bard PowerPort 8Fr xx8062
     -   Bard PowerPort 8Fr xx8000 (low profile)
 -   Heparinized saline: 100U/ml (dilute) and 1000U/ml (concentrated)
 -   1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total
 -   Micropuncture kit available/not open (from Anesthesia)
--   Jejunostomy tube: MIC 0301-14
+-   Jejunostomy tube: MIC 0201-14
 -   Silk 2-0 on RB-1 needle (on Surgical Oncology suture cart)
 
 **Position**
@@ -81,20 +81,27 @@ A site for placement of the jejunostomy is selected on the skin, left lateral an
 
 The proximal jejunum is sutured to the anterior abdominal wall with 2-0 silk. This is usually done with a 9″ suture which is introduced into the abdomen with a needle driver “Korean Style” or “Paraguayan Style.” Two cm distal to this suture, a diamond of sutures is placed around the proposed tube site, and one suture placed distal to avoid torsion. The final arrangement of sutures is one proximal and one distal and 4-6 sutures around the tube. All sutures were marked with hemostatic clips to facilitate replacement of the tube via fluoroscopy should the tube become dislodged.
 
-Using Seldinger technique, a 16Fr Cook catheter introducer kit is placed within the jejunum.
+Using Seldinger technique, a 14Fr Cook catheter introducer kit is placed within the jejunum, followed by a 18Fr dilator and sheath
 
-A MIC 14Fr jejunostomy tube (0301-14) with the tabs trimmed with a scalpel, is inserted through the sheath and positioned in the jejunum. The tube was secured with a suture of 0 silk.
+A MIC 14Fr jejunustomy tube (0200-14) is inserted and the balloon inflated with 5mL of sterile WATER. The ballon valve is labeled for 7-10mL of water, but this risks obstruction of the jejunum.
 
-If a balloon tube is used, an 18Fr Cook dilater and sheath is used, followed by a MIC 14Fr jejunustomy tube (0200-14) and the balloon inflated with 7mL of sterile WATER.
+The tube is dressed with a BioPatch and a Tagederm dressing.
 
-The tube is secured with 0 silk and dressed with a BioPatch and a Tagederm dressing.
+The abdomen is desufflated and the port sites closed with 4-0 Monocryl, followed by Dermabond.
 
-The abdomen is desufflated and the port sites closed with 4-0 Monocryl, followed by dermabond.
 
-After dressings are applied, a Lopez valve is attached with the long Christmas-tree end placed into the jejunostomy tube.
+**Endoscopy** 
 
-Endoscopy The scope is set up:
+The scope is set up:
 
-Suction and aspiration valves inserted and working Suction tubing attached Biopsy valve attached and not leaking Cart set up for recording by powering on the Stryker SDC digital capture box A bite block is used and the scope lubricated. A neonatal scope may be necessary in patients with a tight stricture. Important findings to record:
+- Suction and aspiration valves inserted and working 
+- Suction tubing attached Biopsy valve attached and not leaking 
+- Cart set up for recording by powering on the Stryker SDC digital capture box 
 
-Level in cm from the incisors, of the most proximal area of Barrett’s esophagus. Level in cm from the incisors of the GE junction Appearance of the GE junction on retroflexed view. Extent of invasion of the tumor into the cardia or fundus. The scope is withdrawn and the hypopharynx suctioned. The liquid from the ‘First Step’ disinfectant is suctioned through the scope, followed by water.
+A bite block is used and the scope lubricated. A neonatal scope may be necessary in patients with a tight stricture. Important findings to record:
+
+- Level in cm from the incisors, of the most proximal area of Barrett’s esophagus. 
+- Level in cm from the incisors of the GE junction Appearance of the GE junction on retroflexed view. 
+- Extent of invasion of the tumor into the cardia or fundus. 
+
+The scope is withdrawn and the hypopharynx suctioned. The liquid from the ‘First Step’ disinfectant is suctioned through the scope, followed by water.

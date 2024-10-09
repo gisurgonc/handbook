@@ -9,6 +9,7 @@ book:
   repo-branch: main
   repo-actions: [edit, issue]
   reader-mode: true
+  cover-image: giso241009.jpeg
   chapters:
     - index.qmd
     - part: "Clinical Care"
@@ -50,7 +51,7 @@ book:
       - 04-eso_t3.qmd
       - 04-eso_m1.qmd
       - 04-eso_dCRT.qmd
-      - o4-eso_salvage.qmd
+      - 04-eso_salvage.qmd
       - 04-eso_nutrition.qmd
       - 04-eso_surgery.qmd
       - 04-eso_survivorship.qmd
