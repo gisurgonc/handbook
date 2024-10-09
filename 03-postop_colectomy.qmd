@@ -1,5 +1,37 @@
 # Colectomy Postop
 
+**Clinic**
+
+- Opiod Cessation
+- Smoking Cessation
+- EtOH/Drugs of Abuse – Social Work
+- Nutritonal Evaluation
+  - All Patients – Ensure for 3d preop
+  - Poor nutrition – ?Delay surgery
+- Preop Anesthesia/ERAS Class
+- Expectations of Surgery:
+  - Length of Stay 1-3 days
+  - Diet (self-limiting)
+  - Pain control (low-opoid)
+  - Activity (OOB at 6am, OOB 3x/day)
+- Bowel Prep – Abx and mechanical
+
+**Preop Holding**
+
+- Colon PowerPlan (Hill)
+- Antibiotic PowerPlan
+- No PCN only for severe allergy
+- Entereg (if no preop opiods)
+- VTE prophylaxis
+- Carbohydrate load (2hr preop)
+
+**OR**
+
+- Goal-directed fluid administration
+- 2L total in OR
+- 3L total/first 24hrs
+- Open procedures: No epidural
+
 **Postop Day 0**
 
 -   Goal-directed fluid administration
