@@ -29,9 +29,7 @@ Review of EMR: [@soetikno4490] <!---JCO 2005--->
 
 ## Endoscopic submucosal dissection (ESD). {#esd}
 
-For T1a tumors, EMR and ESD appear to have similar outcomes [@terheggen783] Terheggen, G. et al. A randomised trial of endoscopic submucosal
-dissection versus endoscopic mucosal resection for early Barrett’s
-neoplasia. Gut 66, 783–793 (2017).
+For T1a tumors, EMR and ESD appear to have similar outcomes [@terheggen783] Terheggen, G. et al. A randomised trial of endoscopic submucosal dissection versus endoscopic mucosal resection for early Barrett’s neoplasia. Gut 66, 783–793 (2017).
 
 Endoscopic submucosal dissection is a technique for deeper endoscopic removal of esophageal lesions using endoscopic cautery, which dissects through the submucosa. ESD has a higher rate of curative resection [@cao751] albeit at the cost of prolonged operative times and increased risk of complications such a bleeding. [@repici715]
 

@@ -1,0 +1,11 @@
+# Colectomy
+
+## Early Recovery Protocols
+
+ASCRS and SAGES clinical guidelines for enhanced recovery after colorectal surgery [@irani5]
+
+Same-day discharge after colectomy or stoma reversal [@paradis558]
+
+### Anesthetic Management
+
+Restrictive vs Liberal Fluid Managment (RELIEF Trial) [@myles378] 3000 patients undergoing elective major surgery (43% colorectal, 64% cancer, no liver resection) randomized to restrictive intraoperative fluid management (aim net zero fluid balance in the OR) vs traditional fluid management. Liberal group averaged 3 liters of intraop fluid and 3 liters first 24 hours postop vs restrictive group with 1.8 and 1.9 liters respectively. No difference in mortality or major disability at 1 year postop. More acute kidney injury in restrictive group. More surgical site infections (17% vs 14%) in the restrictive group. Bottom line: No detectable benefit to restrictive fluid strategy

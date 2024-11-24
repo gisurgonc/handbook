@@ -28,7 +28,17 @@ Each paragraph contains one study: study -\> date -\> operator -\> findings Path
 
 #### ECOG performance scale
 
-0 Fully active, able to carry on all activities 1 Ambulatory can do light house work, office work 2 Ambulatory but can’t work up and about more than 50% of waking hours 3 Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours 4 Completely disabled; cannot carry on any selfcare; totally confined to bed or chair
+-   0 Fully active, able to carry on all activities
+
+<!-- -->
+
+-   1 Ambulatory can do light house work, office work
+
+-   2 Ambulatory but can’t work up and about more than 50% of waking hours
+
+-   3 Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours
+
+-   4 Completely disabled; cannot carry on any selfcare; totally confined to bed or chair
 
 ### Update Problem list
 
@@ -38,12 +48,24 @@ Add details to problem list under "Overview"
 
 ### Cardiac
 
-History of heart attack? Coronary artery stent? When? Within the last 6mo? Is patient on antiplatelet therapy? Which agents? Date and location of most recent echocardiogram If aortic stenosis: Is valve area \<1cm\^2? If pulmonary hypertension: Peak pressures? Date and location of stress test. Is there ischemia? Who is cardiologist?
+-   History of heart attack?
+
+-   Coronary artery stent? When? Within the last 6mo?
+
+-   Is patient on antiplatelet therapy? Which agents?
+
+-   Date and location of most recent echocardiogram
+
+    -   If aortic stenosis: Is valve area \<1cm\^2?
+
+    -   If pulmonary hypertension: Peak pressures?
+
+-   Date and location of stress test. Is there ischemia? Who is cardiologist?
 
 ### Pulmonary
 
-Prior diagnosis of COPD? Dyspnea at rest? Dyspnea walking up one flight of stairs?\
-Has patient had recent pulmonary function tests? Is patient on steroids? History of prior lung surgery?
+-   Prior diagnosis of COPD? Dyspnea at rest? Dyspnea walking up one flight of stairs?\
+    Has patient had recent pulmonary function tests? Is patient on steroids? History of prior lung surgery?
 
 ### GI
 
