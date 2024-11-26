@@ -20,28 +20,28 @@ If followup appointments in additional to surgical followup are needed, these sh
 
 The discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:
 
-|      |                                                                                   |
-|------|-----------------------------------------------------------------------------------|
-| N    | Followup plan for chronic pain management                                         |
-|      | Stroke                                                                            |
-| CV   | Postop Arrhythmia? \| MI? \| CHF?                                                 |
-|      | If new cardiac meds: Who is managing medications                                  |
-|      | If afib: CHADS score and anticoagulation plan                                     |
-| R    | Pneumonia? \| ARDS? \| TRACH?                                                     |
-|      | Need for home oxygen?                                                             |
-|      | CXR needed at first postop visit?                                                 |
-| GI   | Delayed gastric emptying? \| leak? \| ileus?                                      |
-|      | Tube feed regimen                                                                 |
-|      | Diet at discharge (Low residue \| Full liquds \| Meds with thickened water \|NPO) |
-|      | New stoma (ileostomy \| colostomy)                                                |
-|      | Wound care needs (VAc \| Prevena)                                                 |
-| GU   | Urinary Retention                                                                 |
-|      | Discharge with foley catheter                                                     |
-| H    | Complications: DVT \| PE                                                          |
-|      | Anticoagulation Plan                                                              |
-| Endo | Insulin regimen at DC (dose will be in med rec)                                   |
-| ID   | Antibiotics at DC                                                                 |
-|      | Return to ICU                                                                     |
+|  |  |
+|----|----|
+| N | Followup plan for chronic pain management |
+|  | Stroke |
+| CV | Postop Arrhythmia? \| MI? \| CHF? |
+|  | If new cardiac meds: Who is managing medications |
+|  | If afib: CHADS score and anticoagulation plan |
+| R | Pneumonia? \| ARDS? \| TRACH? |
+|  | Need for home oxygen? |
+|  | CXR needed at first postop visit? |
+| GI | Delayed gastric emptying? \| leak? \| ileus? |
+|  | Tube feed regimen |
+|  | Diet at discharge (Low residue \| Full liquds \| Meds with thickened water \|NPO) |
+|  | New stoma (ileostomy \| colostomy) |
+|  | Wound care needs (VAc \| Prevena) |
+| GU | Urinary Retention |
+|  | Discharge with foley catheter |
+| H | Complications: DVT \| PE |
+|  | Anticoagulation Plan |
+| Endo | Insulin regimen at DC (dose will be in med rec) |
+| ID | Antibiotics at DC |
+|  | Return to ICU |
 
 **Communication**
 

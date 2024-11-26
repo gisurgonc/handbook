@@ -60,6 +60,7 @@ book:
       chapters:
       - 05-gastric_CDH1.qmd
     - part: "Colon Cancer"
+      chapters:
       - 06-colectomy.qmd
     - part: "Rectal Cancer"
     - part: "Anal Cancer"

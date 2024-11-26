@@ -1,64 +1,56 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-# (PART\*) Colon Cancer {-}
-
-# ColonCa SCORE  {#ColonObjCR}
+# Colon Ca SCORE {#ColonObjCR}
 
 [Colon Cancer SCORE](https://www.surgicalcore.org/modulecontent.aspx?id=1000690)
 
 **Physiology**
 
-  - APC
-  - K-*ras*
-  - p53
-  - microsatellite instability
-  - CIMP
-  
+-   APC
+-   K-*ras*
+-   p53
+-   microsatellite instability
+-   CIMP
+
 **Epidemiology**
 
-  - Sporadic vs hereditary vs familial
-  
+-   Sporadic vs hereditary vs familial
+
 **Screening**
 
 USPTF recommends colon cancer screening from ages 45-75
 
-  - Colonoscopy
-  - Flex sig
-  - Occult blood testing
-  - Fecal DNA testing
-  
+-   Colonoscopy
+-   Flex sig
+-   Occult blood testing
+-   Fecal DNA testing
+
 **Hereditary Syndromes**
 
-  - Genes | Presentation | Screening
-    - Lynch Syndrome
-    - APC
-  
+-   Genes \| Presentation \| Screening
+    -   Lynch Syndrome
+    -   APC
+
 *Screening for average risk*
 
 *Screening for elevated risk*
 
 **Endoscopy**
 
-- Types of polyps
+-   Types of polyps
 
 **Staging**
 
-- CT scan
-- PET scan
-- Staging
+-   CT scan
+-   PET scan
+-   Staging
 
 **Adjuvant Therapy**
 
-- Indications for adjuvant chemo
+-   Indications for adjuvant chemo
 
 **Operative Treatment**
 
-- Types of colectomy
-- Dx large bowel obstruction
-
+-   Types of colectomy
+-   Dx large bowel obstruction
 
 **Resources**
 

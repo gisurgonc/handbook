@@ -1,11 +1,38 @@
 # Colectomy
 
+## SCORE {#PColectomyObj}
+
+[Partial Colectomy CORE](https://www.surgicalcore.org/modulecontent.aspx?id=129670)
+
+**Indications**
+
+**Operative Anatomy**
+
+**Preop Prep**
+
+-   Antibiotics
+-   Stoma marking
+-   Ureteral stents
+
+**Complications**
+
+-   Anastomotic leak
+-   Ureteral injury
+
 ## Early Recovery Protocols
 
 ASCRS and SAGES clinical guidelines for enhanced recovery after colorectal surgery [@irani5]
 
+[ASCRS Guidelines for Early Recovery](https://fascrs.org/ascrs/media/files/downloads/Clinical%20Practice%20Guidelines/clinical_practice_guidelines_for_enhanced_recovery-3.pdf)
+
 Same-day discharge after colectomy or stoma reversal [@paradis558]
 
-### Anesthetic Management
+## Anesthetic Management
 
 Restrictive vs Liberal Fluid Managment (RELIEF Trial) [@myles378] 3000 patients undergoing elective major surgery (43% colorectal, 64% cancer, no liver resection) randomized to restrictive intraoperative fluid management (aim net zero fluid balance in the OR) vs traditional fluid management. Liberal group averaged 3 liters of intraop fluid and 3 liters first 24 hours postop vs restrictive group with 1.8 and 1.9 liters respectively. No difference in mortality or major disability at 1 year postop. More acute kidney injury in restrictive group. More surgical site infections (17% vs 14%) in the restrictive group. Bottom line: No detectable benefit to restrictive fluid strategy
+
+## Extended Node dissection
+
+Short-term outcomes of complete mesocolic excision versus D2 dissection in patients undergoing laparoscopic colectomy for right colon cancer (RELARC): a randomised, controlled, phase 3, superiority tria
+
+Short-term outcomes of a multicentre randomized clinical trial comparing D2 versus D3 lymph node dissection for colonic cancer (COLD trial). Karachun A, Panaiotti L, Chernikovskiy I, Achkasov S, Gevorkyan Y, Savanovich N, Sharygin G, Markushin L, Sushkov O, Aleshin D, Shakhmatov D, Nazarov I, Muratov I, Maynovskaya O, Olkina A, Lankov T, Ovchinnikova T, Kharagezov D, Kaymakchi D, Milakin A, Petrov A. Br J Surg. 2020 Apr;107(5):499-508. doi: 10.1002/bjs.11387. Epub 2019 Dec 24. PMID: 31872869 Clinical Trial.

@@ -28,12 +28,11 @@ Keynote-177 trial [@andre2207] randomized 307 patients with MSI-High dMMR colore
 
 Prodige 7- Cytoreductive surgery vs cytoreductive surgery + HPIEC [@quenet256]
 
-> Patients with stage IV colorectal cancer randomized: 133 to the cytoreductive surgery plus HIPEC group and 132 to the cytoreductive surgery alone group. No difference in overall survival. Grade 3 or worse adverse events at 30 days were similar in frequency between groups (56 [42%] of 133 patients in the cytoreductive surgery plus HIPEC group vs 42 [32%] of 132 patients in the cytoreductive surgery group; p=0·083); however, at 60 days, grade 3 or worse adverse events were more common in the cytoreductive surgery plus HIPEC group (34 [26%] of 131 vs 20 [15%] of 130; p=0·035). Chemotherapy with oxaliplatin for 30min.
+> Patients with stage IV colorectal cancer randomized: 133 to the cytoreductive surgery plus HIPEC group and 132 to the cytoreductive surgery alone group. No difference in overall survival. Grade 3 or worse adverse events at 30 days were similar in frequency between groups (56 \[42%\] of 133 patients in the cytoreductive surgery plus HIPEC group vs 42 \[32%\] of 132 patients in the cytoreductive surgery group; p=0·083); however, at 60 days, grade 3 or worse adverse events were more common in the cytoreductive surgery plus HIPEC group (34 \[26%\] of 131 vs 20 \[15%\] of 130; p=0·035). Chemotherapy with oxaliplatin for 30min.
 
 CAIRO-6 Phase II Trial [@rovers710]
 
->Phase II Trial of adjuvant chemotherapy Randomization to perioperative systemic therapy or CRS-HIPEC alone. Perioperative systemic therapy with CAPOX, FOLFOX, or FOLFIRI.
-
+> Phase II Trial of adjuvant chemotherapy Randomization to perioperative systemic therapy or CRS-HIPEC alone. Perioperative systemic therapy with CAPOX, FOLFOX, or FOLFIRI.
 
 ### Peritoneal Carcinoma Index (PCI)
 
