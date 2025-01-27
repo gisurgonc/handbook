@@ -16,9 +16,7 @@ RESONANCE-II trial of Oxaliplatin + S-1 (SOX) [@wang20]
 
 ## Postoperative chemotherapy
 
-CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy with capecitabine and oxaliplatinversus surgery alone. Three-year survival was improved in the chemotherapy group (74% *v* 59%).[@bang315][@noh1389]
-
-S-1 Adjuvant chemotherapy: [@sasako4387]
+CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy with capecitabine and oxaliplatinversus vs surgery alone. Three-year survival was improved in the chemotherapy group (74% *v* 59%).[@bang315][@noh1389]
 
 ## Postoperative chemoradiation
 
