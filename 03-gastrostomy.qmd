@@ -1,16 +1,14 @@
 # Gastrostomy Feeds
 
-Gastrostomy feeds are generally given via bolus feeds 3-4 times per day. Feeds can be given 1-2 cartons at a time. 
+Gastrostomy feeds are generally given via bolus feeds 3-4 times per day. Tube feed goal is usually 1 to 1.5 cartons at a time (4-6 cartons total). For patients at risk of refeeding, tube feeds are started at one half carton qid. The amount per feed can be increased over the next few days to goal.
 
-Patients with severe reflux may require gastrostomy feeds via infusion pump, but this is much less common.
+Patients with severe reflux may require gastrostomy feeds via infusion pump, but this is much less common. Patients with gastrostomy feeds DO NOT routinely need an infusion pump initially.
 
 Osmolite 1.5 is generally used as an initial formula. Glucerna is formulated with carbohydrates with low glycemic index, which is particularly helpful for bolus feeding (via gastrostomy). However, the high fiber context of Glucerna may make this formula more prone to causing clogging of gastrostomy tubes.
 
-
 ## Free Water Flushes
 
-Most patients require free water in addition to tube feeds.  Most patients require 240mL 4 times per day via gastrostomy
-
+Most patients require free water in addition to tube feeds. Most patients require 240mL 4 times per day via gastrostomy
 
 ## Med Administration via G-Tubes
 
@@ -18,12 +16,12 @@ Patients who have difficulty with dysphagia or complete esophageal obstruction w
 
 Several common medicines are available in liquid form:
 
-- Acetaminophen (pediatric formulation)
-- Gabapentin
-- Oxycodone
-- Hydrocodone + acetaminophen
-- Reglan
+-   Acetaminophen (pediatric formulation)
+-   Gabapentin
+-   Oxycodone
+-   Hydrocodone + acetaminophen
+-   Reglan
 
 Apart from delayed-release medicines and Flomax (tamsulosin), *most medicines can be crushed and resuspended and administered via gastrostomy tube if needed*.
 
-Nexium can be administered by opening the capsule and resuspending the beads in 50mL of water.  The beads are resuspended and administered.  In this case, the beads don't dissolve in the syringe, but can be administered without risk of clogging.
+Nexium can be administered by opening the capsule and resuspending the beads in 50mL of water. The beads are resuspended and administered. In this case, the beads don't dissolve in the syringe, but can be administered without risk of clogging.

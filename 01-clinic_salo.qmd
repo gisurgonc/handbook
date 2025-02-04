@@ -29,15 +29,9 @@ Each paragraph contains one study: study -\> date -\> operator -\> findings Path
 #### ECOG performance scale
 
 -   0 Fully active, able to carry on all activities
-
-<!-- -->
-
 -   1 Ambulatory can do light house work, office work
-
 -   2 Ambulatory but can’t work up and about more than 50% of waking hours
-
 -   3 Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours
-
 -   4 Completely disabled; cannot carry on any selfcare; totally confined to bed or chair
 
 ### Update Problem list
