@@ -80,13 +80,21 @@ Who manages finances? Who makes medical decisions?
 
 ### Physical Exam
 
-Cardiopulmonary exam Carotid Bruit? Cervical Incision? Cardiac murmur Abdominal incisions - reconcile with past surgical history
+Cardiopulmonary exam
+
+-   Carotid Bruit?
+
+-   Cervical Incision?
+
+-   Cardiac murmur
+
+-   Abdominal incisions - reconcile with past surgical history
 
 ### Assessment/Plan
 
 Enter assessment/plan after "A/P" prompt Do not erase blue-shaded "Assessment Plan: No problem-specific assessment/plan found for this encounter *Briefly* summarize assessment/plan Dr Salo will add A/P and rationale/evidence base
 
-## Reurn Visit Notes
+## Return Visit Notes
 
 Use notes template ".lcir" Select HPI text from prior note and use Copy Forward button
 

@@ -57,3 +57,9 @@
 
 -   Palliative Radiation
 -   Esophageal stents
+
+Resources
+
+[Esophageal Cancer Talk](https://gisurgonc.github.io/talks/eso_ca_rx_talk.htm)
+
+[Esophageal Cancer Cases](https://gisurgonc.github.io/talks/eso_ca_cases.htm)
