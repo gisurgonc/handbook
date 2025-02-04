@@ -12,7 +12,7 @@ Patient List is CMC GI Surgical Oncology
 
 ## Rounds
 
-Work rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.
+Attending rounds 4pm on Tuesday and 4pm on Thursday
 
 ## Resident Epic teams:
 
@@ -27,9 +27,7 @@ Please append a text block to the bottom of each progress note specifying the Ep
 
 Established patients and directed should be discussed with the attending surgeon.
 
-Unassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”
-
-In general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for "GI Surgical Oncology Colorectal Attending"
+All new inpatient, PCL, and ER consults will be evaluated by the Red Team instead of the surgical oncology team. Established patients will be directed to either the Red Team or surgical oncology team depending on the time since surgery. Those within the three-month global period after surgery will continue to be evaluated by the surgical oncology team, while patients outside of the 90-day global period will be managed by the Red Team. This change aims to streamline patient care. All established patients will be listed on the surgical oncology list, though residents will not be responsible for management if the Red Team is primary.
 
 ## Postop Clinic Appt
 
@@ -38,7 +36,7 @@ Postoperative patients are generally seen for a Transition of Care visit within 
 Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
 
 -   LCI CMC GI, Clerical
--   Mychal Lacombe (Salo and Squires)
+-   Kit Sluder (Salo and Squires)
 -   Rebecca Wicks (Hill)
 -   Brandon Galloway
 
