@@ -25,7 +25,7 @@
     "href": "01-cmc_inpatient.html#rounds",
     "title": "1  CMC Inpatient",
     "section": "1.2 Rounds",
-    "text": "1.2 Rounds\nWork rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T. Service attendings will be updated after rounds.",
+    "text": "1.2 Rounds\nAttending rounds 4pm on Tuesday and 4pm on Thursday",
     "crumbs": [
       "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
@@ -47,7 +47,7 @@
     "href": "01-cmc_inpatient.html#consults",
     "title": "1  CMC Inpatient",
     "section": "1.4 Consults",
-    "text": "1.4 Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nUnassigned Surgical Oncology: “GI Surg Onc Attending LCI CMC”\nIn general, benign colorectal consults are staffed by Dr Davis. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. For other consults, refer to the Epic On Call finder for “GI Surgical Oncology Colorectal Attending”",
+    "text": "1.4 Consults\nEstablished patients and directed should be discussed with the attending surgeon.\nAll new inpatient, PCL, and ER consults will be evaluated by the Red Team instead of the surgical oncology team. Established patients will be directed to either the Red Team or surgical oncology team depending on the time since surgery. Those within the three-month global period after surgery will continue to be evaluated by the surgical oncology team, while patients outside of the 90-day global period will be managed by the Red Team. This change aims to streamline patient care. All established patients will be listed on the surgical oncology list, though residents will not be responsible for management if the Red Team is primary.",
     "crumbs": [
       "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
@@ -58,7 +58,7 @@
     "href": "01-cmc_inpatient.html#postop-clinic-appt",
     "title": "1  CMC Inpatient",
     "section": "1.5 Postop Clinic Appt",
-    "text": "1.5 Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nMychal Lacombe (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
+    "text": "1.5 Postop Clinic Appt\nPostoperative patients are generally seen for a Transition of Care visit within the first week\nDischarge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:\n\nLCI CMC GI, Clerical\nKit Sluder (Salo and Squires)\nRebecca Wicks (Hill)\nBrandon Galloway\n\nPlease include the following information in the Epic Message:\n\nName of attending\nWard from which the patient is being discharged\nDesired date for appt @ same time\nNeed for bloodwork at first visit\nOther studies to be done after discharge\n\nUpper GI\nChest X-ray\nModified Barium Swallow\n\n\nClinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.\nFor patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.\nThe scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:\n\n11Tower: Sharon Hood",
     "crumbs": [
       "Clinical Care",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>CMC Inpatient</span>"
