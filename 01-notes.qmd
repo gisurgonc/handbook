@@ -43,4 +43,4 @@ In addition, the progress notes provide a narrative which can later be used to g
 
 Please add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:
 
-Please message "GI Surgical Oncology Colorectal LCI CMC" via Haiku 24/7. Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends."
+Please message "GI Surgical Oncology Colorectal LCI CMC via Haiku 24/7. Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends."
