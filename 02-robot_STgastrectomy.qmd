@@ -30,7 +30,7 @@
 
 **Position**
 
--   Supine arms an arm boards
+-   Supine arms abducted on arm boards
 -   Foley catheter
 -   Bovie pad
 -   Lower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.
@@ -58,7 +58,7 @@ Prostate Drape
 -   Veress needle inserted in left upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical port at lateral border of rectus just superior to umbilicus
 -   Infraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port
 
-\*\* Ports\*\*
+**Ports**
 
 Location of ports (cephalad-caudad) depends upon proximal extent of tumor.
 
@@ -70,9 +70,11 @@ Port #3 in LUQ midway between midline and Port #4
 
 Port #2 in midline
 
-Assisting port in LLQ: - 5mm or 12m port inferior to the midway point between Port #3 and Port #4. (Can be used later for robotic stapler port #3A)
+Assisting port in LLQ: - 5mm or 12m port inferior to the midway point between Port #3 and Port #4.
 
-Retraction port in RLQ for flexible liver retractor held by Endosopic Bookwalter
+Laparoscopy is performed, and biopsies taken as needed.  Once it is determined that there is no peritoneal disease, port #3A is changed to a 12mm robotic stapler port. 
+
+Retraction port right mid-quadrant for flexible liver retractor held by Endosopic Bookwalter
 
 Flexible liver retractor can be omitted in very distal lesions. Other options include suspending the lateral sector of liver with a 10cm Penrose drain or using a 0 silk on Keith needle to suspend falciform ligament and distract it to patient's right
 
@@ -82,6 +84,64 @@ Flexible liver retractor can be omitted in very distal lesions. Other options in
 -   Dissect pylorus off porta hepatis
 -   Mobilize duodenum if needed
 
-\*\* Mobilize Greater Curvature\*\*
+**Mobilize Greater Curvature**
 
-Can be done with bipolar + monopolar scissors or Extend vessel sealer Enter lesser sac and check for peritoneal disease posterior to stomach on an anterior surface of pancreas
+Can be done with bipolar + monopolar scissors or Extend vessel sealer. Enter lesser sac and check for peritoneal disease posterior to stomach on the anterior surface of pancreas
+
+**Divide Duodenum**
+
+Dissection is carried out to the right of the right gastroepiploic nodal basin to divide between duodenum/pancreas and transverse mesocolon. Dissection is brought superiorly to the edge of the duodenum at the proposed site of transection.  Duodenum is divided with a Blue load stapler 
+
+**EGD with ICG injection*
+
+Once the duodenum is dissected, an injection of ICG mixed in albumin is made in the submucosal around the tumor.
+
+**Division of greater curvature**
+
+The gastrocolic omentum is dissected at this point (to allow ICG to transit to lymph nodes). This can be taken up to the inferior edge of the spleen.
+
+**Right gastroepiploic pedicle dissection**
+
+Right gastroepiploic artery dissected free and triple-clipped. Right gastroepiploic vein can be taken with vessel sealer or double-clips.
+
+**Right gastric artery**
+
+Nodes to the left of the porta hepatis (12a) are dissected and kept with the specimen. The right gastric artery is divided.
+
+**Central node dissection**
+
+The antrum is reflected to the patient's left.  Nodes are dissected from the common hepatic artery (Station 8), proximal splen artery (Station 11), and celiac axis (Station 9).  The coronary vein is divided with the vessel sealer. The left gastric artery is triple-clipped.  Dissection is now carried out posteriorly. The lesser curvature is cleared of lymph nodes (Stations 3) and right paracardial nodes (Station 1) taken depending upon tumor location.  
+
+**Proximal division**
+
+The greater curvature is dissected proximally, typically taking several inferior short gastric vessels.  The stomach is divided with several Blue loads.
+
+**Extraction and frozen section**
+
+An extraction incision is made and the specimen placed in a 12/15mm bag and removed and sent for frozen section. The extraction site can be closed or used to create with roux limb. The extraction incision is closed with two sutures of #1 Stratafix
+
+**Roux-en-Y reconstruction**
+
+The division site for jejunum is selected 25cm distal to Treitz.  ICG can be injected intravenously to define the arcades.  Up to two arcade vessels can be divided to yield more length of vascularlized bowel. It is important that this division of the mesentery be made central to the vasa recta. The stapler is positioned in port #3A, if it is not already.  After initial division of the mesentery, the bowel is divided with a white load stapler.
+
+A roux limb 40cm in length is measured and a jejunojejunostomy constructed with a white stapler load. Enterotomies made with a hook cautery. The bowel defect is closed with two running 3-0 Stratafix sutures on RB-1 needle.
+
+The bare area is fenestrated to the left of the middle colic artery. The Roux limb is transposed through the mesentery to superior to the transverse mesocolon.
+
+**Gastrojejunostomy**
+
+Once the frozen section confirms a clear margin, the Roux limb is positioned posterior to the proximal gastric pouch.  A gastrostomy is made on the posterior stomach at least 1cm from the staple line. An enterotomy is made on the antimesenteric border of bowel 7cm from the end of the limb.  The anastomosis is made with a Blue load. The defect is closed with two sutures of 3-0 Stratafix.
+
+**NG tube**
+
+After the anastomosis, an NG tube is placed by Anesthesia and bridled.
+
+**Drains**
+
+Solitary 19Fr drain placed posterior to the anastomosis
+
+**Closure**
+
+12mm stapler site closed with 0 Vicryl in figure-of-eight fashion.  Transversus abdominus place blocks placed.
+
+
