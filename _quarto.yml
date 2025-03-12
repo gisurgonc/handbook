@@ -63,6 +63,8 @@ book:
       chapters:
       - 06-colectomy.qmd
     - part: "Rectal Cancer"
+      - 07-rectal_surgery.qmd
+      - 07-rectal_adjuvant.qmd
     - part: "Anal Cancer"
       chapters: 
       - 08-anal_SCCA.qmd
