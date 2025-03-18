@@ -42,6 +42,7 @@ book:
       - 03-icu_esophagectomy.qmd
       - 03-ward_esophagectomy.qmd
     - part: "Outpatient"
+      chapters:
       - 31-outpt_esophagectomy.qmd
       - 31-outpt_gastrectomy.qmd
       - 31-outpt_gastrostomy.qmd
