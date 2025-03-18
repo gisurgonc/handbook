@@ -4,31 +4,29 @@
 
 ## Indications
 
-  -Contraindications
+-Contraindications
 
 ## Operative Anatomy
 
 ## Preop Prep
 
-  - Genetics consultation
-  - Neoadjuvant therapy
+-   Genetics consultation
+-   Neoadjuvant therapy
 
 ## Key Steps
 
 ## Intraop Decisions
 
-  - Intraop radiation
-  - Vascular reconstruction
-  - VRAM flap
+-   Intraop radiation
+-   Vascular reconstruction
+-   VRAM flap
 
 ## Complications
 
-  - Surgical site infection
-  - Missed enterotomy
-  - Perineal wound dehiscence
-  - Abdominal wound dehiscence
-  - Urethral injury
-  - Beeding
-  - Ostomy necrosis
-
-
+-   Surgical site infection
+-   Missed enterotomy
+-   Perineal wound dehiscence
+-   Abdominal wound dehiscence
+-   Urethral injury
+-   Beeding
+-   Ostomy necrosis

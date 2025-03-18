@@ -1,4 +1,4 @@
-# (PART\*) Rectal Cancer {-}
+# (PART\*) Rectal Cancer {.unnumbered}
 
 # RectalCa SCORE
 
@@ -6,11 +6,11 @@
 
 ## Anatomy
 
-  -Venous drainge
+-Venous drainge
 
 ## Presentation
 
-  - Assessment of sphincter function
+-   Assessment of sphincter function
 
 ## Operative Tx
 
@@ -22,9 +22,6 @@
 
 ## [Adjuvant therapy](770-rectal_RT.html)
 
-  - Standard course chemoRT
-  - Swedish preop RT
-  - Total Neoadjuvant Therapy
-
-
-
+-   Standard course chemoRT
+-   Swedish preop RT
+-   Total Neoadjuvant Therapy

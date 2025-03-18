@@ -1,4 +1,3 @@
-
 # Rectal Cancer Staging
 
 ## MRI staging
@@ -7,10 +6,10 @@ Rectal cancer is preferentially evaluated with MRI. At Atrium, this is ordered a
 
 Key findings
 
-- Circumferential resection margin
-- Extra mesorectal vascular invasion
-- Mesorectal lymph nodes
-- Extra-mesorectal lymph nodes
+-   Circumferential resection margin
+-   Extra mesorectal vascular invasion
+-   Mesorectal lymph nodes
+-   Extra-mesorectal lymph nodes
 
 MRI has supplanted endoscopic ultrasound (EUS) as the study of choice for staging rectal cancer.
 
@@ -18,7 +17,4 @@ MERCURY group trial demonstrated the predictive value of MRI for rectal cancer[@
 
 ## EUS
 
-Endoscopic ultrasound has now been replaced by MRI for initial staging, in part due to intraoperater variability
-
-
-
+Endoscopic ultrasound has now been replaced by MRI for initial staging, in part due to interoperater variability

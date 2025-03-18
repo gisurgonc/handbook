@@ -1,0 +1,22 @@
+# Outpatient Jejunostomy Care {outpt_jejunostomy}
+
+## Jejunostomy Tubes
+
+Two types of tubes are used 
+
+
+**Dacron cuffed MIC tube** [0301-14](https://avanos.com/product-catalog/product/mic-jejunostomy-tubes/0301-14__mic-jejunostomy-feeding-tube-14-fr/). These tubes are usually only placed after esophagectomy.  The dacron cuff is designed to sit in the subcutaneous tissue. If the cuff becomes incorporated, the tube can stay in placed for extended periods of time.  Unfortunately, the cuff is prone to infection.  Patients with infection of a cuffed jejunostomy will need antibiotics (eg Augmentin) and orders for stat *IR J tube Manip Exchange*
+
+Removal of cuffed tubes requires a small surgical procedure. Supplies required:
+
+- ER Laceration tray
+- 30mL 1% xylocaine (prefer with epinephrine)
+- 15 blade scalpel
+- Non-sterile gloves
+
+Patient will need a surgical consent and a procedure note.
+
+
+**Balloon Tube MIC** [8200-14](https://avanos.com/product-catalog/product/mic-jejunal-j-feeding-tubes/8200-14__mic-jejunal-feeding-tube-with-enfit-connector-14-fr/)
+
+These tubes are 

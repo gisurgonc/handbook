@@ -35,11 +35,17 @@ book:
       - 03-postop_colectomy.qmd
       - 03-postop_lar.qmd
       - 03-postop_apr.qmd
+      - 03-postop_gastrectomy.qmd
       - 03-gastrostomy.qmd
       - 03-jejunostomy.qmd
       - 03-jejunostomy_diabetes.qmd
       - 03-icu_esophagectomy.qmd
       - 03-ward_esophagectomy.qmd
+    - part: "Outpatient"
+      - 31-outpt_esophagectomy.qmd
+      - 31-outpt_gastrectomy.qmd
+      - 31-outpt_gastrostomy.qmd
+      - 31-outpt_jejunostomy.qmd
     - part: "Esophageal Cancer"
       chapters: 
       - 04-eso_overview.qmd
@@ -63,15 +69,16 @@ book:
       chapters:
       - 06-colectomy.qmd
     - part: "Rectal Cancer"
+      chapters:
+      - 07-rectal_staging.qmd
       - 07-rectal_surgery.qmd
-      - 07-rectal_adjuvant.qmd
+      - 07-rectal_crt.qmd
     - part: "Anal Cancer"
       chapters: 
       - 08-anal_SCCA.qmd
     - part: "Sarcoma"
       chapters: 
       - 10-sarcoma.qmd
-    - part: "Melanoma"
     - references.qmd
 
 bibliography: zotero.bib

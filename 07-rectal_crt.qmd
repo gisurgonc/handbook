@@ -1,18 +1,28 @@
-# Rectal Cancer Adjunctive Threapy
+# Rectal Adjuvant Therapy {#RectalAdjuvant}
 
-Historically, several strategies have been employed as adjuncts to surgical resection
+Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence.  Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.
 
 ## Surgery $\Rightarrow$ CRT
 
 The original approach to adjuvant therapy for rectal cancer was surgery followed by chemoradiation.
 
+GI Tumor Study Group (GITSG) showed a reduction in local recurrence with postoperative chemotherapy + radiation
+
+NIH Consensus Conference in 1990 recommended adjuvant chemoradation after surgery
+
 ## CRT $\Rightarrow$ Surgery
 
-The next innovation to adjuvant therapy for rectal cancer was chemoradiation prior to surgery, followed by adjuvant chemotherapy. 
+The next innovation to adjuvant therapy for rectal cancer was chemoradiation prior to surgery, followed by adjuvant chemotherapy.
 
 German Rectal Cancer Study (AIO-94) compared preop and postop chemoradiation in locally-advanced rectal cancer [@sauer173]. Among 823 patients, local recurrence was 6% in the preoperative group vs 13% in the postop group (p=0.0006). Overall survival was not different, but preop chemoradiation was less toxic. Pathologic complete response rate in the preoperative group as 8%.
 
 NSABP R-03 clinical trial [@roh5124] randomized 267 patients with T3 or T4 or node-positive rectal cancer to preop vs postop chemoradiation. Disease-free survival was better in the preoperative group, wiht no difference in overall survival. Pathologic complete response rate in the preop group was 15%. The trial did not meets its accrual targets.
+
+## TME
+
+Total Mesorectal Excision (TME) was introduced to reduce risk of local recurrence by removal of the mesorectum and its lymph nodes.
+
+## TME + ChemoRT
 
 Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME[@kapiteijn638]. Radiation reduced local recurrence form 10.9% to 5.6%
 
@@ -61,4 +71,3 @@ NICHE trial [@chalabi1949] 115 patients with dMMR locally-advanced colon cancer 
 # Neoadjuvant Chemotherapy
 
 The PROSPECT clinical trial [@schrag322] randomized patients with T2/3 recctal cancer to neoadjuvant therapy with chemoradiation vs FOLFOX. 585 in the FOLFOX group and 543 in the chemoradiotherapy group. FOLFOX was noninferior to chemoradiotherapy for disease-free survival and the groups were similar with respect to overall survival. In the FOLFOX group, 53 patients (9.1%) received preoperative chemoradiotherapy (if the primary tumor decreased in size by \<20% or if FOLFOX was discontinued because of side effects) and 8 (1.4%) received postoperative chemoradiotherapy.
-
