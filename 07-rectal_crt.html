@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>21&nbsp; Jejunostomy + Diabetes – CMC GI Surgical Oncology Handbook</title>
+<title>43&nbsp; Rectal Adjuvant Therapy – CMC GI Surgical Oncology Handbook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./03-icu_esophagectomy.html" rel="next">
-<link href="./03-jejunostomy.html" rel="prev">
+<link href="./08-anal_SCCA.html" rel="next">
+<link href="./07-rectal_surgery.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +89,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -81,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-postop_colectomy.html">Postop Care</a></li><li class="breadcrumb-item"><a href="./03-jejunostomy_diabetes.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Jejunostomy + Diabetes</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-rectal_staging.html">Rectal Cancer</a></li><li class="breadcrumb-item"><a href="./07-rectal_crt.html"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Rectal Adjuvant Therapy</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -273,7 +322,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03-jejunostomy_diabetes.html" class="sidebar-item-text sidebar-link active">
+  <a href="./03-jejunostomy_diabetes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Jejunostomy + Diabetes</span></span></a>
   </div>
 </li>
@@ -460,7 +509,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./07-rectal_crt.html" class="sidebar-item-text sidebar-link">
+  <a href="./07-rectal_crt.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Rectal Adjuvant Therapy</span></span></a>
   </div>
 </li>
@@ -511,15 +560,29 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#surgery-rightarrow-crt" id="toc-surgery-rightarrow-crt" class="nav-link active" data-scroll-target="#surgery-rightarrow-crt"><span class="header-section-number">43.1</span> Surgery <span class="math inline">\(\Rightarrow\)</span> CRT</a></li>
+  <li><a href="#crt-rightarrow-surgery" id="toc-crt-rightarrow-surgery" class="nav-link" data-scroll-target="#crt-rightarrow-surgery"><span class="header-section-number">43.2</span> CRT <span class="math inline">\(\Rightarrow\)</span> Surgery</a></li>
+  <li><a href="#tme" id="toc-tme" class="nav-link" data-scroll-target="#tme"><span class="header-section-number">43.3</span> TME</a></li>
+  <li><a href="#tme-chemort" id="toc-tme-chemort" class="nav-link" data-scroll-target="#tme-chemort"><span class="header-section-number">43.4</span> TME + ChemoRT</a></li>
+  <li><a href="#short-course-rt" id="toc-short-course-rt" class="nav-link" data-scroll-target="#short-course-rt"><span class="header-section-number">43.5</span> Short-course RT</a></li>
+  <li><a href="#total-neoadjuvant" id="toc-total-neoadjuvant" class="nav-link" data-scroll-target="#total-neoadjuvant"><span class="header-section-number">43.6</span> Total Neoadjuvant</a></li>
+  <li><a href="#selective-adjuvant" id="toc-selective-adjuvant" class="nav-link" data-scroll-target="#selective-adjuvant"><span class="header-section-number">43.7</span> Selective Adjuvant</a></li>
+  <li><a href="#neoadjuvant-immunotx" id="toc-neoadjuvant-immunotx" class="nav-link" data-scroll-target="#neoadjuvant-immunotx"><span class="header-section-number">43.8</span> Neoadjuvant ImmunoTx</a></li>
+  <li><a href="#neoadjuvant-chemotherapy" id="toc-neoadjuvant-chemotherapy" class="nav-link" data-scroll-target="#neoadjuvant-chemotherapy"><span class="header-section-number">44</span> Neoadjuvant Chemotherapy</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/07-rectal_crt.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-postop_colectomy.html">Postop Care</a></li><li class="breadcrumb-item"><a href="./03-jejunostomy_diabetes.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Jejunostomy + Diabetes</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-rectal_staging.html">Rectal Cancer</a></li><li class="breadcrumb-item"><a href="./07-rectal_crt.html"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Rectal Adjuvant Therapy</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="jejunostomy_diabetes" class="quarto-section-identifier"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Jejunostomy + Diabetes</span></span></h1>
+<h1 class="title"><span id="RectalAdjuvant" class="quarto-section-identifier"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Rectal Adjuvant Therapy</span></span></h1>
 </div>
 
 
@@ -536,84 +599,127 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Inpt – Jejunostomy ~ Diabetes</strong></p>
-<p>Patients on tube feeds are typically started on continuous (around-the-clock) tube feedings, and subsequently changed to a nocturnal regimen (typically 6pm to 10am). The diabetic management for these patients differs depending upon their tube feeding regimen:</p>
-<p><strong>Diabetics on Continuous Tube Feeds.</strong></p>
-<p>Non-insulin diabetic patients are generally initially given Osmolite 1.5 as it provides higher caloric density and does not contain fiber, which tends to clog the feeding tubes. Diabetic patients requiring insulin can be initially trialed on Osmolite 1.5 but are changed to Promote or Glucerna 1.5 if their blood sugars prove difficult to control (as evidence by either the need for EndoTool or requiring a q6 hour regimen of insulin N + insulin R).</p>
-<p>Diabetic patients who need insulin while receiving tube feedings are typically treated initially with continuous tube feedings and around-the-clock insulin. Patients with large insulin requirements may need hourly intravenous insulin (with dosages calculated via EndoTool). Once their insulin requirements are stabilized, they are transitioned to a q6 hour regimen consisting of N and R insulin, typically twice as many units of N insulin as R (for instance, 6Units of N + 3 Units of R insulin every six hours). Patients who require EndoTool or a q6hr regimen need an endocrinology consultation with Dr Kelli Dunn to assist in diabetic management.</p>
-<p><strong>Diabetics on Nocturnal Tube Feeds</strong></p>
-<p>Most patients are transitioned from continuous tube feeds to nocturnal prior to discharge. Diabetic patients on nocturnal tube feedings typically receive tube feeding from 6pm to 10am and receive insulin at initiation of tube feeds (6pm) and again at 6 hours later (midnight). A typical regimen might be 18U of 70/30 at 1800 and 18U of 70/30 at MN. An alternative might be 12U NPH + 6U Regular at 1800 and 16U NPH and 8U Regular insulin at MN. Because it can take several days to determine the correct insulin regimen, diabetic patients receiving jejunostomy feedings are cycled as early in their hospital course as possible to avoid delaying discharge for blood sugar management.</p>
-<p>Diabetic patients receiving insulin will need careful coordination of tube feeding and insulin administration when they are being transitioned from continuous to nocturnal tube feeds. Patients on continuous tube feeds may receive insulin on a q6 hour schedule, while those receiving nocturnal tube feeds receive insulin at 1800 and MN. When patients on continuous tube feeds are transitioned, the tube feeds are stopped at 10am, to be restarted at 6pm that evening. It is critical that as soon as the tube feeds are stopped at 10am, that the q6 hour insulin as stopped as well.</p>
-<p>In either case it is critical that if tube feedings are stopped, standing insulin administration (either q6 hour OR 1800 and MN) be stopped as well. In these cases, sliding scale insulin is generally continued.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Day</th>
-<th>Time</th>
-<th>Tube Feeds</th>
-<th>Insulin</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>SUN</td>
-<td>MN</td>
-<td>60mL/hr</td>
-<td>8N+4R</td>
-</tr>
-<tr class="even">
-<td>Mon</td>
-<td>6am</td>
-<td>60mL/hr</td>
-<td>8N+R</td>
-</tr>
-<tr class="odd">
-<td>Mon</td>
-<td>Noon</td>
-<td>Stop</td>
-<td>None</td>
-</tr>
-<tr class="even">
-<td>Mon</td>
-<td>6pm</td>
-<td>75mL/hr</td>
-<td>16N + 8R</td>
-</tr>
-<tr class="odd">
-<td>Mon</td>
-<td>MN</td>
-<td>75mL/hr</td>
-<td>16N+ 8R</td>
-</tr>
-<tr class="even">
-<td>Tues</td>
-<td>10am</td>
-<td>Stop</td>
-<td>None</td>
-</tr>
-<tr class="odd">
-<td>Tues</td>
-<td>6pm</td>
-<td>75mL/hr</td>
-<td>16N+ 8R</td>
-</tr>
-<tr class="even">
-<td>Tues</td>
-<td>MN</td>
-<td>75mL/hr</td>
-<td>16N+ 8R</td>
-</tr>
-<tr class="odd">
-<td>Weds</td>
-<td>10am</td>
-<td>Stop</td>
-<td>None</td>
-</tr>
-</tbody>
-</table>
-<p>In this example, the patient was receiving 8N + 4R every 6 hours, so total insulin units per day is (8+4) x 4 = 48units. Because the carbohydrate load of 60mL/hour x 24 is roughly equivalent to 75mL/hour x 16 hours, the total insulin administered is roughly the same. When converted to nocturnal dosing, the patient now received 16+8 = 24 units twice (6pm and MN) = 48U. In practice, it may be wiser to begin by adjusting the dose down a little, to perhaps 14U N and 7U R for the first night.</p>
+<p>Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence. Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.</p>
+<section id="surgery-rightarrow-crt" class="level2" data-number="43.1">
+<h2 data-number="43.1" class="anchored" data-anchor-id="surgery-rightarrow-crt"><span class="header-section-number">43.1</span> Surgery <span class="math inline">\(\Rightarrow\)</span> CRT</h2>
+<p>The original approach to adjuvant therapy for rectal cancer was surgery followed by chemoradiation.</p>
+<p>GI Tumor Study Group (GITSG) showed a reduction in local recurrence with postoperative chemotherapy + radiation</p>
+<p>NIH Consensus Conference in 1990 recommended adjuvant chemoradation after surgery</p>
+</section>
+<section id="crt-rightarrow-surgery" class="level2" data-number="43.2">
+<h2 data-number="43.2" class="anchored" data-anchor-id="crt-rightarrow-surgery"><span class="header-section-number">43.2</span> CRT <span class="math inline">\(\Rightarrow\)</span> Surgery</h2>
+<p>The next innovation to adjuvant therapy for rectal cancer was chemoradiation prior to surgery, followed by adjuvant chemotherapy.</p>
+<p>German Rectal Cancer Study (AIO-94) compared preop and postop chemoradiation in locally-advanced rectal cancer <span class="citation" data-cites="sauer173">(<a href="references.html#ref-sauer173" role="doc-biblioref">Sauer et al. 2001</a>)</span>. Among 823 patients, local recurrence was 6% in the preoperative group vs 13% in the postop group (p=0.0006). Overall survival was not different, but preop chemoradiation was less toxic. Pathologic complete response rate in the preoperative group as 8%.</p>
+<p>NSABP R-03 clinical trial <span class="citation" data-cites="roh5124">(<a href="references.html#ref-roh5124" role="doc-biblioref">Roh et al. 2009</a>)</span> randomized 267 patients with T3 or T4 or node-positive rectal cancer to preop vs postop chemoradiation. Disease-free survival was better in the preoperative group, wiht no difference in overall survival. Pathologic complete response rate in the preop group was 15%. The trial did not meets its accrual targets.</p>
+</section>
+<section id="tme" class="level2" data-number="43.3">
+<h2 data-number="43.3" class="anchored" data-anchor-id="tme"><span class="header-section-number">43.3</span> TME</h2>
+<p>Total Mesorectal Excision (TME) was introduced to reduce risk of local recurrence by removal of the mesorectum and its lymph nodes.</p>
+</section>
+<section id="tme-chemort" class="level2" data-number="43.4">
+<h2 data-number="43.4" class="anchored" data-anchor-id="tme-chemort"><span class="header-section-number">43.4</span> TME + ChemoRT</h2>
+<p>Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME<span class="citation" data-cites="kapiteijn638">(<a href="references.html#ref-kapiteijn638" role="doc-biblioref">Kapiteijn et al. 2001</a>)</span>. Radiation reduced local recurrence form 10.9% to 5.6%</p>
+<p>The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival<span class="citation" data-cites="kapiteijn638">(<a href="references.html#ref-kapiteijn638" role="doc-biblioref">Kapiteijn et al. 2001</a>)</span>. A later update<span class="citation" data-cites="vangijn575">(<a href="references.html#ref-vangijn575" role="doc-biblioref">Gijn et al. 2011</a>)</span> The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.<span class="citation" data-cites="sebag-montefiore811">(<a href="references.html#ref-sebag-montefiore811" role="doc-biblioref">Sebag-Montefiore et al. 2009</a>)</span></p>
+</section>
+<section id="short-course-rt" class="level2" data-number="43.5">
+<h2 data-number="43.5" class="anchored" data-anchor-id="short-course-rt"><span class="header-section-number">43.5</span> Short-course RT</h2>
+<p>An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.</p>
+<p>Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%<span class="citation" data-cites="swedishrectalcancertrial980">(<a href="references.html#ref-swedishrectalcancertrial980" role="doc-biblioref">Swedish Rectal Cancer Trial et al. 1997</a>)</span>. Of note, this trial was performed in the era prioro to the widespread use of total mesorectal excision.</p>
+<p>Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery <span class="citation" data-cites="pettersson972">(<a href="references.html#ref-pettersson972" role="doc-biblioref">Pettersson et al. 2015</a>)</span></p>
+</section>
+<section id="total-neoadjuvant" class="level2" data-number="43.6">
+<h2 data-number="43.6" class="anchored" data-anchor-id="total-neoadjuvant"><span class="header-section-number">43.6</span> Total Neoadjuvant</h2>
+<p>A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery, Total Neoadjuvant Therapy (TNT)</p>
+<p>RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).<span class="citation" data-cites="bahadoer29">(<a href="references.html#ref-bahadoer29" role="doc-biblioref">Bahadoer et al. 2021</a>)</span> <span class="citation" data-cites="vandervalk75">(<a href="references.html#ref-vandervalk75" role="doc-biblioref">Valk et al. 2020</a>)</span></p>
+<p>PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.<span class="citation" data-cites="conroy702">(<a href="references.html#ref-conroy702" role="doc-biblioref">Conroy et al. 2021</a>)</span></p>
+<p>STELLAR trial <span class="citation" data-cites="jin1681">(<a href="references.html#ref-jin1681" role="doc-biblioref">Jin et al. 2022</a>)</span> TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitibine. No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17% with TNT vs 13.9% with conventional chemoradiation. Positive margins (R1) occurred in 8.5% of TNT patients vs 12.5% in the conventional chemoRT group.</p>
+<p>OPRA clinical trial <span class="citation" data-cites="garcia-aguilar2546">(<a href="references.html#ref-garcia-aguilar2546" role="doc-biblioref">Garcia-Aguilar et al. 2022</a>)</span>. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also <span class="citation" data-cites="smith767">(<a href="references.html#ref-smith767" role="doc-biblioref">Smith et al. 2015</a>)</span></p>
+</section>
+<section id="selective-adjuvant" class="level2" data-number="43.7">
+<h2 data-number="43.7" class="anchored" data-anchor-id="selective-adjuvant"><span class="header-section-number">43.7</span> Selective Adjuvant</h2>
+<p>Selective adjuvant therapy approaches reserves adjuvant therapy for high-risk patients, and treats low-risk patients with surgery alone.</p>
+<p>MERCURY study group has examined selective approaches to adjuvant chemoradiation in low-risk patients with rectal cancer. <span class="citation" data-cites="taylor711">(<a href="references.html#ref-taylor711" role="doc-biblioref">Taylor et al. 2011</a>)</span>, <span class="citation" data-cites="strassburg2790">(<a href="references.html#ref-strassburg2790" role="doc-biblioref">Strassburg et al. 2011</a>)</span></p>
+<p>German OCUM group <span class="citation" data-cites="kreis25">(<a href="references.html#ref-kreis25" role="doc-biblioref">Kreis et al. 2016</a>)</span> <span class="citation" data-cites="ruppert1519">(<a href="references.html#ref-ruppert1519" role="doc-biblioref">Ruppert et al. 2018</a>)</span></p>
+<p>Canadian [Quicksilver Trial] (<a href="https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134" class="uri">https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134</a>)</p>
+</section>
+<section id="neoadjuvant-immunotx" class="level2" data-number="43.8">
+<h2 data-number="43.8" class="anchored" data-anchor-id="neoadjuvant-immunotx"><span class="header-section-number">43.8</span> Neoadjuvant ImmunoTx</h2>
+<p>Mismatch repair protein deficient (MSI-high) colorectal cancer (due to either Lynch Syndrome or BRAF-1 mutation) responds pooly to chemotherapy but responds well to immunotherapy with PD-L1 blockade</p>
+<p>MSKCC trial of neoadjuvant PD-L1 blockade with 6 months of dostarlimab for 12 patients with MMR-deficient (MSI-high) rectal cancer resulted in 100% clinical response rate <span class="citation" data-cites="cercek2363">(<a href="references.html#ref-cercek2363" role="doc-biblioref">Cercek et al. 2022</a>)</span>. No patients were subsequently treated with either chemoradiation or surgery as originally planned.</p>
+<p>PICC trial <span class="citation" data-cites="hu38">(<a href="references.html#ref-hu38" role="doc-biblioref">Hu et al. 2022</a>)</span> Chinese trial of PD-L1 blockade with neoadjvant toripalimab + colecoxib vs toripalimab for 3 months in 34 patients with MMR-deficient locally-advanced (T3/4 or N+) colorectal cancer. All patients were then treated with surgery. Pathologic complete response in 88% of dual-therapy patients and 65% of monotherapy. Grade 3 toxicity in 1/34 patients. Previous neoadjuvant chemo in 25%. Rectal cancer in 18%.</p>
+<p>NICHE trial <span class="citation" data-cites="chalabi1949">(<a href="references.html#ref-chalabi1949" role="doc-biblioref">Chalabi et al. 2024</a>)</span> 115 patients with dMMR locally-advanced colon cancer treated with a neoadjuvant immunotherapy. Pathologic complete response in 68%. No recurrences with a median followo up of 26 months.</p>
+</section>
+<section id="neoadjuvant-chemotherapy" class="level1" data-number="44">
+<h1 data-number="44"><span class="header-section-number">44</span> Neoadjuvant Chemotherapy</h1>
+<p>The PROSPECT clinical trial <span class="citation" data-cites="schrag322">(<a href="references.html#ref-schrag322" role="doc-biblioref">Schrag et al. 2023</a>)</span> randomized patients with T2/3 recctal cancer to neoadjuvant therapy with chemoradiation vs FOLFOX. 585 in the FOLFOX group and 543 in the chemoradiotherapy group. FOLFOX was noninferior to chemoradiotherapy for disease-free survival and the groups were similar with respect to overall survival. In the FOLFOX group, 53 patients (9.1%) received preoperative chemoradiotherapy (if the primary tumor decreased in size by &lt;20% or if FOLFOX was discontinued because of side effects) and 8 (1.4%) received postoperative chemoradiotherapy.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-bahadoer29" class="csl-entry" role="listitem">
+Bahadoer, Renu R., Esmée A. Dijkstra, Boudewijn van Etten, Corrie A. M. Marijnen, Hein Putter, Elma Meershoek-Klein Kranenbarg, Annet G. H. Roodvoets, et al. 2021. <span>“Short-Course Radiotherapy Followed by Chemotherapy Before Total Mesorectal Excision (<span>TME</span>) Versus Preoperative Chemoradiotherapy, <span>TME</span>, and Optional Adjuvant Chemotherapy in Locally Advanced Rectal Cancer (<span>RAPIDO</span>): A Randomised, Open-Label, Phase 3 Trial.”</span> <em>The Lancet. Oncology</em> 22 (1): 29–42. <a href="https://doi.org/10.1016/S1470-2045(20)30555-6">https://doi.org/10.1016/S1470-2045(20)30555-6</a>.
+</div>
+<div id="ref-cercek2363" class="csl-entry" role="listitem">
+Cercek, Andrea, Melissa Lumish, Jenna Sinopoli, Jill Weiss, Jinru Shia, Michelle Lamendola-Essel, Imane H. El Dika, et al. 2022. <span>“<span>PD</span>-1 <span>Blockade</span> in <span>Mismatch</span> <span>Repair</span>-<span>Deficient</span>, <span>Locally</span> <span>Advanced</span> <span>Rectal</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 386 (25): 2363–76. <a href="https://doi.org/10.1056/NEJMoa2201445">https://doi.org/10.1056/NEJMoa2201445</a>.
+</div>
+<div id="ref-chalabi1949" class="csl-entry" role="listitem">
+Chalabi, Myriam, Yara L. Verschoor, Pedro Batista Tan, Sara Balduzzi, Anja U. Van Lent, Cecile Grootscholten, Simone Dokter, et al. 2024. <span>“Neoadjuvant <span>Immunotherapy</span> in <span>Locally</span> <span>Advanced</span> <span>Mismatch</span> <span>Repair</span>-<span>Deficient</span> <span>Colon</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 390 (21): 1949–58. <a href="https://doi.org/10.1056/NEJMoa2400634">https://doi.org/10.1056/NEJMoa2400634</a>.
+</div>
+<div id="ref-conroy702" class="csl-entry" role="listitem">
+Conroy, Thierry, Jean-François Bosset, Pierre-Luc Etienne, Emmanuel Rio, Éric François, Nathalie Mesgouez-Nebout, Véronique Vendrely, et al. 2021. <span>“Neoadjuvant Chemotherapy with <span>FOLFIRINOX</span> and Preoperative Chemoradiotherapy for Patients with Locally Advanced Rectal Cancer (<span>UNICANCER</span>-<span>PRODIGE</span> 23): A Multicentre, Randomised, Open-Label, Phase 3 Trial.”</span> <em>The Lancet. Oncology</em> 22 (5): 702–15. <a href="https://doi.org/10.1016/S1470-2045(21)00079-6">https://doi.org/10.1016/S1470-2045(21)00079-6</a>.
+</div>
+<div id="ref-garcia-aguilar2546" class="csl-entry" role="listitem">
+Garcia-Aguilar, Julio, Sujata Patil, Marc J. Gollub, Jin K. Kim, Jonathan B. Yuval, Hannah M. Thompson, Floris S. Verheij, et al. 2022. <span>“Organ <span>Preservation</span> in <span>Patients</span> <span>With</span> <span>Rectal</span> <span>Adenocarcinoma</span> <span>Treated</span> <span>With</span> <span>Total</span> <span>Neoadjuvant</span> <span>Therapy</span>.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 40 (23): 2546–56. <a href="https://doi.org/10.1200/JCO.22.00032">https://doi.org/10.1200/JCO.22.00032</a>.
+</div>
+<div id="ref-vangijn575" class="csl-entry" role="listitem">
+Gijn, Willem van, Corrie A. M. Marijnen, Iris D. Nagtegaal, Elma Meershoek-Klein Kranenbarg, Hein Putter, Theo Wiggers, Harm J. T. Rutten, et al. 2011. <span>“Preoperative Radiotherapy Combined with Total Mesorectal Excision for Resectable Rectal Cancer: 12-Year Follow-up of the Multicentre, Randomised Controlled <span>TME</span> Trial.”</span> <em>The Lancet. Oncology</em> 12 (6): 575–82. <a href="https://doi.org/10.1016/S1470-2045(11)70097-3">https://doi.org/10.1016/S1470-2045(11)70097-3</a>.
+</div>
+<div id="ref-hu38" class="csl-entry" role="listitem">
+Hu, Huabin, Liang Kang, Jianwei Zhang, Zehua Wu, Hui Wang, Meijin Huang, Ping Lan, et al. 2022. <span>“Neoadjuvant <span>PD</span>-1 Blockade with Toripalimab, with or Without Celecoxib, in Mismatch Repair-Deficient or Microsatellite Instability-High, Locally Advanced, Colorectal Cancer (<span>PICC</span>): A Single-Centre, Parallel-Group, Non-Comparative, Randomised, Phase 2 Trial.”</span> <em>The Lancet. Gastroenterology &amp; Hepatology</em> 7 (1): 38–48. <a href="https://doi.org/10.1016/S2468-1253(21)00348-4">https://doi.org/10.1016/S2468-1253(21)00348-4</a>.
+</div>
+<div id="ref-jin1681" class="csl-entry" role="listitem">
+Jin, Jing, Yuan Tang, Chen Hu, Li-Ming Jiang, Jun Jiang, Ning Li, Wen-Yang Liu, et al. 2022. <span>“Multicenter, <span>Randomized</span>, <span>Phase</span> <span>III</span> <span>Trial</span> of <span>Short</span>-<span>Term</span> <span>Radiotherapy</span> <span>Plus</span> <span>Chemotherapy</span> <span>Versus</span> <span>Long</span>-<span>Term</span> <span>Chemoradiotherapy</span> in <span>Locally</span> <span>Advanced</span> <span>Rectal</span> <span>Cancer</span> (<span>STELLAR</span>).”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 40 (15): 1681–92. <a href="https://doi.org/10.1200/JCO.21.01667">https://doi.org/10.1200/JCO.21.01667</a>.
+</div>
+<div id="ref-kapiteijn638" class="csl-entry" role="listitem">
+Kapiteijn, E., C. A. Marijnen, I. D. Nagtegaal, H. Putter, W. H. Steup, T. Wiggers, H. J. Rutten, et al. 2001. <span>“Preoperative Radiotherapy Combined with Total Mesorectal Excision for Resectable Rectal Cancer.”</span> <em>The New England Journal of Medicine</em> 345 (9): 638–46. <a href="https://doi.org/10.1056/NEJMoa010580">https://doi.org/10.1056/NEJMoa010580</a>.
+</div>
+<div id="ref-kreis25" class="csl-entry" role="listitem">
+Kreis, Martin E., R. Ruppert, H. Ptok, J. Strassburg, P. Brosi, A. Lewin, M. R. Schön, et al. 2016. <span>“Use of <span>Preoperative</span> <span>Magnetic</span> <span>Resonance</span> <span>Imaging</span> to <span>Select</span> <span>Patients</span> with <span>Rectal</span> <span>Cancer</span> for <span>Neoadjuvant</span> <span>Chemoradiation</span>–<span>Interim</span> <span>Analysis</span> of the <span>German</span> <span>OCUM</span> <span>Trial</span> (<span>NCT01325649</span>).”</span> <em>Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract</em> 20 (1): 25-32; discussion 32-33. <a href="https://doi.org/10.1007/s11605-015-3011-0">https://doi.org/10.1007/s11605-015-3011-0</a>.
+</div>
+<div id="ref-pettersson972" class="csl-entry" role="listitem">
+Pettersson, D., E. Lörinc, T. Holm, H. Iversen, B. Cedermark, B. Glimelius, and A. Martling. 2015. <span>“Tumour Regression in the Randomized <span>Stockholm</span> <span>III</span> <span>Trial</span> of&nbsp;Radiotherapy Regimens for Rectal Cancer.”</span> <em>The British Journal of Surgery</em> 102 (8): 972–978; discussion 978. <a href="https://doi.org/10.1002/bjs.9811">https://doi.org/10.1002/bjs.9811</a>.
+</div>
+<div id="ref-roh5124" class="csl-entry" role="listitem">
+Roh, Mark S., Linda H. Colangelo, Michael J. O’Connell, Greg Yothers, Melvin Deutsch, Carmen J. Allegra, Morton S. Kahlenberg, et al. 2009. <span>“Preoperative Multimodality Therapy Improves Disease-Free Survival in Patients with Carcinoma of the Rectum: <span>NSABP</span> <span>R</span>-03.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 27 (31): 5124–30. <a href="https://doi.org/10.1200/JCO.2009.22.0467">https://doi.org/10.1200/JCO.2009.22.0467</a>.
+</div>
+<div id="ref-ruppert1519" class="csl-entry" role="listitem">
+Ruppert, R., T. Junginger, H. Ptok, J. Strassburg, C. A. Maurer, P. Brosi, J. Sauer, et al. 2018. <span>“Oncological Outcome After <span>MRI</span>-Based Selection for Neoadjuvant Chemoradiotherapy in the <span>OCUM</span> <span>Rectal</span> <span>Cancer</span> <span>Trial</span>.”</span> <em>The British Journal of Surgery</em> 105 (11): 1519–29. <a href="https://doi.org/10.1002/bjs.10879">https://doi.org/10.1002/bjs.10879</a>.
+</div>
+<div id="ref-sauer173" class="csl-entry" role="listitem">
+Sauer, R., R. Fietkau, C. Wittekind, P. Martus, C. Rödel, W. Hohenberger, G. Jatzko, et al. 2001. <span>“Adjuvant Versus Neoadjuvant Radiochemotherapy for Locally Advanced Rectal Cancer. <span>A</span> Progress Report of a Phase-<span>III</span> Randomized Trial (Protocol <span>CAO</span>/<span>ARO</span>/<span>AIO</span>-94).”</span> <em>Strahlentherapie Und Onkologie: Organ Der Deutschen Rontgengesellschaft ... [Et Al]</em> 177 (4): 173–81. <a href="https://doi.org/10.1007/pl00002396">https://doi.org/10.1007/pl00002396</a>.
+</div>
+<div id="ref-schrag322" class="csl-entry" role="listitem">
+Schrag, Deborah, Qian Shi, Martin R. Weiser, Marc J. Gollub, Leonard B. Saltz, Benjamin L. Musher, Joel Goldberg, et al. 2023. <span>“Preoperative <span>Treatment</span> of <span>Locally</span> <span>Advanced</span> <span>Rectal</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 389 (4): 322–34. <a href="https://doi.org/10.1056/NEJMoa2303269">https://doi.org/10.1056/NEJMoa2303269</a>.
+</div>
+<div id="ref-sebag-montefiore811" class="csl-entry" role="listitem">
+Sebag-Montefiore, David, Richard J. Stephens, Robert Steele, John Monson, Robert Grieve, Subhash Khanna, Phil Quirke, et al. 2009. <span>“Preoperative Radiotherapy Versus Selective Postoperative Chemoradiotherapy in Patients with Rectal Cancer (<span>MRC</span> <span>CR07</span> and <span>NCIC</span>-<span>CTG</span> <span>C016</span>): A Multicentre, Randomised Trial.”</span> <em>The Lancet</em> 373 (9666): 811–20. <a href="https://doi.org/10.1016/S0140-6736(09)60484-0">https://doi.org/10.1016/S0140-6736(09)60484-0</a>.
+</div>
+<div id="ref-smith767" class="csl-entry" role="listitem">
+Smith, J. Joshua, Oliver S. Chow, Marc J. Gollub, Garrett M. Nash, Larissa K. Temple, Martin R. Weiser, José G. Guillem, et al. 2015. <span>“Organ <span>Preservation</span> in <span>Rectal</span> <span>Adenocarcinoma</span>: A Phase <span>II</span> Randomized Controlled Trial Evaluating 3-Year Disease-Free Survival in Patients with Locally Advanced Rectal Cancer Treated with Chemoradiation Plus Induction or Consolidation Chemotherapy, and Total Mesorectal Excision or Nonoperative Management.”</span> <em>BMC Cancer</em> 15 (October): 767. <a href="https://doi.org/10.1186/s12885-015-1632-z">https://doi.org/10.1186/s12885-015-1632-z</a>.
+</div>
+<div id="ref-strassburg2790" class="csl-entry" role="listitem">
+Strassburg, Joachim, Reinhard Ruppert, Henry Ptok, Christoph Maurer, Theodor Junginger, Susanne Merkel, and Paul Hermanek. 2011. <span>“<span>MRI</span>-Based Indications for Neoadjuvant Radiochemotherapy in Rectal Carcinoma: Interim Results of a Prospective Multicenter Observational Study.”</span> <em>Annals of Surgical Oncology</em> 18 (10): 2790–99. <a href="https://doi.org/10.1245/s10434-011-1704-5">https://doi.org/10.1245/s10434-011-1704-5</a>.
+</div>
+<div id="ref-swedishrectalcancertrial980" class="csl-entry" role="listitem">
+Swedish Rectal Cancer Trial, B. Cedermark, M. Dahlberg, B. Glimelius, L. Påhlman, L. E. Rutqvist, and N. Wilking. 1997. <span>“Improved Survival with Preoperative Radiotherapy in Resectable Rectal Cancer.”</span> <em>The New England Journal of Medicine</em> 336 (14): 980–87. <a href="https://doi.org/10.1056/NEJM199704033361402">https://doi.org/10.1056/NEJM199704033361402</a>.
+</div>
+<div id="ref-taylor711" class="csl-entry" role="listitem">
+Taylor, Fiona G. M., Philip Quirke, Richard J. Heald, Brendan Moran, Lennart Blomqvist, Ian Swift, David J. Sebag-Montefiore, Paris Tekkis, Gina Brown, and MERCURY study group. 2011. <span>“Preoperative High-Resolution Magnetic Resonance Imaging Can Identify Good Prognosis Stage <span>I</span>, <span>II</span>, and <span>III</span> Rectal Cancer Best Managed by Surgery Alone: A Prospective, Multicenter, <span>European</span> Study.”</span> <em>Annals of Surgery</em> 253 (4): 711–19. <a href="https://doi.org/10.1097/SLA.0b013e31820b8d52">https://doi.org/10.1097/SLA.0b013e31820b8d52</a>.
+</div>
+<div id="ref-vandervalk75" class="csl-entry" role="listitem">
+Valk, Maxime J. M. van der, Corrie A. M. Marijnen, Boudewijn van Etten, Esmée A. Dijkstra, Denise E. Hilling, Elma Meershoek-Klein Kranenbarg, Hein Putter, et al. 2020. <span>“Compliance and Tolerability of Short-Course Radiotherapy Followed by Preoperative Chemotherapy and Surgery for High-Risk Rectal Cancer - <span>Results</span> of the International Randomized <span>RAPIDO</span>-Trial.”</span> <em>Radiotherapy and Oncology: Journal of the European Society for Therapeutic Radiology and Oncology</em> 147 (June): 75–83. <a href="https://doi.org/10.1016/j.radonc.2020.03.011">https://doi.org/10.1016/j.radonc.2020.03.011</a>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1035,13 +1141,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./03-jejunostomy.html" class="pagination-link" aria-label="Jejunostomy Feedings">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Jejunostomy Feedings</span></span>
+      <a href="./07-rectal_surgery.html" class="pagination-link" aria-label="Rectal Ca Surgery">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">Rectal Ca Surgery</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./03-icu_esophagectomy.html" class="pagination-link" aria-label="Esophagectomy ICU">
-        <span class="nav-page-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Esophagectomy ICU</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./08-anal_SCCA.html" class="pagination-link" aria-label="Anal Squamous Cell Carcinoma">
+        <span class="nav-page-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Anal Squamous Cell Carcinoma</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1050,4 +1156,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/03-jejunostomy_diabetes.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/07-rectal_crt.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
