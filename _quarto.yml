@@ -44,9 +44,6 @@ book:
     - part: "Outpatient"
       chapters:
       - 31-outpt_esophagectomy.qmd
-      - 31-outpt_gastrectomy.qmd
-      - 31-outpt_gastrostomy.qmd
-      - 31-outpt_jejunostomy.qmd
     - part: "Esophageal Cancer"
       chapters: 
       - 04-eso_overview.qmd
