@@ -1,6 +1,4 @@
-
 # Gastric GIST
-
 
 ## Genetics
 
@@ -15,3 +13,14 @@ Tyrosine kinase inhibitors:
 -   Sunitinib treatment is indicated for patients with imatinib-resistant tumors or imatinib intolerance.
 -   Regorafenib is indicated for patients with disease progression on imatinib or sunitinib.
 -   Ripretinib is indicated for patients who have received prior treatment with 3 or more kinase inhibitors, including imatinib.
+
+## Surgery
+
+Surgical resection ideally involved a negative histologic margin.  A wide resection margin is not required, nor is lymph node dissection unless nodes are clinically involved. [@dematteo51]
+
+## Positive margins after resection
+
+ACOSOG working group [@mccarter53] studies 819 patients undergoing resection of GIST under Z9000 and Z9001 clinical trials. 72 patients (8.8%) had an R1 resection, of whom 21 had intraperitoneal rupture or bleed.  Factors associated with R1 resection included tumor size >10cm, rectum location, and tumor rupture. Disease recurrence in patients with R1 resections was primarily due to associated tumor rupture. There was no difference in recurrence-free survival for patients underoing R1 vs R0 resection.
+
+Norweigan report [@holmebakk419] of 401 patients wtih GIST of whom 47had R1 resection and 52 with tumor recurrence. In patients without rupture, there was no difference in 5-year recurrence-free survival for R1 vs R0 resection. In multivariable analysis, tumor rupture but not R1 resection was associates with recurrence. 
+

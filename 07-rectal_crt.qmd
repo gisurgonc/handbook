@@ -1,6 +1,6 @@
 # Rectal Adjuvant Therapy {#RectalAdjuvant}
 
-Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence.  Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.
+Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence. Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.
 
 ## Surgery $\Rightarrow$ CRT
 
@@ -56,7 +56,7 @@ MERCURY study group has examined selective approaches to adjuvant chemoradiation
 
 German OCUM group [@kreis25] [@ruppert1519]
 
-Canadian [Quicksilver Trial] (<https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134>)
+Canadian \[Quicksilver Trial\] (<https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134>)
 
 ## Neoadjuvant ImmunoTx
 
@@ -68,6 +68,6 @@ PICC trial [@hu38] Chinese trial of PD-L1 blockade with neoadjvant toripalimab +
 
 NICHE trial [@chalabi1949] 115 patients with dMMR locally-advanced colon cancer treated with a neoadjuvant immunotherapy. Pathologic complete response in 68%. No recurrences with a median followo up of 26 months.
 
-# Neoadjuvant Chemotherapy
+## Neoadjuvant Chemotherapy
 
 The PROSPECT clinical trial [@schrag322] randomized patients with T2/3 recctal cancer to neoadjuvant therapy with chemoradiation vs FOLFOX. 585 in the FOLFOX group and 543 in the chemoradiotherapy group. FOLFOX was noninferior to chemoradiotherapy for disease-free survival and the groups were similar with respect to overall survival. In the FOLFOX group, 53 patients (9.1%) received preoperative chemoradiotherapy (if the primary tumor decreased in size by \<20% or if FOLFOX was discontinued because of side effects) and 8 (1.4%) received postoperative chemoradiotherapy.

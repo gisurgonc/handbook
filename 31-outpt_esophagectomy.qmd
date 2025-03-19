@@ -1,0 +1,34 @@
+# Outpatient Esophagectomy {#outpt_mie}
+
+Patient are usually seen 7-10 days after hospital discharge. By system:
+
+## Neurologic - Pain control
+
+Patient are typically discharged on:
+
+- acetaminophen 1000mg qid
+- gabapentin 300mg tid (liquid)
+- oxycodone elixir 5mg q6 hrs prn
+
+If patients need additional oxycodone, this is renewed 2 weeks at a time, typically to correspond to a clinic day.  Their current daily usage at the time of their first postop visit is estimated, and the first prescription plans for the same daily amount for a two week period.  If they are taking 5mg of oxycodone 5 times per day, a prescription is prepared for 5 x 14 = 70 doses. The prescription is annotated "Two week supply at 5 doses per day".  Patients are told the prescription will be renewed 2 weeks later at a reduced dose (typically one fewer dose per day). If the oxycodone bottle is lost, patients are prescribed tramadol (50mg q6 hours).  Patient are told that if they need long-term pain management, they will need the assistance of their primary care provider.
+
+Patients are instructed that they are not "cleared" for driving as long as they are taking oxycodone
+
+## Respiratory
+
+Pleural effusion (typically on the right) is a risk after esophagectomy.  If the lung exam suggests a pleural effusion, a chest x-ray PA/Lateral can be obtained same-day in LCI I.
+
+Chest incisions should be inspected for signs of wound infection and retained silk (black) suture at the chest tube site
+
+## GI
+
+Patients who pass their modified barium swallow are discharged on protein shakes and water by mouth. They are advanced to a Phase I diet at their first post-operative visit.
+
+Patients who do not pass their modified barium swallow will need an outpatient MBS ordered at the first postop visit.  They will contine with either 1) meds via J tube or 2) meds with thickened water, depending upon their MBS results in the hospital.
+
+Skin staples are removed, and the jejunostomy site inspected for infection.  Infections are treated with Augmentin for 7-10 days.  In some cases, infected cuffed jejunostomy tubes will need to be replaced in interventional radiology.  See [J tubes](31-outpt_jejunostomy.htm)
+
+Tube feeds are typically run for 16 hours nocturnal - 5 cartons for men (75mL/hour) and 4 cartons for women (60mL/hour).
+
+
+**Diarrhea** Loose stools during the day are to be expected, but diarrhea at night is problematic both for sleep and quality of life. This may require a change in formula from intact protein (Osmolite 1.5) to a peptide formula (Vital 1.5).  If patients are taking enough protein orally through protein shakes, it may be possible to decrease the rate of tube feeds.
