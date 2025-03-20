@@ -32,6 +32,8 @@ Pleural effusion (typically on the right) is a risk after esophagectomy.  If the
 
 Chest incisions should be inspected for signs of wound infection and retained silk (black) suture at the chest tube site
 
+Patients who are hypoxemic should be further investigated with chest x-ray.  Delayed pulmonary embolism would be unusual, but would need to be considered and evaluated with a CT angiogram.
+
 ## GI
 
 Patients who pass their modified barium swallow are discharged on protein shakes and water by mouth. They are advanced to a Phase I diet at their first post-operative visit.
@@ -60,7 +62,7 @@ Patient with renal dysfunciton in the hosopital should have BMP checked at their
 
 ## Hematologic
 
-Patients on Plavix or anticoagulation should have had theses medicines restarted before discharge
+Patients on Plavix or anticoagulation should have had theses medicines restarted before discharge.
 
 ## ID
 
