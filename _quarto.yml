@@ -25,7 +25,7 @@ book:
       chapters: 
         - 11-preop_esophageal.qmd
         - 31-clinic_salo.qmd
-        - 31_clinic_hill.qmd
+        - 31-clinic_hill.qmd
     - part: "Operating Room"
       chapters:
       - 02-colorectal_hill.qmd
