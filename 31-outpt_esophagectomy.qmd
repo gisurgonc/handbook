@@ -48,8 +48,6 @@ Skin staples are removed, and the jejunostomy site inspected for infection. Infe
 
 Tube feeds are typically run for 16 hours nocturnal - 5 cartons for men (75mL/hour) and 4 cartons for women (60mL/hour). Free water is usually 240mL 4x/day.
 
-[Diabetics on Tube Feeds receiving insulin]{#outpt_tubefeeds_diabetes} require special management.
-
 [Diabetics on Tube Feeds receiving insulin](#outpt_tubefeeds_diabetes) require special management.
 
 70% of patient are taking oral liquids when discharged, including protein shakes. For patients that can get one Premier protein, this represents 30gm of protein, which is the equivalent of 2 cartons of tube feeds. These patients can often have their tube feeds decreased to 3 cartons/night, which allows them to run for only 12 hours.
@@ -66,7 +64,7 @@ Proton pump inhibitors are used for 12 months after surgery, to prevent anastomo
 
 **Renal**
 
-Patient with renal dysfunciton in the hosopital should have BMP checked at their first postoperative visit.
+Patient with renal dysfunciton in the hospital should have BMP checked at their first postoperative visit.
 
 **Hematologic**
 

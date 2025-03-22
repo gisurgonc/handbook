@@ -21,10 +21,11 @@ book:
       - 01-signout.qmd
       - 01-discharges.qmd
       - 01-students.qmd
-      - 01-clinic_salo.qmd
     - part: "Preoperative Care"
       chapters: 
         - 11-preop_esophageal.qmd
+        - 31-clinic_salo.qmd
+        - 31_clinic_hill.qmd
     - part: "Operating Room"
       chapters:
       - 02-colorectal_hill.qmd

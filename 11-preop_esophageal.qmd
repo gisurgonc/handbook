@@ -1,20 +1,25 @@
-# Outpatient Jejunostomy Care {#outpt_jejunostomy}
+# Preop Esophageal Ca {#preop_esophageal}
 
-## Jejunostomy Tubes
+Patient who present with esophageal and GE junction diagnoses present in several manners, which determine their evaluation.
 
-Two types of tubes are used
+- Superficial tumors 
 
-**Dacron cuffed MIC tube** [0301-14](https://avanos.com/product-catalog/product/mic-jejunostomy-tubes/0301-14__mic-jejunostomy-feeding-tube-14-fr/). These tubes are usually only placed after esophagectomy. The dacron cuff is designed to sit in the subcutaneous tissue. If the cuff becomes incorporated, the tube can stay in placed for extended periods of time. Unfortunately, the cuff is prone to infection. Patients with infection of a cuffed jejunostomy will need antibiotics (eg Augmentin) and orders for stat *IR J tube Manip Exchange*
+These patients typically have Barrett's esophagus and are found to have small tumors on surveillence endoscopy.  These are considered [superficial].
 
-Removal of cuffed tubes requires a small surgical procedure. Supplies required:
+Workup typically involved endosopic ultrasound to determine T stage and endoscopic mucosal resection [EMR] which can be both diagnostic and therapeutic for T1 tumors.
 
--   ER Laceration tray
--   30mL 1% xylocaine (prefer with epinephrine)
--   15 blade scalpel
--   Non-sterile gloves
+- Tumors without dysphagia
 
-Patient will need a surgical consent and a procedure note.
+Patients with minimal symptoms who may present with upper GI bleeding or vague symptoms but have no difficulty swallowing. Thesea are considered [early stage]. Workup typically involves PET and endoscopic ultrasound (EUS). Some patients will undergo primary surgery.
 
-**Balloon Tube MIC** [8200-14](https://avanos.com/product-catalog/product/mic-jejunal-j-feeding-tubes/8200-14__mic-jejunal-feeding-tube-with-enfit-connector-14-fr/)
+- Tumors with dysphagia
 
-These tubes are held in place by a balloon simlar to a foley catheter. The balloon is typically inflated with 5mL of water. Saline is not used in the balloon as the salt may crystallize in the balloon valve. Balloon tubes can be removed by deflating the balloon and traction. A gauze is placed over the site. Patients are instructed that the site can drain for a few days. A jejunal-cutaneous fistula develops in approximately 1% of patients, who will will placement of an ostomy bag over the site and total parenteral nutrition (TPN) in order for the fistulous tract to heal.
+Patients with esophageal or GE junction tumors who present with dysphagia are considered [locally-advanced]. Workup involves PET scan.  Most patients will undergo neoadjuvant therapy. Many will need a central venous port and some will need a feeding tube. Most need a referral for medical oncology.
+
+- Tumors with metastatic disease
+
+Patients who have signs of metastatic disease on CT or PET are considered [metastatic]. These patient typically need a central venous port of chemotherapy.
+
+## Medical Evaluation
+
+History re
