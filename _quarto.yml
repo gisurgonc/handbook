@@ -12,7 +12,7 @@ book:
   cover-image: giso241009.jpeg
   chapters:
     - index.qmd
-    - part: "Clinical Care"
+    - part: "Inpatient Care"
       chapters: 
       - 01-cmc_inpatient.qmd
       - 01-pv_inpatient.qmd
@@ -22,6 +22,9 @@ book:
       - 01-discharges.qmd
       - 01-students.qmd
       - 01-clinic_salo.qmd
+    - part: "Preoperative Care"
+      chapters: 
+        - 11-preop_esophageal.qmd
     - part: "Operating Room"
       chapters:
       - 02-colorectal_hill.qmd

@@ -1,54 +1,62 @@
 # Outpatient Esophagectomy {#outpt_mie}
 
-Patient are usually seen 7-10 days after hospital discharge. By system:
+Patient are usually seen 7-10 days after hospital discharge.
 
-## Neurologic - Pain control
+## Postop Evaluation
+
+By system:
+
+**Neurologic - Pain control**
 
 Patient are typically discharged on:
 
-- acetaminophen 1000mg qid
-- gabapentin 300mg tid (liquid)
-- oxycodone elixir 5mg q6 hrs prn
+-   acetaminophen 1000mg qid
+-   gabapentin 300mg tid (liquid)
+-   oxycodone elixir 5mg q6 hrs prn
 
-If patients need additional oxycodone, this is renewed 2 weeks at a time, typically to correspond to a clinic day.  Their current daily usage at the time of their first postop visit is estimated, and the first prescription plans for the same daily amount for a two week period.  If they are taking 5mg of oxycodone 5 times per day, a prescription is prepared for 5 x 14 = 70 doses. The prescription is annotated "Two week supply at 5 doses per day".  Patients are told the prescription will be renewed 2 weeks later at a reduced dose (typically one fewer dose per day). If the oxycodone bottle is lost, patients are prescribed tramadol (50mg q6 hours).  Patient are told that if they need long-term pain management, they will need the assistance of their primary care provider.
+If patients need additional oxycodone, this is renewed 2 weeks at a time, typically to correspond to a clinic day. Their current daily usage at the time of their first postop visit is estimated, and the first prescription plans for the same daily amount for a two week period. If they are taking 5mg of oxycodone 5 times per day, a prescription is prepared for 5 x 14 = 70 doses. The prescription is annotated "Two week supply at 5 doses per day". Patients are told the prescription will be renewed 2 weeks later at a reduced dose (typically one fewer dose per day). If the oxycodone bottle is lost, patients are prescribed tramadol (50mg q6 hours). Patient are told that if they need long-term pain management, they will need the assistance of their primary care provider.
 
 Patients are instructed that they are not "cleared" for driving as long as they are taking oxycodone
 
-## Cardiovascular
+**Cardiovascular**
 
-Beta blockers are used around the time of surgery to prevent atrial fibrillation. 
+Beta blockers are used around the time of surgery to prevent atrial fibrillation. Management depends upon patients's preoperative medications:
 
-**Patients not on beta-blockers or antihypertensives** are started on metoprolol 25 to 50mg enteral bid in the hospital. At their first postoperative visit, metoprolol is cut to once per day for one week, then stopped.
+[Patients not on beta-blockers or antihypertensives prior to surgery]{.underline} are started on metoprolol 25 to 50mg enteral bid in the hospital. At their first postoperative visit, metoprolol is cut to once per day for one week, then stopped.
 
-**Patients taking antihypertensives but not on beta-blockers** are started on metoprolol 25 to 50mg enteral bid in the hospital. In some cases, their anti-hypertensives are held to prevent hypotension.  At their first postoperative visit, metoprolol is discontinued and their home antihypertensives resumed.
+[Patients taking antihypertensives but not on beta-blockers prior to surgery]{.underline} are started on metoprolol 25 to 50mg enteral bid in the hospital. In some cases, their anti-hypertensives are held to prevent hypotension. At their first postoperative visit, metoprolol is discontinued and their home antihypertensives resumed.
 
-**Patients taking beta-blockers** are kept on their beta blockers after surgery
+[Patients taking beta-blockers]{.underline} are kept on their beta blockers in the hospital and after surgery
 
-If patients have been experienced atrial fibrillation in the hospital or have new cardiac medicines, they will need cardiology follow up for management.
+If patients have been experienced atrial fibrillation in the hospital or have new cardiac medicines, they will need cardiology follow up for management. Typically this is amiodarone.
 
-## Respiratory
+**Respiratory**
 
-Pleural effusion (typically on the right) is a risk after esophagectomy.  If the lung exam suggests a pleural effusion, a chest x-ray PA/Lateral can be obtained same-day in LCI I.
+Pleural effusion (typically on the right) is a risk after esophagectomy. If the lung exam suggests a pleural effusion, a chest x-ray PA/Lateral can be obtained same-day in LCI I.
 
 Chest incisions should be inspected for signs of wound infection and retained silk (black) suture at the chest tube site
 
-Patients who are hypoxemic should be further investigated with chest x-ray.  Delayed pulmonary embolism would be unusual, but would need to be considered and evaluated with a CT angiogram.
+Patients who are hypoxemic should be further investigated with chest x-ray. Delayed pulmonary embolism would be unusual, but would need to be considered and evaluated with a CT angiogram.
 
-## GI
+**GI**
 
 Patients who pass their modified barium swallow are discharged on protein shakes and water by mouth. They are advanced to a Phase I diet at their first post-operative visit.
 
-Patients who do not pass their modified barium swallow will need an outpatient MBS ordered at the first postop visit.  They will contine with either 1) meds via J tube or 2) meds with thickened water, depending upon their MBS results in the hospital.
+Patients who do not pass their modified barium swallow will need an outpatient MBS ordered at the first postop visit. They will continue with either 1) meds via J tube or 2) meds with thickened water, depending upon their MBS results in the hospital.
 
-Skin staples are removed, and the jejunostomy site inspected for infection.  Infections are treated with Augmentin for 7-10 days.  In some cases, infected cuffed jejunostomy tubes will need to be replaced in interventional radiology.  See [J tubes](31-outpt_jejunostomy.htm)
+Skin staples are removed, and the jejunostomy site inspected for infection. Infections are treated with Augmentin for 7-10 days. In some cases, infected cuffed jejunostomy tubes will need to be replaced in interventional radiology. See [J tubes](31-outpt_jejunostomy.htm)
 
 Tube feeds are typically run for 16 hours nocturnal - 5 cartons for men (75mL/hour) and 4 cartons for women (60mL/hour). Free water is usually 240mL 4x/day.
 
-70% of patient are taking oral liquids when discharged, including protein shakes.  For patients that can get one Premier protein, this represents 30gm of protein, which is the equivalent of 2 cartons of tube feeds.  These patients can often have their tube feeds decreased to 3 cartons/night, which allows them to run for only 12 hours. 
+[Diabetics on Tube Feeds receiving insulin]{#outpt_tubefeeds_diabetes} require special management.
 
-**Diarrhea** Loose stools during the day are to be expected, but diarrhea at night is problematic both for sleep and quality of life. This may require a change in formula from intact protein (Osmolite 1.5) to a peptide formula (Vital 1.5).  If patients are taking enough protein orally through protein shakes, it may be possible to decrease the rate of tube feeds.
+[Diabetics on Tube Feeds receiving insulin](#outpt_tubefeeds_diabetes) require special management.
 
-**Constipation** can be easily treated by increasing free water to 240mL 6x/day (48oz) or even 240mL 8x/day (64oz).  Miralax is generally not required with a jejunostomy.
+70% of patient are taking oral liquids when discharged, including protein shakes. For patients that can get one Premier protein, this represents 30gm of protein, which is the equivalent of 2 cartons of tube feeds. These patients can often have their tube feeds decreased to 3 cartons/night, which allows them to run for only 12 hours.
+
+**Diarrhea** Loose stools during the day are to be expected, but diarrhea at night is problematic both for sleep and quality of life. This may require a change in formula from intact protein (Osmolite 1.5) to a peptide formula (Vital 1.5). If patients are taking enough protein orally through protein shakes, it may be possible to decrease the rate of tube feeds.
+
+**Constipation** can be easily treated by increasing free water to 240mL 6x/day (48oz) or even 240mL 8x/day (64oz). Miralax is generally not required with a jejunostomy.
 
 Reglan is used for 6 weeks after surgery, then stopped. If patients have reflux symptoms, this is renewed for another 6 weeks.
 
@@ -56,14 +64,32 @@ Remeron (if used) is given for 12 weeks after surgery, then stopped.
 
 Proton pump inhibitors are used for 12 months after surgery, to prevent anastomotic stricture.
 
-## Renal
+**Renal**
 
 Patient with renal dysfunciton in the hosopital should have BMP checked at their first postoperative visit.
 
-## Hematologic
+**Hematologic**
 
 Patients on Plavix or anticoagulation should have had theses medicines restarted before discharge.
 
-## ID
+**ID**
 
 New fevers at home require investigation with CXR and CBC or CT chest/abdomen/pelvis as indicated
+
+## Medication Management
+
+Beta blockade and anti-hypertensives
+
+Atrial fibrillation occurs in the postoperative period in 20% of patients. For this reason, beta blockers are used to atrial fibrillation prevention. In the ICU, metoprolol is administered intravenously and is subsequently changed to enteral administration. Because metoprolol also lowers blood pressure, patients on home anti-hypertensives frequently have them held during their hospital stay (and after discharge). At the first postoperative visit, patients who were not treated with beta blockade preoperatively are generally switched from metoprolol back to their home anti-hypertensives.
+
+## Special Cases
+
+### Weaning Tube Feeds in Diabetics  {#outpt_tubefeeds_diabetes}
+
+As outpatients begin eating more orally, their tube feeds are reduced.
+
+Weaning from 5 cans to 4 cans: Easiest method is to maintain the same schedule (16 hours) and reduce insulin dosage by 20%. For instance, the above patient who is on 5 cans at 75mL/hour x 16 hours is receiving 16N + 8R at start of tube feeds and 6 hours later. This patient could be weaned by reducing rate form 75mL/hour x 16 hours to 60mL/hour x 16 hours and reducing insulin to 12N + 6R at the start of tube feeds AND another dose of 12N + 6R after 6 hours.
+
+Weaning from 4 cans to 3 cans: One option is to decrease the duration of tube feeds from 16 hours to 12 hours, while maintaining rate of 60mL/hour. In this case, the insulin dosage could be kept the same at the start of tube feeds, BUT the dose 6 hours after the start of tube feeds could be omitted.
+
+Once patients are on 3 cans per night, further weaning can be accomplished by skipping tube feeds (and insulin) every other night in a “tube feed holiday”. This allows an evening of interrupted sleep and can tend to increase the appetite the morning after tube feeds are held.
