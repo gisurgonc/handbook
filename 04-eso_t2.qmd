@@ -6,9 +6,9 @@
 
 Multiple studies have failed to show the additional benefit of chemotherapy or chemoradiation for pT2N0M0 esophageal cancer patients treated with radiation.
 
-Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 \[Mariette 2416\] enrolled patients with T1-2 or T3N0 tumors to chemoradiation followed by surgery versus surgery alone. The majority of the tumors (72%) were squamous cell carcinoma.Postoperative mortality was significaly increased in the chemoradiation arm (11.1% vs 3.4%).
+Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [@mariette2416] enrolled patients with T1-2 or T3N0 tumors to chemoradiation followed by surgery versus surgery alone. The majority of the tumors (72%) were squamous cell carcinoma.Postoperative mortality was significaly increased in the chemoradiation arm (11.1% vs 3.4%).
 
-Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.\[MOta 176\]
+Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[@mota176]
 
 French trial FREGAT[@markar59]
 
