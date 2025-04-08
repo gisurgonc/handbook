@@ -4,13 +4,13 @@ Tumors that are T2N^+^M0 or T3NxM0 are considered locally-advanced. The high rat
 
 ## Trimodality Therapy {#trimodality}
 
-Trimodality therapy consists of chemoradiation (chemoRT) followed by surgery. Between 2010 and early 2024, this approach was the standard of care for locally-advanced esophageal cancer. In 2024, the ESOPEC trial showed superior survival for *adenocarcinoma* with perioperative "sandwich" FLOT chemotherapy compared to chemoRT.  For squamous cell carcinoma, trimodality therapy continues to be the standard of care.
+Trimodality therapy consists of chemoradiation (chemoRT) followed by surgery. Between 2010 and early 2024, this approach was the standard of care for locally-advanced esophageal cancer. In 2024, the ESOPEC trial showed superior survival for *adenocarcinoma* with perioperative "sandwich" FLOT chemotherapy compared to chemoRT. For squamous cell carcinoma, trimodality therapy continues to be the standard of care.
 
 CROSS trial randomized 364 patients with resectable esophageal and gastroesophageal junction tumors (75% adenocarcinoma) to neoadjuvant chemoradiation consisting of 4,140 cGy of radiation with concurrent carboplatin and paclitaxel or surgery alone.[@vanhagen2074] Clinical node-positive disease was present in 16%. Pathologic complete response was seen in 23% of adenocarcinoma and 49% of squamous cell carcinomas. Median overall survival was 49 months after trimodality vs 24 months after surgery alone (p=0.003). Survival at 5 years was 47% with trimodality vs 34% with surgery alone. Squamous cell carcinomas appeared to have particular benefit, with a hazard ratio of 0.42 for squamous cell vs 0.74 for adenocarcinoma. Median survival was improved for adenocarcinoma from 27.1 months to 43.2 months, but the median survival for squamous cell increased from 27.1months to 81.6 months for squamous cell. Rate of R0 resection was higher with chemoradiation (92% vs 69% p\<0.001) and local recurrence rates lower (14% vs 34% P\<0.001), and peritoneal recurrence lower (4% vs 14% P\<0.001). Despite the relatively low dose of radiation, in-field recurrences were less than 5%. The primary cause of failure was distant disease (31%) and local/regional failure (14%). Therapy was well-tolerated with 17% grade 3 toxicity.[@oppedijk385]
 
 Ten-year followup of the CROSS trial [@eyck1995] showed that the primary benefit of CROSS regimen was in reducing local and loco-regional recurrences. There was no difference in isolated distant recurrence betwee the two arms.
 
-Alternative to carboTaxol for chemoradiation is FOLFOX (SOG trial [@leichman4555]) 
+Alternative to carboTaxol for chemoradiation is FOLFOX (SOG trial [@leichman4555])
 
 Ongoing PROTECT trial compares FOLFOX to paclitaxel and carboplatin [@messager318]
 
@@ -34,15 +34,15 @@ German trial [@stahl851] randomized patients to preoperative chemotherapy (A) vs
 
 Intergroup-0116 [@macdonald725] [@smalley2327] treated 556 patients with adenocarcinoma of the stomach or GE junction with surgery along vs surgery followed by postoperative chemoradiation. After a median followup of over 5 years, median overall survival iin the surgery alone group was 27 months vs 36 months in the postoperative chemoradiation group (p=0.005) Decrease in local failure as the first site of failure in the chemoradiation group (19% versus 29%).
 
-Chemoradiation after resectdion of GE junction tumors [@kofoed26] among a group of 211 patients with GE junction adenocarcinoma with positive lymph nodes with improved 3-year disease-free survival (37% s 24%).
+Chemoradiation after resectdion of GE junction tumors [@kofoed26] among a group of 211 patients with GE junction adenocarcinoma with positive lymph nodes with improved 3-year disease-free survival (37% vs 24%).
 
 ## Restaging
 
-PET is routinely done for restaging esophageal cancer after chemoradiation. Interval metastasis is found in 9% of cases [@noordman965]
+PET is routinely done for restaging esophageal cancer after chemoradiation. Interval metastasis is found in 9% of cases [@noordman965]. Similar findings in a European multicenteral study [@vanderzijden7759]
 
 ## Active Surveillance
 
-Patients treated with neoadjuvant therapy who have a robust clinical response (as evidenced by PET and EGD) can be treated with intensive surveillance. 
+Patients treated with neoadjuvant therapy who have a robust clinical response (as evidenced by PET and EGD) can be treated with intensive surveillance.
 
 EGD is poor predictor of pCR due to low sensitivity[@sarkaria764]
 

@@ -1,0 +1,8 @@
+# Active Surveillance {#eso_nonoperative}
+
+Neoadjuvant chemoradiation results in pathologic complete response in 23% of patients with adenocarcinoma and 40% of those with squamous cell carcinoma. On the other hand, clinical responses are seen in up to 70% of cases. These observation has led to a strategy of "active surveillance" in which patients with a clinical response to neoadjuvant chemoradiation undergo serial evaluation with endoscopy and imaging. Patients with a isolated local recurrence are then treated with salvage esophagectomy.
+
+The SANO (Surgery As Necessary Only) clinical trial randomized patients to trimodality therapy (chemoRT $\rightarrow$) 
+
+Restaging with PET was found to reveal interval metastatic disease in 10% of patients [@valkema1553]
+
