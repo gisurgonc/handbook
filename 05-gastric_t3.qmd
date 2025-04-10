@@ -26,6 +26,8 @@ ARTIST trial 450 patients treated with a D1 $\alpha$ gastrectomy were randomized
 
 CRITICS trial [@cats616] treated all patients with preoperative chemotherapy (ECF or CapeOx) followed by surgery. Postoperative patients were then randomized between additional chemotherapy versus chemoradiation. No difference in survival between groups.
 
+CRITICS-II Trial [@slagter877] resectable gastric cancer randomized to neoadjuvant chemo (DOC x4) vs chemo (DOC x2) followed by ChemoRT (CROSS) vs ChemoRT (CROSS).
+
 ## Preoperative chemoradiation
 
 [@ajani3953]

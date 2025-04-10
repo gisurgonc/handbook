@@ -22,4 +22,5 @@ Patients who have signs of metastatic disease on CT or PET are considered [metas
 
 ## Medical Evaluation
 
-History re
+## Restaging
+
