@@ -64,8 +64,8 @@ Upper GI is ordered as *FL Upper GI Track Single Contrast*
 
 *Drains*
 
--   JP1: 19Fr Blake drain in left pleura. The end of the tube is cut at an angle. The exit site the *usually* the most lateral drain.
--   JP2: 19Fr Blake drain in right pleura. The exit site is *usually* medial to JP1
+-   JP1: 19Fr Blake drain in left pleura. The end of the tube is cut at an angle. The exit site the *usually* the most lateral/inferior drain.
+-   JP2: 19Fr Blake drain in right pleura. The exit site is *usually* medial/superior to JP1
 -   JP3: 19 Fr Blake drain in abdomen. If used, the exit site is *usually* most medial
 -   JP4: 15Fr Blake drain in neck (for cervical incision)
 -   JP5: 15Fr Blake drain in subcutaneous tissue of incision
