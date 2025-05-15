@@ -1,0 +1,65 @@
+| Ward | Service  | Phone        |
+|------|----------|--------------|
+| 3T   |          |              |
+| 4T   | Oncology |              |
+| 4B   | Oncology |              |
+|      |          |              |
+| 6A   | Cardiac  | 704-355-6000 |
+| 6B   | Psych    |              |
+|      |          |              |
+| 10A  | Medicine |              |
+| 10T  | Medicine |              |
+| 11A  | Trauma   |              |
+| 11L  | Trauma   |              |
+| 11B  | Ortho    |              |
+|      |          |              |
+
+| Col1 | Col2     | Col3   | Col4 | Col5           | Col6   |
+|------|----------|--------|------|----------------|--------|
+|      |          |        |      |                |        |
+| 4T   | Oncology | 5-XXXX | 6T   | CardioThoracic | 5-6901 |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+|      |          |        |      |                |        |
+
+# Phone List
+
+| Col1            | Col2         | Col3 | Col4 |
+|-----------------|--------------|------|------|
+|                 |              |      |      |
+|                 |              |      |      |
+|                 |              | 3T   |      |
+|                 |              | 3B   |      |
+| Healthy at Home | 877-512-5550 | 4T   |      |
+|                 |              | 4B   |      |
+|                 |              |      |      |
+|                 |              |      |      |
+|                 |              |      |      |
+|                 |              |      |      |
+|                 |              |      |      |
+|                 |              |      |      |
+
+| Service | Phone |
+|------------------------------------|------------------------------------|
+| Advanced GI (Dries/Doshi/Lewis/Chauhan) | CMC Advanced GI ERCP Consult |
+| Advanced GI (Narang) | CDHA Advanced GI ERCP |
+| Hospitalist | CGH Service Hospitalist CMC - Consults Only |
+| Interventional Radiology | Eric Dodson - Haiku or 5-3599 |
+| Body Radiology | 5-2270 |
+| Ultrasound | 5-3600 |
+| Endocrine | CMC Endocrinology Consult Team (Kelli Dunn) |
+| Nephrology | Metroline Neph Consult CMC |
+| Cardiology | CMC SHVI General Cardiology |
+| ID | CMC Infectious Disease Consults |
+| General Surgery Red | General Surgery Red CMC floor/consults |
+| Pulmonary | CMC Pulmonary Consult PCCC |
+| STICU | STICU Charge for TRANSFERS |
+| Hospital at Home | GCM HAH Nurse Navigators (referrals) CLT |
+|  |  |
