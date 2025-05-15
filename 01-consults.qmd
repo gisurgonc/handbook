@@ -2,7 +2,7 @@
 
 **Common Haiku Groups for Consults**
 
-| Col1 | Col2 |
+| Service | Haiku Group |
 |----|----|
 | Advanced GI (Dries/Doshi/Lewis/Chauhan) | CMC Advanced GI ERCP Consult |
 | Advanced GI (Narang) | CDHA Advanced GI ERCP |
@@ -13,7 +13,7 @@
 | Endocrine | CMC Endocrinology Consult Team (Kelli Dunn) |
 | Nephrology | Metroline Neph Consult CMC |
 | Cardiology | CMC SHVI General Cardiology |
-| ID | CMC Infectious DIsease Consults |
+| ID | CMC Infectious Disease Consults |
 | General Surgery Red | General Surgery Red CMC floor/consults |
 | Pulmonary | CMC Pulmonary Consult PCCC |
 | STICU | STICU Charge for TRANSFERS |
