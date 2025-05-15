@@ -15,7 +15,7 @@ Multimodal pain control:
 -   gabapentin (300mg tid liquid via Jejunostomy)
 -   Tylenol (1000mg q6hrs as pediatric liquid via Jejunostomy).
 -   Epidural in most patients. Epidurals will usually be removed by the fifth postoperative day.
--   [ASRA Guidelines for anticoagulation] (<https://rapm.bmj.com/content/rapm/43/3/263.full.pdf>)
+-   \[ASRA Guidelines for anticoagulation\] (<https://rapm.bmj.com/content/rapm/43/3/263.full.pdf>)
 -   Once epidural removed: PCA with subsequent conversion to oxycodone elixir via Jejunostomy.
 -   No ketorolac (Toradol) given risk of anastomotic failure​1​
 -   Home anxiolytics are generally administered at half the home dose

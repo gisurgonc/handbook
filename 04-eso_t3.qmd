@@ -24,6 +24,8 @@ POET Trial (Pre-Operative therapy in Esophageal adenocarcinoma Trial) treated 11
 
 Neo-AEGIS Trial [@reynolds401] Randomized patients with GE junction adenocarcinomas to CROSS vs modified MAGIC (prior to 2018) or FLOT (after 2018). Trial included Siewert I, II, and III tumors. Trial was underpowered and did not show a difference between the regimens.
 
+OEO2 clinical trial [@allum5062] Randomized trial of preoperative chemotherapy with ECF for esophageal and GE junction cancers. Improved survival with preoperative chemotherapy. 
+
 ### Neoadjuvant Chemotherapy $\rightarrow$ ChemoRT
 
 TOPGEAR study [@leong2252] randomized patients with gastric or GE junction adenocarcinoma to neoadjuvant chemo (ECF or FLOT) vs neoadjuvant chemo followed by chemoRT (4500cGy). Higher pCR rate with chemo $\rightarrow$ chemoRT (17% vs 8%) but no difference in survival at 67mo followup. Higher R0 resection rate with chemo $\rightarrow$ chemoRT (92% vs 88%) ECF used for 2/3 of patients and FLOT for 1/3.

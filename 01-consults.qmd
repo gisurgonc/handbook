@@ -1,0 +1,21 @@
+# Consults
+
+**Common Haiku Groups for Consults**
+
+| Col1 | Col2 |
+|----|----|
+| Advanced GI (Dries/Doshi/Lewis/Chauhan) | CMC Advanced GI ERCP Consult |
+| Advanced GI (Narang) | CDHA Advanced GI ERCP |
+| Hospitalist | CGH Service Hospitalist CMC - Consults Only |
+| Interventional Radiology | Eric Dodson - Haiku or 5-3599 |
+| Body Radiology | 5-2270 |
+| Ultrasound | 5-3600 |
+| Endocrine | CMC Endocrinology Consult Team (Kelli Dunn) |
+| Nephrology | Metroline Neph Consult CMC |
+| Cardiology | CMC SHVI General Cardiology |
+| ID | CMC Infectious DIsease Consults |
+| General Surgery Red | General Surgery Red CMC floor/consults |
+| Pulmonary | CMC Pulmonary Consult PCCC |
+| STICU | STICU Charge for TRANSFERS |
+| Hospital at Home | GCM HAH Nurse Navigators (referrals) CLT |
+|  |  |
