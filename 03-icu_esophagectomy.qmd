@@ -1,5 +1,7 @@
 # Esophagectomy ICU
 
+See [Esophagectomy Postop Care](https://gisurgonc.github.io/talks/eso_postop_care.htm)
+
 **ICU Care**
 
 All patients admitted to STICU with Surgical Critical Care Consultation. Contact STICU High Team or STICU Low Team (depending upon bed assignment)
