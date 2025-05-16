@@ -1,0 +1,32 @@
+# Department Phone list
+
+|                |              |
+|----------------|--------------|
+| Admitting      | 704-355-3071 |
+| Bed Management | 704-512-6360 |
+| Code Blue      | 704-355-2345 |
+| ER Triage      |              |
+| ER Diag        | 704-355-3271 |
+| ER Major       | 704-355-2157 |
+| ER AEC         | 704-355-8683 |
+| ER Holding     | 704-355-3276 |
+| Endoscopy      | 704-355-2792 |
+| Lab            | 704-355-9350 |
+| Language Line  | 704-381-8255 |
+| Preop          | 704-355-8922 |
+| PACU           | 704-355-2431 |
+| Radiology      | 704-355-3404 |
+| Rad CT         | 704-355-2270 |
+| Rad MRI        | 704-355-4196 |
+| Rad Ultrasound | 704-355-3600 |
+| Rad IR         | 704-355-3430 |
+| Wound Ostomy   | 704-355-7605 |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|                |              |

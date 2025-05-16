@@ -20,6 +20,7 @@ book:
       - 01-notes.qmd
       - 01-consults.qmd
       - 01-phone.qmd
+      - 01-phone_dept.qmd
       - 01-signout.qmd
       - 01-discharges.qmd
       - 01-students.qmd
