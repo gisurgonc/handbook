@@ -159,6 +159,8 @@ Instruments are returned to original positions and dissection proceeds proximall
 
 Penrose drain is placed around esophagus and secured with stapler or Weck clips. Dissection proceeds to level of inferior pulmonary veins. Penrose is tucked into the mediastinum.
 
+When Penrose is placed, confirm that heparin has been given.
+
 ## Pyloric Drainage - Pyloromyotimy (optional)
 
 Pyloromyotomy is performed with camera in Port #2 and hook in Port #3 and Tip up in Port #4 (may need to move camera to midline)
@@ -169,7 +171,7 @@ Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus.  Pyloric inci
 
 ## Creation of Conduit
 
-"Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper place into Port #4. Robotic stapler is introduced into Port 2. Staple line starts ~5cm from pylorus.  First firing with Green (4.8mm) stapler load followed by Blue loads.  Conduit is created with goal of 3-4cm.  Assistant retracts fundus towards left upper quadrant. 
+"Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper place into Port #4. Robotic stapler is introduced into Port 2. Staple line starts ~5cm from pylorus.  First firing with Green (4.8mm) stapler load followed by Blue loads.  Conduit is created with goal of 3-4cm.  Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus). 
 
 ## Preparation of Conduit
 
@@ -193,28 +195,192 @@ Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriente
 
 ## Closure
 
-Robot is disengaged and kept sterile.  Abdomen is desufflated and ports removed.  Port #2 site is closed by tying 0 Vicryl suture.  Port sites are closed with 4-0 Monocryl followed by Dermabond.
+Robot is disengaged and kept sterile. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.  
+
+Abdomen is desufflated and ports removed.  Port #2 site is closed by tying 0 Vicryl suture.  Port sites are closed with 4-0 Monocryl followed by Dermabond.
 
 ## ICG injection into groin.
 
 While port sites are being closed, "loincloth" is removed and hockey stick or small T ultrasound transducer is brought onto the field. Under ultrasound guidance with sterile ultrasound jelly, ICG is injected into groin nodes. 
 
+# Thoracic Phase
+
 ## Transition to Lateral position
 
-Patient is transferred to a spare OR table and a bean bag placed. Patient is positioned lateral with tip of scapula at break in the table. Pillows are used under and between the knees. Arm is supported on a Well Leg Holder affixed to the left headrail with a Yassargil clamp.
+Patient is transferred to a spare OR table and a bean bag placed. Patient is positioned lateral with tip of scapula at break in the table. Pillows are used under and between the knees. Arm is supported on a Well Leg Holder affixed to the left headrail with a Yassargil clamp. Lateral positioners used on patient's left side to stabilize bean bag and allow tilt to the left (into modified prone position).
 
-Anastomosis The right chest is entered and the right lung reflected anterior with the paddle placed in the superior/anterior port. The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy. The paddle retractor is now moved from the anterior/inferior port to the anterior/superior 12mm port and the lung reflected anterior and inferior.
+Lower and upper body bair hugger used.  Right arm is elevated for prep and lowered once drapes in place.
+
+## Prep and drape
+
+Chloroprep including axilla and proximal right arm. Drape axilla/upper arm with 1000 drape.
+
+Two blue "U" drapes used, folowed by trauma drape (or Universal).  Ioban strips around edges.  Once Ioban in place, arm is lowered
+
+![](images/UGIRA22.jpg)
+
+Laparoscopic instruments are kept sterile and may be returned to the field if pleural adhesions are encountered.
+
+## Thoracic Ports
+
+[](images/UGIRA22.jpg)
+
+- Arm #4 4th ICS 1cm medial to scapula
+- Arm #3 6th IS more medial than 4th arm and close to posterior axillary line. Camera Port. 
+- Arm #2 8th ICS 12mm port for Vessel sealer or stapler
+- Arm #1 10th ICS on the scapular line or posterior on 10th ICS
+A1 Assitant 9th ICS triangulated beween 1 and 2. Alexis port used for extraction incision
+A2 Assistant 5th ICS. 
+
+DaVinci docking with "Anatomy: Renal" "Patient Right"
+Target on azygous vein
+
+## Thoracic Dissection
+
+1. Dissect plane between lung and anterior aspect of esophagus. Start dissection at the pericardium and proceed cephalad.  Once the area of the right mainstem bronchus is approached, keep plane more superficial.
+
+2. Dissect onto pericardium. Confirm that tumor will comes off pericardium.  Leave pulmonary vein dissection to later. Counter traction with suction.  
+
+3. Dissection over parietal pleura up to azygous arch superficially.  Dissect lower aspect of the azygous vein.
+
+4. Superficial dissection superior to azygous vein to reach superior extent of dissection at inferior border of sygous svein, then proceed inferiorly along the posterior aspect of the esophagus.  Dissection proceeds to hiatus.
+
+5. Divide azygous vein with either vascular load stapler or Gray load 
+
+6. Dissection proceeds to hiatus
+
+7. Divide thoracic duct with Hem-O-Lock clips at least 5cm superior to hiatus.
+
+8. Return to dissection plane anterior to the esophagus and deepen plane.  Leave dissection of Station 7 nodes until esophagus is completely freed up. Can switch instruments in Arm 1 and Arm 2.
+
+9. Dissection of Station 4R nodes.
+
+10. Dissection of subcarinal (Station 7) nodes. Start by dissecting esophagus from trachea, then outline inferior border of right and left mainstem bronchi. Keep Station 7 lymph nodes on the specimen. 
+
+## Delivery of Conduit into chest
+
+The conduit is delivered into the thorax. This is done using a laparoscopic graster. Ensure staple line faces you (right side).  The specimen is removed through the assistant port incision. An Alexis port is used to seal the extraction site. Stomach is pulled into the chest until the **Vicryl marker suture** is seen.
+
+Division of esophagus just above level of azygous vein. ICG can be used to check perfusion. If there is any question about the length of the conduit, confirm the length of the conduit prior to division of the esophagus.
+
+Penrose drain is recovered.  Specimen is sent for frozen section with instructions to freeze proximal margin.
+
+Once conduit is delivered into chest, set up BK ultrasound to display on robotic screen.
+
+## Preparation of conduit
+
+The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy. 
+
+## Circular stapled anastomosis - Orvil
 
 OrVil The OrVil device is now used to place a EEA anvil into the distal esophagus. In general, a 25mm size is selected, unless the patient has particularly small frame, in which case a 21mm size is used. Two stay sutures of 2-0 silk on RB-1 needles are placed in the center of the esophageal staple line 3mm apart. A Harmonic scalpel is used to divide the staple line. The OrVil device is passed through the mouth and is passed through the fenestration in the staple line. The anvil portion of the OrVil is oriented so that the rounded portion is placed against the roof of the mouth. The OrVil is guided into the hypopharynx by pulling on the the tube end of the device. As the anvil approaches the hypopharynx, the jaw is pulled forward to allow passage of the anvil.
 
 The shaft of the anvil is brought through the esophageal staple line, and the tube disconnected from the anvil by cutting the blue sutures.
 
-The superior end of the conduit is opened along the staple line and the DST XL stapler (matching the diameter of the OrVil) introduced through the Alexis device. The stapler shaft is placed into the open end of the gastric conduit and the conduit pulled over it (‘sock over shoe’). The stapler spike is brought out through the greater curvature. The anvil is grasped with a Maryland grasper placed through a superior 5mm port and the two components of the stapler are mated and the stapler tightened and fired. The knob of the stapler is rotated two turns counter-clockwise until a click is felt, at which time the anvil will flip. The stapler is withdrawn and the donuts examined and sent for pathologic exam.
+The superior end of the conduit is opened along the staple line and the DST XL stapler (matching the diameter of the OrVil) introduced through the Alexis device (Port #2). The stapler shaft is placed into the open end of the gastric conduit and the conduit pulled over it (‘sock over shoe’). The stapler spike is brought out through the greater curvature. The anvil is grasped with a Maryland grasper placed through a superior 5mm port and the two components of the stapler are mated and the stapler tightened and fired. The knob of the stapler is rotated two turns counter-clockwise until a click is felt, at which time the anvil will flip. The stapler is withdrawn and the donuts examined and sent for pathologic exam.
 
-The anastomosis is completed by firing a Echelon Medium-Thick (Gold) linear) across the conduit cephalad to the anastomosis. The excess conduit is sent for pathologic exam as ‘additional gastric margin.’
+The anastomosis is completed by firing a 60mm Blue load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’
 
-NG Tube A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.
+## Circular stapled anastomosis - Luketich
 
-Chest Tube A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.
+May be helpful to move camera back to Port #3 to see anastomosis better. May need to remove Port #1 for better visibility cephalad.
 
-Closure The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.
+Esophagus divided with robotic shears. 
+
+Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally $\rightarrow$ anvil introduced into esophagus with large needle driver $\rightarrow$ pushed superiorly $\rightarrow$ oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.
+
+DST XL 28mm EEA stapler introduced through port #2 (???) into open end of conduit $\rightarrow$ mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm.
+
+## Linear Stapled Anastomosis
+
+The esophageal stump is opened on the (right side) within the middle with cold scissors or monopolar cautery hook just proximal to the transecting stapler line
+
+The site for linear stapler insertion is measured to be at least 6 cm distal to the transecting staple line on the gastric conduit. The incision is made using monopolar cautery close to the gastroepiploic arcade
+
+Four retraction sutures are placed (dorsal, ventral, medial and lateral) around the opened esophageal lumen, making sure to fixate the mucosa to the rest of the esophageal wall. These retraction sutures will serve for applying optimal retraction on the stump for anastomotic suturing as well as help guide the esophageal stump over the stapler anvil.
+
+The robotic stapler anvil and cartridge jaw (45mm? 60mm? length) are inserted into the appropriate lumens while the console surgeon guides the tissue onto the stapler. 
+Once sufficient tissue overlap is achieved (approximately 60 mm) the stapler is fired (blue reload) and the gastric conduit and esophageal stump are connected dorsally side-to-side
+
+34Fr gastric tube (?or Bougie) inserted.  Anterior wall closed with two 4-0 Stratafix sutures run from each side toward the middle. Second later with 4-0 PDS
+
+### Omental Flap
+
+Omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
+
+### NG tube
+
+NG (Salem Sump silicone 18Fr tube) is passed by anesthetist. Robotic ultrasound used to confirm location.  NG tube is advanced to 4th dot just about to enter the nose.
+
+## Drains
+
+38Fr Chest tube (Blake or Hollow-bore) placed.  19Fr Blake (JP2) postioned posterior to anastomosis.
+
+## Closure
+
+Extraction site closed with 0 Vicryl.  Chest tube secured with 0 silk on SH needle. Skin incisions closed with 4-0 Monocyrl and Dermabond
+
+Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018
+
+
+van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
+
+
+## Postoperative care
+
+Admission to ICU. Epidural dosed. 
+
+Medications:
+
+- Protonix 40mg IV
+- Metoprolol 2.5mg IV q6h (may increase to 5mg)
+- Home antihypertensives held unless bp is still elevated after adequate beta blockade
+- No bowel regimen
+- Reglan 10mg IV q6 hours
+
+Labs:
+
+- Daily drain amylase from JP2 starting POD#2
+- CBC every other day or daily if elevated above 12
+- BMP every other day
+- CMP on admission and POD #4
+
+Tube feeds at 30mL/hour start with Osmolite 1.5. Tube feeds advanced 10mL q12 hours once flatus returns. 
+
+Intravenous fluid stopped once tube feeds advanced and free water started 240mL qid via jejunostomy.
+
+POD #1 Out of bed to chair
+
+Chest tube to water seal on POD2 if no air leak.  Chest tube removed once output below 200mL/day
+
+JP2 removed by POD#7 if patient is otherwise doing well.
+
+Upper GI POD#2 *AND* able to stand for 10min *AND* output less than 400mL/day. If good emptying on upper GI $\rightarrow$ NG removed.
+
+Modified Barium Swallow once NG tube removed. Initiation of liquids dependent upon MBS.
+
+POD #5 Epidural catheter removed if not done prior.  Foley catheter removed once epidural out. No Flomax to be administered vai jejunostomy
+
+
+## Resources
+
+![UGIRA DaVinci Procedure Guide](https://ugira.org/wp-content/uploads/2019/09/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf)
+
+#### Sarkaria
+
+RAMIE Technique paper [@oksuyana116] [@witek6195] [@sarkaria211]
+
+#### Utrecht
+
+Learning Curve [@vandersluis??]
+
+#### Manz
+
+[@Fuchs2019]
+
+Grimminger: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). [@grimminger2018]
+
+Atlas of Robotic Upper GI Surgery Peter Grimminger Chapter 14
+
+## References
+
