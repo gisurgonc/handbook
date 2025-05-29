@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>esophagectomy_il_robot_setup</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="02-esophagectomy_il_robot_setup_files/libs/clipboard/clipboard.min.js"></script>
+<script src="02-esophagectomy_il_robot_setup_files/libs/quarto-html/quarto.js"></script>
+<script src="02-esophagectomy_il_robot_setup_files/libs/quarto-html/popper.min.js"></script>
+<script src="02-esophagectomy_il_robot_setup_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="02-esophagectomy_il_robot_setup_files/libs/quarto-html/anchor.min.js"></script>
+<link href="02-esophagectomy_il_robot_setup_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="02-esophagectomy_il_robot_setup_files/libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="02-esophagectomy_il_robot_setup_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="02-esophagectomy_il_robot_setup_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="02-esophagectomy_il_robot_setup_files/libs/bootstrap/bootstrap-c0367b04c37547644fece4185067e4a7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="esophagectomy-robot-ivor-lewis" class="level1">
+<h1>Esophagectomy Robot Ivor Lewis</h1>
+<section id="preoperative-evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="preoperative-evaluation">Preoperative evaluation</h2>
+<p>PET scan evaluted for extent of tumor, focusing on proximity to the carina.</p>
+<p>CT scan evaluated for presence of replaced left hepatic artery.</p>
+</section>
+<section id="preop-area" class="level2">
+<h2 class="anchored" data-anchor-id="preop-area">Preop Area</h2>
+<p>Heparin is held if epidural catheter is planned</p>
+<p>Clip hair from abdomen and right chest, including right axilla. Hair is clipped to base of pubis.</p>
+</section>
+<section id="room-prep" class="level2">
+<h2 class="anchored" data-anchor-id="room-prep">Room Prep</h2>
+<p>Double-decker Back Table</p>
+<p>EGD Cart (check w/ Salo regarding adult vs neonatal scope)</p>
+<p>BK Ultrasound (with robotic probe AND either hockey stick or small T probe). Will need sterile ultrasound jelly.</p>
+<p>Walter ‘Long Arm’ retractor</p>
+<p>Bean Bag</p>
+<p>Salo Positioning Cart:</p>
+<ul>
+<li>Four black side-rail clamps</li>
+<li>Four rectangular lateral positioners</li>
+<li>Yassargil socket</li>
+<li>Well-leg holder (used as an arm holder)</li>
+</ul>
+<p>Critical supplies (chek prior to pt in room)</p>
+<ul>
+<li>Stapler 25mm DSTXL</li>
+<li>Orvil 25mm</li>
+<li>Stapler 21mm DSTXL</li>
+<li>Orvil 21mm</li>
+</ul>
+<p><strong>Anesthesia</strong></p>
+<ul>
+<li>Dual-lumen ETT tube (taped to left)</li>
+<li>Arterial line (left arm will be on arm board)</li>
+<li>Anesthesia may place epidural in preop</li>
+</ul>
+</section>
+<section id="abdominal-position" class="level2">
+<h2 class="anchored" data-anchor-id="abdominal-position">Abdominal Position</h2>
+<p>Supine on blue foam pad.</p>
+<p>Foley catheter (with Criticor temp sensor)</p>
+<p>Bovie pad</p>
+<p>Lower-body Bair Hugger at level of thighs, followed by single blanket and Velcro strap</p>
+<p>Hair clipped from abdomen, right chest, and right axilla.</p>
+<p>Pre-existing jejunostomy</p>
+<ul>
+<li>Prep into field</li>
+<li>Remove any eschar at site</li>
+<li>Secure to skin inferiorly with 0 silk</li>
+</ul>
+<p>Velcro strap over thighs and over lateral positioners</p>
+<p><strong>Prep</strong></p>
+<p>Patient is positioned frog-leg for prep (and is returned to supine during draping). Chloroprep (2 sticks) of abdomen and lower chest up to the level of nipples (in case urgent chest tube needed). Particular attention to prepping as far as possible to the left lateral side and the right lateral side. Prep continues inferior to base of pubis. At the end of prep, bilateral groins are prepped.</p>
+<p><strong>Drape</strong></p>
+<p>Transverse 1000 drape is placed at the base of the pubis. On either side, the drape proceeds inferior and lateral to include both groins. Top gloves are changed.</p>
+<p>Blue utility (paper) drape is placed transversely just above level of pubis. While the abdominal skin incisions are being closed,</p>
+<p>1000 Drapes x4 in rectangular fashion with top of field 10cm above xiphoid and bottom at base of penis. Ioban strips (4”) aound the periphery of the surgical field after the trauma drape. Laparoscopic cords (gas, light cord, camera) passed off. Suction irrigator brought off field.</p>
+<section id="time-out" class="level3">
+<h3 class="anchored" data-anchor-id="time-out">Time Out</h3>
+<p>Operation header on consent</p>
+<p><strong>Time Out</strong></p>
+<p>Review:</p>
+<ul>
+<li>Consent</li>
+<li>Comorbidities, including cardiopulmonary disease</li>
+<li>Anticoagulation plan. If preoperative heparin was held for epidural, plans for timing of its administration. Circulator and anesthetist set alarms.</li>
+<li>Prior abdominal or thoracic operations</li>
+<li>Allergies</li>
+<li>Blood
+<ul>
+<li>Surgeon’s expectation of blood loss</li>
+<li>Availability of blood (type/screen vs type/cross).</li>
+<li>Blood product administration limitations, if any</li>
+</ul></li>
+<li>Introduction by name and role</li>
+<li>Co-surgeons: Confirm availability prior to incision</li>
+<li>Operative plan</li>
+<li>Request ICU bed in STICU</li>
+</ul>
+<p><em>Comorbidities:</em></p>
+<p>Cardiopulmonary disease. If echo, ejection fraction and aortic valve area (if abnormal)</p>
+<p>Beta blockage: Note whether patient on home beta blockade and if so, whether home medication was taken the morning of surgery.</p>
+<p>Anticipated Intraop Problems:</p>
+<ul>
+<li>Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection</li>
+<li>Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest Gastric mobilization – Greater Curvature</li>
+</ul>
+</section>
+</section>
+<section id="laparoscopy" class="level2">
+<h2 class="anchored" data-anchor-id="laparoscopy">Laparoscopy</h2>
+<p>Pneumoperitoneum established with Veress needle at left subcostal or inferior to umbilicus <em>or</em> modified Hasson approach. Abdominal entry with 5mm optical port at future location of Port #2 in mid-axillary line at level of umbilicus. Laparoscopy to look for peritoneal implants.</p>
+</section>
+<section id="robotic-ports" class="level2">
+<h2 class="anchored" data-anchor-id="robotic-ports">Robotic ports</h2>
+<p>Port #3 8mm left mid-axillary line 3cm above level of umbilicus <span class="math inline">\(\rightarrow\)</span> camera.</p>
+<p>hook | monopolar scissors | Extend vessel sealer.</p>
+<p>Port #4 left anterior axillary line. 8mm port <span class="math inline">\(\rightarrow\)</span></p>
+<p>Port #2 right mid-axillary line. Switch from 5mm to 12mm robotic stapler port. Place ‘sleeper’ 0 Vicryl figure-of-eight suture and secure with a hemostat.</p>
+<p>Port #1 left anterior axillary line 8mm port <span class="math inline">\(\rightarrow\)</span> fenestrated bipolar</p>
+<p>Assistant port 8mm port inferior to umbilicus. Port #3 will be switched to this position for jejunostomy later in the case.</p>
+<p>Nathanson liver retractor placed in midline using the 5mm optical port to create a tract. Nathanson held in place with Salo Endoscopic Bookwalter secured to bedrail just inferior to right armboard.</p>
+</section>
+<section id="abdominal-phase" class="level2">
+<h2 class="anchored" data-anchor-id="abdominal-phase">Abdominal Phase</h2>
+<section id="lesser-sac-dissection" class="level3">
+<h3 class="anchored" data-anchor-id="lesser-sac-dissection">Lesser Sac Dissection</h3>
+<p>Gastrohpeatic ligament divided. Celiac axis evaluated for resectability. Right crus dissected to ensure resectability. Dissection carried anteriorly and left crural dissection begun. Dissection posterior to esophagus.</p>
+<p>Central node dissection begun, including common hepatic, left gastric, celiac, and proximal splenic aftery nodes. If replaced left hepatic artery present, may require preservation of left gastric artery. Left gastric artery divided with clips.</p>
+<p>Posterior gastric dissection. Dissection is carried posterior towards most superior short gastric arteries (as these can be difficult to approach from the greater curvature side).</p>
+</section>
+</section>
+<section id="distal-greater-curvature-dissection" class="level2">
+<h2 class="anchored" data-anchor-id="distal-greater-curvature-dissection">Distal Greater curvature Dissection</h2>
+<p>The right gastroepiploic artery is identified and the lesser sac entere to the left of midline. Dissection proceeds to the patient’s right. This may require shifting ports:</p>
+<ul>
+<li>Camera to Port 2</li>
+<li>Vessel sealer to Port 3</li>
+<li>Tip Up to Port 4</li>
+</ul>
+<p>Right gastroepiploic artery carefully preserved and gatrocolic omentum incised. Dissection proceeds to right to mobilize colon off duodenum. Kocher maneuver performed and omental adhesions to gallbladder taken down.</p>
+</section>
+<section id="proximal-greater-curvature-dissection" class="level2">
+<h2 class="anchored" data-anchor-id="proximal-greater-curvature-dissection">Proximal Greater Curvature Dissection</h2>
+<p>Instruments are returned to original positions and dissection proceeds proximally, preserving the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels</p>
+</section>
+<section id="mediastinal-dissection" class="level2">
+<h2 class="anchored" data-anchor-id="mediastinal-dissection">Mediastinal dissection</h2>
+<p>Penrose drain is placed around esophagus and secured with stapler or Weck clips. Dissection proceeds to level of inferior pulmonary veins. Penrose is tucked into the mediastinum.</p>
+<p>When Penrose is placed, confirm that heparin has been given.</p>
+</section>
+<section id="pyloric-drainage---pyloromyotimy-optional" class="level2">
+<h2 class="anchored" data-anchor-id="pyloric-drainage---pyloromyotimy-optional">Pyloric Drainage - Pyloromyotimy (optional)</h2>
+<p>Pyloromyotomy is performed with camera in Port #2 and hook in Port #3 and Tip up in Port #4 (may need to move camera to midline)</p>
+</section>
+<section id="pyloric-drainage---pyloroplasty-optional" class="level2">
+<h2 class="anchored" data-anchor-id="pyloric-drainage---pyloroplasty-optional">Pyloric Drainage - Pyloroplasty (optional)</h2>
+<p>Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incision is made with hook cautery. Defect is closed with 2-0 silk cut to 6” (have 2 sutures ready)</p>
+</section>
+<section id="creation-of-conduit" class="level2">
+<h2 class="anchored" data-anchor-id="creation-of-conduit">Creation of Conduit</h2>
+<p>“Ruler” is created by making 1cm marks with black marker on Tip up. Tip up grasper place into Port #4. Robotic stapler is introduced into Port 2. Staple line starts ~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).</p>
+</section>
+<section id="preparation-of-conduit" class="level2">
+<h2 class="anchored" data-anchor-id="preparation-of-conduit">Preparation of Conduit</h2>
+<p>Camera is moved to Port #2. Suture cut needle driver is introduced into Port 3 and Tip Up into Port 4. Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6”). Arm 4 is undocked and 19 Fr Blake drain is introduced through the port. The drain is sutured to specimen with 2-0 silk cut to 4”</p>
+<p>** JP1??**</p>
+</section>
+<section id="preparation-for-thoracic-phase" class="level2">
+<h2 class="anchored" data-anchor-id="preparation-for-thoracic-phase">Preparation for Thoracic Phase</h2>
+<p>Once conduit has been constructed, confirm presence in room of bean bag, two pillows, and an extra OR bed for transition to lateral decubitus position.</p>
+</section>
+<section id="preparation-for-icg" class="level2">
+<h2 class="anchored" data-anchor-id="preparation-for-icg">Preparation for ICG</h2>
+<p>One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brought onto the sterile field in a 5mL syringe, which is fitted with a 25Ga needle. The remainder of the ICG is given to Anesthesia for later (intravenous) use.</p>
+</section>
+<section id="jejunostomy" class="level2">
+<h2 class="anchored" data-anchor-id="jejunostomy">Jejunostomy</h2>
+<p>Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriented to 30 degrees up. Ligament of Treitz is identified and site for jejunostomy marked at 30cm with marking pen on a Prestige with 1 dot for selected site and 2 transverse marks distally. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressre reduced to Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.</p>
+</section>
+<section id="closure" class="level2">
+<h2 class="anchored" data-anchor-id="closure">Closure</h2>
+<p>Robot is disengaged and kept sterile. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.</p>
+<p>Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with 4-0 Monocryl followed by Dermabond.</p>
+</section>
+<section id="icg-injection-into-groin." class="level2">
+<h2 class="anchored" data-anchor-id="icg-injection-into-groin.">ICG injection into groin.</h2>
+<p>While port sites are being closed, “loincloth” is removed and hockey stick or small T ultrasound transducer is brought onto the field. Under ultrasound guidance with sterile ultrasound jelly, ICG is injected into groin nodes.</p>
+</section>
+</section>
+<section id="thoracic-phase" class="level1">
+<h1>Thoracic Phase</h1>
+<section id="transition-to-lateral-position" class="level2">
+<h2 class="anchored" data-anchor-id="transition-to-lateral-position">Transition to Lateral position</h2>
+<p>Patient is transferred to a spare OR table and a bean bag placed. Patient is positioned lateral with tip of scapula at break in the table. Pillows are used under and between the knees. Arm is supported on a Well Leg Holder affixed to the left headrail with a Yassargil clamp. Lateral positioners used on patient’s left side to stabilize bean bag and allow tilt to the left (into modified prone position).</p>
+<p>Lower and upper body bair hugger used. Right arm is elevated for prep and lowered once drapes in place.</p>
+</section>
+<section id="prep-and-drape" class="level2">
+<h2 class="anchored" data-anchor-id="prep-and-drape">Prep and drape</h2>
+<p>Chloroprep including axilla and proximal right arm. Drape axilla/upper arm with 1000 drape.</p>
+<p>Two blue “U” drapes used, folowed by trauma drape (or Universal). Ioban strips around edges. Once Ioban in place, arm is lowered</p>
+<p><img src="images/UGIRA22.jpg" class="img-fluid"></p>
+<p>Laparoscopic instruments are kept sterile and may be returned to the field if pleural adhesions are encountered.</p>
+</section>
+<section id="thoracic-ports" class="level2">
+<h2 class="anchored" data-anchor-id="thoracic-ports">Thoracic Ports</h2>
+<p><a href="images/UGIRA22.jpg"></a></p>
+<ul>
+<li>Arm #4 4th ICS 1cm medial to scapula</li>
+<li>Arm #3 6th IS more medial than 4th arm and close to posterior axillary line. Camera Port.</li>
+<li>Arm #2 8th ICS 12mm port for Vessel sealer or stapler</li>
+<li>Arm #1 10th ICS on the scapular line or posterior on 10th ICS A1 Assitant 9th ICS triangulated beween 1 and 2. Alexis port used for extraction incision A2 Assistant 5th ICS.</li>
+</ul>
+<p>DaVinci docking with “Anatomy: Renal” “Patient Right” Target on azygous vein</p>
+</section>
+<section id="thoracic-dissection" class="level2">
+<h2 class="anchored" data-anchor-id="thoracic-dissection">Thoracic Dissection</h2>
+<ol type="1">
+<li><p>Dissect plane between lung and anterior aspect of esophagus. Start dissection at the pericardium and proceed cephalad. Once the area of the right mainstem bronchus is approached, keep plane more superficial.</p></li>
+<li><p>Dissect onto pericardium. Confirm that tumor will comes off pericardium. Leave pulmonary vein dissection to later. Counter traction with suction.</p></li>
+<li><p>Dissection over parietal pleura up to azygous arch superficially. Dissect lower aspect of the azygous vein.</p></li>
+<li><p>Superficial dissection superior to azygous vein to reach superior extent of dissection at inferior border of sygous svein, then proceed inferiorly along the posterior aspect of the esophagus. Dissection proceeds to hiatus.</p></li>
+<li><p>Divide azygous vein with either vascular load stapler or Gray load</p></li>
+<li><p>Dissection proceeds to hiatus</p></li>
+<li><p>Divide thoracic duct with Hem-O-Lock clips at least 5cm superior to hiatus.</p></li>
+<li><p>Return to dissection plane anterior to the esophagus and deepen plane. Leave dissection of Station 7 nodes until esophagus is completely freed up. Can switch instruments in Arm 1 and Arm 2.</p></li>
+<li><p>Dissection of Station 4R nodes.</p></li>
+<li><p>Dissection of subcarinal (Station 7) nodes. Start by dissecting esophagus from trachea, then outline inferior border of right and left mainstem bronchi. Keep Station 7 lymph nodes on the specimen.</p></li>
+</ol>
+</section>
+<section id="delivery-of-conduit-into-chest" class="level2">
+<h2 class="anchored" data-anchor-id="delivery-of-conduit-into-chest">Delivery of Conduit into chest</h2>
+<p>The conduit is delivered into the thorax. This is done using a laparoscopic graster. Ensure staple line faces you (right side). The specimen is removed through the assistant port incision. An Alexis port is used to seal the extraction site. Stomach is pulled into the chest until the <strong>Vicryl marker suture</strong> is seen.</p>
+<p>Division of esophagus just above level of azygous vein. ICG can be used to check perfusion. If there is any question about the length of the conduit, confirm the length of the conduit prior to division of the esophagus.</p>
+<p>Penrose drain is recovered. Specimen is sent for frozen section with instructions to freeze proximal margin.</p>
+<p>Once conduit is delivered into chest, set up BK ultrasound to display on robotic screen.</p>
+</section>
+<section id="preparation-of-conduit-1" class="level2">
+<h2 class="anchored" data-anchor-id="preparation-of-conduit-1">Preparation of conduit</h2>
+<p>The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy.</p>
+</section>
+<section id="circular-stapled-anastomosis---orvil" class="level2">
+<h2 class="anchored" data-anchor-id="circular-stapled-anastomosis---orvil">Circular stapled anastomosis - Orvil</h2>
+<p>OrVil The OrVil device is now used to place a EEA anvil into the distal esophagus. In general, a 25mm size is selected, unless the patient has particularly small frame, in which case a 21mm size is used. Two stay sutures of 2-0 silk on RB-1 needles are placed in the center of the esophageal staple line 3mm apart. A Harmonic scalpel is used to divide the staple line. The OrVil device is passed through the mouth and is passed through the fenestration in the staple line. The anvil portion of the OrVil is oriented so that the rounded portion is placed against the roof of the mouth. The OrVil is guided into the hypopharynx by pulling on the the tube end of the device. As the anvil approaches the hypopharynx, the jaw is pulled forward to allow passage of the anvil.</p>
+<p>The shaft of the anvil is brought through the esophageal staple line, and the tube disconnected from the anvil by cutting the blue sutures.</p>
+<p>The superior end of the conduit is opened along the staple line and the DST XL stapler (matching the diameter of the OrVil) introduced through the Alexis device (Port #2). The stapler shaft is placed into the open end of the gastric conduit and the conduit pulled over it (‘sock over shoe’). The stapler spike is brought out through the greater curvature. The anvil is grasped with a Maryland grasper placed through a superior 5mm port and the two components of the stapler are mated and the stapler tightened and fired. The knob of the stapler is rotated two turns counter-clockwise until a click is felt, at which time the anvil will flip. The stapler is withdrawn and the donuts examined and sent for pathologic exam.</p>
+<p>The anastomosis is completed by firing a 60mm Blue load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’</p>
+</section>
+<section id="circular-stapled-anastomosis---luketich" class="level2">
+<h2 class="anchored" data-anchor-id="circular-stapled-anastomosis---luketich">Circular stapled anastomosis - Luketich</h2>
+<p>May be helpful to move camera back to Port #3 to see anastomosis better. May need to remove Port #1 for better visibility cephalad.</p>
+<p>Esophagus divided with robotic shears.</p>
+<p>Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally <span class="math inline">\(\rightarrow\)</span> anvil introduced into esophagus with large needle driver <span class="math inline">\(\rightarrow\)</span> pushed superiorly <span class="math inline">\(\rightarrow\)</span> oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.</p>
+<p>DST XL 28mm EEA stapler introduced through port #2 (???) into open end of conduit <span class="math inline">\(\rightarrow\)</span> mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm.</p>
+</section>
+<section id="linear-stapled-anastomosis" class="level2">
+<h2 class="anchored" data-anchor-id="linear-stapled-anastomosis">Linear Stapled Anastomosis</h2>
+<p>The esophageal stump is opened on the (right side) within the middle with cold scissors or monopolar cautery hook just proximal to the transecting stapler line</p>
+<p>The site for linear stapler insertion is measured to be at least 6 cm distal to the transecting staple line on the gastric conduit. The incision is made using monopolar cautery close to the gastroepiploic arcade</p>
+<p>Four retraction sutures are placed (dorsal, ventral, medial and lateral) around the opened esophageal lumen, making sure to fixate the mucosa to the rest of the esophageal wall. These retraction sutures will serve for applying optimal retraction on the stump for anastomotic suturing as well as help guide the esophageal stump over the stapler anvil.</p>
+<p>The robotic stapler anvil and cartridge jaw (45mm? 60mm? length) are inserted into the appropriate lumens while the console surgeon guides the tissue onto the stapler. Once sufficient tissue overlap is achieved (approximately 60 mm) the stapler is fired (blue reload) and the gastric conduit and esophageal stump are connected dorsally side-to-side</p>
+<p>34Fr gastric tube (?or Bougie) inserted. Anterior wall closed with two 4-0 Stratafix sutures run from each side toward the middle. Second later with 4-0 PDS</p>
+<section id="omental-flap" class="level3">
+<h3 class="anchored" data-anchor-id="omental-flap">Omental Flap</h3>
+<p>Omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.</p>
+</section>
+<section id="ng-tube" class="level3">
+<h3 class="anchored" data-anchor-id="ng-tube">NG tube</h3>
+<p>NG (Salem Sump silicone 18Fr tube) is passed by anesthetist. Robotic ultrasound used to confirm location. NG tube is advanced to 4th dot just about to enter the nose.</p>
+</section>
+</section>
+<section id="drains" class="level2">
+<h2 class="anchored" data-anchor-id="drains">Drains</h2>
+<p>38Fr Chest tube (Blake or Hollow-bore) placed. 19Fr Blake (JP2) postioned posterior to anastomosis.</p>
+</section>
+<section id="closure-1" class="level2">
+<h2 class="anchored" data-anchor-id="closure-1">Closure</h2>
+<p>Extraction site closed with 0 Vicryl. Chest tube secured with 0 silk on SH needle. Skin incisions closed with 4-0 Monocyrl and Dermabond</p>
+<p>Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018</p>
+<p>van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA</p>
+</section>
+<section id="postoperative-care" class="level2">
+<h2 class="anchored" data-anchor-id="postoperative-care">Postoperative care</h2>
+<p>Admission to ICU. Epidural dosed.</p>
+<p>Medications:</p>
+<ul>
+<li>Protonix 40mg IV</li>
+<li>Metoprolol 2.5mg IV q6h (may increase to 5mg)</li>
+<li>Home antihypertensives held unless bp is still elevated after adequate beta blockade</li>
+<li>No bowel regimen</li>
+<li>Reglan 10mg IV q6 hours</li>
+</ul>
+<p>Labs:</p>
+<ul>
+<li>Daily drain amylase from JP2 starting POD#2</li>
+<li>CBC every other day or daily if elevated above 12</li>
+<li>BMP every other day</li>
+<li>CMP on admission and POD #4</li>
+</ul>
+<p>Tube feeds at 30mL/hour start with Osmolite 1.5. Tube feeds advanced 10mL q12 hours once flatus returns.</p>
+<p>Intravenous fluid stopped once tube feeds advanced and free water started 240mL qid via jejunostomy.</p>
+<p>POD #1 Out of bed to chair</p>
+<p>Chest tube to water seal on POD2 if no air leak. Chest tube removed once output below 200mL/day</p>
+<p>JP2 removed by POD#7 if patient is otherwise doing well.</p>
+<p>Upper GI POD#2 <em>AND</em> able to stand for 10min <em>AND</em> output less than 400mL/day. If good emptying on upper GI <span class="math inline">\(\rightarrow\)</span> NG removed.</p>
+<p>Modified Barium Swallow once NG tube removed. Initiation of liquids dependent upon MBS.</p>
+<p>POD #5 Epidural catheter removed if not done prior. Foley catheter removed once epidural out. No Flomax to be administered vai jejunostomy</p>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<section id="sarkaria" class="level4">
+<h4 class="anchored" data-anchor-id="sarkaria">Sarkaria</h4>
+<p>RAMIE Technique paper <span class="citation" data-cites="oksuyana116">[@oksuyana116]</span></p>
+<p><span class="citation" data-cites="witek6195">[@witek6195]</span></p>
+<p><span class="citation" data-cites="sarkaria211">[@sarkaria211]</span></p>
+</section>
+<section id="utrecht" class="level4">
+<h4 class="anchored" data-anchor-id="utrecht">Utrecht</h4>
+<p>Experience with 100 cases <span class="citation" data-cites="vandersluis1">[@vandersluis1]</span></p>
+<p>Learning Curve <span class="citation" data-cites="vandersluis264">[@vandersluis264]</span></p>
+<p>Bedside Assist <span class="citation" data-cites="vanderhosrtdoaaa071">[@vanderhosrtdoaaa071]</span></p>
+<p>Circular stapler and hand-sewn <span class="citation" data-cites="degrootdoaa079">[@degrootdoaa079]</span></p>
+</section>
+<section id="manz" class="level4">
+<h4 class="anchored" data-anchor-id="manz">Manz</h4>
+<p><span class="citation" data-cites="Fuchs2019">[@Fuchs2019]</span></p>
+<p>Grimminger: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). <span class="citation" data-cites="grimminger2018">[@grimminger2018]</span></p>
+<p>Atlas of Robotic Upper GI Surgery Peter Grimminger Chapter 14</p>
+</section>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
