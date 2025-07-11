@@ -123,7 +123,7 @@ hook \| monopolar scissors \| Extend vessel sealer.
 
 Port #4 left anterior axillary line. 8mm port $\rightarrow$
 
-Port #2 right mid-axillary line. Switch from 5mm to 12mm robotic stapler port. Place 'sleeper' 0 Vicryl figure-of-eight suture and secure with a hemostat.
+Port #2 right mid-clavicular line. Switch from 5mm to 12mm robotic stapler port. Place 'sleeper' 0 Vicryl figure-of-eight suture and secure with a hemostat.
 
 Port #1 left anterior axillary line 8mm port $\rightarrow$ fenestrated bipolar
 
