@@ -38,9 +38,9 @@ Critical supplies (chek prior to pt in room)
 
 **Anesthesia**
 
--   Dual-lumen ETT tube (taped to left)
+-   Dual-lumen ETT tube (**taped to left**)
 -   Arterial line (left arm will be on arm board)
--   Anesthesia may place paraspinal muscle blocks on right side.
+-   Anesthesia will usually place epidural catheter either in preop or in OR
 
 ## Position
 
