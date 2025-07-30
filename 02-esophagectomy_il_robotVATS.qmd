@@ -181,12 +181,12 @@ Posterior dissection elevating stomach. Dissect posterior gastrics. Dissection p
 
 ## Proximal Greater Curve
 
-+--------+---------------------+-------+---------------+
-| Arm 1  | Arm 2               | Arm 3 | Arm 4         |
-+========+=====================+=======+===============+
-| Tip Up | Fenestrated Bipolar | Camer | Synchroseal\  |
-|        |                     |       | Vessel Sealer |
-+--------+---------------------+-------+---------------+
++--------+---------------------+--------+---------------+
+| Arm 1  | Arm 2               | Arm 3  | Arm 4         |
++========+=====================+========+===============+
+| Tip Up | Fenestrated Bipolar | Camera | Synchroseal\  |
+|        |                     |        | Vessel Sealer |
++--------+---------------------+--------+---------------+
 
 : Dissection proceeds proximally, preserving the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels
 
@@ -196,9 +196,9 @@ Penrose drain is placed around esophagus and secured with stapler or Weck clips.
 
 When Penrose is placed, confirm that heparin has been given.
 
-## Pyloric Drainage - Pyloromyotimy (optional)
+0 Vicryl suture is inserted through 12mm stapler port and a 'sleeper' suture of 12" 0 Vicryl on UR-6 is placed in posterior crus. Ends of suture are clipped together and later sutured to conduit.
 
-## 
+## Pyloric Drainage - Pyloromyotimy (optional)
 
 +---------------------+--------+-----------------+--------+
 | Arm 1               | Arm 2A | Arm 3           | Arm 4  |
@@ -237,6 +237,10 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 
 Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriented to 30 degrees up. Prior suture is identified and grasped with suture passer. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressre reduced to Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
 
+## Drains
+
+Once jejunostomy in place, JP1 and JP2 are routed lateral to jejunostomy and brought out through Port #4 and Port #3.
+
 ## Closure
 
 Robot is disengaged and kept sterile. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.
@@ -263,36 +267,13 @@ Two blue "U" drapes used, folowed by trauma drape (or Universal). Ioban strips a
 
 Laparoscopic instruments are kept sterile and may be returned to the field if pleural adhesions are encountered.
 
-## Thoracic Ports
+### Thoracoscopy
 
--   Arm #4 4th ICS 1cm medial to scapula
--   Arm #3 6th IS more medial than 4th arm and close to posterior axillary line. Camera Port.
--   Arm #2 8th ICS 12mm port for Vessel sealer or stapler
--   Arm #1 10th ICS on the scapular line or posterior on 10th ICS A1 Assitant 9th ICS triangulated beween 1 and 2. Alexis port used for extraction incision A2 Assistant 5th ICS.
-
-DaVinci docking with "Anatomy: Renal" "Patient Right" Target on azygous vein
+The pneumoperitoneum in the abdomen is vented and the gas pressure turned down to 8mmHg in preparation for the thoracic phase. A site for entry in to the left chest is selected just posterior to the tip of the scapula. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. Two 12mm ports are placed. The more superior is placed lateral and superior to the nipple. The inferior port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5
 
 ## Thoracic Dissection
 
-1.  Dissect plane between lung and anterior aspect of esophagus. Start dissection at the pericardium and proceed cephalad. Once the area of the right mainstem bronchus is approached, keep plane more superficial.
-
-2.  Dissect onto pericardium. Confirm that tumor will comes off pericardium. Leave pulmonary vein dissection to later. Counter traction with suction.
-
-3.  Dissection over parietal pleura up to azygous arch superficially. Dissect lower aspect of the azygous vein.
-
-4.  Superficial dissection superior to azygous vein to reach superior extent of dissection at inferior border of sygous svein, then proceed inferiorly along the posterior aspect of the esophagus. Dissection proceeds to hiatus.
-
-5.  Divide azygous vein with either vascular load stapler or Gray load
-
-6.  Dissection proceeds to hiatus
-
-7.  Divide thoracic duct with Hem-O-Lock clips at least 5cm superior to hiatus.
-
-8.  Return to dissection plane anterior to the esophagus and deepen plane. Leave dissection of Station 7 nodes until esophagus is completely freed up. Can switch instruments in Arm 1 and Arm 2.
-
-9.  Dissection of Station 4R nodes.
-
-10. Dissection of subcarinal (Station 7) nodes. Start by dissecting esophagus from trachea, then outline inferior border of right and left mainstem bronchi. Keep Station 7 lymph nodes on the specimen.
+The 1688 "Green" scope is used to identify the course of the thoracic duct. If a disruption is found, the duct is mass ligated as low as possible.
 
 ## Delivery of Conduit into chest
 
@@ -318,47 +299,17 @@ The superior end of the conduit is opened along the staple line and the DST XL s
 
 The anastomosis is completed by firing a 60mm Blue load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’
 
-## Circular stapled anastomosis - Luketich
+## NG Tube 
 
-May be helpful to move camera back to Port #3 to see anastomosis better. May need to remove Port #1 for better visibility cephalad.
+A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.
 
-Esophagus divided with robotic shears.
+## Chest Tube 
 
-Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally $\rightarrow$ anvil introduced into esophagus with large needle driver $\rightarrow$ pushed superiorly $\rightarrow$ oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.
+A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.
 
-DST XL 28mm EEA stapler introduced through port #2 (???) into open end of conduit $\rightarrow$ mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm.
+## Closure 
 
-## Linear Stapled Anastomosis
-
-The esophageal stump is opened on the (right side) within the middle with cold scissors or monopolar cautery hook just proximal to the transecting stapler line
-
-The site for linear stapler insertion is measured to be at least 6 cm distal to the transecting staple line on the gastric conduit. The incision is made using monopolar cautery close to the gastroepiploic arcade
-
-Four retraction sutures are placed (dorsal, ventral, medial and lateral) around the opened esophageal lumen, making sure to fixate the mucosa to the rest of the esophageal wall. These retraction sutures will serve for applying optimal retraction on the stump for anastomotic suturing as well as help guide the esophageal stump over the stapler anvil.
-
-The robotic stapler anvil and cartridge jaw (45mm? 60mm? length) are inserted into the appropriate lumens while the console surgeon guides the tissue onto the stapler. Once sufficient tissue overlap is achieved (approximately 60 mm) the stapler is fired (blue reload) and the gastric conduit and esophageal stump are connected dorsally side-to-side
-
-34Fr gastric tube (?or Bougie) inserted. Anterior wall closed with two 4-0 Stratafix sutures run from each side toward the middle. Second later with 4-0 PDS
-
-### Omental Flap
-
-Omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
-
-### NG tube
-
-NG (Salem Sump silicone 18Fr tube) is passed by anesthetist. Robotic ultrasound used to confirm location. NG tube is advanced to 4th dot just about to enter the nose.
-
-## Drains
-
-38Fr Chest tube (Blake or Hollow-bore) placed. 19Fr Blake (JP2) postioned posterior to anastomosis.
-
-## Closure
-
-Extraction site closed with 0 Vicryl. Chest tube secured with 0 silk on SH needle. Skin incisions closed with 4-0 Monocyrl and Dermabond
-
-Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018
-
-van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
+The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.
 
 ## Postoperative care
 
@@ -395,32 +346,4 @@ Modified Barium Swallow once NG tube removed. Initiation of liquids dependent up
 
 POD #5 Epidural catheter removed if not done prior. Foley catheter removed once epidural out. No Flomax to be administered vai jejunostomy
 
-## Resources
-
-#### Sarkaria
-
-RAMIE Technique paper [@oksuyana116]
-
-[@witek6195]
-
-[@sarkaria211]
-
-#### Utrecht
-
-Experience with 100 cases [@vandersluis1]
-
-Learning Curve [@vandersluis264]
-
-Bedside Assist [@vanderhosrtdoaaa071]
-
-Circular stapler and hand-sewn [@degrootdoaa079]
-
-#### Manz
-
-[@Fuchs2019]
-
-Grimminger: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). [@grimminger2018]
-
-Atlas of Robotic Upper GI Surgery Peter Grimminger Chapter 14
-
-## References
+## 
