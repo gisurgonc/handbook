@@ -1,4 +1,4 @@
-# Esophagectomy Robot Ivor Lewis
+# Esophagectomy Robot/VATS
 
 ## Preoperative evaluation
 
