@@ -37,11 +37,12 @@ Robotic Instruments:
 -   Fenestrated bipolar Forceps (420205)
 -   Hot Shears (Monopolar scissors) 470179
 -   Synchroseal (if in Room 22)
--   Extend vessel sealer (if not in 22)
--   SutureCut Large Needle Driver
--   Medium-Large Cip Applier (420327)
--   Suture Non-Cut Large Needle Driver (hold)
--   Hook (hold)
+-   Extend vessel sealer (480322) (if not in 22)
+-   SutureCut Large Needle Driver (470296)
+-   Medium-Large Clip Applier (420327)
+-   Large Needle Driver (470006)
+-   Permanent Cautery Hook (470183) (hold)
+-   Cadiere Forceps (hold) 470049
 
 Critical supplies (check prior to pt in room)
 
@@ -49,6 +50,10 @@ Critical supplies (check prior to pt in room)
 -   Orvil 25mm
 -   Stapler 21mm DSTXL
 -   Orvil 21mm
+
+Suture
+
+-   Stratafix Spiral PDS 3-0 RB-1 needle 15cm
 
 \newpage
 
@@ -131,6 +136,10 @@ Pneumoperitoneum established with Veress needle at left subcostal or inferior to
 Site for jejunostomy is selected 25cm from Treitz. 9" 2-0 silk suture is placed on anti-mesenteric aspect of jejunum and tied to itself. Abdominal wall site for jejunostomy is selected to be superior to ports 3 and 4. Site is marked with skin marker (or strand from 0 silk Keith needle).
 
 Falciform suspended with 0 silk suture on Keith needle
+
+## Robot Docked
+
+Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 
 ## Robotic ports
 
@@ -215,7 +224,7 @@ Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incis
 
 ## Creation of Conduit
 
-"Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper place into Port #4. Robotic stapler is introduced into Port 2. Staple line starts \~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).
+"Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper placed into Port #4. Robotic stapler is introduced into Port 2. Staple line starts \~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).
 
 ## Preparation of Conduit
 
@@ -235,7 +244,13 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 
 ## Jejunostomy
 
-Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriented to 30 degrees up. Prior suture is identified and grasped with suture passer. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressre reduced to Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
+## 
+
+| Arm 1               | Arm 2  | Arm 2A                            | Arm 3  |
+|---------------------|--------|-----------------------------------|--------|
+| Fenestrated Bipolar | Camera | **SutureCut Large Needle Driver** | Tip Up |
+
+: Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriented to 30 degrees up. Prior suture on jejunum is identified and grasped with suture passer. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressre reduced to Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
 
 ## Drains
 
@@ -253,9 +268,9 @@ While port sites are being closed, "loincloth" is removed and hockey stick or sm
 
 # Thoracic Phase
 
-## Transition to Lateral position
+## Transition to Corkscrew Position
 
-Patient is transferred to a spare OR table and a bean bag placed. Patient is positioned lateral with tip of scapula at break in the table. Pillows are used under and between the knees. Arm is supported on a Well Leg Holder affixed to the left headrail with a Yassargil clamp. Lateral positioners used on patient's left side to stabilize bean bag and allow tilt to the left (into modified prone position).
+Patient's chest is rotated to the left. Rectangular positioner supports scapula. Circular positioner on Left side supports chest. Rectangular positioner along left greater trochanter. Right arm rests on pink foam pad on Well Leg Holder.
 
 Lower and upper body bair hugger used. Right arm is elevated for prep and lowered once drapes in place.
 
@@ -297,7 +312,7 @@ The shaft of the anvil is brought through the esophageal staple line, and the tu
 
 The superior end of the conduit is opened along the staple line and the DST XL stapler (matching the diameter of the OrVil) introduced through the Alexis device (Port #2). The stapler shaft is placed into the open end of the gastric conduit and the conduit pulled over it (‘sock over shoe’). The stapler spike is brought out through the greater curvature. The anvil is grasped with a Maryland grasper placed through a superior 5mm port and the two components of the stapler are mated and the stapler tightened and fired. The knob of the stapler is rotated two turns counter-clockwise until a click is felt, at which time the anvil will flip. The stapler is withdrawn and the donuts examined and sent for pathologic exam.
 
-The anastomosis is completed by firing a 60mm Blue load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’
+The anastomosis is completed by firing a 60mm Gold load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’
 
 ## NG Tube 
 
@@ -344,6 +359,6 @@ Upper GI POD#2 *AND* able to stand for 10min *AND* output less than 400mL/day. I
 
 Modified Barium Swallow once NG tube removed. Initiation of liquids dependent upon MBS.
 
-POD #5 Epidural catheter removed if not done prior. Foley catheter removed once epidural out. No Flomax to be administered vai jejunostomy
+POD #5 Epidural catheter removed if not done prior. Foley catheter removed once epidural out. No Flomax to be administered via jejunostomy
 
 ## 
