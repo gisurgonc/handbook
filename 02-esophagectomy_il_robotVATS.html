@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>24&nbsp; Abdominoperineal Resection Postop – CMC GI Surgical Oncology Handbook</title>
+<title>21&nbsp; Esophagectomy Robot Ivor Lewis – CMC GI Surgical Oncology Handbook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./03-postop_gastrectomy.html" rel="next">
-<link href="./03-postop_lar.html" rel="prev">
+<link href="./03-postop_colectomy.html" rel="next">
+<link href="./02-esophagectomy_il_robot.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -82,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-postop_colectomy.html">Postop Care</a></li><li class="breadcrumb-item"><a href="./03-postop_apr.html"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Abdominoperineal Resection Postop</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-colorectal_hill.html">Operating Room</a></li><li class="breadcrumb-item"><a href="./02-esophagectomy_il_robotVATS.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Esophagectomy Robot Ivor Lewis</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -274,7 +303,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02-esophagectomy_il_robotVATS.html" class="sidebar-item-text sidebar-link">
+  <a href="./02-esophagectomy_il_robotVATS.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Esophagectomy Robot Ivor Lewis</span></span></a>
   </div>
 </li>
@@ -303,7 +332,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03-postop_apr.html" class="sidebar-item-text sidebar-link active">
+  <a href="./03-postop_apr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Abdominoperineal Resection Postop</span></span></a>
   </div>
 </li>
@@ -577,15 +606,64 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#preoperative-evaluation" id="toc-preoperative-evaluation" class="nav-link active" data-scroll-target="#preoperative-evaluation"><span class="header-section-number">21.1</span> Preoperative evaluation</a></li>
+  <li><a href="#preop-area" id="toc-preop-area" class="nav-link" data-scroll-target="#preop-area"><span class="header-section-number">21.2</span> Preop Area</a></li>
+  <li><a href="#room-prep" id="toc-room-prep" class="nav-link" data-scroll-target="#room-prep"><span class="header-section-number">21.3</span> Room Prep</a></li>
+  <li><a href="#abdominal-position" id="toc-abdominal-position" class="nav-link" data-scroll-target="#abdominal-position"><span class="header-section-number">21.4</span> Abdominal Position</a>
+  <ul class="collapse">
+  <li><a href="#time-out" id="toc-time-out" class="nav-link" data-scroll-target="#time-out"><span class="header-section-number">21.4.1</span> Time Out</a></li>
+  </ul></li>
+  <li><a href="#laparoscopy" id="toc-laparoscopy" class="nav-link" data-scroll-target="#laparoscopy"><span class="header-section-number">21.5</span> Laparoscopy</a></li>
+  <li><a href="#robotic-ports" id="toc-robotic-ports" class="nav-link" data-scroll-target="#robotic-ports"><span class="header-section-number">21.6</span> Robotic ports</a></li>
+  <li><a href="#abdominal-phase" id="toc-abdominal-phase" class="nav-link" data-scroll-target="#abdominal-phase"><span class="header-section-number">21.7</span> Abdominal Phase</a>
+  <ul class="collapse">
+  <li><a href="#lesser-sac-dissection" id="toc-lesser-sac-dissection" class="nav-link" data-scroll-target="#lesser-sac-dissection"><span class="header-section-number">21.7.1</span> Lesser Sac Dissection</a></li>
+  </ul></li>
+  <li><a href="#distal-greater-curve" id="toc-distal-greater-curve" class="nav-link" data-scroll-target="#distal-greater-curve"><span class="header-section-number">21.8</span> Distal Greater Curve</a></li>
+  <li><a href="#posterior-stomach" id="toc-posterior-stomach" class="nav-link" data-scroll-target="#posterior-stomach"><span class="header-section-number">21.9</span> Posterior Stomach</a></li>
+  <li><a href="#proximal-greater-curve" id="toc-proximal-greater-curve" class="nav-link" data-scroll-target="#proximal-greater-curve"><span class="header-section-number">21.10</span> Proximal Greater Curve</a></li>
+  <li><a href="#mediastinal-dissection" id="toc-mediastinal-dissection" class="nav-link" data-scroll-target="#mediastinal-dissection"><span class="header-section-number">21.11</span> Mediastinal dissection</a></li>
+  <li><a href="#pyloric-drainage---pyloromyotimy-optional" id="toc-pyloric-drainage---pyloromyotimy-optional" class="nav-link" data-scroll-target="#pyloric-drainage---pyloromyotimy-optional"><span class="header-section-number">21.12</span> Pyloric Drainage - Pyloromyotimy (optional)</a></li>
+  <li><a href="#pyloric-drainage---pyloroplasty-optional" id="toc-pyloric-drainage---pyloroplasty-optional" class="nav-link" data-scroll-target="#pyloric-drainage---pyloroplasty-optional"><span class="header-section-number">21.13</span> Pyloric Drainage - Pyloroplasty (optional)</a></li>
+  <li><a href="#creation-of-conduit" id="toc-creation-of-conduit" class="nav-link" data-scroll-target="#creation-of-conduit"><span class="header-section-number">21.14</span> Creation of Conduit</a></li>
+  <li><a href="#preparation-of-conduit" id="toc-preparation-of-conduit" class="nav-link" data-scroll-target="#preparation-of-conduit"><span class="header-section-number">21.15</span> Preparation of Conduit</a></li>
+  <li><a href="#prep-for-thoracic-phase" id="toc-prep-for-thoracic-phase" class="nav-link" data-scroll-target="#prep-for-thoracic-phase"><span class="header-section-number">21.16</span> Prep for Thoracic Phase</a></li>
+  <li><a href="#preparation-for-icg" id="toc-preparation-for-icg" class="nav-link" data-scroll-target="#preparation-for-icg"><span class="header-section-number">21.17</span> Preparation for ICG</a></li>
+  <li><a href="#jejunostomy" id="toc-jejunostomy" class="nav-link" data-scroll-target="#jejunostomy"><span class="header-section-number">21.18</span> Jejunostomy</a></li>
+  <li><a href="#drains" id="toc-drains" class="nav-link" data-scroll-target="#drains"><span class="header-section-number">21.19</span> Drains</a></li>
+  <li><a href="#closure" id="toc-closure" class="nav-link" data-scroll-target="#closure"><span class="header-section-number">21.20</span> Closure</a></li>
+  <li><a href="#icg-injection-into-groin." id="toc-icg-injection-into-groin." class="nav-link" data-scroll-target="#icg-injection-into-groin."><span class="header-section-number">21.21</span> ICG injection into groin.</a></li>
+  <li><a href="#thoracic-phase" id="toc-thoracic-phase" class="nav-link" data-scroll-target="#thoracic-phase"><span class="header-section-number">22</span> Thoracic Phase</a>
+  <ul class="collapse">
+  <li><a href="#transition-to-lateral-position" id="toc-transition-to-lateral-position" class="nav-link" data-scroll-target="#transition-to-lateral-position"><span class="header-section-number">22.1</span> Transition to Lateral position</a></li>
+  <li><a href="#prep-and-drape" id="toc-prep-and-drape" class="nav-link" data-scroll-target="#prep-and-drape"><span class="header-section-number">22.2</span> Prep and drape</a>
+  <ul class="collapse">
+  <li><a href="#thoracoscopy" id="toc-thoracoscopy" class="nav-link" data-scroll-target="#thoracoscopy"><span class="header-section-number">22.2.1</span> Thoracoscopy</a></li>
+  </ul></li>
+  <li><a href="#thoracic-dissection" id="toc-thoracic-dissection" class="nav-link" data-scroll-target="#thoracic-dissection"><span class="header-section-number">22.3</span> Thoracic Dissection</a></li>
+  <li><a href="#delivery-of-conduit-into-chest" id="toc-delivery-of-conduit-into-chest" class="nav-link" data-scroll-target="#delivery-of-conduit-into-chest"><span class="header-section-number">22.4</span> Delivery of Conduit into chest</a></li>
+  <li><a href="#preparation-of-conduit-1" id="toc-preparation-of-conduit-1" class="nav-link" data-scroll-target="#preparation-of-conduit-1"><span class="header-section-number">22.5</span> Preparation of conduit</a></li>
+  <li><a href="#circular-stapled-anastomosis---orvil" id="toc-circular-stapled-anastomosis---orvil" class="nav-link" data-scroll-target="#circular-stapled-anastomosis---orvil"><span class="header-section-number">22.6</span> Circular stapled anastomosis - Orvil</a></li>
+  <li><a href="#ng-tube" id="toc-ng-tube" class="nav-link" data-scroll-target="#ng-tube"><span class="header-section-number">22.7</span> NG Tube</a></li>
+  <li><a href="#chest-tube" id="toc-chest-tube" class="nav-link" data-scroll-target="#chest-tube"><span class="header-section-number">22.8</span> Chest Tube</a></li>
+  <li><a href="#closure-1" id="toc-closure-1" class="nav-link" data-scroll-target="#closure-1"><span class="header-section-number">22.9</span> Closure</a></li>
+  <li><a href="#postoperative-care" id="toc-postoperative-care" class="nav-link" data-scroll-target="#postoperative-care"><span class="header-section-number">22.10</span> Postoperative care</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><span class="header-section-number">22.11</span> </a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/02-esophagectomy_il_robotVATS.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-postop_colectomy.html">Postop Care</a></li><li class="breadcrumb-item"><a href="./03-postop_apr.html"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Abdominoperineal Resection Postop</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-colorectal_hill.html">Operating Room</a></li><li class="breadcrumb-item"><a href="./02-esophagectomy_il_robotVATS.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Esophagectomy Robot Ivor Lewis</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Abdominoperineal Resection Postop</span></h1>
+<h1 class="title"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Esophagectomy Robot Ivor Lewis</span></h1>
 </div>
 
 
@@ -602,143 +680,382 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Clinic</strong></p>
+<section id="preoperative-evaluation" class="level2" data-number="21.1">
+<h2 data-number="21.1" class="anchored" data-anchor-id="preoperative-evaluation"><span class="header-section-number">21.1</span> Preoperative evaluation</h2>
+<p>PET scan evaluted for extent of tumor, focusing on proximity to the carina.</p>
+<p>CT scan evaluated for presence of replaced left hepatic artery.</p>
+</section>
+<section id="preop-area" class="level2" data-number="21.2">
+<h2 data-number="21.2" class="anchored" data-anchor-id="preop-area"><span class="header-section-number">21.2</span> Preop Area</h2>
+<p>Heparin is held if epidural catheter is planned</p>
+<p>Clip hair from abdomen and right chest, including right axilla. Hair is clipped to base of pubis.</p>
+</section>
+<section id="room-prep" class="level2" data-number="21.3">
+<h2 data-number="21.3" class="anchored" data-anchor-id="room-prep"><span class="header-section-number">21.3</span> Room Prep</h2>
+<p>Double-decker Back Table</p>
+<p>EGD Cart (check w/ Salo regarding adult vs neonatal scope)</p>
+<p>BK Ultrasound (with laparoscopic probe AND hockey stick probe). Will need sterile ultrasound jelly.</p>
+<p>Walter ‘Long Arm’ retractor</p>
+<p>Bean Bag</p>
+<p>Salo Positioning Cart:</p>
 <ul>
-<li>Opiod Cessation</li>
-<li>Smoking Cessation</li>
-<li>EtOH/Drugs of Abuse – Social Work</li>
-<li>Nutritional Evaluation
-<ul>
-<li>All Patients – Ensure for 3d preop</li>
-<li>Poor nutrition – ?Delay surgery</li>
-</ul></li>
-<li><em>Arrange Wound Ostomy Nursing</em></li>
-<li><em>Pre-approval for Home Health</em></li>
-<li>Preop Anesthesia/ERAS Class</li>
-<li>Expectations of Surgery:
-<ul>
-<li>Length of Stay 1-3 days</li>
-<li>Diet (self-limiting)</li>
-<li>Pain control (low-opoid)</li>
-<li>Activity (OOB at 6am, OOB 3x/day)</li>
-</ul></li>
-<li>Bowel Prep – Abx and mechanical</li>
+<li>Four black side-rail clamps</li>
+<li>Four rectangular lateral positioners</li>
+<li>Yassargil socket</li>
+<li>Well-leg holder (used as an arm holder)</li>
 </ul>
-<p><strong>Preop Holding</strong></p>
+<p>Robotic Instruments:</p>
 <ul>
-<li>Colon PowerPlan (Hill)</li>
-<li><em>CCM order</em></li>
-<li><em>WOCN order</em></li>
-<li>Antibiotic PowerPlan</li>
-<li>No PCN only for severe allergy</li>
-<li>Entereg (if no preop opiods)</li>
-<li>VTE prophylaxis</li>
-<li>Carbohydrate load (2hr preop)</li>
-<li>Confirm stoma marking</li>
-<li>Confirm CCM aware of ostomy</li>
+<li>Tip Up Grasper</li>
+<li>Fenestrated bipolar Forceps (420205)</li>
+<li>Hot Shears (Monopolar scissors) 470179</li>
+<li>Synchroseal (if in Room 22)</li>
+<li>Extend vessel sealer (if not in 22)</li>
+<li>SutureCut Large Needle Driver</li>
+<li>Medium-Large Cip Applier (420327)</li>
+<li>Suture Non-Cut Large Needle Driver (hold)</li>
+<li>Hook (hold)</li>
 </ul>
-<p><strong>OR</strong></p>
+<p>Critical supplies (check prior to pt in room)</p>
 <ul>
-<li>Goal-directed fluid administration
-<ul>
-<li>2L total in OR</li>
-<li>3L total/first 24hrs</li>
-</ul></li>
-<li>Open procedures: No epidural</li>
+<li>Stapler 25mm DSTXL</li>
+<li>Orvil 25mm</li>
+<li>Stapler 21mm DSTXL</li>
+<li>Orvil 21mm</li>
 </ul>
-<p><strong>Postop Day 0</strong></p>
+<p><strong>Anesthesia</strong></p>
 <ul>
-<li>No sitting
-<ul>
-<li>Order Sign over bed “No sitting”</li>
-</ul></li>
-<li>Goal-directed fluid administration</li>
-<li>OOB (Dangling not compliant)</li>
-<li>Diet
-<ul>
-<li>Low Residue diet</li>
-<li>Ensure Supplements</li>
-</ul></li>
-<li>Teaching</li>
-<li>Gum, Mag &amp; Entereg</li>
-<li>Pain Management
-<ul>
-<li>PCA</li>
-<li>Tylenol 1gm q6 ATC</li>
-<li>Gabapentin 300mg TID</li>
-<li>Oxycodone once at night</li>
-<li>Tramadol PRN</li>
-<li>Resume all baseline pain meds</li>
-</ul></li>
-<li>Home Medications
-<ul>
-<li>Resume all home medications</li>
-<li>No therapeutic anti-coagiation</li>
-<li>Diabetes medicines
-<ul>
-<li>Prefer to resume all</li>
-<li>Sliding-scale insulin if needed</li>
-</ul></li>
-</ul></li>
-<li><em>Wound Ostomy teaching</em></li>
-<li><em>CCM for Home Health for stoma care</em></li>
+<li>Dual-lumen ETT tube (taped to left)</li>
+<li>Arterial line (left arm will be on arm board)</li>
+<li>Anesthesia may place epidural in preop</li>
+<li>Heparin 5000U SQ 2 hours after epidural placed</li>
 </ul>
-<p><strong>Postop Day 1</strong></p>
+</section>
+<section id="abdominal-position" class="level2" data-number="21.4">
+<h2 data-number="21.4" class="anchored" data-anchor-id="abdominal-position"><span class="header-section-number">21.4</span> Abdominal Position</h2>
+<p>Supine on blue foam pad.</p>
+<p>Foley catheter (with Criticor temp sensor)</p>
+<p>Bovie pad</p>
+<p>Lower-body Bair Hugger at level of thighs, followed by single blanket and Velcro strap</p>
+<p>Hair clipped from abdomen, bilateral groins, right chest, and right axilla.</p>
+<p>Pre-existing jejunostomy</p>
 <ul>
-<li>Labs: K+ and CBC only</li>
-<li>d/c “pre” plan &amp; colon visit</li>
-<li>Heparin lock IV</li>
-<li>Out of bed &gt; 6 hrs</li>
-<li>Diet: low residue</li>
-<li>Pain management
-<ol type="1">
-<li>d/c PCA</li>
-<li>Tylenol</li>
-<li>Gabapentin 300 tid</li>
-<li>Tramadol</li>
-<li>Home meds</li>
-<li>Oxy if lots of pain</li>
-</ol></li>
+<li>Prep into field</li>
+<li>Remove any eschar at site</li>
+<li>Secure to skin inferiorly with 0 silk</li>
 </ul>
-<p><strong>Postop Day 2</strong></p>
+<p>Velcro strap over thighs and over lateral positioners</p>
+<p><strong>Prep</strong></p>
+<p>Patient is positioned frog-leg for prep (and is returned to supine during draping). Chloroprep (2 sticks) of abdomen and lower chest up to the level of nipples (in case urgent chest tube needed). Particular attention to prepping as far as possible to the left lateral side and the right lateral side. Prep continues inferior to base of pubis. At the end of prep, bilateral groins are prepped.</p>
+<p><strong>Drape</strong></p>
+<p>Transverse 1000 drape is placed at the base of the pubis. On either side, the drape proceeds inferior and lateral to include both groins. Top gloves are changed.</p>
+<p>Blue utility (paper) drape is placed transversely just above level of pubis. While the abdominal skin incisions are being closed,</p>
+<p>1000 Drapes x4 in rectangular fashion with top of field 10cm above xiphoid and bottom at base of penis. Ioban strips (4”) aound the periphery of the surgical field after the trauma drape. Laparoscopic cords (gas, light cord, camera) passed off. Suction irrigator brought off field.</p>
+<section id="time-out" class="level3" data-number="21.4.1">
+<h3 data-number="21.4.1" class="anchored" data-anchor-id="time-out"><span class="header-section-number">21.4.1</span> Time Out</h3>
+<p>Operation header on consent</p>
+<p><strong>Time Out</strong></p>
+<p>Review:</p>
 <ul>
-<li>No IV fluids unless indicated</li>
-<li>No labs unless indicated</li>
-<li>OOB &gt;6 hrs</li>
-<li>No PT unless going to rehab or SNF (ask Hill first)</li>
-<li>Pain management
+<li>Consent</li>
+<li>Comorbidities, including cardiopulmonary disease</li>
+<li>Anticoagulation plan. If preoperative heparin was held for epidural, plans for timing of its administration. Circulator and anesthetist set alarms.</li>
+<li>Prior abdominal or thoracic operations</li>
+<li>Allergies</li>
+<li>Blood
 <ul>
-<li>d/c PCA (unless laparotomy)</li>
+<li>Surgeon’s expectation of blood loss</li>
+<li>Availability of blood (type/screen vs type/cross).</li>
+<li>Blood product administration limitations, if any</li>
 </ul></li>
-<li><em>Wound Ostomy Teaching</em></li>
-<li>Foley voiding challenge
-<ul>
-<li>250mL saline into foley -&gt; pull</li>
-<li>Must void within 2 hours</li>
-</ul></li>
-<li>Discharge planning
-<ul>
-<li>Consider early D/C</li>
-</ul></li>
-<li>Otherwise plan
-<ul>
-<li>Patient</li>
-<li>Nursing</li>
-<li><em>CCM for home health for stoma care</em></li>
-</ul></li>
-<li>Afternoon rounds</li>
+<li>Introduction by name and role</li>
+<li>Co-surgeons: Confirm availability prior to incision</li>
+<li>Operative plan</li>
+<li>Request ICU bed in STICU</li>
 </ul>
-<ol type="1">
-<li>Possible home today!</li>
-<li>Check patient 2-3PM</li>
-<li>Ambulation 2x’s by PM</li>
-<li>Check for dehydration</li>
-<li>Patient education</li>
-<li>Give estimated date of discharge</li>
-</ol>
-<p><strong>Postop Day 3-5</strong> - IVF - Consider bolus of IV fluids - Consider maintenance IV if we feel won’t resolve soon - Labs - No labs unless indicated - Consider ordering QOD Chem7 if prolonged ileus - OOB &gt;6 hrs - No PT unless likely to go to rehab or SNIF (ask Hill first) - Pain management - Same as POD#1 - Afternoon rounds 1) Possible home today! 2) Check patient 2-3PM 3) Ambulation 2x’s by PM 4) Check for dehydration 5) Patient education 6) Give estimated date of discharge</p>
+<p><em>Comorbidities:</em></p>
+<p>Cardiopulmonary disease. If echo, ejection fraction and aortic valve area (if abnormal)</p>
+<p>Beta blockage: Note whether patient on home beta blockade and if so, whether home medication was taken the morning of surgery.</p>
+<p>Anticipated Intraop Problems:</p>
+<ul>
+<li>Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection</li>
+<li>Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest Gastric mobilization – Greater Curvature</li>
+</ul>
+</section>
+</section>
+<section id="laparoscopy" class="level2" data-number="21.5">
+<h2 data-number="21.5" class="anchored" data-anchor-id="laparoscopy"><span class="header-section-number">21.5</span> Laparoscopy</h2>
+<p>Pneumoperitoneum established with Veress needle at left subcostal or inferior to umbilicus <em>or</em> modified Hasson approach. Abdominal entry with 5mm optical port at future location of Port #2 in mid-axillary line at level of umbilicus. Laparoscopy to look for peritoneal implants.</p>
+<p>Site for jejunostomy is selected 25cm from Treitz. 9” 2-0 silk suture is placed on anti-mesenteric aspect of jejunum and tied to itself. Abdominal wall site for jejunostomy is selected to be superior to ports 3 and 4. Site is marked with skin marker (or strand from 0 silk Keith needle).</p>
+<p>Falciform suspended with 0 silk suture on Keith needle</p>
+</section>
+<section id="robotic-ports" class="level2" data-number="21.6">
+<h2 data-number="21.6" class="anchored" data-anchor-id="robotic-ports"><span class="header-section-number">21.6</span> Robotic ports</h2>
+<p>Port #3 8mm left mid-axillary line at level of umbilicus <span class="math inline">\(\rightarrow\)</span> camera.</p>
+<p>Port #4 left anterior axillary line. 8mm port <span class="math inline">\(\rightarrow\)</span></p>
+<p>Port #2 right mid-clavicular line 2cm above umbilicus. Switch from 5mm to 12mm robotic stapler port. Place ‘sleeper’ 0 Vicryl figure-of-eight suture and secure with a hemostat.</p>
+<p>Port #1 left anterior axillary line 8mm port 2cm above umbilicus. <span class="math inline">\(\rightarrow\)</span> fenestrated bipolar</p>
+<p>Assistant port 8mm port inferior to umbilicus. Port #3 will be switched to this position for jejunostomy later in the case.</p>
+<p>Nathanson liver retractor placed in midline using the 5mm optical port to create a tract. Nathanson held in place with Salo Endoscopic Bookwalter secured to bedrail just inferior to right armboard.</p>
+<p>Bed positioned to 12 degrees reverse Trendelenberg</p>
+</section>
+<section id="abdominal-phase" class="level2" data-number="21.7">
+<h2 data-number="21.7" class="anchored" data-anchor-id="abdominal-phase"><span class="header-section-number">21.7</span> Abdominal Phase</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 12%">
+<col style="width: 22%">
+<col style="width: 12%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Arm 1</th>
+<th>Arm 2</th>
+<th>Arm 3</th>
+<th>Arm 4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fenestrated Bipolar</td>
+<td>Camera</td>
+<td>Synchroseal<br>
+Vessel Sealer</td>
+<td>Tip Up</td>
+</tr>
+</tbody>
+</table>
+<section id="lesser-sac-dissection" class="level3" data-number="21.7.1">
+<h3 data-number="21.7.1" class="anchored" data-anchor-id="lesser-sac-dissection"><span class="header-section-number">21.7.1</span> Lesser Sac Dissection</h3>
+<p>Gastrohpeatic ligament divided. Celiac axis evaluated for resectability. Right crus dissected to ensure resectability. Dissection carried anteriorly and left crural dissection begun. Dissection posterior to esophagus.</p>
+<p>Central node dissection begun, including common hepatic, left gastric, celiac, and proximal splenic aftery nodes. If replaced left hepatic artery present, may require preservation of left gastric artery. Left gastric artery divided with clips.</p>
+<p>Posterior gastric dissection. Dissection is carried posterior towards most superior short gastric arteries (as these can be difficult to approach from the greater curvature side).</p>
+</section>
+</section>
+<section id="distal-greater-curve" class="level2" data-number="21.8">
+<h2 data-number="21.8" class="anchored" data-anchor-id="distal-greater-curve"><span class="header-section-number">21.8</span> Distal Greater Curve</h2>
+<p>The right gastroepiploic artery is identified and the lesser sac entere to the left of midline. Dissection proceeds to the patient’s right. This may require shifting ports:</p>
+<ul>
+<li>Camera to Port 2</li>
+<li>Vessel sealer to Port 3</li>
+<li>Tip Up to Port 4</li>
+</ul>
+<p>Right gastroepiploic artery carefully preserved and gatrocolic omentum incised. Dissection proceeds to right to mobilize colon off duodenum. Kocher maneuver performed and omental adhesions to gallbladder taken down.</p>
+</section>
+<section id="posterior-stomach" class="level2" data-number="21.9">
+<h2 data-number="21.9" class="anchored" data-anchor-id="posterior-stomach"><span class="header-section-number">21.9</span> Posterior Stomach</h2>
+<p>Posterior dissection elevating stomach. Dissect posterior gastrics. Dissection plane up to fundus and to short gastrics.</p>
+</section>
+<section id="proximal-greater-curve" class="level2" data-number="21.10">
+<h2 data-number="21.10" class="anchored" data-anchor-id="proximal-greater-curve"><span class="header-section-number">21.10</span> Proximal Greater Curve</h2>
+<table class="caption-top table">
+<caption>Dissection proceeds proximally, preserving the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels</caption>
+<colgroup>
+<col style="width: 12%">
+<col style="width: 30%">
+<col style="width: 12%">
+<col style="width: 22%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Arm 1</th>
+<th>Arm 2</th>
+<th>Arm 3</th>
+<th>Arm 4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tip Up</td>
+<td>Fenestrated Bipolar</td>
+<td>Camera</td>
+<td>Synchroseal<br>
+Vessel Sealer</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mediastinal-dissection" class="level2" data-number="21.11">
+<h2 data-number="21.11" class="anchored" data-anchor-id="mediastinal-dissection"><span class="header-section-number">21.11</span> Mediastinal dissection</h2>
+<p>Penrose drain is placed around esophagus and secured with stapler or Weck clips. Dissection proceeds to level of inferior pulmonary veins. Penrose is tucked into the mediastinum.</p>
+<p>When Penrose is placed, confirm that heparin has been given.</p>
+<p>0 Vicryl suture is inserted through 12mm stapler port and a ‘sleeper’ suture of 12” 0 Vicryl on UR-6 is placed in posterior crus. Ends of suture are clipped together and later sutured to conduit.</p>
+</section>
+<section id="pyloric-drainage---pyloromyotimy-optional" class="level2" data-number="21.12">
+<h2 data-number="21.12" class="anchored" data-anchor-id="pyloric-drainage---pyloromyotimy-optional"><span class="header-section-number">21.12</span> Pyloric Drainage - Pyloromyotimy (optional)</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 12%">
+<col style="width: 25%">
+<col style="width: 12%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Arm 1</th>
+<th>Arm 2A</th>
+<th>Arm 3</th>
+<th>Arm 4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fenestrated Bipolar</td>
+<td>Camera</td>
+<td>Hook<br>
+Cadiere Bipolar</td>
+<td>Tip Up</td>
+</tr>
+</tbody>
+</table>
+<p>Pyloromyotomy is performed with camera in Port #2 and hook in Port #3 and Tip up in Port #4 (may need to move camera to midline)</p>
+</section>
+<section id="pyloric-drainage---pyloroplasty-optional" class="level2" data-number="21.13">
+<h2 data-number="21.13" class="anchored" data-anchor-id="pyloric-drainage---pyloroplasty-optional"><span class="header-section-number">21.13</span> Pyloric Drainage - Pyloroplasty (optional)</h2>
+<p>Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incision is made with hook cautery. Defect is closed with 2-0 silk cut to 6” (have 2 sutures ready)</p>
+</section>
+<section id="creation-of-conduit" class="level2" data-number="21.14">
+<h2 data-number="21.14" class="anchored" data-anchor-id="creation-of-conduit"><span class="header-section-number">21.14</span> Creation of Conduit</h2>
+<p>“Ruler” is created by making 1cm marks with black marker on Tip up. Tip up grasper place into Port #4. Robotic stapler is introduced into Port 2. Staple line starts ~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).</p>
+</section>
+<section id="preparation-of-conduit" class="level2" data-number="21.15">
+<h2 data-number="21.15" class="anchored" data-anchor-id="preparation-of-conduit"><span class="header-section-number">21.15</span> Preparation of Conduit</h2>
+<table class="caption-top table">
+<caption>Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6”). Arm 4 is undocked and 19 Fr Blake drain (JP2) is introduced through the port. The drain is sutured to specimen with 2-0 silk cut to 4”. JP2 is brought out through the LLQ 5mm assistant port or through the port for Arm #4.</caption>
+<colgroup>
+<col style="width: 29%">
+<col style="width: 11%">
+<col style="width: 49%">
+<col style="width: 9%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Arm 1</th>
+<th>Arm 2A</th>
+<th>Arm 3</th>
+<th>Arm 4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fenestrated Bipolar</td>
+<td>Camera</td>
+<td><strong>SutureCut Large Needle Driver</strong></td>
+<td>—–</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="prep-for-thoracic-phase" class="level2" data-number="21.16">
+<h2 data-number="21.16" class="anchored" data-anchor-id="prep-for-thoracic-phase"><span class="header-section-number">21.16</span> Prep for Thoracic Phase</h2>
+<p>Once conduit has been constructed, confirm presence in room of bean bag, two pillows, and an extra OR bed for transition to lateral decubitus position.</p>
+</section>
+<section id="preparation-for-icg" class="level2" data-number="21.17">
+<h2 data-number="21.17" class="anchored" data-anchor-id="preparation-for-icg"><span class="header-section-number">21.17</span> Preparation for ICG</h2>
+<p>One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brought onto the sterile field in a 5mL syringe, which is fitted with a 25Ga needle. The remainder of the ICG is given to Anesthesia for later (intravenous) use.</p>
+</section>
+<section id="jejunostomy" class="level2" data-number="21.18">
+<h2 data-number="21.18" class="anchored" data-anchor-id="jejunostomy"><span class="header-section-number">21.18</span> Jejunostomy</h2>
+<p>Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriented to 30 degrees up. Prior suture is identified and grasped with suture passer. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressre reduced to Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.</p>
+</section>
+<section id="drains" class="level2" data-number="21.19">
+<h2 data-number="21.19" class="anchored" data-anchor-id="drains"><span class="header-section-number">21.19</span> Drains</h2>
+<p>Once jejunostomy in place, JP1 and JP2 are routed lateral to jejunostomy and brought out through Port #4 and Port #3.</p>
+</section>
+<section id="closure" class="level2" data-number="21.20">
+<h2 data-number="21.20" class="anchored" data-anchor-id="closure"><span class="header-section-number">21.20</span> Closure</h2>
+<p>Robot is disengaged and kept sterile. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.</p>
+<p>Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with 4-0 Monocryl followed by Dermabond.</p>
+</section>
+<section id="icg-injection-into-groin." class="level2" data-number="21.21">
+<h2 data-number="21.21" class="anchored" data-anchor-id="icg-injection-into-groin."><span class="header-section-number">21.21</span> ICG injection into groin.</h2>
+<p>While port sites are being closed, “loincloth” is removed and hockey stick or small T ultrasound transducer is brought onto the field. Under ultrasound guidance with sterile ultrasound jelly, ICG is injected into groin nodes.</p>
+</section>
+<section id="thoracic-phase" class="level1" data-number="22">
+<h1 data-number="22"><span class="header-section-number">22</span> Thoracic Phase</h1>
+<section id="transition-to-lateral-position" class="level2" data-number="22.1">
+<h2 data-number="22.1" class="anchored" data-anchor-id="transition-to-lateral-position"><span class="header-section-number">22.1</span> Transition to Lateral position</h2>
+<p>Patient is transferred to a spare OR table and a bean bag placed. Patient is positioned lateral with tip of scapula at break in the table. Pillows are used under and between the knees. Arm is supported on a Well Leg Holder affixed to the left headrail with a Yassargil clamp. Lateral positioners used on patient’s left side to stabilize bean bag and allow tilt to the left (into modified prone position).</p>
+<p>Lower and upper body bair hugger used. Right arm is elevated for prep and lowered once drapes in place.</p>
+</section>
+<section id="prep-and-drape" class="level2" data-number="22.2">
+<h2 data-number="22.2" class="anchored" data-anchor-id="prep-and-drape"><span class="header-section-number">22.2</span> Prep and drape</h2>
+<p>Chloroprep including axilla and proximal right arm. Drape axilla/upper arm with 1000 drape.</p>
+<p>Two blue “U” drapes used, folowed by trauma drape (or Universal). Ioban strips around edges. Once Ioban in place, arm is lowered</p>
+<p>Laparoscopic instruments are kept sterile and may be returned to the field if pleural adhesions are encountered.</p>
+<section id="thoracoscopy" class="level3" data-number="22.2.1">
+<h3 data-number="22.2.1" class="anchored" data-anchor-id="thoracoscopy"><span class="header-section-number">22.2.1</span> Thoracoscopy</h3>
+<p>The pneumoperitoneum in the abdomen is vented and the gas pressure turned down to 8mmHg in preparation for the thoracic phase. A site for entry in to the left chest is selected just posterior to the tip of the scapula. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. Two 12mm ports are placed. The more superior is placed lateral and superior to the nipple. The inferior port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5</p>
+</section>
+</section>
+<section id="thoracic-dissection" class="level2" data-number="22.3">
+<h2 data-number="22.3" class="anchored" data-anchor-id="thoracic-dissection"><span class="header-section-number">22.3</span> Thoracic Dissection</h2>
+<p>The 1688 “Green” scope is used to identify the course of the thoracic duct. If a disruption is found, the duct is mass ligated as low as possible.</p>
+</section>
+<section id="delivery-of-conduit-into-chest" class="level2" data-number="22.4">
+<h2 data-number="22.4" class="anchored" data-anchor-id="delivery-of-conduit-into-chest"><span class="header-section-number">22.4</span> Delivery of Conduit into chest</h2>
+<p>The conduit is delivered into the thorax. This is done using a laparoscopic graster. Ensure staple line faces you (right side). The specimen is removed through the assistant port incision. An Alexis port is used to seal the extraction site. Stomach is pulled into the chest until the <strong>Vicryl marker suture</strong> is seen.</p>
+<p>Division of esophagus just above level of azygous vein. ICG can be used to check perfusion. If there is any question about the length of the conduit, confirm the length of the conduit prior to division of the esophagus.</p>
+<p>Penrose drain is recovered. Specimen is sent for frozen section with instructions to freeze proximal margin.</p>
+<p>Once conduit is delivered into chest, set up BK ultrasound to display on robotic screen.</p>
+</section>
+<section id="preparation-of-conduit-1" class="level2" data-number="22.5">
+<h2 data-number="22.5" class="anchored" data-anchor-id="preparation-of-conduit-1"><span class="header-section-number">22.5</span> Preparation of conduit</h2>
+<p>The gastric conduit is placed into the mediastinum by tucking it medially from the right pleura into the posterior mediastinum, in order to allow the conduit to take the most direct path from the hiatus to the proximal esophagus. Gentle superior tension is now applied to the conduit in order to eliminate redundancy.</p>
+</section>
+<section id="circular-stapled-anastomosis---orvil" class="level2" data-number="22.6">
+<h2 data-number="22.6" class="anchored" data-anchor-id="circular-stapled-anastomosis---orvil"><span class="header-section-number">22.6</span> Circular stapled anastomosis - Orvil</h2>
+<p>OrVil The OrVil device is now used to place a EEA anvil into the distal esophagus. In general, a 25mm size is selected, unless the patient has particularly small frame, in which case a 21mm size is used. Two stay sutures of 2-0 silk on RB-1 needles are placed in the center of the esophageal staple line 3mm apart. A Harmonic scalpel is used to divide the staple line. The OrVil device is passed through the mouth and is passed through the fenestration in the staple line. The anvil portion of the OrVil is oriented so that the rounded portion is placed against the roof of the mouth. The OrVil is guided into the hypopharynx by pulling on the the tube end of the device. As the anvil approaches the hypopharynx, the jaw is pulled forward to allow passage of the anvil.</p>
+<p>The shaft of the anvil is brought through the esophageal staple line, and the tube disconnected from the anvil by cutting the blue sutures.</p>
+<p>The superior end of the conduit is opened along the staple line and the DST XL stapler (matching the diameter of the OrVil) introduced through the Alexis device (Port #2). The stapler shaft is placed into the open end of the gastric conduit and the conduit pulled over it (‘sock over shoe’). The stapler spike is brought out through the greater curvature. The anvil is grasped with a Maryland grasper placed through a superior 5mm port and the two components of the stapler are mated and the stapler tightened and fired. The knob of the stapler is rotated two turns counter-clockwise until a click is felt, at which time the anvil will flip. The stapler is withdrawn and the donuts examined and sent for pathologic exam.</p>
+<p>The anastomosis is completed by firing a 60mm Blue load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’</p>
+</section>
+<section id="ng-tube" class="level2" data-number="22.7">
+<h2 data-number="22.7" class="anchored" data-anchor-id="ng-tube"><span class="header-section-number">22.7</span> NG Tube</h2>
+<p>A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.</p>
+</section>
+<section id="chest-tube" class="level2" data-number="22.8">
+<h2 data-number="22.8" class="anchored" data-anchor-id="chest-tube"><span class="header-section-number">22.8</span> Chest Tube</h2>
+<p>A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.</p>
+</section>
+<section id="closure-1" class="level2" data-number="22.9">
+<h2 data-number="22.9" class="anchored" data-anchor-id="closure-1"><span class="header-section-number">22.9</span> Closure</h2>
+<p>The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.</p>
+</section>
+<section id="postoperative-care" class="level2" data-number="22.10">
+<h2 data-number="22.10" class="anchored" data-anchor-id="postoperative-care"><span class="header-section-number">22.10</span> Postoperative care</h2>
+<p>Admission to ICU. Epidural dosed.</p>
+<p>Medications:</p>
+<ul>
+<li>Protonix 40mg IV</li>
+<li>Metoprolol 2.5mg IV q6h (may increase to 5mg)</li>
+<li>Home antihypertensives held unless bp is still elevated after adequate beta blockade</li>
+<li>No bowel regimen</li>
+<li>Reglan 10mg IV q6 hours</li>
+</ul>
+<p>Labs:</p>
+<ul>
+<li>Daily drain amylase from JP2 starting POD#2</li>
+<li>CBC every other day or daily if elevated above 12</li>
+<li>BMP every other day</li>
+<li>CMP on admission and POD #4</li>
+</ul>
+<p>Tube feeds at 30mL/hour start with Osmolite 1.5. Tube feeds advanced 10mL q12 hours once flatus returns.</p>
+<p>Intravenous fluid stopped once tube feeds advanced and free water started 240mL qid via jejunostomy.</p>
+<p>POD #1 Out of bed to chair</p>
+<p>Chest tube to water seal on POD2 if no air leak. Chest tube removed once output below 200mL/day</p>
+<p>JP2 removed by POD#7 if patient is otherwise doing well.</p>
+<p>Upper GI POD#2 <em>AND</em> able to stand for 10min <em>AND</em> output less than 400mL/day. If good emptying on upper GI <span class="math inline">\(\rightarrow\)</span> NG removed.</p>
+<p>Modified Barium Swallow once NG tube removed. Initiation of liquids dependent upon MBS.</p>
+<p>POD #5 Epidural catheter removed if not done prior. Foley catheter removed once epidural out. No Flomax to be administered vai jejunostomy</p>
+</section>
+<section id="section" class="level2" data-number="22.11">
+<h2 data-number="22.11" class="anchored" data-anchor-id="section"><span class="header-section-number">22.11</span> </h2>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1142,13 +1459,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./03-postop_lar.html" class="pagination-link" aria-label="LAR + Ileostomy">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">LAR + Ileostomy</span></span>
+      <a href="./02-esophagectomy_il_robot.html" class="pagination-link" aria-label="Esophagectomy Robot Ivor Lewis">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Esophagectomy Robot Ivor Lewis</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./03-postop_gastrectomy.html" class="pagination-link" aria-label="Gastrectomy Postop">
-        <span class="nav-page-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Gastrectomy Postop</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./03-postop_colectomy.html" class="pagination-link" aria-label="Colectomy Postop">
+        <span class="nav-page-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Colectomy Postop</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1157,4 +1474,4 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/03-postop_apr.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/02-esophagectomy_il_robotVATS.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
