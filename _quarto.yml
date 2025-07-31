@@ -38,7 +38,7 @@ book:
       - 02-robot_STgastrectomy.qmd
       - 02-esophagectomy_one_stage.qmd
       - 02-esophagectomy_il_robot.qmd
-      - 02-esopohagectomy_il_robotVATS.qmd
+      - 02-esophagectomy_il_robotVATS.qmd
     - part: "Postop Care"
       chapters:
       - 03-postop_colectomy.qmd
