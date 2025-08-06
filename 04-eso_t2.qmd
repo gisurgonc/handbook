@@ -16,6 +16,8 @@ Retrospective review of the National Cancer DataBase failed to demonstrate a dif
 
 A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cell carcinoma patients and showed equivalent outcomes for primary surgery vs neoadjuvant chemoradiation followed by surgery [@zhang429]
 
+Retrospective reveiw from Utrecht found longer survival for cT2N0 patients treated with trimodalitytherapy compared with primary surgery [@wirsik799]
+
 ## Staging of T2N0 Tumors
 
 The challenge for treatment decision-making is the limited sensitivity of endoscopic ultrasound in ruling out pT3 or pN+ disease. In other words, if a patient who is thought to have cT2N0 disease undergoes resection, and is found on pathology to have pT3 or pN^+^ disease, this would dictate the need for postoperative chemoradiation. In general, chemoradiation after esophagectomy is difficult for patients to tolerate, with a 40 % chance of failure to complete therapy.
