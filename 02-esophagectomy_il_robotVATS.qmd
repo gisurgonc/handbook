@@ -2,7 +2,7 @@
 
 ## Preoperative evaluation
 
-PET scan evaluted for extent of tumor, focusing on proximity to the carina.
+PET scan evaluated for extent of tumor, focusing on proximity to the carina.
 
 CT scan evaluated for presence of replaced left hepatic artery.
 
@@ -79,10 +79,8 @@ Hair clipped from abdomen, bilateral groins, right chest, and right axilla.
 Pre-existing jejunostomy
 
 -   Prep into field
--   Remove any eschar at site
+-   Remove any eschar at exit site
 -   Secure to skin inferiorly with 0 silk
-
-Velcro strap over thighs and over lateral positioners
 
 **Prep**
 
@@ -266,7 +264,7 @@ Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicr
 
 While port sites are being closed, "loincloth" is removed and hockey stick or small T ultrasound transducer is brought onto the field. Under ultrasound guidance with sterile ultrasound jelly, ICG is injected into groin nodes.
 
-# Thoracic Phase
+## Thoracic Phase
 
 ## Transition to Corkscrew Position
 
@@ -360,5 +358,3 @@ Upper GI POD#2 *AND* able to stand for 10min *AND* output less than 400mL/day. I
 Modified Barium Swallow once NG tube removed. Initiation of liquids dependent upon MBS.
 
 POD #5 Epidural catheter removed if not done prior. Foley catheter removed once epidural out. No Flomax to be administered via jejunostomy
-
-## 
