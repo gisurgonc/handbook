@@ -6,7 +6,7 @@ Locally-advanced gastric cancer (T3 or N^+^) is generally treated with some form
 
 **FLOT** chemotherapy [@al-batran1948] with 5FU, oxaliplatin and Taxotere superior for neoadjuvant chemotherapy compared with epirubicin, oxaliplatin and 5FU (MAGIC regimen).
 
-Matterhorn trial evaluated the addition of anti-PD-L1 MAb **durvalumab** to FLOT for stage I-IVa adenocarcinoma of stomach and GE junction. Both groups received 4 cycles of FLOT every 15 days. Durvalumab group received 2 doses preop and 2 doses postop with FLOT in addition to 10 monthly doses of durvalumab. Longer disease-free survival and trend to longer overall survival with the addition of durvalumab without additional toxicity.[@janjigian217]
+Matterhorn trial evaluated the addition of anti-PD-L1 MAb **durvalumab** to FLOT for stage I-IVa adenocarcinoma of stomach and GE junction. Both groups received 4 cycles of FLOT every 15 days. Durvalumab group received 2 doses preop and 2 doses postop with FLOT in addition to 10 monthly doses of durvalumab. Surgery was performed 4-8 weeks after the last dose of chemotherapy. Longer disease-free survival and trend to longer overall survival with the addition of durvalumab without additional toxicity.[@janjigian217]
 
 MAGIC study randomized 503 patients to perioperative 'sandwich' chemotherapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone. In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26% of the study population. While over 90% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66% completed their postoperative therapy. Survival at 5 years was 36% in the perioperative chemotherapy group, compared with 24% in the surgery group (p\<0.001).[@cunningham11]
 
@@ -24,7 +24,7 @@ CLASSIC clinical trial randomized 1033 patients with stage II or III gastric can
 
 Intergroup 0116 trial [@macdonald725] [@smalley2327] Surgery +/- postoperative chemoradiation. Surgical quality control was poor, as 90% were treated a limited (R1) lymph node dissection. Long-term followup, however [@smalley2327] showed a persistent benefit of postoperative chemoradiation.
 
-ARTIST trial 450 patients treated with a D1 $\alpha$ gastrectomy were randomized to adjuvant capecitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxalipaltin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did not differ between groups (78.2% vs 74.2% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5% *v* 72.3% p=0.365).[@lee268]
+ARTIST trial 450 patients treated with a D1 $\alpha$ gastrectomy were randomized to adjuvant capecitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxaliplatin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did not differ between groups (78.2% vs 74.2% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5% *v* 72.3% p=0.365).[@lee268]
 
 CRITICS trial [@cats616] treated all patients with preoperative chemotherapy (ECF or CapeOx) followed by surgery. Postoperative patients were then randomized between additional chemotherapy versus chemoradiation. No difference in survival between groups.
 

@@ -153,12 +153,12 @@ Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 
 ## Abdominal Phase
 
-+---------------------+--------+------------------+--------+
-| Arm 1               | Arm 2  | Arm 3            | Arm 4  |
-+=====================+========+==================+========+
-| Fenestrated Bipolar | Camera | Synchroseal OR \ | Tip Up |
-|                     |        | Vessel Sealer    |        |
-+---------------------+--------+------------------+--------+
++---------------------+--------+-----------------+--------+
+| Arm 1               | Arm 2  | Arm 3           | Arm 4  |
++=====================+========+=================+========+
+| Fenestrated Bipolar | Camera | Synchroseal OR\ | Tip Up |
+|                     |        | Vessel Sealer   |        |
++---------------------+--------+-----------------+--------+
 
 ### Lesser Sac Dissection
 
@@ -300,15 +300,15 @@ The superior end of the conduit is opened along the staple line and the DST XL s
 
 The anastomosis is completed by firing a 60mm Gold load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’
 
-## NG Tube 
+## NG Tube
 
 A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.
 
-## Chest Tube 
+## Chest Tube
 
 A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.
 
-## Closure 
+## Closure
 
 The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.
 
