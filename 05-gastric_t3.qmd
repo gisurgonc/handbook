@@ -4,13 +4,15 @@ Locally-advanced gastric cancer (T3 or N^+^) is generally treated with some form
 
 ## Preoperative Chemotherapy
 
-FLOT chemotherapy [@al-batran1948] with 5FU, oxaliplatin and Taxotere superior for neoadjuvant chemotherapy compared with epirubicin, oxaliplatin and 5FU (MAGIC regimen)
+**FLOT** chemotherapy [@al-batran1948] with 5FU, oxaliplatin and Taxotere superior for neoadjuvant chemotherapy compared with epirubicin, oxaliplatin and 5FU (MAGIC regimen).
 
-MAGIC study randomized 503 patients to perioperative 'sandwich' therapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone. In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26% of the study population. While over 90% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66% completed their postoperative therapy. Survival at 5 years was 36% in the perioperative chemotherapy group, compared with 24% in the surgery group (p\<0.001).[@cunningham11]
+Matterhorn trial evaluated the addition of anti-PD-L1 MAb **durvalumab** to FLOT for stage I-IVa adenocarcinoma of stomach and GE junction. Both groups received 4 cycles of FLOT every 15 days. Durvalumab group received 2 doses preop and 2 doses postop with FLOT in addition to 10 monthly doses of durvalumab. Longer disease-free survival and trend to longer overall survival with the addition of durvalumab without additional toxicity.[@janjigian217]
 
-ACCORD-07 clinical trial [@ychou1715]
+MAGIC study randomized 503 patients to perioperative 'sandwich' chemotherapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone. In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26% of the study population. While over 90% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66% completed their postoperative therapy. Survival at 5 years was 36% in the perioperative chemotherapy group, compared with 24% in the surgery group (p\<0.001).[@cunningham11]
 
-The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 cycles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).[@ychou1715]
+ACCORD-07 clinical trial [@ychou1715]: surgery +/- neoadjuvant cisplatin+5FU. Improved R0 resection rate but no difference in survival, perhaps due to poor accrual.
+
+FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 cycles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).[@ychou1715]
 
 RESONANCE-II trial of Oxaliplatin + S-1 (SOX) [@wang20]
 
@@ -20,7 +22,7 @@ CLASSIC clinical trial randomized 1033 patients with stage II or III gastric can
 
 ## Postoperative chemoradiation
 
-Intergroup 0116 trial [@macdonald725] [@smalley2327] Surgical quality control was poor, as 90% were treated a limited lymph node dissection. Long-term followup, however [@smalley2327] showed a persistent benefit of postoperative chemoradiation.
+Intergroup 0116 trial [@macdonald725] [@smalley2327] Surgery +/- postoperative chemoradiation. Surgical quality control was poor, as 90% were treated a limited (R1) lymph node dissection. Long-term followup, however [@smalley2327] showed a persistent benefit of postoperative chemoradiation.
 
 ARTIST trial 450 patients treated with a D1 $\alpha$ gastrectomy were randomized to adjuvant capecitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxalipaltin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did not differ between groups (78.2% vs 74.2% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5% *v* 72.3% p=0.365).[@lee268]
 
@@ -30,4 +32,4 @@ CRITICS-II Trial [@slagter877] resectable gastric cancer randomized to neoadjuva
 
 ## Preoperative chemoradiation
 
-[@ajani3953]
+RTOG 9904: Phase II trial of preoperative chemoradiation for gastric adenocarcinoma[@ajani3953]. Findings of pathologic complete response (pCR) in 20%.
