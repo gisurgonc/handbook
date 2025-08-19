@@ -4,7 +4,7 @@
 
 Nirogacestat [@gounder898]
 
-Review of desmoid tumors: [Global Consensus Guidelines](https://www.ejcancer.com/article/S0959-8049(19)30832-9/fulltext)
+Milan Consensus Guidelines 2023 [@kasper1121]
 
 ## Lipomatous Tumors
 
@@ -23,4 +23,3 @@ STRASS2: Ongoing trial of neoadjuvant chemotherapy. [@lambdin4573]
 Review [@bridda32]
 
 Surgical Oncology Clinics review [@li539]
-
