@@ -1,4 +1,4 @@
-# (PART\*) Sarcoma {-}
+# (PART\*) Sarcoma {.unnumbered}
 
 # Soft Tissue Sarcomas
 
@@ -6,11 +6,13 @@
 
 Review of desmoid tumors: [Global Consensus Guidelines](https://www.ejcancer.com/article/S0959-8049(19)30832-9/fulltext)
 
+Milan Consensus Guidelines 2023 [@kasper1121]
+
 ## Retroperitoneal
 
 **Preop Radiation**
 
-STRASS trial randomized 266 patients to preop radiation followed by surgical resection vs surgery alone. At a median followup of 43 months, there was no difference in recurrence-free survival.  Serious adverse affects were more common in the preop radiation group (24% vs 10%). One patients in the radiation group died of treatment-related toxicity (gastrocolic fistula), compared with none in the surgery alone group [@bonvalot1366].  See commentary: [@cardona1257]
+STRASS trial randomized 266 patients to preop radiation followed by surgical resection vs surgery alone. At a median followup of 43 months, there was no difference in recurrence-free survival. Serious adverse affects were more common in the preop radiation group (24% vs 10%). One patients in the radiation group died of treatment-related toxicity (gastrocolic fistula), compared with none in the surgery alone group [@bonvalot1366]. See commentary: [@cardona1257]
 
 STRASS2: Ongoing trial of neoadjuvant chemotherapy.
 
@@ -19,3 +21,5 @@ STRASS2: Ongoing trial of neoadjuvant chemotherapy.
 Review [@bridda32]
 
 Surgical Oncology Clinics review [@li539]
+
+D
