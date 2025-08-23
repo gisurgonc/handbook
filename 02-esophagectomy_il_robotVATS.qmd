@@ -22,7 +22,7 @@ BK Ultrasound (with laparoscopic probe AND hockey stick probe). Will need steril
 
 Walter 'Long Arm' retractor
 
-Bean Bag
+Bean Bag (check with Salo)
 
 Salo Positioning Cart:
 
@@ -88,11 +88,11 @@ Patient is positioned frog-leg for prep (and is returned to supine during drapin
 
 **Drape**
 
-Transverse 1000 drape is placed at the base of the pubis. On either side, the drape proceeds inferior and lateral to include both groins. Top gloves are changed.
+Transverse 1000 drape is placed at the base of the pubis. On either side, the drape proceeds inferior and lateral to include both groins. Legs are returned to supine position and Velcro strap placed at thighs. Top gloves are changed.
 
-Blue utility (paper) drape is placed transversely just above level of pubis. While the abdominal skin incisions are being closed,
+Blue utility (paper) drape is placed transversely just above level of pubis. While the abdominal skin incisions are being closed, ICG will be injected into bilateral groins.
 
-1000 Drapes x4 in rectangular fashion with top of field 10cm above xiphoid and bottom at base of penis. Ioban strips (4") aound the periphery of the surgical field after the trauma drape. Laparoscopic cords (gas, light cord, camera) passed off. Suction irrigator brought off field.
+1000 Drapes x4 in rectangular fashion with top of field 10cm above xiphoid and bottom at base of penis. Ioban strips (4") aound the periphery of the surgical field after the trauma drape. Laparoscopic cords (CO2, light cord, camera) passed off. Suction irrigator brought off field.
 
 ### Time Out
 
@@ -125,15 +125,11 @@ Anticipated Intraop Problems:
 
 ## Laparoscopy
 
-Pneumoperitoneum established with Veress needle at left subcostal or inferior to umbilicus *or* modified Hasson approach. Abdominal entry with 5mm optical port at future location of Port #2 in mid-axillary line at level of umbilicus. Laparoscopy to look for peritoneal implants.
+Pneumoperitoneum established with Veress needle at left subcostal or inferior to umbilicus *or* modified Hasson approach. Abdominal entry with 5mm optical port at future location of Port #2 in mid-clavicular line superior to umbilicus. Laparoscopy to look for peritoneal implants.
 
 Site for jejunostomy is selected 25cm from Treitz. 9" 2-0 silk suture is placed on anti-mesenteric aspect of jejunum and tied to itself. Abdominal wall site for jejunostomy is selected to be superior to ports 3 and 4. Site is marked with skin marker (or strand from 0 silk Keith needle).
 
 Falciform suspended with 0 silk suture on Keith needle
-
-## Robot Docked
-
-Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 
 ## Robotic ports
 
@@ -149,16 +145,20 @@ Assistant port 8mm port inferior to umbilicus. Port #3 will be switched to this 
 
 Nathanson liver retractor placed in midline using the 5mm optical port to create a tract. Nathanson held in place with Salo Endoscopic Bookwalter secured to bedrail just inferior to right armboard.
 
-Bed positioned to 12 degrees reverse Trendelenberg
+Bed positioned to 12 degrees reverse Trendelenberg and tipped to right 10 degrees
+
+## Robot Docked
+
+Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 
 ## Abdominal Phase
 
-+---------------------+--------+---------------+--------+
-| Arm 1               | Arm 2  | Arm 3         | Arm 4  |
-+=====================+========+===============+========+
-| Fenestrated Bipolar | Camera | Synchroseal\  | Tip Up |
-|                     |        | Vessel Sealer |        |
-+---------------------+--------+---------------+--------+
++---------------------+--------+-----------------+--------+
+| Arm 1               | Arm 2  | Arm 3           | Arm 4  |
++=====================+========+=================+========+
+| Fenestrated Bipolar | Camera | Synchroseal OR\ | Tip Up |
+|                     |        | Vessel Sealer   |        |
++---------------------+--------+-----------------+--------+
 
 ### Lesser Sac Dissection
 
@@ -166,21 +166,15 @@ Gastrohpeatic ligament divided. Celiac axis evaluated for resectability. Right c
 
 Central node dissection begun, including common hepatic, left gastric, celiac, and proximal splenic aftery nodes. If replaced left hepatic artery present, may require preservation of left gastric artery. Left gastric artery divided with clips.
 
-Posterior gastric dissection. Dissection is carried posterior towards most superior short gastric arteries (as these can be difficult to approach from the greater curvature side).
+Posterior gastric dissection. Dissection is carried posterior towards most superior short gastric arteries (as these can be difficult to approach from the greater curvature side). (Penrose drain can be placed at this part of the operation)
 
 ## Distal Greater Curve
 
-The right gastroepiploic artery is identified and the lesser sac entere to the left of midline. Dissection proceeds to the patient's right. This may require shifting ports:
-
--   Camera to Port 2
--   Vessel sealer to Port 3
--   Tip Up to Port 4
-
-Right gastroepiploic artery carefully preserved and gatrocolic omentum incised. Dissection proceeds to right to mobilize colon off duodenum. Kocher maneuver performed and omental adhesions to gallbladder taken down.
+The course of the right gastroepiploic artery is identified and the lesser sac entered to the left of midline. Dissection proceeds to the patient's right. Right gastroepiploic artery carefully preserved and gatrocolic omentum incised. Dissection proceeds to right to mobilize colon off duodenum. Kocher maneuver performed and omental adhesions to gallbladder taken down.
 
 ## Posterior Stomach
 
-Posterior dissection elevating stomach. Dissect posterior gastrics. Dissection plane up to fundus and to short gastrics.
+Posterior dissection elevating stomach. Divide posterior gastric arteries. Dissection plane up to fundus and to short gastrics.
 
 ## Proximal Greater Curve
 
@@ -191,15 +185,13 @@ Posterior dissection elevating stomach. Dissect posterior gastrics. Dissection p
 |        |                     |        | Vessel Sealer |
 +--------+---------------------+--------+---------------+
 
-: Dissection proceeds proximally, preserving the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels
+: Dissection proceeds proximally, dividing the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels
 
 ## Mediastinal dissection
 
-Penrose drain is placed around esophagus and secured with stapler or Weck clips. Dissection proceeds to level of inferior pulmonary veins. Penrose is tucked into the mediastinum.
+Penrose drain is placed around esophagus and secured with Weck clips. Dissection proceeds to level of inferior pulmonary veins. Penrose is tucked into the mediastinum. When Penrose is placed, confirm that heparin has been given.
 
-When Penrose is placed, confirm that heparin has been given.
-
-0 Vicryl suture is inserted through 12mm stapler port and a 'sleeper' suture of 12" 0 Vicryl on UR-6 is placed in posterior crus. Ends of suture are clipped together and later sutured to conduit.
+0 Vicryl suture on UR-6 (12") is inserted through 12mm stapler port and a 'sleeper' suture of 0 Vicryl is placed in posterior crus. Ends of suture are clipped together and later sutured to conduit.
 
 ## Pyloric Drainage - Pyloromyotimy (optional)
 
@@ -230,7 +222,7 @@ Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incis
 
 ## Prep for Thoracic Phase
 
-Once conduit has been constructed, confirm presence in room of bean bag, two pillows, and an extra OR bed for transition to lateral decubitus position.
+Once conduit has been constructed, confirm presence in room of bean bag, two pillows, and an extra OR bed for transition to lateral decubitus position. Check with Dr Salo - May just use lateral positioner and well-leg holder.
 
 ## Preparation for ICG
 
@@ -238,13 +230,11 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 
 ## Jejunostomy
 
-## 
+| Arm 1               | Arm 2          | Arm 2A                            | Arm 3  |
+|---------------------|----------------|-----------------------------------|--------|
+| Fenestrated Bipolar | Camera (30 up) | **SutureCut Large Needle Driver** | Tip Up |
 
-| Arm 1               | Arm 2  | Arm 2A                            | Arm 3  |
-|---------------------|--------|-----------------------------------|--------|
-| Fenestrated Bipolar | Camera | **SutureCut Large Needle Driver** | Tip Up |
-
-: Camera is moved to midline (or Port 2) and Tip up into Port 3. Camera re-oriented to 30 degrees up. Prior suture on jejunum is identified and grasped with suture passer. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressre reduced to Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
+: Prior suture on jejunum is identified and grasped with suture passer at the pre-marked site. Two passes are made with the suture passer similar to transfascial sutures on a Stoppa hernia repair. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressure reduced to 8m Hg. Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator followed by 18Fr dilator introduced and left in place. Pursestring continues around proposed site and then proceeds caudad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
 
 ## Drains
 
@@ -266,33 +256,35 @@ While port sites are being closed, "loincloth" is removed and hockey stick or sm
 
 Patient's chest is rotated to the left. Rectangular positioner supports scapula. Circular positioner on Left side supports chest. Rectangular positioner along left greater trochanter. Right arm rests on pink foam pad on Well Leg Holder.
 
+## Transition to Lateral Position
+
+Patient placed on bean bag. Rectangular positioner along left hip. Right arm rests on pink foam pad on Well Leg Holder.
+
 Lower and upper body bair hugger used. Right arm is elevated for prep and lowered once drapes in place.
 
 ## Prep and drape
 
 Chloroprep including axilla and proximal right arm. Drape axilla/upper arm with 1000 drape.
 
-Two blue "U" drapes used, folowed by trauma drape (or Universal). Ioban strips around edges. Once Ioban in place, arm is lowered
+Two blue "U" drapes used, folowed by trauma drape (or Universal). Ioban strips around edges. Once Ioban in place, right arm is lowered
 
 Laparoscopic instruments are kept sterile and may be returned to the field if pleural adhesions are encountered.
 
 ### Thoracoscopy
 
-The pneumoperitoneum in the abdomen is vented and the gas pressure turned down to 8mmHg in preparation for the thoracic phase. A site for entry in to the left chest is selected just posterior to the tip of the scapula. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. Two 12mm ports are placed. The more superior is placed lateral and superior to the nipple. The inferior port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5
+Gas pressure turned down to 8mmHg in preparation for the thoracic phase. A site for entry in to the left chest is selected just posterior to the tip of the scapula OR lateral to nipple. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. One 12mm port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5
 
 ## Thoracic Dissection
 
-The 1688 "Green" scope is used to identify the course of the thoracic duct. If a disruption is found, the duct is mass ligated as low as possible.
+The 1688 "Green" scope is used to identify the course of the thoracic duct. If a disruption is found, the duct is mass ligated as low as possible with 3-0 Stratafix on RB-1 needle.
 
 ## Delivery of Conduit into chest
 
-The conduit is delivered into the thorax. This is done using a laparoscopic graster. Ensure staple line faces you (right side). The specimen is removed through the assistant port incision. An Alexis port is used to seal the extraction site. Stomach is pulled into the chest until the **Vicryl marker suture** is seen.
+The conduit is delivered into the thorax. This is done using a laparoscopic grasper. Ensure staple line faces you (right side). The specimen is removed through the assistant port incision. Stomach is pulled into the chest until the **Vicryl marker suture** is seen.
 
-Division of esophagus just above level of azygous vein. ICG can be used to check perfusion. If there is any question about the length of the conduit, confirm the length of the conduit prior to division of the esophagus.
+Division of esophagus just above level of azygous vein. ICG can be administered intravenously to check perfusion. If there is any question about the length of the conduit, confirm the length of the conduit prior to division of the esophagus.
 
 Penrose drain is recovered. Specimen is sent for frozen section with instructions to freeze proximal margin.
-
-Once conduit is delivered into chest, set up BK ultrasound to display on robotic screen.
 
 ## Preparation of conduit
 
@@ -308,15 +300,15 @@ The superior end of the conduit is opened along the staple line and the DST XL s
 
 The anastomosis is completed by firing a 60mm Gold load across the conduit cephalad to the anastomosis. The excess conduit is retrieved through the Alexis port and sent for pathologic exam as ‘additional gastric margin.’
 
-## NG Tube 
+## NG Tube
 
 A Covidien Salem Sump 18Fr nasogastric tube is passed by the anesthetist. A laparoscopic BK ultrasound is used to monitor the passage of the NG tube through the esophagus and into the gastric conduit. The NG tube is passed to the level that all for dots are outside the nose, with the 4th dot at the nares. The NG tube is secured with an AMT bridle.
 
-## Chest Tube 
+## Chest Tube
 
 A 28Fr Blake chest tube is placed through the anterior/inferior 12mm port and is positioned into the posterior mediastinum. JP2 is placed near the gastric conduit. The right lung is re-inflated.
 
-## Closure 
+## Closure
 
 The stapler access port incision is closed with 0 Vicryl to approximate the serratus muscle. The incisions are closed with 4-0 Monocryl followed by Dermabond.
 

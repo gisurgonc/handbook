@@ -10,6 +10,8 @@ CROSS trial randomized 364 patients with resectable esophageal and gastroesophag
 
 Ten-year followup of the CROSS trial [@eyck1995] showed that the primary benefit of CROSS regimen was in reducing local and loco-regional recurrences. There was no difference in isolated distant recurrence betwee the two arms.
 
+NeoResII trial i[@nilsson1015] investigated interval between end of CROSS neoadjuvant therapy and surgery. Original hypothesis was that prolonged interval between chemoRT and surgery might increase pCR rate. Patients randomized to short interval (4-6 weeks) vs long interval (10-12 weeks). No difference in pCR rate or overall survival. However, bottom quartile for survival was shorter in the prolonged interval group. There does not appear to be an advantage in prolonged interval between chemoradiation and for some patients (perhaps those with more aggressive tumors), prolonged interval may be detrimental.
+
 Alternative to carboTaxol for chemoradiation is FOLFOX (SOG trial [@leichman4555])
 
 Ongoing PROTECT trial compares FOLFOX to paclitaxel and carboplatin [@messager318]
@@ -24,7 +26,7 @@ POET Trial (Pre-Operative therapy in Esophageal adenocarcinoma Trial) treated 11
 
 Neo-AEGIS Trial [@reynolds401] Randomized patients with GE junction adenocarcinomas to CROSS vs modified MAGIC (prior to 2018) or FLOT (after 2018). Trial included Siewert I, II, and III tumors. Trial was underpowered and did not show a difference between the regimens.
 
-OEO2 clinical trial [@allum5062] Randomized trial of preoperative chemotherapy with ECF for esophageal and GE junction cancers. Improved survival with preoperative chemotherapy. 
+OEO2 clinical trial [@allum5062] Randomized trial of preoperative chemotherapy with ECF for esophageal and GE junction cancers. Improved survival with preoperative chemotherapy.
 
 ### Neoadjuvant Chemotherapy $\rightarrow$ ChemoRT
 
