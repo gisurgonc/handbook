@@ -16,7 +16,9 @@ Retrospective review of the National Cancer DataBase failed to demonstrate a dif
 
 A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cell carcinoma patients and showed equivalent outcomes for primary surgery vs neoadjuvant chemoradiation followed by surgery [@zhang429]
 
-Retrospective reveiw from Utrecht found longer survival for cT2N0 patients treated with trimodalitytherapy compared with primary surgery [@wirsik799]
+Retrospective reveiw from Utrecht found longer survival for cT2N0 patients treated with trimodality therapy compared with primary surgery [@wirsik799]
+
+Indiana University: 731 patient undergoing esophagectomy, of whom 68 were cT2N0. Among 35 patients who had surgery alone, 17 (49%) were clinically understaged. Understaging was more common among poorly-differentiated tumors [@hardacker3739]
 
 ## Staging of T2N0 Tumors
 
@@ -29,10 +31,6 @@ It is critical, therefore, in patients for whom primary surgery is contemplated,
 ### PET for staging of early-stage esophageal cancer
 
 86 patients with esophageal adenocarcinoma and squamous cell carcinoma [@mantziari7] evaluated with PET: clinical T3/T4 was significantly predicted by SUVmax 8.25, Total Lesion Glycolysis \>42 and Metabolic Tumor Volume \> 10cm^3^
-
-See also PMID:25047477
-
-(MTV)
 
 Cohort of patients treated with primary surgery: risk factors for clinical understaging are dsyphagia, poor differentiation, and tumor length \>3cm [@worrell484]
 
