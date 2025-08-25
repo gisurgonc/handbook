@@ -18,7 +18,7 @@ RESONANCE-II trial of Oxaliplatin + S-1 (SOX) [@wang20]
 
 ## Postoperative chemotherapy
 
-CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy with capecitabine and oxaliplatinversus vs surgery alone. Three-year survival was improved in the chemotherapy group (74% *v* 59%).[@bang315][@noh1389]
+CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy with capecitabine and oxaliplatinversus vs surgery alone. Three-year survival was improved in the chemotherapy group (74% *v* 59%).[@bang315] [@noh1389]
 
 ## Postoperative chemoradiation
 
@@ -33,3 +33,7 @@ CRITICS-II Trial [@slagter877] resectable gastric cancer randomized to neoadjuva
 ## Preoperative chemoradiation
 
 RTOG 9904: Phase II trial of preoperative chemoradiation for gastric adenocarcinoma[@ajani3953]. Findings of pathologic complete response (pCR) in 20%.
+
+## Preop Immunotherapy
+
+NEONIPIGA trial: MSI-Hi gastric and GE junction cancers treated with neoadjuvant nivolumbab (6 cycles) and ipilumumab (2 cycles) over 12 weeks. Among 29 patients that underwent surgery, 59% pathologic complete response and all patients had R0 resection.[@andre288]
