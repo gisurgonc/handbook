@@ -1,0 +1,5 @@
+# Metastatic Gastric CA
+
+REGATTA trial: patient with a single unresectable factor (liver metastasis, peritoneal disease, para-aortic lymphdenopathy randomized between gastrectomy -\> chemotherapy vs chemotherapy. No improvement in survival with gastrectomy. Trial was closed early due to futility.[@fujitani309]
+
+AIO-FLOT3 trial:
