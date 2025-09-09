@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>46&nbsp; Survivorship – CMC GI Surgical Oncology Handbook</title>
+<title>51&nbsp; Locally-Advanced Gastric – CMC GI Surgical Oncology Handbook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -50,8 +50,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./04-eso_surveillance.html" rel="next">
-<link href="./04-eso_surgery.html" rel="prev">
+<link href="./05-gastric_m1.html" rel="next">
+<link href="./05-gastric_gist.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -90,6 +90,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -102,7 +131,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-eso_overview.html">Esophageal Cancer</a></li><li class="breadcrumb-item"><a href="./04-eso_survivorship.html"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Survivorship</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./05-gastric_overview.html">Gastric Cancer</a></li><li class="breadcrumb-item"><a href="./05-gastric_t3.html"><span class="chapter-number">51</span>&nbsp; <span class="chapter-title">Locally-Advanced Gastric</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -477,7 +506,7 @@ div.csl-indent {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04-eso_survivorship.html" class="sidebar-item-text sidebar-link active">
+  <a href="./04-eso_survivorship.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Survivorship</span></span></a>
   </div>
 </li>
@@ -524,7 +553,7 @@ div.csl-indent {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05-gastric_t3.html" class="sidebar-item-text sidebar-link">
+  <a href="./05-gastric_t3.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">51</span>&nbsp; <span class="chapter-title">Locally-Advanced Gastric</span></span></a>
   </div>
 </li>
@@ -632,20 +661,20 @@ div.csl-indent {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#nutritional-consequences-of-esophagectomy" id="toc-nutritional-consequences-of-esophagectomy" class="nav-link active" data-scroll-target="#nutritional-consequences-of-esophagectomy"><span class="header-section-number">46.1</span> Nutritional consequences of esophagectomy</a>
-  <ul class="collapse">
-  <li><a href="#vitamin-d-deficiency" id="toc-vitamin-d-deficiency" class="nav-link" data-scroll-target="#vitamin-d-deficiency"><span class="header-section-number">46.1.1</span> Vitamin D deficiency</a></li>
-  </ul></li>
-  <li><a href="#cardiac-toxicity-of-radiation" id="toc-cardiac-toxicity-of-radiation" class="nav-link" data-scroll-target="#cardiac-toxicity-of-radiation"><span class="header-section-number">46.2</span> Cardiac toxicity of radiation</a></li>
+  <li><a href="#preoperative-chemotherapy" id="toc-preoperative-chemotherapy" class="nav-link active" data-scroll-target="#preoperative-chemotherapy"><span class="header-section-number">51.1</span> Preoperative Chemotherapy</a></li>
+  <li><a href="#postoperative-chemotherapy" id="toc-postoperative-chemotherapy" class="nav-link" data-scroll-target="#postoperative-chemotherapy"><span class="header-section-number">51.2</span> Postoperative chemotherapy</a></li>
+  <li><a href="#postoperative-chemoradiation" id="toc-postoperative-chemoradiation" class="nav-link" data-scroll-target="#postoperative-chemoradiation"><span class="header-section-number">51.3</span> Postoperative chemoradiation</a></li>
+  <li><a href="#preoperative-chemoradiation" id="toc-preoperative-chemoradiation" class="nav-link" data-scroll-target="#preoperative-chemoradiation"><span class="header-section-number">51.4</span> Preoperative chemoradiation</a></li>
+  <li><a href="#preop-immunotherapy" id="toc-preop-immunotherapy" class="nav-link" data-scroll-target="#preop-immunotherapy"><span class="header-section-number">51.5</span> Preop Immunotherapy</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/04-eso_survivorship.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/05-gastric_t3.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./04-eso_overview.html">Esophageal Cancer</a></li><li class="breadcrumb-item"><a href="./04-eso_survivorship.html"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Survivorship</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./05-gastric_overview.html">Gastric Cancer</a></li><li class="breadcrumb-item"><a href="./05-gastric_t3.html"><span class="chapter-number">51</span>&nbsp; <span class="chapter-title">Locally-Advanced Gastric</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="eso_survivorship" class="quarto-section-identifier"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Survivorship</span></span></h1>
+<h1 class="title"><span class="chapter-number">51</span>&nbsp; <span class="chapter-title">Locally-Advanced Gastric</span></h1>
 </div>
 
 
@@ -662,49 +691,75 @@ div.csl-indent {
 </header>
 
 
-<section id="nutritional-consequences-of-esophagectomy" class="level2" data-number="46.1">
-<h2 data-number="46.1" class="anchored" data-anchor-id="nutritional-consequences-of-esophagectomy"><span class="header-section-number">46.1</span> Nutritional consequences of esophagectomy</h2>
-<section id="vitamin-d-deficiency" class="level3" data-number="46.1.1">
-<h3 data-number="46.1.1" class="anchored" data-anchor-id="vitamin-d-deficiency"><span class="header-section-number">46.1.1</span> Vitamin D deficiency</h3>
-<p>Vitamin D deficiency is defined as serum 25(OH)D levels below 20ng/mL</p>
-<ul>
-<li>Replacement with 2000 IU Vitamin D3 daily <span class="citation" data-cites="khan97">(<a href="references.html#ref-khan97" role="doc-biblioref">Khan and Fabian 2010</a>)</span></li>
-</ul>
-<p>Vitamin D insufficiency is defined as serum 25(OH)D level 20-29ng/mL</p>
-<ul>
-<li>Replacement with 1000-2000 IU Vitamin D3 daily</li>
-</ul>
-<p><a href="https://ods.od.nih.gov/factsheets/vitamind-healthprofessional/">NIH ODS Vitamin D info</a></p>
-<p><span class="citation" data-cites="baker987">(<a href="references.html#ref-baker987" role="doc-biblioref">Baker et al. 2016</a>)</span></p>
-<p>Weight loss <span class="citation" data-cites="martin1308">(<a href="references.html#ref-martin1308" role="doc-biblioref">Martin and Lagergren 2009</a>)</span> <span class="citation" data-cites="ouattara1088">(<a href="references.html#ref-ouattara1088" role="doc-biblioref">Ouattara et al. 2012</a>)</span></p>
+<p>Locally-advanced gastric cancer (T3 or N<sup>+</sup>) is generally treated with some form of adjuvant therapy, which has been shown to improve upon the outcomes with surgery alone.</p>
+<section id="preoperative-chemotherapy" class="level2" data-number="51.1">
+<h2 data-number="51.1" class="anchored" data-anchor-id="preoperative-chemotherapy"><span class="header-section-number">51.1</span> Preoperative Chemotherapy</h2>
+<p><strong>FLOT</strong> chemotherapy <span class="citation" data-cites="al-batran1948">(<a href="references.html#ref-al-batran1948" role="doc-biblioref">Al-Batran et al. 2019</a>)</span> with 5FU, oxaliplatin and Taxotere superior for neoadjuvant chemotherapy compared with epirubicin, oxaliplatin and 5FU (MAGIC regimen).</p>
+<p>Matterhorn trial evaluated the addition of anti-PD-L1 MAb <strong>durvalumab</strong> to FLOT for stage I-IVa adenocarcinoma of stomach and GE junction. Both groups received 4 cycles of FLOT every 15 days. Durvalumab group received 2 doses preop and 2 doses postop with FLOT in addition to 10 monthly doses of durvalumab. Surgery was performed 4-8 weeks after the last dose of chemotherapy. Longer disease-free survival and trend to longer overall survival with the addition of durvalumab without additional toxicity.<span class="citation" data-cites="janjigian217">(<a href="references.html#ref-janjigian217" role="doc-biblioref">Janjigian et al. 2025</a>)</span></p>
+<p>MAGIC study randomized 503 patients to perioperative ‘sandwich’ chemotherapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone. In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26% of the study population. While over 90% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66% completed their postoperative therapy. Survival at 5 years was 36% in the perioperative chemotherapy group, compared with 24% in the surgery group (p&lt;0.001).<span class="citation" data-cites="cunningham11">(<a href="references.html#ref-cunningham11" role="doc-biblioref">Cunningham et al. 2006</a>)</span></p>
+<p>ACCORD-07 clinical trial <span class="citation" data-cites="ychou1715">(<a href="references.html#ref-ychou1715" role="doc-biblioref">Ychou et al. 2011</a>)</span>: surgery +/- neoadjuvant cisplatin+5FU. Improved R0 resection rate but no difference in survival, perhaps due to poor accrual.</p>
+<p>FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 cycles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).<span class="citation" data-cites="ychou1715">(<a href="references.html#ref-ychou1715" role="doc-biblioref">Ychou et al. 2011</a>)</span></p>
+<p>RESONANCE-II trial of Oxaliplatin + S-1 (SOX) <span class="citation" data-cites="wang20">(<a href="references.html#ref-wang20" role="doc-biblioref">Wang et al. 2021</a>)</span></p>
 </section>
+<section id="postoperative-chemotherapy" class="level2" data-number="51.2">
+<h2 data-number="51.2" class="anchored" data-anchor-id="postoperative-chemotherapy"><span class="header-section-number">51.2</span> Postoperative chemotherapy</h2>
+<p>CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy with capecitabine and oxaliplatinversus vs surgery alone. Three-year survival was improved in the chemotherapy group (74% <em>v</em> 59%).<span class="citation" data-cites="bang315">(<a href="references.html#ref-bang315" role="doc-biblioref">Bang et al. 2012</a>)</span> <span class="citation" data-cites="noh1389">(<a href="references.html#ref-noh1389" role="doc-biblioref">Noh et al. 2014</a>)</span></p>
 </section>
-<section id="cardiac-toxicity-of-radiation" class="level2" data-number="46.2">
-<h2 data-number="46.2" class="anchored" data-anchor-id="cardiac-toxicity-of-radiation"><span class="header-section-number">46.2</span> Cardiac toxicity of radiation</h2>
-<p><span class="citation" data-cites="beukema85">(<a href="references.html#ref-beukema85" role="doc-biblioref">Beukema et al. 2015</a>)</span> <span class="citation" data-cites="frandsen516">(<a href="references.html#ref-frandsen516" role="doc-biblioref">Frandsen et al. 2015</a>)</span> <span class="citation" data-cites="gharzaie0158916">(<a href="references.html#ref-gharzaie0158916" role="doc-biblioref">Gharzai et al. 2016</a>)</span></p>
+<section id="postoperative-chemoradiation" class="level2" data-number="51.3">
+<h2 data-number="51.3" class="anchored" data-anchor-id="postoperative-chemoradiation"><span class="header-section-number">51.3</span> Postoperative chemoradiation</h2>
+<p>Intergroup 0116 trial <span class="citation" data-cites="macdonald725">(<a href="references.html#ref-macdonald725" role="doc-biblioref">Macdonald et al. 2001</a>)</span> <span class="citation" data-cites="smalley2327">(<a href="references.html#ref-smalley2327" role="doc-biblioref">Smalley et al. 2012</a>)</span> Surgery +/- postoperative chemoradiation. Surgical quality control was poor, as 90% were treated a limited (R1) lymph node dissection. Long-term followup, however <span class="citation" data-cites="smalley2327">(<a href="references.html#ref-smalley2327" role="doc-biblioref">Smalley et al. 2012</a>)</span> showed a persistent benefit of postoperative chemoradiation.</p>
+<p>ARTIST trial 450 patients treated with a D1 <span class="math inline">\(\alpha\)</span> gastrectomy were randomized to adjuvant capecitibine and cisplatin versus chemoradiation consisting of two cycles of capcitabine/oxaliplatin followed by chemoradiation followed by chemotherapy. Overall 3- year survival did not differ between groups (78.2% vs 74.2% p =0.86). A post-hoc analysis of patients with positive nodes showed a beneficial effect of chemoradiation (77.5% <em>v</em> 72.3% p=0.365).<span class="citation" data-cites="lee268">(<a href="references.html#ref-lee268" role="doc-biblioref">Lee et al. 2012</a>)</span></p>
+<p>CRITICS trial <span class="citation" data-cites="cats616">(<a href="references.html#ref-cats616" role="doc-biblioref">Cats et al. 2018</a>)</span> treated all patients with preoperative chemotherapy (ECF or CapeOx) followed by surgery. Postoperative patients were then randomized between additional chemotherapy versus chemoradiation. No difference in survival between groups.</p>
+<p>CRITICS-II Trial <span class="citation" data-cites="slagter877">(<a href="references.html#ref-slagter877" role="doc-biblioref">Slagter et al. 2018</a>)</span> resectable gastric cancer randomized to neoadjuvant chemo (DOC x4) vs chemo (DOC x2) followed by ChemoRT (CROSS) vs ChemoRT (CROSS).</p>
+</section>
+<section id="preoperative-chemoradiation" class="level2" data-number="51.4">
+<h2 data-number="51.4" class="anchored" data-anchor-id="preoperative-chemoradiation"><span class="header-section-number">51.4</span> Preoperative chemoradiation</h2>
+<p>RTOG 9904: Phase II trial of preoperative chemoradiation for gastric adenocarcinoma<span class="citation" data-cites="ajani3953">(<a href="references.html#ref-ajani3953" role="doc-biblioref">Ajani et al. 2006</a>)</span>. Findings of pathologic complete response (pCR) in 20%.</p>
+</section>
+<section id="preop-immunotherapy" class="level2" data-number="51.5">
+<h2 data-number="51.5" class="anchored" data-anchor-id="preop-immunotherapy"><span class="header-section-number">51.5</span> Preop Immunotherapy</h2>
+<p>NEONIPIGA trial: MSI-Hi gastric and GE junction cancers treated with neoadjuvant nivolumbab (6 cycles) and ipilumumab (2 cycles) over 12 weeks. Among 29 patients that underwent surgery, 59% pathologic complete response and all patients had R0 resection.<span class="citation" data-cites="andre288">(<a href="references.html#ref-andre288" role="doc-biblioref"><strong>andre288?</strong></a>)</span></p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
-<div id="ref-baker987" class="csl-entry" role="listitem">
-Baker, M, V Halliday, RN Williams, and DJ Bowery. 2016. <span>“A Systematic Review of the Nutritional Consequences of Esophagectomy.”</span> <em>Clinical Nutrition (Edinburgh, Scotland)</em> 35 (5): 987–97. <a href="https://doi.org/10.1016/j.clnu.2015.08.010">https://doi.org/10.1016/j.clnu.2015.08.010</a>.
+<div id="ref-ajani3953" class="csl-entry" role="listitem">
+Ajani, Jaffer A., Kathryn Winter, Gordon S. Okawara, John H. Donohue, Peter W. T. Pisters, Christopher H. Crane, John F. Greskovich, et al. 2006. <span>“Phase <span>II</span> Trial of Preoperative Chemoradiation in Patients with Localized Gastric Adenocarcinoma (<span>RTOG</span> 9904): Quality of Combined Modality Therapy and Pathologic Response.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 24 (24): 3953–58. <a href="https://doi.org/10.1200/JCO.2006.06.4840">https://doi.org/10.1200/JCO.2006.06.4840</a>.
 </div>
-<div id="ref-beukema85" class="csl-entry" role="listitem">
-Beukema, Jannet C., Peter van Luijk, Joachim Widder, Johannes A. Langendijk, and Christina T. Muijs. 2015. <span>“Is Cardiac Toxicity a Relevant Issue in the Radiation Treatment of Esophageal Cancer?”</span> <em>Radiotherapy and Oncology: Journal of the European Society for Therapeutic Radiology and Oncology</em> 114 (1): 85–90. <a href="https://doi.org/10.1016/j.radonc.2014.11.037">https://doi.org/10.1016/j.radonc.2014.11.037</a>.
+<div id="ref-al-batran1948" class="csl-entry" role="listitem">
+Al-Batran, Salah-Eddin, Nils Homann, Claudia Pauligk, Thorsten O. Goetze, Johannes Meiler, Stefan Kasper, Hans-Georg Kopp, et al. 2019. <span>“Perioperative Chemotherapy with Fluorouracil Plus Leucovorin, Oxaliplatin, and Docetaxel Versus Fluorouracil or Capecitabine Plus Cisplatin and Epirubicin for Locally Advanced, Resectable Gastric or Gastro-Oesophageal Junction Adenocarcinoma (<span>FLOT4</span>): A Randomised, Phase 2/3 Trial.”</span> <em>Lancet (London, England)</em> 393 (10184): 1948–57. <a href="https://doi.org/10.1016/S0140-6736(18)32557-1">https://doi.org/10.1016/S0140-6736(18)32557-1</a>.
 </div>
-<div id="ref-frandsen516" class="csl-entry" role="listitem">
-Frandsen, Jonathan, Dustin Boothe, David K. Gaffney, Brent D. Wilson, and Shane Lloyd. 2015. <span>“Increased Risk of Death Due to Heart Disease After Radiotherapy for Esophageal Cancer.”</span> <em>Journal of Gastrointestinal Oncology</em> 6 (5): 516–23. <a href="https://doi.org/10.3978/j.issn.2078-6891.2015.040">https://doi.org/10.3978/j.issn.2078-6891.2015.040</a>.
+<div id="ref-bang315" class="csl-entry" role="listitem">
+Bang, Yung-Jue, Young-Woo Kim, Han-Kwang Yang, Hyun Cheol Chung, Young-Kyu Park, Kyung Hee Lee, Keun-Wook Lee, et al. 2012. <span>“Adjuvant Capecitabine and Oxaliplatin for Gastric Cancer After <span>D2</span> Gastrectomy (<span>CLASSIC</span>): A Phase 3 Open-Label, Randomised Controlled Trial.”</span> <em>Lancet (London, England)</em> 379 (9813): 315–21. <a href="https://doi.org/10.1016/S0140-6736(11)61873-4">https://doi.org/10.1016/S0140-6736(11)61873-4</a>.
 </div>
-<div id="ref-gharzaie0158916" class="csl-entry" role="listitem">
-Gharzai, Laila, Vivek Verma, Kyle A. Denniston, Abhijeet R. Bhirud, Nathan R. Bennion, and Chi Lin. 2016. <span>“Radiation <span>Therapy</span> and <span>Cardiac</span> <span>Death</span> in <span>Long</span>-<span>Term</span> <span>Survivors</span> of <span>Esophageal</span> <span>Cancer</span>: <span>An</span> <span>Analysis</span> of the <span>Surveillance</span>, <span>Epidemiology</span>, and <span>End</span> <span>Result</span> <span>Database</span>.”</span> <em>PloS One</em> 11 (7): e0158916. <a href="https://doi.org/10.1371/journal.pone.0158916">https://doi.org/10.1371/journal.pone.0158916</a>.
+<div id="ref-cats616" class="csl-entry" role="listitem">
+Cats, Annemieke, Edwin P. M. Jansen, Nicole C. T. van Grieken, Karolina Sikorska, Pehr Lind, Marianne Nordsmark, Elma Meershoek-Klein Kranenbarg, et al. 2018. <span>“Chemotherapy Versus Chemoradiotherapy After Surgery and Preoperative Chemotherapy for Resectable Gastric Cancer (<span>CRITICS</span>): An International, Open-Label, Randomised Phase 3 Trial.”</span> <em>The Lancet. Oncology</em> 19 (5): 616–28. <a href="https://doi.org/10.1016/S1470-2045(18)30132-3">https://doi.org/10.1016/S1470-2045(18)30132-3</a>.
 </div>
-<div id="ref-khan97" class="csl-entry" role="listitem">
-Khan, Qamar J., and Carol J. Fabian. 2010. <span>“How <span>I</span> <span>Treat</span> <span>Vitamin</span> <span>D</span> <span>Deficiency</span>.”</span> <em>Journal of Oncology Practice</em> 6 (2): 97–101. <a href="https://doi.org/10.1200/JOP.091087">https://doi.org/10.1200/JOP.091087</a>.
+<div id="ref-cunningham11" class="csl-entry" role="listitem">
+Cunningham, David, William H. Allum, Sally P. Stenning, Jeremy N. Thompson, Cornelis J. H. Van de Velde, Marianne Nicolson, J. Howard Scarffe, et al. 2006. <span>“Perioperative Chemotherapy Versus Surgery Alone for Resectable Gastroesophageal Cancer.”</span> <em>The New England Journal of Medicine</em> 355 (1): 11–20. <a href="https://doi.org/10.1056/NEJMoa055531">https://doi.org/10.1056/NEJMoa055531</a>.
 </div>
-<div id="ref-martin1308" class="csl-entry" role="listitem">
-Martin, L., and P. Lagergren. 2009. <span>“Long-Term Weight Change After Oesophageal Cancer Surgery.”</span> <em>The British Journal of Surgery</em> 96 (11): 1308–14. <a href="https://doi.org/10.1002/bjs.6723">https://doi.org/10.1002/bjs.6723</a>.
+<div id="ref-janjigian217" class="csl-entry" role="listitem">
+Janjigian, Yelena Y., Salah-Eddin Al-Batran, Zev A. Wainberg, Kei Muro, Daniela Molena, Eric Van Cutsem, Woo Jin Hyung, et al. 2025. <span>“Perioperative <span>Durvalumab</span> in <span>Gastric</span> and <span>Gastroesophageal</span> <span>Junction</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 393 (3): 217–30. <a href="https://doi.org/10.1056/NEJMoa2503701">https://doi.org/10.1056/NEJMoa2503701</a>.
 </div>
-<div id="ref-ouattara1088" class="csl-entry" role="listitem">
-Ouattara, Moussa, Xavier Benoit D’Journo, Anderson Loundou, Delphine Trousse, Laetitia Dahan, Christophe Doddoli, Jean Francois Seitz, and Pascal-Alexandre Thomas. 2012. <span>“Body Mass Index Kinetics and Risk Factors of Malnutrition One Year After Radical Oesophagectomy for Cancer.”</span> <em>European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery</em> 41 (5): 1088–93. <a href="https://doi.org/10.1093/ejcts/ezr182">https://doi.org/10.1093/ejcts/ezr182</a>.
+<div id="ref-lee268" class="csl-entry" role="listitem">
+Lee, Jeeyun, Do Hoon Lim, Sung Kim, Se Hoon Park, Joon Oh Park, Young Suk Park, Ho Yeong Lim, et al. 2012. <span>“Phase <span>III</span> Trial Comparing Capecitabine Plus Cisplatin Versus Capecitabine Plus Cisplatin with Concurrent Capecitabine Radiotherapy in Completely Resected Gastric Cancer with <span>D2</span> Lymph Node Dissection: The <span>ARTIST</span> Trial.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 30 (3): 268–73. <a href="https://doi.org/10.1200/JCO.2011.39.1953">https://doi.org/10.1200/JCO.2011.39.1953</a>.
+</div>
+<div id="ref-macdonald725" class="csl-entry" role="listitem">
+Macdonald, J. S., S. R. Smalley, J. Benedetti, S. A. Hundahl, N. C. Estes, G. N. Stemmermann, D. G. Haller, et al. 2001. <span>“Chemoradiotherapy After Surgery Compared with Surgery Alone for Adenocarcinoma of the Stomach or Gastroesophageal Junction.”</span> <em>The New England Journal of Medicine</em> 345 (10): 725–30. <a href="https://doi.org/10.1056/NEJMoa010187">https://doi.org/10.1056/NEJMoa010187</a>.
+</div>
+<div id="ref-noh1389" class="csl-entry" role="listitem">
+Noh, Sung Hoon, Sook Ryun Park, Han-Kwang Yang, Hyun Cheol Chung, Ik-Joo Chung, Sang-Woon Kim, Hyung-Ho Kim, et al. 2014. <span>“Adjuvant Capecitabine Plus Oxaliplatin for Gastric Cancer After <span>D2</span> Gastrectomy (<span>CLASSIC</span>): 5-Year Follow-up of an Open-Label, Randomised Phase 3 Trial.”</span> <em>The Lancet. Oncology</em> 15 (12): 1389–96. <a href="https://doi.org/10.1016/S1470-2045(14)70473-5">https://doi.org/10.1016/S1470-2045(14)70473-5</a>.
+</div>
+<div id="ref-slagter877" class="csl-entry" role="listitem">
+Slagter, Astrid E., Edwin P. M. Jansen, Hanneke W. M. van Laarhoven, Johanna W. van Sandick, Nicole C. T. van Grieken, Karolina Sikorska, Annemieke Cats, et al. 2018. <span>“<span>CRITICS</span>-<span>II</span>: A Multicentre Randomised Phase <span>II</span> Trial of Neo-Adjuvant Chemotherapy Followed by Surgery Versus Neo-Adjuvant Chemotherapy and Subsequent Chemoradiotherapy Followed by Surgery Versus Neo-Adjuvant Chemoradiotherapy Followed by Surgery in Resectable Gastric Cancer.”</span> <em>BMC Cancer</em> 18 (1): 877. <a href="https://doi.org/10.1186/s12885-018-4770-2">https://doi.org/10.1186/s12885-018-4770-2</a>.
+</div>
+<div id="ref-smalley2327" class="csl-entry" role="listitem">
+Smalley, Stephen R., Jacqueline K. Benedetti, Daniel G. Haller, Scott A. Hundahl, Norman C. Estes, Jaffer A. Ajani, Leonard L. Gunderson, et al. 2012. <span>“Updated Analysis of <span>SWOG</span>-Directed Intergroup Study 0116: A Phase <span>III</span> Trial of Adjuvant Radiochemotherapy Versus Observation After Curative Gastric Cancer Resection.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 30 (19): 2327–33. <a href="https://doi.org/10.1200/JCO.2011.36.7136">https://doi.org/10.1200/JCO.2011.36.7136</a>.
+</div>
+<div id="ref-wang20" class="csl-entry" role="listitem">
+Wang, Xinxin, Shuo Li, Yihong Sun, Kai Li, Xian Shen, Yingwei Xue, Pin Liang, et al. 2021. <span>“The Protocol of a Prospective, Multicenter, Randomized, Controlled Phase <span>III</span> Study Evaluating Different Cycles of Oxaliplatin Combined with <span>S</span>-1 (<span>SOX</span>) as Neoadjuvant Chemotherapy for Patients with Locally Advanced Gastric Cancer: <span>RESONANCE</span>-<span>II</span> Trial.”</span> <em>BMC Cancer</em> 21 (1): 20. <a href="https://doi.org/10.1186/s12885-020-07764-7">https://doi.org/10.1186/s12885-020-07764-7</a>.
+</div>
+<div id="ref-ychou1715" class="csl-entry" role="listitem">
+Ychou, Marc, Valérie Boige, Jean-Pierre Pignon, Thierry Conroy, Olivier Bouché, Gilles Lebreton, Muriel Ducourtieux, et al. 2011. <span>“Perioperative Chemotherapy Compared with Surgery Alone for Resectable Gastroesophageal Adenocarcinoma: An <span>FNCLCC</span> and <span>FFCD</span> Multicenter Phase <span>III</span> Trial.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 29 (13): 1715–21. <a href="https://doi.org/10.1200/JCO.2010.33.0597">https://doi.org/10.1200/JCO.2010.33.0597</a>.
 </div>
 </div>
 </section>
@@ -1111,13 +1166,13 @@ Ouattara, Moussa, Xavier Benoit D’Journo, Anderson Loundou, Delphine Trousse, 
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./04-eso_surgery.html" class="pagination-link" aria-label="Esophageal Surgery">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Esophageal Surgery</span></span>
+      <a href="./05-gastric_gist.html" class="pagination-link" aria-label="Gastric GIST">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">50</span>&nbsp; <span class="chapter-title">Gastric GIST</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./04-eso_surveillance.html" class="pagination-link" aria-label="Surveillance">
-        <span class="nav-page-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Surveillance</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./05-gastric_m1.html" class="pagination-link" aria-label="M1 Gastric CA">
+        <span class="nav-page-text"><span class="chapter-number">52</span>&nbsp; <span class="chapter-title">M1 Gastric CA</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1126,4 +1181,4 @@ Ouattara, Moussa, Xavier Benoit D’Journo, Anderson Loundou, Delphine Trousse, 
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/04-eso_survivorship.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gisurgonc/handbook/edit/main/05-gastric_t3.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gisurgonc/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
