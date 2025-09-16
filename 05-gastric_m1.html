@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -54,14 +54,15 @@ div.csl-indent {
 <link href="./05-gastric_t3.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-23102fe0f0b5b1a9f09cc09ebcc8fe5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d58359eb3ecc31d3bec1ed479c2cbb3a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -115,7 +116,9 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="./">CMC GI Surgical Oncology Handbook</a> 
         <div class="sidebar-tools-main">
@@ -667,7 +670,7 @@ div.csl-indent {
 <section id="conversion-surgery" class="level2" data-number="52.2">
 <h2 data-number="52.2" class="anchored" data-anchor-id="conversion-surgery"><span class="header-section-number">52.2</span> Conversion Surgery</h2>
 <p>Conversion surgery is performed in patients with positive peritoneal cytology or positive peritoneal disease who, after chemotherapy, are found to have coversion of their findings to M0</p>
-<p>Japan: 115 paients with advanced gastric cancer went second-look laparoscopy. 56 had negative cytology and peritoneal biopsy. 26 patients had positive cytology and negative peritoneal biopsy, of whom 12 had a negative second-look laparoscopy and had conversion surgery (CS). 33 patients had positive cytology and peritoneal biopsy. The survival of patients with CS was significantly longer than those without CS (median survival time (MST); 41 vs.&nbsp;11 months, respectively, P &lt; 0.001). We observed no difference in overall survival between patients who underwent CS and patients with CY0P0 at the first SL (P = 0.913). All patients with P1 received chemotherapy. As peritoneal metastasis of five patients (15.2%) disappeared by chemotherapy, those patients underwent the CS (R0). The survival of patients who underwent CS was significantly longer than those who did not (MST; 31 vs.&nbsp;10 months, respectively, P = 0.034).<span class="citation" data-cites="nakamura1758">(<a href="references.html#ref-nakamura1758" role="doc-biblioref">Nakamura et al. 2019</a>)</span></p>
+<p>Japan: 115 patients with advanced gastric cancer underwent second-look laparoscopy. 56 had negative cytology and peritoneal biopsy. 26 patients had positive cytology and negative peritoneal biopsy, of whom 12 had a negative second-look laparoscopy and had conversion surgery (CS). 33 patients had positive cytology and peritoneal biopsy. The survival of patients with CS was significantly longer than those without CS (median survival time (MST); 41 vs.&nbsp;11 months, respectively, P &lt; 0.001). We observed no difference in overall survival between patients who underwent CS and patients with CY0P0 at the first SL (P = 0.913). All patients with P1 received chemotherapy. As peritoneal metastasis of five patients (15.2%) disappeared by chemotherapy, those patients underwent the CS (R0). The survival of patients who underwent CS was significantly longer than those who did not (MST; 31 vs.&nbsp;10 months, respectively, P = 0.034).<span class="citation" data-cites="nakamura1758">(<a href="references.html#ref-nakamura1758" role="doc-biblioref">Nakamura et al. 2019</a>)</span></p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -735,13 +738,14 @@ Nakamura, Masaki, Toshiyasu Ojima, Mikihito Nakamori, Masahiro Katsuda, Toshiaki
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
