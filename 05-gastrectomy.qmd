@@ -5,3 +5,6 @@
 Proximal gastrectomy for small proximal tumors can be performed with a dual-tract reconstruction to take advantage of the reservoir capacity of the distal stomach without the risk of gastroesophageal reflux.
 
 ![half-size image](https://www.mayoclinic.org/-/media/kcms/gbs/medical-professionals/images/2025/08/18/20/26/double-tract-reconstruction-632w.jpg){#id .class width="50%" height="50%"}
+## Total vs Subtotal Gastrectomy
+
+Italy: Randomized trial total vs subtotal gastrectomy [@bozzetti170]. No difference in survival
