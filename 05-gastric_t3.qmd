@@ -34,6 +34,8 @@ CRITICS-II Trial [@slagter877] resectable gastric cancer randomized to neoadjuva
 
 RTOG 9904: Phase II trial of preoperative chemoradiation for gastric adenocarcinoma[@ajani3953]. Findings of pathologic complete response (pCR) in 20%.
 
+TOPGEAR trial: neoajuvant chemotherapy $\pm$ subsequent radiation therapy: chemo+RT had better pCR rate (17% vs 8%). No survival difference between groups.[@leong2252]
+
 ## Preop Immunotherapy
 
 NEONIPIGA trial: MSI-Hi gastric and GE junction cancers treated with neoadjuvant nivolumbab (6 cycles) and ipilumumab (2 cycles) over 12 weeks. Among 29 patients that underwent surgery, 59% pathologic complete response and all patients had R0 resection.[@andre288]
