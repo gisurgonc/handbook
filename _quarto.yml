@@ -73,7 +73,12 @@ book:
       - 04-eso_surveillance.qmd
     - part: "Gastric Cancer"
       chapters:
+      - 05-gastric_overview.qmd
+      - 05-gastrectomy.qmd
       - 05-gastric_CDH1.qmd
+      - 05-gastric_gist.qmd
+      - 05-gastric_t3.qmd
+      - 05-gastric_m1.qmd
     - part: "Colon Cancer"
       chapters:
       - 06-colectomy.qmd

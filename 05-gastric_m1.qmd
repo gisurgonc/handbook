@@ -1,0 +1,15 @@
+# M1 Gastric CA
+
+## Surgery for M1 disease
+
+REGATTA trial: patient with a single unresectable factor (liver metastasis, peritoneal disease, para-aortic lymphdenopathy randomized between gastrectomy -\> chemotherapy vs chemotherapy. No improvement in survival with gastrectomy. Trial was closed early due to futility.[@fujitani309]
+
+AIO-FLOT3 trial: evaluted FLOT followed by surgical resection in patients with limited metastatic gastric or GEJ adenocarcinoma. Patients were stratified: resectable (A), limited metastatic (B), and extensive metastatic (C). Arm B patients received at least four cycles of FLOT and were considered for surgery if restaging indicated a chance for R0 resection of the primary and complete resection of metastatic lesions. The primary endpoint was overall survival. Results showed that patients in arm B (limited metastatic) who underwent neoadjuvant FLOT and surgery had a median overall survival of **31.3 months**, compared to **15.9 months** for those who did not proceed to surgery, and **10.7 months** for arm C (extensive metastatic, palliative approach). The response rate in arm B was 60%.[@al-batran1237]
+
+## Conversion Surgery
+
+Conversion surgery is performed in patients with positive peritoneal cytology or positive peritoneal disease who, after chemotherapy, are found to have coversion of their findings to M0
+
+Japan: 115 patients with advanced gastric cancer underwent second-look laparoscopy. 56 had negative cytology and peritoneal biopsy.  26 patients had positive cytology and negative peritoneal biopsy, of whom 12 had a negative second-look laparoscopy and had conversion surgery (CS). 33 patients had positive cytology and peritoneal biopsy. The survival of patients with CS was significantly longer than those without CS (median survival time (MST); 41 vs. 11 months, respectively, P < 0.001). We observed no difference in overall survival between patients who underwent CS and patients with CY0P0 at the first SL (P = 0.913). All patients with P1 received chemotherapy. As peritoneal metastasis of five patients (15.2%) disappeared by chemotherapy, those patients underwent the CS (R0). The survival of patients who underwent CS was significantly longer than those who did not (MST; 31 vs. 10 months, respectively, P = 0.034).[@nakamura1758]
+
+
