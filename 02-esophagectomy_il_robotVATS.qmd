@@ -212,19 +212,19 @@ Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incis
 
 "Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper placed into Port #4. Robotic stapler is introduced into Port 2. Staple line starts \~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).
 
+## Final dissection of mediastinum
+
+Once conduit has been disconnected from specimen, additional dissection of mediastinum cam be performed. Once this is finished the penrose drain is pushed up into the mediastinum with the tails to the patient's right.
+
 ## Preparation of Conduit
 
 +---------------------+-----------+-----------------------------------+-----------+
 | Arm 1               | Arm 2A    | Arm 3                             | Arm 4     |
 +=====================+===========+===================================+===========+
-| Fenestrated Bipolar | Camera    | **SutureCut Large Needle Driver** | -----     |
+| Fenestrated Bipolar | Camera    | **SutureCut Large Needle Driver** | Tip Up    |
 +---------------------+-----------+-----------------------------------+-----------+
 
-Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). Arm 4 is undocked and 19 Fr Blake drain (JP2) is introduced through the port. The drain is sutured to specimen with 2-0 silk cut to 4". JP2 is brought out through the LLQ 5mm assistant port or through the port for Arm #4.
-
-## Prep for Thoracic Phase
-
-Once conduit has been constructed, confirm presence in room of bean bag, two pillows, and an extra OR bed for transition to lateral decubitus position. Check with Dr Salo - May just use lateral positioner and well-leg holder.
+JP1 (19Fr) is brought in through LLQ 5mm port. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest.  The dot is left at the hiatus. Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). After conduit is sutured, arm 4 is removed and JP2 brought in through that port.
 
 ## Preparation for ICG
 
@@ -238,17 +238,17 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 | Fenestrated Bipolar | Camera (30 up) | **SutureCut Large Needle Driver** | Tip Up      |
 +---------------------+----------------+-----------------------------------+-------------+
 
-Prior suture on jejunum is identified and grasped with suture passer at the pre-marked site. Two passes are made with the suture passer similar to transfascial sutures on a Stoppa hernia repair. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressure reduced to 8m Hg. Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and 16Ga needle from a 14Fr Cook Introducer kit passed through the abdominal wall into the bowel. Insufflation of air confirms proper position. J wire and 14FR dilator followed by 18Fr dilator introduced and left in place. Pursestring continues around proposed site and then proceeds caudad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
+Prior suture on jejunum is identified and grasped with suture passer at the pre-marked site. Two passes are made with the suture passer similar to transfascial sutures on a Stoppa hernia repair. The 22Ga needle from a micropuncture kit is introduced through the pre-marked site to extend 1cm into the abdominal cavity. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressure reduced to 8m Hg. Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and the J wire from the micropuncture kit threaded into the small bowel. Correct placement within the bowel lumen is confirmed by rapid insufflation of air through the needle. The micropuncture dilator is next used, followed by the J wire from a 14Fr Cook introducer kit. The tract is dilate with a  14FR dilator followed by 18Fr dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
 
 ## Drains
 
-Once jejunostomy in place, JP1 and JP2 are routed lateral to jejunostomy and brought out through Port #4 and Port #3.
+Once jejunostomy in place, JP1 and JP2 are routed lateral to jejunostomy and brought out through Port #4 and the LLQ assisting port. Enough slack is left on JP2 so that its outside length approximates that of JP1.
 
 ## Closure
 
-Robot is disengaged and kept sterile. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.
+Robot is disengaged. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.
 
-Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with 4-0 Monocryl followed by Dermabond.
+Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with staples. A Red Rubber Robinson catheter is placed through the Nathanson subxiphoid access site and covered with a Tegaderm.  The RRR is used in case it is necessary to observe the transposition of the conduit from the abdomen. 
 
 ## ICG injection into groin.
 
@@ -268,15 +268,15 @@ Lower and upper body bair hugger used. Right arm is elevated for prep and lowere
 
 ## Prep and drape
 
-Chloroprep including axilla and proximal right arm. Drape axilla/upper arm with 1000 drape.
+Chloroprep including axilla and proximal right arm. Prep should include all of abdomen.  Drape axilla/upper arm with 1000 drape.
 
-Two blue "U" drapes used, folowed by trauma drape (or Universal). Ioban strips around edges. Once Ioban in place, right arm is lowered
+Two blue "U" drapes used, folowed by trauma drape (or Universal). JP drains are draped out of the abdominal field but ports 1,2,2A, AND 3 are prepped into teh field. Ioban strips around edges. Once Ioban in place, right arm is lowered
 
 Laparoscopic instruments are kept sterile and may be returned to the field if pleural adhesions are encountered.
 
 ### Thoracoscopy
 
-Gas pressure turned down to 8mmHg in preparation for the thoracic phase. A site for entry in to the left chest is selected just posterior to the tip of the scapula OR lateral to nipple. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. One 12mm port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5
+Table is tipped 10-15 degrees to the left. Gas pressure turned down to 8mmHg in preparation for the thoracic phase. A site for entry in to the left chest is selected just posterior to the tip of the scapula OR lateral to nipple. An incision is made here and a 5mm optical port with a 5mm 0 degree scope used to enter the chest. The chest is insufflated at 8mmHg of carbon dioxide, which helps to both copllapase the lung and depress the diaphragm. One 12mm port is placed just lateral to the diaphragmatic reflection. It is ciritcal to avoid injury to the diaphragm (and liver) with the inferior port placement. A mini-thoracotomy incision is placed along the mid-axillary line, frequently in the same interspace as the inferior/anterior 12mm port. The chest is entered just superior to the rib and the intercostal muscles divided with the LigaSure device to allow the ribs to separate. A narrow Deaver retractor is used to guage the space between the ribs, as the width of the retractor approximates the diameter of the 25mm stapler. A 5mm ‘U’ port is generally placed as high as possible midway between the scapular tip port and the anterior/superior 12mm port t0o the 4 right 5
 
 ## Thoracic Dissection
 
