@@ -18,11 +18,9 @@ Double-decker Back Table
 
 EGD Cart (check w/ Salo regarding adult vs neonatal scope)
 
-BK Ultrasound (with laparoscopic probe AND hockey stick probe). Will need sterile ultrasound jelly.
+BK Ultrasound (with laparoscopic probe AND hockey stick probe AND robotic probe). Will need sterile ultrasound jelly.
 
 Walter 'Long Arm' retractor
-
-Bean Bag (check with Salo)
 
 Salo Positioning Cart:
 
@@ -55,7 +53,13 @@ Suture
 
 -   Stratafix Spiral PDS 3-0 RB-1 needle 15cm
 
-\newpage
+Supplies:
+
+-   MIcropuncture kit (from Anesthesia Workroom)
+-   Gel Port available
+-   14Fr Balloon Jejunostomy tube (8200-14)
+
+-   \newpage
 
 **Anesthesia**
 
@@ -116,12 +120,12 @@ Review:
 
 Cardiopulmonary disease. If echo, ejection fraction and aortic valve area (if abnormal)
 
-Beta blockage: Note whether patient on home beta blockade and if so, whether home medication was taken the morning of surgery.
+Beta blockade: Note whether patient on home beta blockade and if so, whether home medication was taken the morning of surgery.
 
 Anticipated Intraop Problems:
 
 -   Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection
--   Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest Gastric mobilization – Greater Curvature
+-   Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest 
 
 ## Laparoscopy
 
@@ -133,32 +137,36 @@ Falciform suspended with 0 silk suture on Keith needle
 
 ## Robotic ports
 
+Port #1 left anterior axillary line 8mm port 2cm above umbilicus. $\rightarrow$ fenestrated bipolar
+
+5mm asstant ports RLQ and LLQ
+
+Assistant port 8mm port inferior to umbilicus. Port #3 will be switched to this position for jejunostomy later in the case.
+
+(locate future site for jejunostomy)
+
 Port #3 8mm left mid-axillary line at level of umbilicus $\rightarrow$ camera.
 
 Port #4 left anterior axillary line. 8mm port $\rightarrow$
 
 Port #2 right mid-clavicular line 2cm above umbilicus. Switch from 5mm to 12mm robotic stapler port. Place 'sleeper' 0 Vicryl figure-of-eight suture and secure with a hemostat.
 
-Port #1 left anterior axillary line 8mm port 2cm above umbilicus. $\rightarrow$ fenestrated bipolar
+(suspend falciform with 0 silk on Keith needle)
 
-Assistant port 8mm port inferior to umbilicus. Port #3 will be switched to this position for jejunostomy later in the case.
-
-Nathanson liver retractor placed in midline using the 5mm optical port to create a tract. Nathanson held in place with Salo Endoscopic Bookwalter secured to bedrail just inferior to right armboard.
+Nathanson liver retractor placed in midline using the 5mm optical port to create a tract. Nathanson held in place with Endoscopic Bookwalter secured to bedrail just inferior to right armboard.
 
 Bed positioned to 12 degrees reverse Trendelenberg and tipped to right 10 degrees
 
-## Robot Docked
-
-Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
-
 ## Abdominal Phase
 
-+---------------------+------------+-----------------+------------+
-| Arm 1               | Arm 2      | Arm 3           | Arm 4      |
-+=====================+============+=================+============+
-| Fenestrated Bipolar | Camera     | Synchroseal OR\ | Tip Up     |
-|                     |            | Vessel Sealer   |            |
-+---------------------+------------+-----------------+------------+
+Robot docked: Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
+
++---------------------+--------------+-----------------+--------------+
+| Arm 1               | Arm 2        | Arm 3           | Arm 4        |
++=====================+==============+=================+==============+
+| Fenestrated Bipolar | Camera       | Synchroseal OR\ | Tip Up       |
+|                     |              | Vessel Sealer   |              |
++---------------------+--------------+-----------------+--------------+
 
 ### Lesser Sac Dissection
 
@@ -178,12 +186,12 @@ Posterior dissection elevating stomach. Divide posterior gastric arteries. Disse
 
 ## Proximal Greater Curve
 
-+-----------+---------------------+-----------+---------------+
-| Arm 1     | Arm 2               | Arm 3     | Arm 4         |
-+===========+=====================+===========+===============+
-| Tip Up    | Fenestrated Bipolar | Camera    | Synchroseal\  |
-|           |                     |           | Vessel Sealer |
-+-----------+---------------------+-----------+---------------+
++-------------+---------------------+-------------+---------------+
+| Arm 1       | Arm 2               | Arm 3       | Arm 4         |
++=============+=====================+=============+===============+
+| Tip Up      | Fenestrated Bipolar | Camera      | Synchroseal\  |
+|             |                     |             | Vessel Sealer |
++-------------+---------------------+-------------+---------------+
 
 Dissection proceeds proximally, dividing the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels
 
@@ -195,12 +203,12 @@ Penrose drain is placed around esophagus and secured with Weck clips. Dissection
 
 ## Pyloric Drainage - Pyloromyotimy (optional)
 
-+---------------------+------------+-----------------+------------+
-| Arm 1               | Arm 2A     | Arm 3           | Arm 4      |
-+=====================+============+=================+============+
-| Fenestrated Bipolar | Camera     | Hook\           | Tip Up     |
-|                     |            | Cadiere Bipolar |            |
-+---------------------+------------+-----------------+------------+
++---------------------+--------------+-----------------+--------------+
+| Arm 1               | Arm 2A       | Arm 3           | Arm 4        |
++=====================+==============+=================+==============+
+| Fenestrated Bipolar\ | Camera       | Hook\           | Tip Up       |
+|         Hook         |              | Cadiere Bipolar |              |
++---------------------+--------------+-----------------+--------------+
 
 Pyloromyotomy is performed with camera in Port #2 and hook in Port #3 and Tip up in Port #4 (may need to move camera to midline)
 
@@ -212,23 +220,25 @@ Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incis
 
 "Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper placed into Port #4. Robotic stapler is introduced into Port 2. Staple line starts \~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).
 
+## Preparation for ICG
+
+One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brought onto the sterile field in a 5mL syringe, which is fitted with a 25Ga needle. The remainder of the ICG is given to Anesthesia for later (intravenous) use.
+
 ## Final dissection of mediastinum
 
 Once conduit has been disconnected from specimen, additional dissection of mediastinum cam be performed. Once this is finished the penrose drain is pushed up into the mediastinum with the tails to the patient's right.
 
 ## Preparation of Conduit
 
-+---------------------+-----------+-----------------------------------+-----------+
-| Arm 1               | Arm 2A    | Arm 3                             | Arm 4     |
-+=====================+===========+===================================+===========+
-| Fenestrated Bipolar | Camera    | **SutureCut Large Needle Driver** | Tip Up    |
-+---------------------+-----------+-----------------------------------+-----------+
++---------------------+-------------+-----------------------------------+-------------+
+| Arm 1               | Arm 2A      | Arm 3                             | Arm 4       |
++=====================+=============+===================================+=============+
+| Fenestrated Bipolar | Camera      | **SutureCut Large Needle Driver** | Tip Up      |
++---------------------+-------------+-----------------------------------+-------------+
 
-JP1 (19Fr) is brought in through LLQ 5mm port. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest.  The dot is left at the hiatus. Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). After conduit is sutured, arm 4 is removed and JP2 brought in through that port.
+JP1 (19Fr) is brought in through LLQ 5mm port. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest. The dot is left at the hiatus. Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). After conduit is sutured, arm 4 is removed and JP2 brought in through that port. JP2 is now sutured to the specimen.
 
-## Preparation for ICG
-
-One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brought onto the sterile field in a 5mL syringe, which is fitted with a 25Ga needle. The remainder of the ICG is given to Anesthesia for later (intravenous) use.
+Conduit is now evaluated with ICG and with robotic ultrasound
 
 ## Jejunostomy
 
@@ -238,7 +248,7 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 | Fenestrated Bipolar | Camera (30 up) | **SutureCut Large Needle Driver** | Tip Up      |
 +---------------------+----------------+-----------------------------------+-------------+
 
-Prior suture on jejunum is identified and grasped with suture passer at the pre-marked site. Two passes are made with the suture passer similar to transfascial sutures on a Stoppa hernia repair. The 22Ga needle from a micropuncture kit is introduced through the pre-marked site to extend 1cm into the abdominal cavity. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressure reduced to 8m Hg. Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and the J wire from the micropuncture kit threaded into the small bowel. Correct placement within the bowel lumen is confirmed by rapid insufflation of air through the needle. The micropuncture dilator is next used, followed by the J wire from a 14Fr Cook introducer kit. The tract is dilate with a  14FR dilator followed by 18Fr dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
+Prior suture on jejunum is identified and grasped with suture passer at the pre-marked site. Two passes are made with the suture passer similar to transfascial sutures on a Stoppa hernia repair. The 22Ga needle from a **micropuncture kit** is introduced through the pre-marked site to extend 1cm into the abdominal cavity. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressure reduced to 8m Hg. Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and the J wire from the micropuncture kit threaded into the small bowel. Correct placement within the bowel lumen is confirmed by rapid insufflation of air through the needle. The micropuncture dilator is next used, followed by the J wire from a 14Fr Cook introducer kit. The tract is dilate with a 14FR dilator followed by 18Fr dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
 
 ## Drains
 
@@ -248,7 +258,7 @@ Once jejunostomy in place, JP1 and JP2 are routed lateral to jejunostomy and bro
 
 Robot is disengaged. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.
 
-Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with staples. A Red Rubber Robinson catheter is placed through the Nathanson subxiphoid access site and covered with a Tegaderm.  The RRR is used in case it is necessary to observe the transposition of the conduit from the abdomen. 
+Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with staples. A Red Rubber Robinson catheter is placed through the Nathanson subxiphoid access site and covered with a Tegaderm. The RRR is used in case it is necessary to observe the transposition of the conduit from the abdomen.
 
 ## ICG injection into groin.
 
@@ -258,17 +268,11 @@ While port sites are being closed, "loincloth" is removed and hockey stick or sm
 
 ## Transition to Corkscrew Position
 
-Patient's chest is rotated to the left. Rectangular positioner supports scapula. Circular positioner on Left side supports chest. Rectangular positioner along left greater trochanter. Right arm rests on pink foam pad on Well Leg Holder.
-
-## Transition to Lateral Position
-
-Patient placed on bean bag. Rectangular positioner along left hip. Right arm rests on pink foam pad on Well Leg Holder.
-
-Lower and upper body bair hugger used. Right arm is elevated for prep and lowered once drapes in place.
+Patient's chest is rotated to the left. Rectangular positioner supports scapula. Circular positioner on Left side supports chest. Rectangular positioner along left greater trochanter. Right arm rests on pink foam pad on Well Leg Holder. Lower and upper body bair hugger used. Right arm is elevated for prep and lowered once drapes in place.
 
 ## Prep and drape
 
-Chloroprep including axilla and proximal right arm. Prep should include all of abdomen.  Drape axilla/upper arm with 1000 drape.
+Chloroprep including axilla and proximal right arm. Prep should include all of abdomen. Drape axilla/upper arm with 1000 drape.
 
 Two blue "U" drapes used, folowed by trauma drape (or Universal). JP drains are draped out of the abdominal field but ports 1,2,2A, AND 3 are prepped into teh field. Ioban strips around edges. Once Ioban in place, right arm is lowered
 
@@ -289,6 +293,10 @@ The conduit is delivered into the thorax. This is done using a laparoscopic gras
 Division of esophagus just above level of azygous vein. ICG can be administered intravenously to check perfusion. If there is any question about the length of the conduit, confirm the length of the conduit prior to division of the esophagus.
 
 Penrose drain is recovered. Specimen is sent for frozen section with instructions to freeze proximal margin.
+
+## Abdominal Exposure (optional)
+
+If needed to monitor passage of conduit into chest, the abdomen is insufflated using the RRR placed in the sub-xiphoid port.  Ports #1, #2, #3 are re-opened and Nathanson retractor replaced. Robotic camera used to monitor passage of conduit into chest.
 
 ## Preparation of conduit
 
