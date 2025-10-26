@@ -14,7 +14,22 @@ Home anti-hypertensives are usually held in order to allow beta-blockade. Patien
 
 ## Chest tubes
 
-Chest tubes generally consist of a 28Fr Blake drain placed into the right chest. This is placed to water seal when output is less than 200mL/day and there is no leak visible in the Pleurevac container. Chest tubes are usually removed once output is less than 150mL/day and drainage is clear without evidence of chyle (milky appearance). A chest x-ray is obtained after removing a chest tube to look for a pneumothorax.
+Chest tubes generally consist of a 28Fr Blake drain placed into the right chest. This is placed to water seal when output is less than 200mL/day and there is no leak visible in the Pleurevac container. Chest tubes are usually removed once output is less than 150mL/day and drainage is clear without evidence of chyle (milky appearance). 
+
+### Chest tube removal
+
+- Supplies needed: Suture removal kit, 4x4 gauze, xeroform or Vaseline gauze, 2" silk tape, red biohazard bag
+- Notify the bedside RN
+- Explain procedure to patient including the need for prolonged expiration during removal
+- Prepare a bandage with 4x4 gauze and Xeroform
+- Cut and remove suture
+- Cover the exit site with the Xeroform bandage
+- Rehearse process with patient: prolonged expiration
+- Pull tube and apply bandage
+- Place tube and Atrium/Pleurevac in red biohazard bag and dispose of in soiled utility room
+- Return patient room to prior condition (including lowering bed)
+
+Chest x-ray 4 hours after removal to look for a pneumothorax.
 
 ## GI Medicines
 
