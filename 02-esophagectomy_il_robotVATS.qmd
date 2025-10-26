@@ -14,11 +14,12 @@ CT scan evaluated for presence of replaced left hepatic artery.
 
 ## Room Prep
 
-Double-decker Back Table
-
-EGD Cart (check w/ Salo regarding adult vs neonatal scope)
-
-BK Ultrasound (with laparoscopic probe AND hockey stick probe AND robotic probe). Will need sterile ultrasound jelly.
+- Double-decker Back Table
+- EGD Cart (check w/ Salo regarding adult vs neonatal scope)
+- BK Ultrasound with sterile ultrasound jelly
+  - Laparoscopic probe AND 
+  - hockey stick probe AND 
+  - robotic probe
 
 Walter 'Long Arm' retractor
 
