@@ -331,7 +331,7 @@ Admission to ICU. Epidural dosed.
 
 Medications:
 
--   Protonix 40mg IV
+-   Protonix 40mg IV daily
 -   Metoprolol 2.5mg IV q6h (may increase to 5mg)
 -   Home antihypertensives held unless bp is still elevated after adequate beta blockade
 -   No bowel regimen
