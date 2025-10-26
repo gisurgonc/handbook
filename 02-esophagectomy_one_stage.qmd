@@ -4,6 +4,11 @@
 
 MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to esophagectomy. The patient is positioned in ‘corkscrew’ position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest.
 
+## Preop Orders
+
+- Type/Screen
+- No subcutaneous heparin if an epidural catheter is planned
+
 ## Room Prep
 
 Double-decker Back Table

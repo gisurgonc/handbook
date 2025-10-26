@@ -8,9 +8,9 @@ CT scan evaluated for presence of replaced left hepatic artery.
 
 ## Preop Area
 
-Heparin is held if epidural catheter is planned
-
-Clip hair from abdomen and right chest, including right axilla. Hair is clipped to base of pubis.
+- Heparin is held if epidural catheter is planned
+- Type/Screen
+- Clip hair from abdomen and right chest, including right axilla. Hair is clipped from bilateral groins
 
 ## Room Prep
 
@@ -56,7 +56,9 @@ Suture
 Supplies:
 
 -   MIcropuncture kit (from Anesthesia Workroom)
+
 -   Gel Port available
+
 -   14Fr Balloon Jejunostomy tube (8200-14)
 
 -   \newpage
@@ -125,7 +127,7 @@ Beta blockade: Note whether patient on home beta blockade and if so, whether hom
 Anticipated Intraop Problems:
 
 -   Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection
--   Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest 
+-   Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest
 
 ## Laparoscopy
 
@@ -161,12 +163,12 @@ Bed positioned to 12 degrees reverse Trendelenberg and tipped to right 10 degree
 
 Robot docked: Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 
-+---------------------+--------------+-----------------+--------------+
-| Arm 1               | Arm 2        | Arm 3           | Arm 4        |
-+=====================+==============+=================+==============+
-| Fenestrated Bipolar | Camera       | Synchroseal OR\ | Tip Up       |
-|                     |              | Vessel Sealer   |              |
-+---------------------+--------------+-----------------+--------------+
++---------------------+---------------+-----------------+---------------+
+| Arm 1               | Arm 2         | Arm 3           | Arm 4         |
++=====================+===============+=================+===============+
+| Fenestrated Bipolar | Camera        | Synchroseal OR\ | Tip Up        |
+|                     |               | Vessel Sealer   |               |
++---------------------+---------------+-----------------+---------------+
 
 ### Lesser Sac Dissection
 
@@ -186,12 +188,12 @@ Posterior dissection elevating stomach. Divide posterior gastric arteries. Disse
 
 ## Proximal Greater Curve
 
-+-------------+---------------------+-------------+---------------+
-| Arm 1       | Arm 2               | Arm 3       | Arm 4         |
-+=============+=====================+=============+===============+
-| Tip Up      | Fenestrated Bipolar | Camera      | Synchroseal\  |
-|             |                     |             | Vessel Sealer |
-+-------------+---------------------+-------------+---------------+
++--------------+---------------------+--------------+---------------+
+| Arm 1        | Arm 2               | Arm 3        | Arm 4         |
++==============+=====================+==============+===============+
+| Tip Up       | Fenestrated Bipolar | Camera       | Synchroseal\  |
+|              |                     |              | Vessel Sealer |
++--------------+---------------------+--------------+---------------+
 
 Dissection proceeds proximally, dividing the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels
 
@@ -203,12 +205,11 @@ Penrose drain is placed around esophagus and secured with Weck clips. Dissection
 
 ## Pyloric Drainage - Pyloromyotimy (optional)
 
-+---------------------+--------------+-----------------+--------------+
-| Arm 1               | Arm 2A       | Arm 3           | Arm 4        |
-+=====================+==============+=================+==============+
-| Fenestrated Bipolar\ | Camera       | Hook\           | Tip Up       |
-|         Hook         |              | Cadiere Bipolar |              |
-+---------------------+--------------+-----------------+--------------+
++--------------------------------------------------------------------------------+------------+------------+------------+------------+
+| Arm 1                                                                          | Arm 2A     | Arm 3      | Arm 4      |            |
++================================================================================+============+============+============+============+
+| Fenestrated Bipolar \| Camera \| Hook  \| Tip Up Hook \| \| Cadiere Bipolar \| |            |            |            |            |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+
 
 Pyloromyotomy is performed with camera in Port #2 and hook in Port #3 and Tip up in Port #4 (may need to move camera to midline)
 
@@ -296,7 +297,7 @@ Penrose drain is recovered. Specimen is sent for frozen section with instruction
 
 ## Abdominal Exposure (optional)
 
-If needed to monitor passage of conduit into chest, the abdomen is insufflated using the RRR placed in the sub-xiphoid port.  Ports #1, #2, #3 are re-opened and Nathanson retractor replaced. Robotic camera used to monitor passage of conduit into chest.
+If needed to monitor passage of conduit into chest, the abdomen is insufflated using the RRR placed in the sub-xiphoid port. Ports #1, #2, #3 are re-opened and Nathanson retractor replaced. Robotic camera used to monitor passage of conduit into chest.
 
 ## Preparation of conduit
 
