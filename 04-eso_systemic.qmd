@@ -1,0 +1,5 @@
+# EsoCa Systemic Therapy {#eso_systemic}
+
+## Immunotherapy
+
+RAMONA trial: Ipi/Nivo second-line therapy for esophageal squamous cell carcinoma. [@eberte417]. 66 patients treated with ipi/nivo or nivo. Median survival 7.2 months, longer than historical controls. One treatment-related death.
