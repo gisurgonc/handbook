@@ -6,8 +6,8 @@ MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to eso
 
 ## Preop Orders
 
-- Type/Screen
-- No subcutaneous heparin if an epidural catheter is planned
+-   Type/Screen
+-   No subcutaneous heparin if an epidural catheter is planned
 
 ## Room Prep
 
