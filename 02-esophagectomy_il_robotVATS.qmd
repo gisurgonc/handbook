@@ -8,25 +8,26 @@ CT scan evaluated for presence of replaced left hepatic artery.
 
 ## Preop Area
 
-- Heparin is held if epidural catheter is planned
-- Type/Screen
-- Clip hair from abdomen and right chest, including right axilla. Hair is clipped from bilateral groins
+-   Heparin is held if epidural catheter is planned
+-   Type/Screen
+-   Clip hair from abdomen and right chest, including right axilla. Hair is clipped from bilateral groins
 
 ## Room Prep
 
-- Double-decker Back Table
-- EGD Cart (check w/ Salo regarding adult vs neonatal scope)
-- BK Ultrasound with sterile ultrasound jelly
-  - Laparoscopic probe AND 
-  - hockey stick probe AND 
-  - robotic probe
+-   Double-decker Back Table
+-   EGD Cart (check w/ Salo regarding adult vs neonatal scope)
+-   BK Ultrasound with sterile ultrasound jelly
+    -   Laparoscopic probe AND
+    -   hockey stick probe AND
+    -   robotic probe
 
 Walter 'Long Arm' retractor
 
 Salo Positioning Cart:
 
--   Four black side-rail clamps
--   Four rectangular lateral positioners
+-   Three black side-rail clamps
+-   Two rectangular lateral positioners
+-   One round lateral positioner
 -   Yassargil socket
 -   Well-leg holder (used as an arm holder)
 
@@ -35,13 +36,12 @@ Robotic Instruments:
 -   Tip Up Grasper
 -   Fenestrated bipolar Forceps (420205)
 -   Hot Shears (Monopolar scissors) 470179
--   Synchroseal (if in Room 22)
--   Extend vessel sealer (480322) (if not in 22)
+-   Extend vessel sealer (480322)
 -   SutureCut Large Needle Driver (470296)
 -   Medium-Large Clip Applier (420327)
 -   Large Needle Driver (470006)
 -   Permanent Cautery Hook (470183) (hold)
--   Cadiere Forceps (hold) 470049
+-   Cadiere Forceps (470049) hold
 
 Critical supplies (check prior to pt in room)
 
@@ -56,19 +56,19 @@ Suture
 
 Supplies:
 
--   MIcropuncture kit (from Anesthesia Workroom)
-
+-   Micropuncture kit (from Anesthesia Workroom)
 -   Gel Port available
-
 -   14Fr Balloon Jejunostomy tube (8200-14)
+-   14Fr Cook introducer kit
+-   18Fr Dilator and peelaway sheath
 
--   \newpage
+\newpage
 
 **Anesthesia**
 
+-   Epidural placed in preop area
 -   Dual-lumen ETT tube (taped to left)
 -   Arterial line (left arm will be on arm board)
--   Anesthesia may place epidural in preop
 -   Heparin 5000U SQ 2 hours after epidural placed
 
 ## Abdominal Position
@@ -91,7 +91,7 @@ Pre-existing jejunostomy
 
 **Prep**
 
-Patient is positioned frog-leg for prep (and is returned to supine during draping). Chloroprep (2 sticks) of abdomen and lower chest up to the level of nipples (in case urgent chest tube needed). Particular attention to prepping as far as possible to the left lateral side and the right lateral side. Prep continues inferior to base of pubis. At the end of prep, bilateral groins are prepped.
+Chloroprep (2 sticks) of abdomen and lower chest up to the level of nipples (in case urgent chest tube needed). Particular attention to prepping as far as possible to the left lateral side and the right lateral side. Prep continues inferior to base of pubis. At the end of prep, bilateral groins are prepped.
 
 **Drape**
 
@@ -134,9 +134,18 @@ Anticipated Intraop Problems:
 
 Pneumoperitoneum established with Veress needle at left subcostal or inferior to umbilicus *or* modified Hasson approach. Abdominal entry with 5mm optical port at future location of Port #2 in mid-clavicular line superior to umbilicus. Laparoscopy to look for peritoneal implants.
 
-Site for jejunostomy is selected 25cm from Treitz. 9" 2-0 silk suture is placed on anti-mesenteric aspect of jejunum and tied to itself. Abdominal wall site for jejunostomy is selected to be superior to ports 3 and 4. Site is marked with skin marker (or strand from 0 silk Keith needle).
+Ports:
+
+1)  Z-thread optical port at site for Port #1 in R mid-axillary line 5cm superior to umbilicus
+2)  RLQ assisting port (5mm)
+3)  Lower midline assisting port (later will become Port 2A)
+4)  LLQ assisting port (5mm)
+
+Site for jejunostomy is selected 25cm from Treitz. 9" 2-0 silk suture is placed on anti-mesenteric aspect of jejunum and tied to itself. Abdominal wall site for jejunostomy is selected to be superior to ports 3 and 4. Site is marked with skin marker
 
 Falciform suspended with 0 silk suture on Keith needle
+
+Once site for jejunostomy marked, will placed ports 2,3,4. Port 4 is lateral at level of umbilicus. Port #3 is somewhat more inferior, to allow sewing jejunostomy. Port #2 in midline, inferior enough to allow
 
 ## Robotic ports
 
@@ -150,13 +159,15 @@ Assistant port 8mm port inferior to umbilicus. Port #3 will be switched to this 
 
 Port #3 8mm left mid-axillary line at level of umbilicus $\rightarrow$ camera.
 
-Port #4 left anterior axillary line. 8mm port $\rightarrow$
+Port #4 left anterior axillary line. 8mm port $\rightarrow$ Tip Up
 
 Port #2 right mid-clavicular line 2cm above umbilicus. Switch from 5mm to 12mm robotic stapler port. Place 'sleeper' 0 Vicryl figure-of-eight suture and secure with a hemostat.
 
 (suspend falciform with 0 silk on Keith needle)
 
 Nathanson liver retractor placed in midline using the 5mm optical port to create a tract. Nathanson held in place with Endoscopic Bookwalter secured to bedrail just inferior to right armboard.
+
+Place loop of 0 silk to suspend superior side of pylorus
 
 Bed positioned to 12 degrees reverse Trendelenberg and tipped to right 10 degrees
 
@@ -171,21 +182,23 @@ Robot docked: Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 |                     |               | Vessel Sealer   |               |
 +---------------------+---------------+-----------------+---------------+
 
-### Lesser Sac Dissection
-
-Gastrohpeatic ligament divided. Celiac axis evaluated for resectability. Right crus dissected to ensure resectability. Dissection carried anteriorly and left crural dissection begun. Dissection posterior to esophagus.
-
-Central node dissection begun, including common hepatic, left gastric, celiac, and proximal splenic aftery nodes. If replaced left hepatic artery present, may require preservation of left gastric artery. Left gastric artery divided with clips.
-
-Posterior gastric dissection. Dissection is carried posterior towards most superior short gastric arteries (as these can be difficult to approach from the greater curvature side). (Penrose drain can be placed at this part of the operation)
-
-## Distal Greater Curve
+### Distal Greater Curve
 
 The course of the right gastroepiploic artery is identified and the lesser sac entered to the left of midline. Dissection proceeds to the patient's right. Right gastroepiploic artery carefully preserved and gatrocolic omentum incised. Dissection proceeds to right to mobilize colon off duodenum. Kocher maneuver performed and omental adhesions to gallbladder taken down.
 
 ## Posterior Stomach
 
 Posterior dissection elevating stomach. Divide posterior gastric arteries. Dissection plane up to fundus and to short gastrics.
+
+### Lesser Sac Dissection
+
+Gastrohpeatic ligament divided. Right gastric artery divided at 3rd arcade (approx 5cm from pylorus). Celiac axis evaluated for resectability. Right crus dissected to ensure resectability. Dissection carried anteriorly and left crural dissection begun. Dissection posterior to esophagus.
+
+Penrose can be looped around body of stomach and used to retract stomach off central lymph nodes by traction to LLQ port site.
+
+Central node dissection begun, including common hepatic, left gastric, celiac, and proximal splenic artery nodes. If replaced left hepatic artery present, may require preservation of left gastric artery. Left gastric artery divided with clips.
+
+Posterior gastric dissection. Dissection is carried posterior towards most superior short gastric arteries (as these can be difficult to approach from the greater curvature side). (Penrose drain can be placed at this part of the operation)
 
 ## Proximal Greater Curve
 
@@ -202,25 +215,27 @@ Dissection proceeds proximally, dividing the left gastroepiploic artery near its
 
 Penrose drain is placed around esophagus and secured with Weck clips. Dissection proceeds to level of inferior pulmonary veins. Penrose is tucked into the mediastinum. When Penrose is placed, confirm that heparin has been given.
 
-0 Vicryl suture on UR-6 (12") is inserted through 12mm stapler port and a 'sleeper' suture of 0 Vicryl is placed in posterior crus. Ends of suture are clipped together and later sutured to conduit.
+## Pyloric Drainage - Pyloromyotomy
 
-## Pyloric Drainage - Pyloromyotimy (optional)
+Stay sutures are placed superior and inferior with 2-0 Silk.  The cephalad suture is looped with the prior loop of 0 silk placed at the Nathanson site
 
-+--------------------------------------------------------------------------------+------------+------------+------------+------------+
-| Arm 1                                                                          | Arm 2A     | Arm 3      | Arm 4      |            |
-+================================================================================+============+============+============+============+
-| Fenestrated Bipolar \| Camera \| Hook  \| Tip Up Hook \| \| Cadiere Bipolar \| |            |            |            |            |
-+--------------------------------------------------------------------------------+------------+------------+------------+------------+
++---------------------+---------------+-----------------+---------------+
+| Arm 1               | Arm 2         | Arm 3           | Arm 4         |
++=====================+===============+=================+===============+
+| Fenestrated Bipolar | Camera        | Scissors OR\    | Tip Up        |
+|                     |               | Cadiere         |               |
++---------------------+---------------+-----------------+---------------+
 
-Pyloromyotomy is performed with camera in Port #2 and hook in Port #3 and Tip up in Port #4 (may need to move camera to midline)
+
+Pyloromyotomy is performed with camera in Port #2 and scissors in Port #3 and Tip up in Port #4 (may need to move camera to midline)
 
 ## Pyloric Drainage - Pyloroplasty (optional)
 
-Stay sutures of 2-0 silk are placed cephalad and caudad to pyorus. Pyloric incision is made with hook cautery. Defect is closed with 2-0 silk cut to 6" (have 2 sutures ready)
+Pyloric incision is made with scossors or hook cauterh. Defect is closed with 2-0 silk cut to 6" (have 2 sutures ready)
 
 ## Creation of Conduit
 
-"Ruler" is created by making 1cm marks with black marker on Tip up. Tip up grasper placed into Port #4. Robotic stapler is introduced into Port 2. Staple line starts \~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 3-4cm. Assistant retracts fundus towards left upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).
+Tip up grasper placed into Port #4. Robotic stapler is introduced into Port 1. Staple line starts \~5cm from pylorus. First firing with Green (4.8mm) stapler load followed by Blue loads. Conduit is created with goal of 4cm. Assistant retracts cut edge of specimen towards right upper quadrant. Vicryl suture is placed 2cm above the start of the staple line (approximately 7cm from pylorus).
 
 ## Preparation for ICG
 
@@ -228,7 +243,7 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 
 ## Final dissection of mediastinum
 
-Once conduit has been disconnected from specimen, additional dissection of mediastinum cam be performed. Once this is finished the penrose drain is pushed up into the mediastinum with the tails to the patient's right.
+Once conduit has been disconnected from specimen, additional dissection of mediastinum cam be performed. A penrose drain is tied around the esopahgus.  Once this is finished the penrose drain is pushed up into the mediastinum with the tails to the patient's right.
 
 ## Preparation of Conduit
 
@@ -238,7 +253,9 @@ Once conduit has been disconnected from specimen, additional dissection of media
 | Fenestrated Bipolar | Camera      | **SutureCut Large Needle Driver** | Tip Up      |
 +---------------------+-------------+-----------------------------------+-------------+
 
-JP1 (19Fr) is brought in through LLQ 5mm port. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest. The dot is left at the hiatus. Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). After conduit is sutured, arm 4 is removed and JP2 brought in through that port. JP2 is now sutured to the specimen.
+If there is entry into the left pleaura, JP1 (19Fr) is brought in through LLQ 5mm port. This is frequently not necessary. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest. The dot is left at the hiatus. 
+
+Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). After conduit is sutured, arm 4 is removed and JP2 brought in through that port. JP2 is now sutured to the specimen.
 
 Conduit is now evaluated with ICG and with robotic ultrasound
 
@@ -260,7 +277,7 @@ Once jejunostomy in place, JP1 and JP2 are routed lateral to jejunostomy and bro
 
 Robot is disengaged. Laparoscopic cords are placed in a basin on a ring stand to be reused for the thoracic portion.
 
-Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with staples. A Red Rubber Robinson catheter is placed through the Nathanson subxiphoid access site and covered with a Tegaderm. The RRR is used in case it is necessary to observe the transposition of the conduit from the abdomen.
+Abdomen is desufflated and ports removed. Port #2 site is closed by tying 0 Vicryl suture. Port sites are closed with staples. A Red Rubber Robinson catheter (or 8Fr feeding tube) is placed through the Nathanson subxiphoid access site and covered with a Tegaderm. The RRR is used in case it is necessary to observe the transposition of the conduit from the abdomen.
 
 ## ICG injection into groin.
 

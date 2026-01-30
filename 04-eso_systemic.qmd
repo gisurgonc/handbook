@@ -3,3 +3,5 @@
 ## Immunotherapy
 
 RAMONA trial: Ipi/Nivo second-line therapy for esophageal squamous cell carcinoma. [@eberte417]. 66 patients treated with ipi/nivo or nivo. Median survival 7.2 months, longer than historical controls. One treatment-related death.
+
+Zolbetuximab for Claudin 18.2 positive gastric or GE junction adenocarcinoma: 1072 patients were randomly assigned to the zolbetuximab group (537 patients) or the placebo group (535). The median overall survival was 16.4 months in the zolbetuximab group and 13.7 months in the placebo group
