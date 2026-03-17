@@ -1,0 +1,128 @@
+{
+  "index.qmd": {
+    "index.html": "c8505304"
+  },
+  "01-cmc_inpatient.qmd": {
+    "01-cmc_inpatient.html": "64c2d23f"
+  },
+  "01-pv_inpatient.qmd": {
+    "01-pv_inpatient.html": "573dbd9a"
+  },
+  "01-rounds.qmd": {
+    "01-rounds.html": "66c5092b"
+  },
+  "01-notes.qmd": {
+    "01-notes.html": "c56f2daf"
+  },
+  "01-signout.qmd": {
+    "01-signout.html": "c789979d"
+  },
+  "01-discharges.qmd": {
+    "01-discharges.html": "6eb1d615"
+  },
+  "01-students.qmd": {
+    "01-students.html": "36a5350c"
+  },
+  "01-clinic_salo.qmd": {
+    "01-clinic_salo.html": "e5af41c3"
+  },
+  "02-colorectal_hill.qmd": {
+    "02-colorectal_hill.html": "f738c101"
+  },
+  "02-cv_port_ij.qmd": {
+    "02-cv_port_ij.html": "64ea6d08"
+  },
+  "02-lap_jejunostomy.qmd": {
+    "02-lap_jejunostomy.html": "14fa0e03"
+  },
+  "02-lap_gastrostomy.qmd": {
+    "02-lap_gastrostomy.html": "8886c4da"
+  },
+  "02-robot_STgastrectomy.qmd": {
+    "02-robot_STgastrectomy.html": "03cb642f"
+  },
+  "02-esophagectomy_one_stage.qmd": {
+    "02-esophagectomy_one_stage.html": "c81f5f25"
+  },
+  "04-eso_overview.qmd": {
+    "04-eso_overview.html": "b43ca6fb"
+  },
+  "04-eso_objectives.qmd": {
+    "04-eso_objectives.html": "5c2ad99d"
+  },
+  "04-eso_objectives_chief.qmd": {
+    "04-eso_objectives_chief.html": "6ffb426d"
+  },
+  "04-eso_staging.qmd": {
+    "04-eso_staging.html": "19c366d0"
+  },
+  "04-eso_nutrition.qmd": {
+    "04-eso_nutrition.html": "e7846284"
+  },
+  "04-eso_surgery.qmd": {
+    "04-eso_surgery.html": "ca7f798f"
+  },
+  "references.qmd": {
+    "references.html": "2215f83b"
+  },
+  "05-gastric_CDH1.qmd": {
+    "05-gastric_CDH1.html": "e06a6bb7"
+  },
+  "03-postop_colectomy.qmd": {
+    "03-postop_colectomy.html": "11482a83"
+  },
+  "03-postop_lar.qmd": {
+    "03-postop_lar.html": "1f708441"
+  },
+  "03-postop_apr.qmd": {
+    "03-postop_apr.html": "8b3f7989"
+  },
+  "03-gastrostomy.qmd": {
+    "03-gastrostomy.html": "97778d56"
+  },
+  "03-jejunostomy.qmd": {
+    "03-jejunostomy.html": "d3cd9351"
+  },
+  "03-jejunostomy_diabetes.qmd": {
+    "03-jejunostomy_diabetes.html": "8be1ede5"
+  },
+  "03-icu_esophagectomy.qmd": {
+    "03-icu_esophagectomy.html": "926b87b5"
+  },
+  "03-ward_esophagectomy.qmd": {
+    "03-ward_esophagectomy.html": "6d6c53e0"
+  },
+  "04-eso_t0.qmd": {
+    "04-eso_t0.html": "97d86d09"
+  },
+  "04-eso_t1.qmd": {
+    "04-eso_t1.html": "307467f8"
+  },
+  "04-eso_t3.qmd": {
+    "04-eso_t3.html": "56c71f10"
+  },
+  "04-eso_m1.qmd": {
+    "04-eso_m1.html": "92791241"
+  },
+  "04-eso_dCRT.qmd": {
+    "04-eso_dCRT.html": "c72dc1fb"
+  },
+  "04-eso_salvage.qmd": {
+    "04-eso_salvage.html": "6587222b"
+  },
+  "04-eso_survivorship.qmd": {
+    "04-eso_survivorship.html": "4dfa56ff"
+  },
+  "04-eso_surveillance.qmd": {
+    "04-eso_surveillance.html": "80d791df"
+  },
+  "08-anal_SCCA.qmd": {
+    "08-anal_SCCA.html": "25e2f075"
+  },
+  "06-colectomy.qmd": {
+    "06-colectomy.html": "9db80f1d"
+  },
+  "10-sarcoma.qmd": {
+    "10-sarcoma.html": "867eb40b"
+  }
+}

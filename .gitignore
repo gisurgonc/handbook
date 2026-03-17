@@ -2,7 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rproj.user/
+.Rprofile
 
-/.quarto/
+
 _book/
 cheat_sheet.qmd
