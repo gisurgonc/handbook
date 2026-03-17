@@ -4,7 +4,9 @@
 .Ruserdata
 .Rproj.user/
 .Rprofile
+*.Rprojall
 
 
+/.quarto/
 _book/
 cheat_sheet.qmd
