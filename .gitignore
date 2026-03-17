@@ -3,10 +3,16 @@
 .RData
 .Ruserdata
 .Rproj.user/
-.Rprofile
-*.Rprojall
+.Rproj.user/**
 
 
+/_book/
 /.quarto/
-_book/
+/_site/
+/docs/
+/site_libs/
+/var/
+
+**/*.quarto_ipynb
+
 cheat_sheet.qmd
