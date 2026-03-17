@@ -36,7 +36,7 @@ Cohort of patients treated with primary surgery: risk factors for clinical under
 
 ## Primary Surgery {#primary_surgery}
 
-NCCN recommends PET scanS
+NCCN recommends PET scan
 
 Most common sites of metastasis are liver, lung, bones, adrenal.
 

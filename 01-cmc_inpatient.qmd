@@ -36,7 +36,7 @@ Postoperative patients are generally seen for a Transition of Care visit within 
 Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
 
 -   LCI CMC GI, Clerical
--   Kit Sluder (Salo and Squires)
+-   Matthew Carpenter (Salo and Squires)
 -   Rebecca Wicks (Hill)
 -   Brandon Galloway
 
@@ -67,4 +67,4 @@ The scheduler will respond with a message to the discharging resident AND to the
 
 ## Medicine Consults
 
-For medicine consults, please use "CHG Service Hospitalists CMC" for all *new* consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.
+For medicine consults, please use "CHG Service Hospitalists CMC" for all *new* consult requests

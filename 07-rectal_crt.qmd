@@ -1,12 +1,23 @@
 # Rectal Adjuvant Therapy {#RectalAdjuvant}
 
+## Trans-abdominal Rectal Surgery
+
+Trans-abdominal procedures include
+
+-   Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum
+-   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ
+-   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.
+
+## Rectal Adjuvant Therapy
+
 Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence. Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.
 
 ## Surgery $\Rightarrow$ CRT
 
 The original approach to adjuvant therapy for rectal cancer was surgery followed by chemoradiation.
 
-GI Tumor Study Group (GITSG) showed a reduction in local recurrence with postoperative chemotherapy + radiation
+GI Tumor Study Group (GITSG) 
+[@gastrointestinaltumorstudygroup1465] showed a reduction in local recurrence with postoperative chemotherapy + radiation
 
 NIH Consensus Conference in 1990 recommended adjuvant chemoradation after surgery
 
@@ -20,13 +31,13 @@ NSABP R-03 clinical trial [@roh5124] randomized 267 patients with T3 or T4 or no
 
 ## TME
 
-Total Mesorectal Excision (TME) was introduced to reduce risk of local recurrence by removal of the mesorectum and its lymph nodes.
+Total Mesorectal Excision (TME) [@heald1479] was introduced to reduce risk of local recurrence by removal of the mesorectum and its lymph nodes. 115 rectal cancer patients underwent surgery over 7.5 years, of whom 69 had an anastomosis below 5cm. At median followup of 4.2 years, there were 3 pelvic recurrences and no staple-line recurrences.
 
 ## TME + ChemoRT
 
-Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME[@kapiteijn638]. Radiation reduced local recurrence form 10.9% to 5.6%
+The Dutch trial (CKVO 95-04) found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] 
 
-The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
+The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
 
 ## Short-course RT
 
@@ -38,15 +49,15 @@ Stockholm III trial showed that short-course radiation therapy performed 4-8 wee
 
 ## Total Neoadjuvant
 
-A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery, Total Neoadjuvant Therapy (TNT)
+A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery, Total Neoadjuvant Therapy (TNT). The rationale is to increase the rates of completion of adjuvant chemotherapy, noting that many patients do no receive postoperative adjuvant chemotherapy due to delayed recovery from surgery. 
 
 RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
 
-PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.[@conroy702]
+PRODIGE 23 was designed to reduce distant metastasis and improve survival using TNT and randomized 461 patients with T3 or T4 rectal cancers to long-course radiation followed by surgery (standard therapy) vs induction chemotherapy with FOLFIRINOX followed by long-course radiation (TNT) followed by surgery. Rectal surgery with TME was mandatory. In both arms, adjuvant chemotherapy was administered after surgery. Up-front induction chemotherapy followed by chemoradiation was associated with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%. pCR rate was 28% with TNT vs 12% with standard therapy. [@conroy702]
 
 STELLAR trial [@jin1681] TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitabine. No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17% with TNT vs 13.9% with conventional chemoradiation. Positive margins (R1) occurred in 8.5% of TNT patients vs 12.5% in the conventional chemoRT group.
 
-OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also [@smith767]
+OPRA clinical trial was designed to optimize organ preservation [@garcia-aguilar2546]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also [@smith767]
 
 ## Selective Adjuvant
 
