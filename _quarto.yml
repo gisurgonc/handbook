@@ -100,8 +100,8 @@ bibliography: zotero.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: book
+  #pdf:
+    #documentclass: book
     #documentclass: scrbook
 
 editor: visual

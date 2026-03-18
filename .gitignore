@@ -1,4 +1,4 @@
-gi.Rproj.user
+Rproj.user
 .Rhistory
 .Rapp.history
 .RData
@@ -14,7 +14,6 @@ gi.Rproj.user
 .Renviron
 
 /_book/
-#/.quarto/
 /_site/
 /*_files/
 /docs/
