@@ -14,7 +14,7 @@ gi.Rproj.user
 .Renviron
 
 /_book/
-/.quarto/
+#/.quarto/
 /_site/
 /*_files/
 /docs/
@@ -26,3 +26,5 @@ gi.Rproj.user
 cheat_sheet.qmd
 
 
+
+/.quarto/
