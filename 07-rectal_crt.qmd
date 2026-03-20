@@ -16,8 +16,7 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 
 The original approach to adjuvant therapy for rectal cancer was surgery followed by chemoradiation.
 
-GI Tumor Study Group (GITSG) 
-[@gastrointestinaltumorstudygroup1465] showed a reduction in local recurrence with postoperative chemotherapy + radiation
+GI Tumor Study Group (GITSG) [@gastrointestinaltumorstudygroup1465] showed a reduction in local recurrence with postoperative chemotherapy + radiation
 
 NIH Consensus Conference in 1990 recommended adjuvant chemoradation after surgery
 
@@ -35,7 +34,7 @@ Total Mesorectal Excision (TME) [@heald1479] was introduced to reduce risk of lo
 
 ## TME + ChemoRT
 
-The Dutch trial (CKVO 95-04) found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] 
+The Dutch trial (CKVO 95-04) found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575]
 
 The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
 
@@ -49,7 +48,7 @@ Stockholm III trial showed that short-course radiation therapy performed 4-8 wee
 
 ## Total Neoadjuvant
 
-A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery, Total Neoadjuvant Therapy (TNT). The rationale is to increase the rates of completion of adjuvant chemotherapy, noting that many patients do no receive postoperative adjuvant chemotherapy due to delayed recovery from surgery. 
+A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery, Total Neoadjuvant Therapy (TNT). The rationale is to increase the rates of completion of adjuvant chemotherapy, noting that many patients do no receive postoperative adjuvant chemotherapy due to delayed recovery from surgery.
 
 RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
 
