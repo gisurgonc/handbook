@@ -50,6 +50,6 @@ Patients treated with neoadjuvant therapy who have a robust clinical response (a
 
 EGD is poor predictor of pCR due to low sensitivity[@sarkaria764]
 
-## GE Junction
+## GE Junction Tumors
 
 [@siewert260]
