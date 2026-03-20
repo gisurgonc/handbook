@@ -32,3 +32,4 @@ cheat_sheet.qmd
 # Addition 3/19
 
 /.quarto/
+.quarto/**
