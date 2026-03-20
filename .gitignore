@@ -7,6 +7,9 @@ Rproj.user
 .Rproj.user/
 .Rproj.user/**
 
+
+
+
 .DS_Store
 *_cache/
 /cache/
@@ -19,6 +22,8 @@ Rproj.user
 /docs/
 /site_libs/
 /var/
+
+.Rprofile
 
 **/*.quarto_ipynb
 
