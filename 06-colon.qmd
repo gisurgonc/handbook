@@ -57,3 +57,16 @@ USPTF recommends colon cancer screening from ages 45-75
 [ASCRS Guidelines for treatment of Colorectal Cancer 2022](https://fascrs.org/ascrs/media/files/downloads/2022-Colon-Cancer-CPG.pdf)
 
 [USPTF Colon Cancer Screening Guidelines](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening)
+
+# Total Colectomy SCORE {#TColectomyObj}
+
+[Total Colectomy SCORE](https://www.surgicalcore.org/modulecontent.aspx?id=1000583)
+
+**Indications**
+
+-   Subtotal Colectomy
+-   Proctocolectomy
+
+**Operative Anatomy**
+
+**Intraop Decision-making**

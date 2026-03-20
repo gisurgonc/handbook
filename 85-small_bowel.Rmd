@@ -1,7 +1,0 @@
-# (PART\*) Small Bowel {-}
-
-# Small Bowel Neoplasms
-
-## Carcinoid
-
-## Adenocarcinoma

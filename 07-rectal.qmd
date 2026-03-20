@@ -14,14 +14,8 @@
 
 ## Operative Tx
 
-### [Total mesorectal excision](767-rectal_surgery.html)
+### [Total mesorectal excision](07-rectal_surgery.qmd)
 
 ### Transanal excision
 
 ### Isolated liver mets
-
-## [Adjuvant therapy](770-rectal_RT.html)
-
--   Standard course chemoRT
--   Swedish preop RT
--   Total Neoadjuvant Therapy
