@@ -4,7 +4,9 @@ The service will host Third- and Fourth-year medical students from Wake Forest U
 
 Student notes should be forwarded to the patient's attending for attestation and signature.
 
-Third year students will have a 'green card' of diagnoses and procedures which need to be checked off (and signed) during the rotation. Students: Please remind the chief resident and attendings about items which remain to be completed..
+Third year students will have a 'green card' of diagnoses and procedures which need to be checked off (and signed) during the rotation. Students: Please remind the chief resident and attendings about items which remain to be completed.
+
+[Third-year Student Syllabus](pdfs/3SRG01_Surgery_-_Syllabus_AY26-27_MD28.pdf)
 
 ## Medical Student Duty Hours
 
@@ -16,7 +18,7 @@ Hours:
 Breaks: Students will
 
 -   have 4 24-hour periods free from assigned activities over a 4 week period
--   not work longer than 16 continuous hoours
+-   not work longer than 16 continuous hours
 -   have a 8 hour break from clinical/academic hours following a 16-hour shift
 -   can only work a maximum of 5 sequential overnight shifts
 
@@ -62,16 +64,17 @@ Holidays:
 
 ## Recommended Resources:[^01-students-2]
 
-[^01-students-2]: from Spring 2023 Surgery Syllabus
+[^01-students-2]: from Spring 2026 Surgery Syllabus
 
--   Essentials of general surgery, 6th edition, \[edited by\] Peter F. Lawrence
--   Surgery: A Case Based Clinical Review (Christian de Virgilio)
--   Kaplan Surgery Notes
--   NMS Surgery CaseBook
--   Surgical Recall (Lorne H. Blackbourne)
--   UWorld QBank
--   Aquifer / Wise-MD
--   OnlineMedEd
+Recommended Resources:
+o Essentials of general surgery, 6th edition, [edited by] Peter F. Lawrence
+o [American College of Surgeons, ASE Medical Student Core Curriculum](https://learning.facs.org/content/acs-ase-medical-student-core-curriculum)
+o Surgery: A Case Based Clinical Review (Christian de Virgilio)
+o Kaplan Surgery Notes
+o NMS Surgery CaseBook
+o Surgical Recall (Lorne H. Blackbourne)
+o Aquifer / Wise-MD
+o OnlineMedEd
 
 ## SHELF exam
 
@@ -92,3 +95,9 @@ Holidays:
 11. Obtain informed consent for tests and/or procedures
 12. Perform general procedures of a physician
 13. Identify system failures and contribute to a culture of safety and improvement
+
+[Attendance Policy](https://atrium.policytech.com/dotNet/documents/?docid=124431&app=pt&source=browse)
+
+[Duty Hour Policy](https://atrium.policytech.com/dotNet/documents/?docid=124430&app=pt&source=browse)
+
+[Mistreatment Policy](https://atrium.policytech.com/dotNet/documents/?docid=89959&app=pt&source=browse)
