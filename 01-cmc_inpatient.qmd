@@ -1,6 +1,6 @@
 # CMC Inpatient
 
-Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill/Salo/Squires) will cover Pineville and CMC. For efficiency, the services at each hospital will merge for patient care. Each patient will continue to have an attending surgeon, but rounding and inpatient care will be provided by the service.
+Colorectal Surgery (Davis/Smith) and GI Surgical Oncology (Hill/Salo/Squires) operate at CMC. For efficiency, the services at each hospital will merge for patient care. Each patient will continue to have an attending surgeon, but rounding and inpatient care will be provided by the service.
 
 ## Admissions
 
@@ -17,7 +17,6 @@ Attending rounds 4-5pm on Tuesday and 4-5pm on Thursday
 ## Resident Epic teams:
 
 -   GI Surgical Oncology Colorectal LCI CMC
--   Colorectal Surgery Pineville
 
 It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.
 

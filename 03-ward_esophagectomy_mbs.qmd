@@ -2,73 +2,33 @@
 
 See [Esophagectomy Postop Care](https://gisurgonc.github.io/talks/eso_postop_care.htm)
 
-**Modified Barium Swallow**
+## Modified Barium Swallow {#MBS}
 
 Once the nasogastric tube is removed, patients undergo modified barium swallow. The order set has two components, one for radiology and one for speech pathology. Indications are "Evaluate for aspiration after esophagectomy"
 
-Patient are tested with four different consistencies of barium:
+Patient are categorized by which consistency of barium they can safely tolerate:
 
--   Thin - consistency of water. If patients pass (no aspiration or penetration), they are a PASS and have no restriction
+-   Thin - consistency of water. If patients pass (no aspiration or penetration), they are a PASS and have no restrictions from a swallowing standpoint. They are started on water 1 oz/hour and medicines are switched to oral. If water tolerated, they are started on protein shakes 2oz/hour, then 4oz/hour in addition to Free Water protocol
+-   Slightly thick - consistency of some protein shakes. If patients fail thin liquids but pass for slightly thick, they are given water starting at 1oz/hour and progress to Free Water Protocol. They may take *slightly thick* protein shakes (starting at 2 oz/hour and progressing to 4oz/hour) but not other supplements. Medicines can be taken orally with a sip of water.
+-   Mildly thick. If patients fail thin and slightly thick but pass for mildly thick, they are given water 1oz/hour but no protein shakes or supplements. They may take medicines with a sip of mildly thick water.
+-   Moderately thick: If patients fail for mildly thick but pass for Moderately Thick, they are given water 1oz/hour but no protein shakes or supplements. They may take medicines with a sip of moderately thick water.
+-   Fail: If patients fail moderately thick liquids, are given water 1oz/hour but no protein shakes or supplements. Medicines are given via jejunostomy tube
 
-| Pass for Thin | Slightly Thick | Mildly Thick | Moderate | Fail |
-|---------------|----------------|--------------|----------|------|
-|               |                |              |          |      |
-|               |                |              |          |      |
-|               |                |              |          |      |
-|               |                |              |          |      |
-|               |                |              |          |      |
-|               |                |              |          |      |
-
-Obese patients (BMI\>30) are started on Vital High Protein at 20mL/hour and increased to a goal of 60mL/hour. Promote contains a more protein relative to carbohydrdates.
-
-Diarrhea in patients on tube feeds (especially nocturnal diarrhea) needs to be addressed. Despite STICU guidelines for nutrition in trauma patients, diarrhea (especially night-time diarrhea) is justification for alteration in tube feeds. See Diarrhea and Jejunostomy Feeding
-
-*Diabetic Patients*
-
-Patients on tube feeds are typically started on continuous (around-the-clock) tube feedings, and subsequently changed to a nocturnal regimen (typically 6pm to 10am). See [Jejunostomy Feeds in Diabetic Patients](#jejunostomy_diabetes)
-
-*‘Free Water’*
-
-In addition to tube feeds, most patients will receive ‘free’ water flushes through the jejunostomy. This is typically done as 240mL four times per day (for a total of 32oz)
-
-*Nasogastric Tubes*
-
-A silicone nasogastric tube (Covidien Salem Sump) is placed in all patients during surgery and the position confirmed by ultrasound intraoperatively. Tubes are positioned so that all 4 dots are outside. Gastric emptying is evaluated with upper GI prior to NG tube removal. Once extubated, upper GI is typically performed on the 2nd through 4th postoperative day. Conversely, patients who are intubated will keep their nasogastric tube until extubated.
-
-Upper GI is ordered as *FL Upper GI Track Single Contrast*
-
-*Drains*
-
--   JP1: 19Fr Blake drain in left pleura. The end of the tube is cut at an angle. The exit site the *usually* the most lateral/inferior drain.
--   JP2: 19Fr Blake drain in right pleura. The exit site is *usually* medial/superior to JP1
--   JP3: 19 Fr Blake drain in abdomen. If used, the exit site is *usually* most medial
--   JP4: 15Fr Blake drain in neck (for cervical incision)
--   JP5: 15Fr Blake drain in subcutaneous tissue of incision
-
-*Evaluation for Anastomotic leak*
-
-Drain amylase is an inexpensive, specific, and relatively sensitive test for anastomotic leak. Fluid from JP2 (right chest) is sent for “Body Fluid Amylase” starting on postoperative day #4 and continued until postoperative day 9. Drain amylase over 400IU/ml is considered positive and prompts a CT esophagram for confirmation. See also Evaluation for Anastomotic Leak
-
-**Renal** Total fluids (IV + tube feeds) are generally run at 75mL/hour. Foley catheter is removed on the first or second day after surgery. Some patients will need diuresis on the 3rd or 4th postoperative day
-
-**Heme** All patients require VTE prophylaxis with Lovenox.
-
-Preoperative anti-platelet agents are started on the first (aspirin) or second (Plavix) postoperative day if there is no excessive bleeding from the chest tube or JP drains. Patients on preoperative anticoagulation are transitioned to therapeutic Lovenox on the second postoperative day if no signs of bleeding.
-
-**ID** Prophylactic Cefazolin and Flagyl are administered for 24 hours and stopped
-
-## Labs
-
-Once on the ward, BMP and CBC are checked every other day. Patients with leukocytosis (\>12,000) are monitored with daily CBC until resolved.
-
-## Discharge Medicines
-
-Patients after esophagectomy typically go home with the following medicines:
-
-Proton pump inhibitors (will continue for 2 years) Oxycodone elixir via feeding tube. Current STOP guidelines dictate that patients receive no more than a 7 day supply of opiods at discharge Reglan 10mg po qid (will stop at 6 weeks post-op) Remeron 15mg qhs (will continue for 3 months post-op) Tylenol 1000mg q6 hours as elixir (pediatric form) Gabapentin 300mg as liquid tid x 14 days Metoprolol if started postoperatively (most patients). If not on beta blockers preoperatively, this will be cut in half at the first visit and stopped at the second postoperative visit. It is important to limit the use of medicines via jejunostomy in order to lower the risk of clogging the feeding tube. While liquid metoprolol is available for inpatients, it is not available from outpatient pharmacies.
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+|                | Pass for Thin | Slightly Thick | Mildly Thick            | Moderate                    | Fail          |
++================+===============+================+=========================+=============================+===============+
+| Water          | 1oz/hr        | 1oz/hr         | 1oz/hr                  | 1oz/hr                      | 1oz/hr        |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+| Protein shakes | 2oz/hour      | 2oz/hour \     | No                      | No                          | No            |
+|                |               | Slightly thick |                         |                             |               |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+| Medicines      | Ad lib        | Ad lib         | With mildly thick water | with Moderately thick water | None by mouth |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+|                | 70%           |                |                         | 15%                         | 15%           |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
 
 ## Diet at discharge
 
 -   70% will pass their MBS for thin liquids are and discharged on protein shakes
--   15% will pass for nectar thick but fail for this liquids. They are discharged taking medicines with a sip of thickened water but otherwise NPO
--   15% will fail for nectar thick and are discharged NPO with medicines via jejunostomy
+-   15% will pass for moderately thick but fail for thin liquids.
+-   15% will fail for moderately thick

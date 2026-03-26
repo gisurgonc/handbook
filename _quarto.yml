@@ -50,6 +50,7 @@ book:
       - 03-jejunostomy_diabetes.qmd
       - 03-icu_esophagectomy.qmd
       - 03-ward_esophagectomy.qmd
+      - 03-ward_esophagectomy_mbs.qmd
     - part: "Outpatient"
       chapters:
       - 31-outpt_jejunostomy.qmd

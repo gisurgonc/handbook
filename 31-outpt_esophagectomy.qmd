@@ -4,8 +4,6 @@ Patient are usually seen 7-10 days after hospital discharge.
 
 ## Postop Evaluation
 
-By system:
-
 **Neurologic - Pain control**
 
 Patient are typically discharged on:
@@ -82,7 +80,7 @@ Atrial fibrillation occurs in the postoperative period in 20% of patients. For t
 
 ## Special Cases
 
-### Weaning Tube Feeds in Diabetics  {#outpt_tubefeeds_diabetes}
+### Weaning Tube Feeds in Diabetics {#outpt_tubefeeds_diabetes}
 
 As outpatients begin eating more orally, their tube feeds are reduced.
 

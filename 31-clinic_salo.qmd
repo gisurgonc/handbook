@@ -1,4 +1,4 @@
-# Salo Clinic {#mie_postop}
+# Salo Clinic {#salo_clinic}
 
 ## Clinic Notes
 
@@ -49,27 +49,27 @@ Add details to problem list under "Overview"
 ### Cardiac
 
 -   History of heart attack?
-
 -   Coronary artery stent? When? Within the last 6mo?
-
 -   Is patient on antiplatelet therapy? Which agents?
-
 -   Date and location of most recent echocardiogram
-
     -   If aortic stenosis: Is valve area \<1cm\^2?
-
     -   If pulmonary hypertension: Peak pressures?
-
 -   Date and location of stress test. Is there ischemia? Who is cardiologist?
 
 ### Pulmonary
 
--   Prior diagnosis of COPD? Dyspnea at rest? Dyspnea walking up one flight of stairs?\
-    Has patient had recent pulmonary function tests? Is patient on steroids? History of prior lung surgery?
+-   Prior diagnosis of COPD? 
+-   Dyspnea at rest? 
+-   Dyspnea walking up one flight of stairs?\
+-   Has patient had recent pulmonary function tests? 
+-   Is patient on steroids? 
+-   History of prior lung surgery?
 
 ### GI
 
-Prior abdominal surgery? Hernia repair: Prosthetic mesh? Laparoscopic vs open inguinal hernia repair Prior history of bariatric surgery?
+- Prior abdominal surgery? 
+- Hernia repair: Prosthetic mesh? Laparoscopic vs open inguinal hernia repair 
+- Prior history of bariatric surgery?
 
 ### Endocrine
 
@@ -89,11 +89,8 @@ Who manages finances? Who makes medical decisions?
 Cardiopulmonary exam
 
 -   Carotid Bruit?
-
 -   Cervical Incision?
-
 -   Cardiac murmur
-
 -   Abdominal incisions - reconcile with past surgical history
 
 ### Assessment/Plan
@@ -110,5 +107,3 @@ Use notes template ".lcir" Select HPI text from prior note and use Copy Forward 
 -   Postop visit July 14, 2024: Doing well. Staples out. Advance diet. Metoprolol decreased to 25mg daily x 7days-\> stop.
 
 ***Sign notes and forward to Dr Salo***
-
-## 
