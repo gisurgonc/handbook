@@ -6,7 +6,7 @@ In most cases, a note will already have been started, so first check under the N
 
 If note exists, start a new note and use the template ".lcir"
 
-At the "HPI\>\>" prompt, enter history of present illness:
+At the "***" prompt, enter history of present illness:
 
 #### Identifier:
 
