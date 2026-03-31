@@ -333,7 +333,7 @@
     "href": "31-clinic_salo.html",
     "title": "12  Salo Clinic",
     "section": "",
-    "text": "12.1 Clinic Notes\nIn most cases, a note will already have been started, so first check under the Notes tab.\nIf note exists, start a new note and use the template “.lcir”\nAt the “HPI&gt;&gt;” prompt, enter history of present illness:",
+    "text": "12.1 Clinic Notes\nIn most cases, a note will already have been started, so first check under the Notes tab.\nIf note exists, start a new note and use the template “.lcir”\nAt the “***” prompt, enter history of present illness:",
     "crumbs": [
       "Preoperative Care",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Salo Clinic</span>"
