@@ -14,11 +14,11 @@ Patient are typically discharged on:
 
 If patients need additional oxycodone, this is renewed 2 weeks at a time, typically to correspond to a clinic day. Their current daily usage at the time of their first postop visit is estimated, and the first prescription plans for the same daily amount for a two week period. If they are taking 5mg of oxycodone 5 times per day, a prescription is prepared for 5 x 14 = 70 doses. The prescription is annotated "Two week supply at 5 doses per day". Patients are told the prescription will be renewed 2 weeks later at a reduced dose (typically one fewer dose per day). If the oxycodone bottle is lost, patients are prescribed tramadol (50mg q6 hours). Patient are told that if they need long-term pain management, they will need the assistance of their primary care provider.
 
-Patients are instructed that they are not "cleared" for driving as long as they are taking oxycodone
+Patients are instructed that they are not "cleared" for driving as long as they are taking oxycodone. They need to be pain-free prior to driving.
 
 **Cardiovascular**
 
-Beta blockers are used around the time of surgery to prevent atrial fibrillation. Management depends upon patients's preoperative medications:
+Beta blockers are used around the time of surgery to prevent atrial fibrillation. Management depends upon patient's preoperative medications:
 
 [Patients not on beta-blockers or antihypertensives prior to surgery]{.underline} are started on metoprolol 25 to 50mg enteral bid in the hospital. At their first postoperative visit, metoprolol is cut to once per day for one week, then stopped.
 
@@ -71,12 +71,6 @@ Patients on Plavix or anticoagulation should have had theses medicines restarted
 **ID**
 
 New fevers at home require investigation with CXR and CBC or CT chest/abdomen/pelvis as indicated
-
-## Medication Management
-
-Beta blockade and anti-hypertensives
-
-Atrial fibrillation occurs in the postoperative period in 20% of patients. For this reason, beta blockers are used to atrial fibrillation prevention. In the ICU, metoprolol is administered intravenously and is subsequently changed to enteral administration. Because metoprolol also lowers blood pressure, patients on home anti-hypertensives frequently have them held during their hospital stay (and after discharge). At the first postoperative visit, patients who were not treated with beta blockade preoperatively are generally switched from metoprolol back to their home anti-hypertensives.
 
 ## Special Cases
 
