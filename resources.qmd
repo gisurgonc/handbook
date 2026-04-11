@@ -1,0 +1,4 @@
+# Resources {.unnumbered}
+
+
+[GI Surgical Oncology Didatics](https://gisurgonc.github.io/talks/giso_lectures.html)

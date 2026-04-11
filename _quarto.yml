@@ -94,6 +94,7 @@ book:
     - part: "Sarcoma"
       chapters: 
       - 10-sarcoma.qmd
+    - resources.qmd
     - references.qmd
 
 bibliography: zotero.bib
