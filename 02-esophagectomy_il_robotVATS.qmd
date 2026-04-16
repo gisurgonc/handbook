@@ -83,6 +83,8 @@ Lower-body Bair Hugger at level of thighs, followed by single blanket and Velcro
 
 Hair clipped from abdomen, bilateral groins, right chest, and right axilla.
 
+Right side-rail cleared from the draw-sheet
+
 Pre-existing jejunostomy
 
 -   Prep into field
@@ -217,15 +219,14 @@ Penrose drain is placed around esophagus and secured with Weck clips. Dissection
 
 ## Pyloric Drainage - Pyloromyotomy
 
-Stay sutures are placed superior and inferior with 2-0 Silk.  The cephalad suture is looped with the prior loop of 0 silk placed at the Nathanson site
+Stay sutures are placed superior and inferior with 2-0 Silk. The cephalad suture is looped with the prior loop of 0 silk placed at the Nathanson site
 
-+---------------------+---------------+-----------------+---------------+
-| Arm 1               | Arm 2         | Arm 3           | Arm 4         |
-+=====================+===============+=================+===============+
-| Fenestrated Bipolar | Camera        | Scissors OR\    | Tip Up        |
-|                     |               | Cadiere         |               |
-+---------------------+---------------+-----------------+---------------+
-
++---------------------+---------------+---------------+---------------+
+| Arm 1               | Arm 2         | Arm 3         | Arm 4         |
++=====================+===============+===============+===============+
+| Fenestrated Bipolar | Camera        | Scissors OR\  | Tip Up        |
+|                     |               | Cadiere       |               |
++---------------------+---------------+---------------+---------------+
 
 Pyloromyotomy is performed with camera in Port #2 and scissors in Port #3 and Tip up in Port #4 (may need to move camera to midline)
 
@@ -243,7 +244,7 @@ One vial of ICG is resuspended with 10mL of water. 5mL of the solution is brough
 
 ## Final dissection of mediastinum
 
-Once conduit has been disconnected from specimen, additional dissection of mediastinum cam be performed. A penrose drain is tied around the esopahgus.  Once this is finished the penrose drain is pushed up into the mediastinum with the tails to the patient's right.
+Once conduit has been disconnected from specimen, additional dissection of mediastinum cam be performed. A penrose drain is tied around the esopahgus. Once this is finished the penrose drain is pushed up into the mediastinum with the tails to the patient's right.
 
 ## Preparation of Conduit
 
@@ -253,7 +254,7 @@ Once conduit has been disconnected from specimen, additional dissection of media
 | Fenestrated Bipolar | Camera      | **SutureCut Large Needle Driver** | Tip Up      |
 +---------------------+-------------+-----------------------------------+-------------+
 
-If there is entry into the left pleaura, JP1 (19Fr) is brought in through LLQ 5mm port. This is frequently not necessary. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest. The dot is left at the hiatus. 
+If there is entry into the left pleaura, JP1 (19Fr) is brought in through LLQ 5mm port. This is frequently not necessary. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest. The dot is left at the hiatus.
 
 Conduit is sutured to specimen with multiple sutures of 2-0 silk (cut to 6"). After conduit is sutured, arm 4 is removed and JP2 brought in through that port. JP2 is now sutured to the specimen.
 
