@@ -177,12 +177,12 @@ Bed positioned to 12 degrees reverse Trendelenberg and tipped to right 10 degree
 
 Robot docked: Anatomy: UPPER ABDOMINAL. Position: PATIENT RIGHT
 
-+---------------------+---------------+-----------------+---------------+
-| Arm 1               | Arm 2         | Arm 3           | Arm 4         |
-+=====================+===============+=================+===============+
-| Fenestrated Bipolar | Camera        | Synchroseal OR\ | Tip Up        |
-|                     |               | Vessel Sealer   |               |
-+---------------------+---------------+-----------------+---------------+
++---------------------+--------+-----------------+--------+
+| Arm 1               | Arm 2  | Arm 3           | Arm 4  |
++=====================+========+=================+========+
+| Fenestrated Bipolar | Camera | Synchroseal OR\ | Tip Up |
+|                     |        | Vessel Sealer   |        |
++---------------------+--------+-----------------+--------+
 
 ### Distal Greater Curve
 
@@ -204,12 +204,12 @@ Posterior gastric dissection. Dissection is carried posterior towards most super
 
 ## Proximal Greater Curve
 
-+--------------+---------------------+--------------+---------------+
-| Arm 1        | Arm 2               | Arm 3        | Arm 4         |
-+==============+=====================+==============+===============+
-| Tip Up       | Fenestrated Bipolar | Camera       | Synchroseal\  |
-|              |                     |              | Vessel Sealer |
-+--------------+---------------------+--------------+---------------+
++--------+---------------------+--------+---------------+
+| Arm 1  | Arm 2               | Arm 3  | Arm 4         |
++========+=====================+========+===============+
+| Tip Up | Fenestrated Bipolar | Camera | Synchroseal\  |
+|        |                     |        | Vessel Sealer |
++--------+---------------------+--------+---------------+
 
 Dissection proceeds proximally, dividing the left gastroepiploic artery near its orgin. Posterior dissection from the pancreas and splenic artery is performed, followed by division of short gastric vessels
 
@@ -221,12 +221,12 @@ Penrose drain is placed around esophagus and secured with Weck clips. Dissection
 
 Stay sutures are placed superior and inferior with 2-0 Silk. The cephalad suture is looped with the prior loop of 0 silk placed at the Nathanson site
 
-+---------------------+---------------+---------------+---------------+
-| Arm 1               | Arm 2         | Arm 3         | Arm 4         |
-+=====================+===============+===============+===============+
-| Fenestrated Bipolar | Camera        | Scissors OR\  | Tip Up        |
-|                     |               | Cadiere       |               |
-+---------------------+---------------+---------------+---------------+
++---------------------+--------+--------------+--------+
+| Arm 1               | Arm 2  | Arm 3        | Arm 4  |
++=====================+========+==============+========+
+| Fenestrated Bipolar | Camera | Scissors OR\ | Tip Up |
+|                     |        | Cadiere      |        |
++---------------------+--------+--------------+--------+
 
 Pyloromyotomy is performed with camera in Port #2 and scissors in Port #3 and Tip up in Port #4 (may need to move camera to midline)
 
@@ -248,11 +248,9 @@ Once conduit has been disconnected from specimen, additional dissection of media
 
 ## Preparation of Conduit
 
-+---------------------+-------------+-----------------------------------+-------------+
-| Arm 1               | Arm 2A      | Arm 3                             | Arm 4       |
-+=====================+=============+===================================+=============+
-| Fenestrated Bipolar | Camera      | **SutureCut Large Needle Driver** | Tip Up      |
-+---------------------+-------------+-----------------------------------+-------------+
+| Arm 1               | Arm 2A | Arm 3                             | Arm 4  |
+|---------------------|--------|-----------------------------------|--------|
+| Fenestrated Bipolar | Camera | **SutureCut Large Needle Driver** | Tip Up |
 
 If there is entry into the left pleaura, JP1 (19Fr) is brought in through LLQ 5mm port. This is frequently not necessary. Tip Up retracts left crus laterally and drain is placed in left pleura. All of the fluted portion is placed into the chest. The dot is left at the hiatus.
 
@@ -262,11 +260,9 @@ Conduit is now evaluated with ICG and with robotic ultrasound
 
 ## Jejunostomy
 
-+---------------------+----------------+-----------------------------------+-------------+
-| Arm 1               | Arm 2          | Arm 2A                            | Arm 3       |
-+=====================+================+===================================+=============+
-| Fenestrated Bipolar | Camera (30 up) | **SutureCut Large Needle Driver** | Tip Up      |
-+---------------------+----------------+-----------------------------------+-------------+
+| Arm 1               | Arm 2          | Arm 2A                            | Arm 3  |
+|---------------------|----------------|-----------------------------------|--------|
+| Fenestrated Bipolar | Camera (30 up) | **SutureCut Large Needle Driver** | Tip Up |
 
 Prior suture on jejunum is identified and grasped with suture passer at the pre-marked site. Two passes are made with the suture passer similar to transfascial sutures on a Stoppa hernia repair. The 22Ga needle from a **micropuncture kit** is introduced through the pre-marked site to extend 1cm into the abdominal cavity. 3-0 Stratafix on RB-1 is introduced with a non-cutting needle driver into Port 3. Insufflation pressure reduced to 8m Hg. Jejunum is sutured to abdominal wall starting at 10:00. Pursestring is run to 2:00 position and the J wire from the micropuncture kit threaded into the small bowel. Correct placement within the bowel lumen is confirmed by rapid insufflation of air through the needle. The micropuncture dilator is next used, followed by the J wire from a 14Fr Cook introducer kit. The tract is dilate with a 14FR dilator followed by 18Fr dilator introduced and left in place. Pursestring continues around proposed site and then proceeds cephalad to provide a broader area of fixation between bowel and abdominal wall. Tract is dilated with 18Fr dilator. 14Fr MIC jejunostomy 8200-14 (trimmed to 10cm) is introduced through 18Fr sheath and positioned within the bowel. 5mL of water in a slip-tip (non-Luer) 10ml syringe (from the Cook introducer kit) are instilled into the jejunostomy balloon.
 
