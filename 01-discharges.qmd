@@ -12,9 +12,9 @@ Note that in many cases narcotics for patients living in South Carolina a prescr
 
 If followup appointments in additional to surgical followup are needed, these should be designated on the discharge orders. Particularly:
 
--   Primary Care Physician
--   Cardiologist (if new cardiac medicines)
--   Co-surgeons (Urology, Thoracic Surgery, GYN)
+- Primary Care Physician
+- Cardiologist (if new cardiac medicines)
+- Co-surgeons (Urology, Thoracic Surgery, GYN)
 
 **Discharge Summary**
 

@@ -12,11 +12,11 @@ Patient List is CMC GI Surgical Oncology
 
 ## Rounds
 
-Attending rounds 4-5pm on Tuesday and 4-5pm on Thursday
+Attending rounds 6am Monday - Friday
 
 ## Resident Epic teams:
 
--   GI Surgical Oncology Colorectal LCI CMC
+- GI Surgical Oncology Colorectal LCI CMC
 
 It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.
 
@@ -28,27 +28,29 @@ Established patients and directed should be discussed with the attending surgeon
 
 All new inpatient, PCL, and ER consults will be evaluated by the Red Team instead of the surgical oncology team. Established patients will be directed to either the Red Team or surgical oncology team depending on the time since surgery. Those within the three-month global period after surgery will continue to be evaluated by the surgical oncology team, while patients outside of the 90-day global period will be managed by the Red Team. This change aims to streamline patient care. All established patients will be listed on the surgical oncology list, though residents will not be responsible for management if the Red Team is primary.
 
+Benign consults are staffed with Drs Davis or Smith. Colorectal cancer consults are staffed with the rounding attending. Esophageal cancer consults are staffed with Dr Salo. Gastric cancer consults are staffed with Drs Hill, Salo, or Squires depending upon the rounding attending.
+
 ## Postop Clinic Appt
 
 Postoperative patients are generally seen for a Transition of Care visit within the first week
 
 Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
 
--   LCI CMC GI, Clerical
--   Matthew Carpenter (Salo and Squires)
--   Rebecca Wicks (Hill)
--   Brandon Galloway
+- LCI CMC GI, Clerical
+- Matthew Carpenter (Salo and Squires)
+- Rebecca Wicks (Hill)
+- Brandon Galloway
 
 Please include the following information in the Epic Message:
 
--   Name of attending
--   Ward from which the patient is being discharged
--   Desired date for appt \@ same time
--   Need for bloodwork at first visit
--   Other studies to be done after discharge
-    -   Upper GI
-    -   Chest X-ray
-    -   Modified Barium Swallow
+- Name of attending
+- Ward from which the patient is being discharged
+- Desired date for appt \@ same time
+- Need for bloodwork at first visit
+- Other studies to be done after discharge
+  - Upper GI
+  - Chest X-ray
+  - Modified Barium Swallow
 
 Clinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
 
@@ -56,13 +58,13 @@ For patients likely to go home over the weekend or holidays, please plan to send
 
 The scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:
 
--   11Tower: Sharon Hood
+- 11Tower: Sharon Hood
 
 ## Conferences
 
--   GI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)
--   Resident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
--   Bone and Soft Tissue Conf Fri 7-8am (via Teams)
+- GI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)
+- Resident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
+- Bone and Soft Tissue Conf Fri 7-8am (via Teams)
 
 ## Medicine Consults
 
