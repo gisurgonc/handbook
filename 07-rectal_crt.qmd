@@ -2,11 +2,11 @@
 
 ## Trans-abdominal Rectal Surgery
 
-Trans-abdominal procedures include
-
--   Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum
--   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ
--   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.
+- Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum
+\
+- Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ
+\
+- Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.
 
 ## Rectal Adjuvant Therapy
 
@@ -50,11 +50,9 @@ Stockholm III trial showed that short-course radiation therapy performed 4-8 wee
 
 A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery, Total Neoadjuvant Therapy (TNT). The rationale is to increase the rates of completion of adjuvant chemotherapy, noting that many patients do no receive postoperative adjuvant chemotherapy due to delayed recovery from surgery.
 
-RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
+RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery followed by chemotherapy vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
 
-PRODIGE 23 was designed to reduce distant metastasis and improve survival using TNT and randomized 461 patients with T3 or T4 rectal cancers to long-course radiation followed by surgery (standard therapy) vs induction chemotherapy with FOLFIRINOX followed by long-course radiation (TNT) followed by surgery. Rectal surgery with TME was mandatory. In both arms, adjuvant chemotherapy was administered after surgery. Up-front induction chemotherapy followed by chemoradiation was associated with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%. pCR rate was 28% with TNT vs 12% with standard therapy. [@conroy702]
-
-STELLAR trial [@jin1681] TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitabine. No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17% with TNT vs 13.9% with conventional chemoradiation. Positive margins (R1) occurred in 8.5% of TNT patients vs 12.5% in the conventional chemoRT group.
+PRODIGE 23 was designed to reduce distant metastasis and improve survival using TNT and randomized 461 patients with T3 or T4 rectal cancers to long-course radiation followed by surgery followed by chemotherapy (standard therapy) vs induction chemotherapy with FOLFIRINOX followed by long-course radiation (TNT) followed by surgery. Rectal surgery with TME was mandatory. In both arms, adjuvant chemotherapy was administered after surgery. Up-front induction chemotherapy followed by chemoradiation was associated with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%. pCR rate was 28% with TNT vs 12% with standard therapy. [@conroy702]
 
 OPRA clinical trial was designed to optimize organ preservation [@garcia-aguilar2546]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also [@smith767]
 
@@ -66,7 +64,7 @@ MERCURY study group has examined selective approaches to adjuvant chemoradiation
 
 German OCUM group [@kreis25] [@ruppert1519]
 
-Canadian \[Quicksilver Trial\] (https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134)
+Canadian \[Quicksilver Trial\](https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134)
 
 ## Neoadjuvant ImmunoTx
 
@@ -76,7 +74,7 @@ MSKCC trial of neoadjuvant PD-L1 blockade with 6 months of dostarlimab for 12 pa
 
 PICC trial [@hu38] Chinese trial of PD-L1 blockade with neoadjuvant toripalimab + colecoxib vs toripalimab for 3 months in 34 patients with MMR-deficient locally-advanced (T3/4 or N+) colorectal cancer. All patients were then treated with surgery. Pathologic complete response in 88% of dual-therapy patients and 65% of monotherapy. Grade 3 toxicity in 1/34 patients. Previous neoadjuvant chemo in 25%. Rectal cancer in 18%.
 
-NICHE trial [@chalabi1949] 115 patients with dMMR locally-advanced colon cancer treated with a neoadjuvant immunotherapy. Pathologic complete response in 68%. No recurrences with a median followo up of 26 months.
+NICHE trial [@chalabi1949] 115 patients with dMMR locally-advanced *colon* cancer treated with a neoadjuvant immunotherapy. Pathologic complete response in 68%. No recurrences with a median followo up of 26 months.
 
 ## Neoadjuvant Chemotherapy
 
