@@ -51,9 +51,7 @@ Resume all home medications
 
 No therapeutic anti-coagulation
 
-Diabetes medicines
-- Prefer to resume all oral diabetes meds
-- Sliding-scale insulin ordered for all diabetics
+Diabetes medicines - Prefer to resume all oral diabetes meds - Sliding-scale insulin ordered for all diabetics
 
 **Postop Day 1**
 
@@ -65,7 +63,7 @@ Remove Foley
 
 d/c PCA (unless open incision)
 
-Out of bed > 6 hrs
+Out of bed \> 6 hrs
 
 Diet: low residue
 
@@ -95,7 +93,7 @@ Patient education
 
 - No IV fluids unless indicated
 - No labs unless indicated
-- OOB >6 hrs
+- OOB \>6 hrs
 - No PT unless going to rehab or SNF (ask Hill first)
 - Pain management: same as POD#1
 
@@ -128,10 +126,10 @@ Give estimated date of discharge
 - IVF
   - Consider bolus of IV fluids
   - Consider maintenance IV if we feel won’t resolve soon
-- Labs 
+- Labs
   - No labs unless indicated
   - Consider ordering QOD Chem7 if prolonged ileus
-- OOB >6 hrs
+- OOB \>6 hrs
   - No PT unless likely to go to rehab or SNIF (ask Hill first)
 - Pain management: Same as POD#1
 - Afternoon rounds
@@ -145,5 +143,3 @@ Check for dehydration
 Patient education
 
 Give estimated date of discharge
-
-

@@ -1,0 +1,34 @@
+# Swallowing Evaluation
+
+See [Esophagectomy Postop Care](https://gisurgonc.github.io/talks/eso_postop_care.htm)
+
+## Modified Barium Swallow {#MBS}
+
+Once the nasogastric tube is removed, patients undergo modified barium swallow. The order set has two components, one for radiology and one for speech pathology. Indications are "Evaluate for aspiration after esophagectomy"
+
+Patient are categorized by which consistency of barium they can safely tolerate:
+
+-   Thin - consistency of water. If patients pass (no aspiration or penetration), they are a PASS and have no restrictions from a swallowing standpoint. They are started on water 1 oz/hour and medicines are switched to oral. If water tolerated, they are started on protein shakes 2oz/hour, then 4oz/hour in addition to Free Water protocol
+-   Slightly thick - consistency of some protein shakes. If patients fail thin liquids but pass for slightly thick, they are given water starting at 1oz/hour and progress to Free Water Protocol. They may take *slightly thick* protein shakes (starting at 2 oz/hour and progressing to 4oz/hour) but not other supplements. Medicines can be taken orally with a sip of water.
+-   Mildly thick. If patients fail thin and slightly thick but pass for mildly thick, they are given water 1oz/hour but no protein shakes or supplements. They may take medicines with a sip of mildly thick water.
+-   Moderately thick: If patients fail for mildly thick but pass for Moderately Thick, they are given water 1oz/hour but no protein shakes or supplements. They may take medicines with a sip of moderately thick water.
+-   Fail: If patients fail moderately thick liquids, are given water 1oz/hour but no protein shakes or supplements. Medicines are given via jejunostomy tube
+
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+|                | Pass for Thin | Slightly Thick | Mildly Thick            | Moderate                    | Fail          |
++================+===============+================+=========================+=============================+===============+
+| Water          | 1oz/hr        | 1oz/hr         | 1oz/hr                  | 1oz/hr                      | 1oz/hr        |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+| Protein shakes | 2oz/hour      | 2oz/hour \     | No                      | No                          | No            |
+|                |               | Slightly thick |                         |                             |               |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+| Medicines      | Ad lib        | Ad lib         | With mildly thick water | with Moderately thick water | None by mouth |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+|                | 70%           |                |                         | 15%                         | 15%           |
++----------------+---------------+----------------+-------------------------+-----------------------------+---------------+
+
+## Diet at discharge
+
+-   70% will pass their MBS for thin liquids are and discharged on protein shakes
+-   15% will pass for moderately thick but fail for thin liquids.
+-   15% will fail for moderately thick

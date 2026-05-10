@@ -1,26 +1,5 @@
 # Preop Esophageal Ca {#preop_esophageal}
 
-Patient who present with esophageal and GE junction diagnoses present in several manners, which determine their evaluation.
+See [Esophageal Cancer Lecture](https://gisurgonc.github.io/talks/eso_ca_rx_talk.htm)
 
-- Superficial tumors 
-
-These patients typically have Barrett's esophagus and are found to have small tumors on surveillence endoscopy.  These are considered [superficial].
-
-Workup typically involved endosopic ultrasound to determine T stage and endoscopic mucosal resection [EMR] which can be both diagnostic and therapeutic for T1 tumors.
-
-- Tumors without dysphagia
-
-Patients with minimal symptoms who may present with upper GI bleeding or vague symptoms but have no difficulty swallowing. Thesea are considered [early stage]. Workup typically involves PET and endoscopic ultrasound (EUS). Some patients will undergo primary surgery.
-
-- Tumors with dysphagia
-
-Patients with esophageal or GE junction tumors who present with dysphagia are considered [locally-advanced]. Workup involves PET scan.  Most patients will undergo neoadjuvant therapy. Many will need a central venous port and some will need a feeding tube. Most need a referral for medical oncology.
-
-- Tumors with metastatic disease
-
-Patients who have signs of metastatic disease on CT or PET are considered [metastatic]. These patient typically need a central venous port of chemotherapy.
-
-## Medical Evaluation
-
-## Restaging
-
+## 
