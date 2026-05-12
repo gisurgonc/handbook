@@ -44,50 +44,34 @@ Fluids: Goal of 3 liters total in first 24 hours
   - Tylenol 1gm q6 ATC
   - Gabapentin 300mg TID
   - Tramadol PRN
-
-Resume all baseline pain meds
-
-Resume all home medications
-
-No therapeutic anti-coagulation
-
-Diabetes medicines - Prefer to resume all oral diabetes meds - Sliding-scale insulin ordered for all diabetics
+- Resume all baseline pain meds
+- Resume all home medications
+- No therapeutic anti-coagulation
+- Diabetes medicines
+  - Prefer to resume all oral diabetes meds 
+  - Sliding-scale insulin ordered for all diabetics
 
 **Postop Day 1**
 
-Labs: K+ and CBC only
-
-Heparin lock IV
-
-Remove Foley
-
-d/c PCA (unless open incision)
-
-Out of bed \> 6 hrs
-
-Diet: low residue
-
-Pain management
-
-d/c PCA
-
-Tylenol
-
-Gabapentin 300 tid
-
-Tramadol
-
-Home meds
-
-Oxy if lots of pain
+- Labs: K+ and CBC only
+- Heparin lock IV
+- Remove Foley
+- d/c PCA (unless open incision)
+- Out of bed \> 6 hrs
+- Diet: low residue
+- Pain management
+- d/c PCA
+- Tylenol
+- Gabapentin 300 tid
+- Tramadol
+- Home meds
+- Oxy if lots of pain
 
 Afternoon rounds
 
-Check patient 2-4PM
-
-Ambulation 2x’s by PM
-
-Patient education
+- Check patient 2-4PM
+- Ambulation 2x’s by PM
+- Patient education
 
 **Postop Day 2**
 
@@ -99,27 +83,16 @@ Patient education
 
 Discharge planning
 
-Consider early D/C (median LOS=2d)
-
-Otherwise plan
-
-Patient
-
-Nursing
+- Consider early D/C (median LOS=2d)
 
 Afternoon rounds
 
-Possible home today!
-
-Check patient 2-3PM
-
-Ambulation 2x’s by PM
-
-Check for dehydration
-
-Patient education
-
-Give estimated date of discharge
+- Possible home today!
+- Check patient 2-3PM
+- Ambulation 2x’s by PM
+- Check for dehydration
+- Patient education
+- Give estimated date of discharge
 
 **Postop Day 3-5**
 
@@ -135,11 +108,7 @@ Give estimated date of discharge
 - Afternoon rounds
   - Possible home today!
   - Check patient 2-3PM
-
-Ambulation 2x’s by PM
-
-Check for dehydration
-
-Patient education
-
-Give estimated date of discharge
+  - Ambulation 2x’s by PM
+  - Check for dehydration
+  - Patient education
+  - Give estimated date of discharge
