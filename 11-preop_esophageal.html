@@ -23,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -673,9 +692,9 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 <p>Esophagectomy in a cirrhotic patient with a MELD score of 10 carries substantially elevated operative mortality compared to noncirrhotic patients, and notably, a MELD score &gt;9 has been identified as a critical threshold for worse outcomes after esophagectomy specifically.</p>
 <p>Esophagectomy-Specific Data</p>
-<p>In a single-center matched-cohort study <span class="citation" data-cites="valmasoni763">(<a href="references.html#ref-valmasoni763" role="doc-biblioref"><strong>valmasoni763?</strong></a>)</span> (73 cirrhotic patients from 3,445 esophageal cancer patients), cirrhotic patients with a MELD score &gt;9 had a significantly worse postoperative course and poorer 5-year survival (p = 0.004) compared to those with MELD ≤9, who had outcomes similar to noncirrhotic patients. overall 90-day mortality rate was 15.1 % in the cirrhotic group (MELD &gt;9) and 8.9 % in the No-CIRR group MELD ≤9(p = 0.309). The 5-year survival rates were comparable in the two groups (p = 0.397).</p>
-<p>A smaller single-center series (14 cirrhotic patients, most with MELD ≤9) reported strikingly high 30-day mortality of 57.1% and 90-day mortality of 64.3% among cirrhotic patients undergoing esophagectomy, compared to 7.7% and 9.6% in noncirrhotic patients. Notably, the MELD and Child scores failed to predict perioperative mortality in this cohort; instead, bilirubin (auROC 94.4%) and INR (auROC 90.0%) were the strongest individual predictors. <span class="citation" data-cites="grasse0265093">(<a href="references.html#ref-grasse0265093" role="doc-biblioref"><strong>grasse0265093?</strong></a>)</span></p>
-<p>A meta-analysis of 12 observational studies (1,938 patients) confirmed that cirrhotic patients undergoing esophagectomy have 3-fold higher 30-day mortality (OR 3.04; 95% CI 1.71–5.39), along with significantly higher rates of pulmonary complications (OR 2.60), anastomotic leak (OR 2.81), and ascites (OR 37.77). Child-Pugh A patients had significantly lower 30-day mortality than Child-Pugh B patients (OR 0.14; 95% CI 0.04–0.54). <span class="citation" data-cites="schizas865">(<a href="references.html#ref-schizas865" role="doc-biblioref"><strong>schizas865?</strong></a>)</span></p>
+<p>In a single-center matched-cohort study <span class="citation" data-cites="valmasoni763">(<a href="references.html#ref-valmasoni763" role="doc-biblioref">Valmasoni et al. 2017</a>)</span> (73 cirrhotic patients from 3,445 esophageal cancer patients), cirrhotic patients with a MELD score &gt;9 had a significantly worse postoperative course and poorer 5-year survival (p = 0.004) compared to those with MELD ≤9, who had outcomes similar to noncirrhotic patients. overall 90-day mortality rate was 15.1 % in the cirrhotic group (MELD &gt;9) and 8.9 % in the No-CIRR group MELD ≤9(p = 0.309). The 5-year survival rates were comparable in the two groups (p = 0.397).</p>
+<p>A smaller single-center series (14 cirrhotic patients, most with MELD ≤9) reported strikingly high 30-day mortality of 57.1% and 90-day mortality of 64.3% among cirrhotic patients undergoing esophagectomy, compared to 7.7% and 9.6% in noncirrhotic patients. Notably, the MELD and Child scores failed to predict perioperative mortality in this cohort; instead, bilirubin (auROC 94.4%) and INR (auROC 90.0%) were the strongest individual predictors. <span class="citation" data-cites="grasse0265093">(<a href="references.html#ref-grasse0265093" role="doc-biblioref">Grass et al. 2022</a>)</span></p>
+<p>A meta-analysis of 12 observational studies (1,938 patients) confirmed that cirrhotic patients undergoing esophagectomy have 3-fold higher 30-day mortality (OR 3.04; 95% CI 1.71–5.39), along with significantly higher rates of pulmonary complications (OR 2.60), anastomotic leak (OR 2.81), and ascites (OR 37.77). Child-Pugh A patients had significantly lower 30-day mortality than Child-Pugh B patients (OR 0.14; 95% CI 0.04–0.54). <span class="citation" data-cites="schizas865">(<a href="references.html#ref-schizas865" role="doc-biblioref">Schizas et al. 2020</a>)</span></p>
 <p>Even among Child-Pugh A cirrhotic patients undergoing esophagectomy, a propensity-matched study showed significantly higher rates of postoperative pneumonia (22% vs.&nbsp;9%), pleural effusion (38% vs.&nbsp;20%), and chylothorax (10% vs.&nbsp;1%) compared to noncirrhotic patients. [5]</p>
 <p>Risk Stratification Considerations</p>
 <p>The 2025 ACG Clinical Guideline on Perioperative Risk Assessment in Cirrhosis emphasizes that MELD score alone is inadequate for surgical risk prediction because it does not account for surgery type or nonhepatic comorbidities. The VOCAL-Penn Score is recommended as the preferred cirrhosis-specific surgical risk calculator, as it incorporates surgery type and has been shown to outperform the Mayo Surgical Risk Score in discrimination and calibration. [6] For a complex procedure like esophagectomy, this distinction is particularly important.</p>
@@ -687,6 +706,17 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-grasse0265093" class="csl-entry" role="listitem">
+Grass, Julia K., Natalie Küsters, Marius Kemper, et al. 2022. <span>“Risk Stratification of Cirrhotic Patients Undergoing Esophagectomy for Esophageal Cancer: <span>A</span> Single-Centre Experience.”</span> <em>PloS One</em> 17 (3): e0265093. <a href="https://doi.org/10.1371/journal.pone.0265093">https://doi.org/10.1371/journal.pone.0265093</a>.
+</div>
+<div id="ref-schizas865" class="csl-entry" role="listitem">
+Schizas, Dimitrios, Stefanos Giannopoulos, Michail Vailas, et al. 2020. <span>“The Impact of Cirrhosis on Esophageal Cancer Surgery: <span>An</span> up-to-Date Meta-Analysis.”</span> <em>American Journal of Surgery</em> 220 (4): 865–72. <a href="https://doi.org/10.1016/j.amjsurg.2020.02.035">https://doi.org/10.1016/j.amjsurg.2020.02.035</a>.
+</div>
+<div id="ref-valmasoni763" class="csl-entry" role="listitem">
+Valmasoni, Michele, Elisa Sefora Pierobon, Carlo Alberto De Pasqual, et al. 2017. <span>“Esophageal <span>Cancer</span> <span>Surgery</span> for <span>Patients</span> with <span>Concomitant</span> <span>Liver</span> <span>Cirrhosis</span>: <span>A</span> <span>Single</span>-<span>Center</span> <span>Matched</span>-<span>Cohort</span> <span>Study</span>.”</span> <em>Annals of Surgical Oncology</em> 24 (3): 763–69. <a href="https://doi.org/10.1245/s10434-016-5610-8">https://doi.org/10.1245/s10434-016-5610-8</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
