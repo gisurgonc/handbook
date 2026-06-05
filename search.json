@@ -322,7 +322,18 @@
     "href": "11-preop_esophageal.html",
     "title": "11  Preop Esophageal Ca",
     "section": "",
-    "text": "11.1\nSee Esophageal Cancer Lecture",
+    "text": "11.1 Operative Morality with Liver Disease\nSee Esophageal Cancer Lecture\n30-day postoperative mortality: Approximately 1–2% per MELD point below a score of 20, translating to a roughly ~10% estimated 30-day mortality for nontransplant intraabdominal surgery based on the linear model described by Northup et al. (1 percentage point increase per MELD point). [1-2]\n90-day postoperative mortality: In a study of 490 cirrhotic patients undergoing surgery under general anesthesia, the 90-day mortality for MELD scores 10–14 was 8.9%, compared to 3.5% for MELD 6–9. A MELD score ≥10 was an independent risk factor for 90-day mortality on multivariable analysis. [3]\nHepatectomy: For patients undergoing hepatic resection, 30-day mortality was 1.8% for MELD 0–9 and 6.9% for MELD 10–19, with a 16% increase in odds of mortality per each additional MELD point. [4]\nEmergency general surgery: Compared to MELD 6–9.9, patients with MELD 10–19.9 had 2-fold higher unadjusted odds of 90-day mortality (OR 1.99; 95% CI 1.25–3.16), though after adjustment for confounders this was attenuated (adjusted OR 1.45; 95% CI 0.89–2.38). [5]\nKey context: Patients with a MELD score up to 12 are generally considered at very low risk of mortality at 3 months, even with major surgical procedures. [6] A MELD score &gt;14 is a better threshold than Child-Pugh class C for predicting high surgical risk. [1] The Mayo Clinic has developed an online surgical risk calculator that incorporates MELD score, age, and ASA class for more individualized risk estimation. [1]\nThe type of surgery significantly modifies risk — emergency surgery, open abdominal procedures, and cardiovascular surgery carry substantially higher mortality than elective or lower-risk procedures at the same MELD score. [3][7]",
+    "crumbs": [
+      "Preoperative Care",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Preop Esophageal Ca</span>"
+    ]
+  },
+  {
+    "objectID": "11-preop_esophageal.html#operative-morality-with-liver-disease",
+    "href": "11-preop_esophageal.html#operative-morality-with-liver-disease",
+    "title": "11  Preop Esophageal Ca",
+    "section": "",
+    "text": "Treatment of Patients with Cirrhosis. The New England Journal of Medicine. 2016. Ge PS, Runyon BA.Review\nModel for End-Stage Liver Disease (MELD) Predicts Nontransplant Surgical Mortality in Patients With Cirrhosis. Annals of Surgery. 2005. Northup PG, Wanamaker RC, Lee VD, Adams RB, Berg CL.\nMortality After Surgery in Patients With Liver Cirrhosis: Comparison of Child-Turcotte-Pugh, MELD and MELDNa Score. European Journal of Gastroenterology & Hepatology. 2011. Cho HC, Jung HY, Sinn DH, et al.\nMortality in Hepatectomy: Model for End-Stage Liver Disease as a Predictor of Death Using the National Surgical Quality Improvement Program Database. Surgery. 2016. Ross SW, Seshadri R, Walters AL, et al.\nAssociation of Model for End-Stage Liver Disease Score With Mortality in Emergency General Surgery Patients. JAMA Surgery. 2016. Havens JM, Columbus AB, Olufajo OA, et al.Observational\nLiver Cirrhosis. Lancet. 2021. Ginès P, Krag A, Abraldes JG, et al.Review\nAcute-on-Chronic Liver Failure Clinical Guidelines. The American Journal of Gastroenterology. 2022. Bajaj JS, O’Leary JG, Lai JC, et al.Guideline",
     "crumbs": [
       "Preoperative Care",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Preop Esophageal Ca</span>"
