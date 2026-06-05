@@ -6,7 +6,9 @@ Locally-advanced gastric cancer (T3 or N^+^) is generally treated with some form
 
 **FLOT** chemotherapy [@al-batran1948] with 5FU, oxaliplatin and Taxotere superior for neoadjuvant chemotherapy compared with epirubicin, oxaliplatin and 5FU (MAGIC regimen).
 
-Matterhorn trial evaluated the addition of anti-PD-L1 MAb **durvalumab** to FLOT for stage I-IVa adenocarcinoma of stomach and GE junction. Both groups received 4 cycles of FLOT every 15 days. Durvalumab group received 2 doses preop and 2 doses postop with FLOT in addition to 10 monthly doses of durvalumab. Surgery was performed 4-8 weeks after the last dose of chemotherapy. Longer disease-free survival and trend to longer overall survival with the addition of durvalumab without additional toxicity.[@janjigian217]
+[Matterhorn]{.underline} trial evaluated the addition of anti-PD-L1 MAb **durvalumab** to FLOT for stage I-IVa adenocarcinoma of stomach and GE junction. Both groups received 4 cycles of FLOT every 15 days. Durvalumab group received 2 doses preop and 2 doses postop with FLOT in addition to 10 monthly doses of durvalumab. Surgery was performed 4-8 weeks after the last dose of chemotherapy. Longer disease-free survival and trend to longer overall survival with the addition of durvalumab without additional toxicity.[@janjigian217]
+
+DANTE trial evaluated the addition of atezolizumab to perioperative FLOT in patients with resectable esophagogastric adenocarcinoma. The Phase II results showed improved pCR rates (24% vs 15%) with the addition of atzolizumab. Better response with PD-L1 CPS $\ge$ 10 or MSI-high [@lorenzen410]. DANTE-III trial is restricted to immune-responsive tumors (CPS ≥1, MSI-High, TMB ≥10/Mb, EBV+)
 
 MAGIC study randomized 503 patients to perioperative 'sandwich' chemotherapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone. In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26% of the study population. While over 90% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66% completed their postoperative therapy. Survival at 5 years was 36% in the perioperative chemotherapy group, compared with 24% in the surgery group (p\<0.001).[@cunningham11]
 
@@ -19,6 +21,8 @@ RESONANCE-II trial of Oxaliplatin + S-1 (SOX) [@wang20]
 ## Postoperative chemotherapy
 
 CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy with capecitabine and oxaliplatinversus vs surgery alone. Three-year survival was improved in the chemotherapy group (74% *v* 59%).[@bang315] [@noh1389]
+
+SPACE-FLOT trial [@space-flotinvestigatorsznaf056] randomized patients with locally-advanced gastric cancer treated with 4 doses of preoperative FLOT to receive 4 additional cycles of postoperative (adjuvant) FLOT vs no further therapy. Among patients with minimal response to chemotherapy, there was no difference in disease-free survival. Among complete responders, there was also no difference in survival between groups. Among patients with a partial response, there was a significant difference in disease-free survival (HR 0.698) and overall survival (HR 0.55)
 
 ## Postoperative chemoradiation
 
@@ -38,6 +42,6 @@ TOPGEAR trial: neoajuvant chemotherapy $\pm$ subsequent radiation therapy: chemo
 
 ## Preop Immunotherapy
 
-NEONIPIGA trial: MSI-Hi gastric and GE junction cancers treated with neoadjuvant nivolumbab (6 cycles) and ipilumumab (2 cycles) over 12 weeks. Among 29 patients that underwent surgery, 59% pathologic complete response and all patients had R0 resection.[@andre288]
+NEONIPIGA trial: MSI-Hi gastric and GE junction cancers treated with neoadjuvant nivolumbab (6 cycles) and ipilumumab (2 cycles) over 12 weeks. Among 29 patients that underwent surgery, 59% pathologic complete response and all patients had R0 resection.[@andre255]
 
 MSKCC: MSI-Hi GI cancers treated with dostarlimab. Clinic response rate: rectal 50/50 (100%), colon 28/33 (82%), gastric 8/14 (57%), GE junction 1/3 (33%), esophageadl 1/3 (0%) [@cercek2297]

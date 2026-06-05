@@ -34,6 +34,8 @@ CAIRO-6 Phase II Trial [@rovers710]
 
 > Phase II Trial of adjuvant chemotherapy Randomization to perioperative systemic therapy or CRS-HIPEC alone. Perioperative systemic therapy with CAPOX, FOLFOX, or FOLFIRI.
 
+PROPHYLOCIP-PRODIGE 15: systematic second-look surgery including oxaliplatin-based HIPEC therapy did not improve DFS compared with standard surveillance [@goere1147] 150 patients with primary colorectal cancer with synchronous and localized colorectal peritoneal metastases removed during tumor resection, resected ovarian metastasis, or perforated tumor. 
+
 ### Peritoneal Carcinoma Index (PCI)
 
 Linear relationship between PCI and survival [@feron114]
