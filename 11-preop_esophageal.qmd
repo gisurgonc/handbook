@@ -46,3 +46,49 @@ Lancet. 2021. Ginès P, Krag A, Abraldes JG, et al.Review
 7.
 Acute-on-Chronic Liver Failure Clinical Guidelines.
 The American Journal of Gastroenterology. 2022. Bajaj JS, O'Leary JG, Lai JC, et al.Guideline
+
+Esophagectomy in a cirrhotic patient with a MELD score of 10 carries substantially elevated operative mortality compared to noncirrhotic patients, and notably, a MELD score >9 has been identified as a critical threshold for worse outcomes after esophagectomy specifically.
+
+Esophagectomy-Specific Data
+
+In the largest single-center matched-cohort study (73 cirrhotic patients from 3,445 esophageal cancer patients), cirrhotic patients with a MELD score >9 had a significantly worse postoperative course and poorer 5-year survival (p = 0.004) compared to those with MELD ≤9, who had outcomes similar to noncirrhotic patients. 
+[1]
+
+A smaller single-center series (14 cirrhotic patients, most with MELD ≤9) reported strikingly high 30-day mortality of 57.1% and 90-day mortality of 64.3% among cirrhotic patients undergoing esophagectomy, compared to 7.7% and 9.6% in noncirrhotic patients. Notably, the MELD and Child scores failed to predict perioperative mortality in this cohort; instead, bilirubin (auROC 94.4%) and INR (auROC 90.0%) were the strongest individual predictors. 
+[2]
+
+A meta-analysis of 12 observational studies (1,938 patients) confirmed that cirrhotic patients undergoing esophagectomy have 3-fold higher 30-day mortality (OR 3.04; 95% CI 1.71–5.39), along with significantly higher rates of pulmonary complications (OR 2.60), anastomotic leak (OR 2.81), and ascites (OR 37.77). Child-Pugh A patients had significantly lower 30-day mortality than Child-Pugh B patients (OR 0.14; 95% CI 0.04–0.54). 
+[3-4]
+
+Even among Child-Pugh A cirrhotic patients undergoing esophagectomy, a propensity-matched study showed significantly higher rates of postoperative pneumonia (22% vs. 9%), pleural effusion (38% vs. 20%), and chylothorax (10% vs. 1%) compared to noncirrhotic patients. 
+[5]
+
+Risk Stratification Considerations
+
+The 2025 ACG Clinical Guideline on Perioperative Risk Assessment in Cirrhosis emphasizes that MELD score alone is inadequate for surgical risk prediction because it does not account for surgery type or nonhepatic comorbidities. The VOCAL-Penn Score is recommended as the preferred cirrhosis-specific surgical risk calculator, as it incorporates surgery type and has been shown to outperform the Mayo Surgical Risk Score in discrimination and calibration. 
+[6] For a complex procedure like esophagectomy, this distinction is particularly important.
+
+Bottom line: A MELD of 10 places this patient above the critical threshold of 9 identified for esophagectomy, where outcomes diverge significantly from noncirrhotic patients. While cirrhosis is not an absolute contraindication to esophagectomy, the decision warrants careful multidisciplinary evaluation incorporating bilirubin, INR, presence of ascites, and ideally the VOCAL-Penn Score rather than relying on MELD alone. 
+[1-2][6]
+
+Would you like to explore the VOCAL-Penn Score calculator to generate a more individualized perioperative mortality estimate for this patient?
+
+
+1.
+Esophageal Cancer Surgery for Patients With Concomitant Liver Cirrhosis: A Single-Center Matched-Cohort Study.
+Annals of Surgical Oncology. 2017. Valmasoni M, Pierobon ES, De Pasqual CA, et al.
+2.
+Risk Stratification of Cirrhotic Patients Undergoing Esophagectomy for Esophageal Cancer: A Single-Centre Experience.
+PloS One. 2022. Grass JK, Küsters N, Kemper M, et al.
+3.
+The Impact of Cirrhosis on Esophageal Cancer Surgery: An Up-to-Date Meta-Analysis.
+American Journal of Surgery. 2020. Schizas D, Giannopoulos S, Vailas M, et al.SR
+4.
+Review article: Oesophageal disorders in chronic liver disease.
+Alimentary Pharmacology & Therapeutics. 2024. Idalsoaga F, Díaz LA, Ayares G, et al.Review
+5.
+Impact of Child-Pugh Class a Liver Cirrhosis on Perioperative Outcomes of Patients With Oesophageal Cancer: A Propensity Score-Matched Analysis.
+European Journal of Cardio-Thoracic Surgery : Official Journal of the European Association for Cardio-Thoracic Surgery. 2020. Cheng C, Wen YW, Tsai CY, Chao YK.
+6.
+ACG Clinical Guideline: Perioperative Risk Assessment and Management in Patients With Cirrhosis.
+The American Journal of Gastroenterology. 2025. Mahmud N, Fricker ZP, McElroy LM, et al.RecentGuideline
