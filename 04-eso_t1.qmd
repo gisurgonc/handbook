@@ -37,7 +37,7 @@ ESD takes more time and has higher R0 resection rate but similar recurrence rate
 
 ### Submucosal Adenocarcinoma (T1b)
 
-NCCN: Low-risk T1b are size \<2cm, well or moderately-differentiated, no LVI, depth of submucosal invasion \<500um
+NCCN: Low-risk T1b are size \<2cm, well or moderately-differentiated, no LVI, *and* depth of submucosal invasion \<500um
 
 AATS expert consensus [@molena884] recommends esophagectomy for T1b tumors with any high-risk features
 
