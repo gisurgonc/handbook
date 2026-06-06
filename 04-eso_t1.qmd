@@ -37,4 +37,10 @@ ESD takes more time and has higher R0 resection rate but similar recurrence rate
 
 ### Submucosal Adenocarcinoma (T1b)
 
-Netherlands \[@grotnik109\] 248 patients with T1b adenocarcinoma of the esophagus treated with EMR or surgery. Metastases were seen in 78 patients, and the 5-year cumulative incidence was 30.9 %. The risk of metastases increased with submucosal invasion depth (subdistribution hazard ratio \[SHR\] 1.08, for every increase of 500 μm), lymphovascular invasion (SHR 2.95), and for larger tumors (SHR 1.23, for every increase of 10 mm).
+NCCN: Low-risk T1b are size \<2cm, well or moderately-differentiated, no LVI, depth of submucosal invasion \<500um
+
+AATS expert consensus [@molena884] recommends esophagectomy for T1b tumors with any high-risk features
+
+Netherlands [@grotnik109] 248 patients with T1b adenocarcinoma of the esophagus treated with EMR or surgery. Metastases were seen in 78 patients, and the 5-year cumulative incidence was 30.9 %. The risk of metastases increased with submucosal invasion depth (subdistribution hazard ratio \[SHR\] 1.08, for every increase of 500 μm), lymphovascular invasion (SHR 2.95), and for larger tumors (SHR 1.23, for every increase of 10 mm).
+
+NCDB [@swanson693] A total of 3,157 patients met the inclusion criteria. Of these patients, 2,024 (64.1%) had cT1a and 1133 (35.9%) had cT1b disease. Among those with cT1b tumors, 649 (57.3%) underwent esophagectomy, 293 (25.9%) endoscopic resection, and 191 (16.8%) chemoradiotherapy. On unadjusted comparison, patients treated for esophageal adenocarcinoma with chemoradiotherapy had a lower rate of overall survival than those treated with endoscopic resection or esophagectomy (26.1% vs 73.1% vs 75.5%, P \< .001). On comparison of matched cohorts, patients undergoing endoscopic resection for cT1b tumors demonstrated lower rates of overall survival than those undergoing esophagectomy (60.6% vs 74.1%, P = .0013),
