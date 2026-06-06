@@ -16,10 +16,10 @@ For patients with nodular Barrett's esophagus or small tumors judged to be T1 by
 
 EMR is likely sufficient for small tumors with favorable pathologic factors[@nurkin1090]:
 
--   Size less than 2cm
--   Lateral and deep margins clear
--   Absence of lymphovascular invasion
--   Well- or moderately- differentiated
+- Size less than 2cm
+- Lateral and deep margins clear
+- Absence of lymphovascular invasion
+- Well- or moderately- differentiated
 
 Need for RFA of Barrett's after EMR: [@haidry87]
 
@@ -34,3 +34,7 @@ For T1a tumors, EMR and ESD appear to have similar outcomes [@terheggen783] Terh
 Endoscopic submucosal dissection is a technique for deeper endoscopic removal of esophageal lesions using endoscopic cautery, which dissects through the submucosa. ESD has a higher rate of curative resection [@cao751] albeit at the cost of prolonged operative times and increased risk of complications such a bleeding. [@repici715]
 
 ESD takes more time and has higher R0 resection rate but similar recurrence rate at 2 years [@terheggen783]
+
+### Submucosal Adenocarcinoma (T1b)
+
+Netherlands \[@grotnik109\] 248 patients with T1b adenocarcinoma of the esophagus treated with EMR or surgery. Metastases were seen in 78 patients, and the 5-year cumulative incidence was 30.9 %. The risk of metastases increased with submucosal invasion depth (subdistribution hazard ratio \[SHR\] 1.08, for every increase of 500 μm), lymphovascular invasion (SHR 2.95), and for larger tumors (SHR 1.23, for every increase of 10 mm).
