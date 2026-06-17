@@ -1,0 +1,25 @@
+# Colon ERAS {#ColonObjCR}
+
+## Laxatives
+
+The randomized STIMULAX trial (n=170) [@dudi-venkata797] showed that a combination of stimulant (docusate/senna) and osmotic (macrogol) laxatives shortened GI-2  recovery by 1 day (median 2 vs. 3 days, P=0.029) and reduced prolonged postoperative ileus  by 42% (22% vs. 38%, P=0.030), with no increase in complications including anastomotic leak. GI-2 is defined as tolerance of solid diet for 24 h without vomiting, and passage of stool/faeces. However, no difference in length of stay was observed.
+
+A 2025 meta-analysis of 7 RCTs (849 patients) evaluating GI motility agents (including laxatives and prokinetics) after elective colorectal surgery confirmed that these agents accelerated GI-2 recovery by approximately 1 day (MD −1.01 days, P<0.001) and reduced time to first defecation (MD −1.07 days, P<0.001) without increasing anastomotic leak, NGT reinsertion, or readmission rates. [@goavi131]
+
+
+## Alvimopan
+
+Alvimopan, a peripheral mu-opioid receptor antagonist, has the strongest evidence base among bowel-targeted interventions. The ASCRS/SAGES 2023 guidelines give a strong recommendation for its use to hasten recovery after open colorectal surgery. [@irani5] A 2024 meta-analysis [@murtaza3272] of 26 studies (94,833 patients) showed alvimopan was associated with:
+
+43% lower risk of POI (OR 0.57, 95% CI 0.48–0.67)
+1.08-day shorter length of stay (P<0.001)
+0.43-day shorter time to first bowel movement (P<0.001)
+
+[8]
+Within an established ERAS program, alvimopan retained efficacy, reducing time to GI recovery by approximately 15 hours and length of stay by 1.8 days. [9] A prospective study at a single center showed alvimopan provided an additional $1,492 cost savings per patient even within a rigorous ERAS protocol. [10]
+
+The evidence for alvimopan in minimally invasive surgery is less clear. The ASCRS/SAGES guidelines note no randomized trials exist for laparoscopic cases, and the meta-analysis subgroup analysis showed no significant benefit in minimally invasive surgery. [6][8] However, a large regional database analysis (n=10,010) did find significant benefit across all surgical approaches including robotic and laparoscopic. [11]
+
+## Chewing Gum (Sham Feeding)
+
+The ASCRS/SAGES guidelines [@irani5] give a strong recommendation (1B) for chewing gum (≥10 min, 3–4 times daily) as a safe intervention that results in small improvements in GI recovery.  A meta-analysis of 18 RCTs showed chewing gum shortened time to first flatus by ~9 hours, time to first bowel movement by ~16 hours, and reduced POI incidence by 59% (RR 0.41)
