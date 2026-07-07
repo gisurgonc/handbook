@@ -8,68 +8,68 @@ CT scan evaluated for presence of replaced left hepatic artery.
 
 ## Preop Area
 
--   Heparin is held if epidural catheter is planned
--   Type/Screen
--   Clip hair from abdomen and right chest, including right axilla. Hair is clipped from bilateral groins
+- Heparin is held if epidural catheter is planned
+- Type/Screen
+- Clip hair from abdomen and right chest, including right axilla. Hair is clipped from bilateral groins
 
 ## Room Prep
 
--   Double-decker Back Table
--   EGD Cart (check w/ Salo regarding adult vs neonatal scope)
--   BK Ultrasound with sterile ultrasound jelly
-    -   Laparoscopic probe AND
-    -   hockey stick probe AND
-    -   robotic probe
+- Double-decker Back Table
+- EGD Cart (check w/ Salo regarding adult vs neonatal scope)
+- BK Ultrasound with sterile ultrasound jelly
+  - Laparoscopic probe AND
+  - hockey stick probe AND
+  - robotic probe
 
 Walter 'Long Arm' retractor
 
 Salo Positioning Cart:
 
--   Three black side-rail clamps
--   Two rectangular lateral positioners
--   One round lateral positioner
--   Yassargil socket
--   Well-leg holder (used as an arm holder)
+- Three black side-rail clamps
+- Two rectangular lateral positioners
+- One round lateral positioner
+- Yassargil socket
+- Well-leg holder (used as an arm holder)
 
 Robotic Instruments:
 
--   Tip Up Grasper
--   Fenestrated bipolar Forceps (420205)
--   Hot Shears (Monopolar scissors) 470179
--   Extend vessel sealer (480322)
--   SutureCut Large Needle Driver (470296)
--   Medium-Large Clip Applier (420327)
--   Large Needle Driver (470006)
--   Permanent Cautery Hook (470183) (hold)
--   Cadiere Forceps (470049) hold
+- Tip Up Grasper
+- Fenestrated bipolar Forceps (420205)
+- Hot Shears (Monopolar scissors) 470179
+- Extend vessel sealer (480322)
+- SutureCut Large Needle Driver (470296)
+- Medium-Large Clip Applier (420327)
+- Large Needle Driver (470006)
+- Permanent Cautery Hook (470183) (hold)
+- Cadiere Forceps (470049) hold
 
 Critical supplies (check prior to pt in room)
 
--   Stapler 25mm DSTXL
--   Orvil 25mm
--   Stapler 21mm DSTXL
--   Orvil 21mm
+- Stapler 25mm DSTXL
+- Orvil 25mm
+- Stapler 21mm DSTXL
+- Orvil 21mm
 
 Suture
 
--   Stratafix Spiral PDS 3-0 RB-1 needle 15cm
+- Stratafix Spiral PDS 3-0 RB-1 needle 15cm
 
 Supplies:
 
--   Micropuncture kit (from Anesthesia Workroom)
--   Gel Port available
--   14Fr Balloon Jejunostomy tube (8200-14)
--   14Fr Cook introducer kit
--   18Fr Dilator and peelaway sheath
+- Micropuncture kit (from Anesthesia Workroom)
+- Gel Port available
+- 14Fr Balloon Jejunostomy tube (8200-14)
+- 14Fr Cook introducer kit
+- 18Fr Dilator and peelaway sheath
 
 \newpage
 
 **Anesthesia**
 
--   Epidural placed in preop area
--   Dual-lumen ETT tube (taped to left)
--   Arterial line (left arm will be on arm board)
--   Heparin 5000U SQ 1-2 hours after epidural placed
+- Epidural placed in preop area
+- Dual-lumen ETT tube (taped to left)
+- Arterial line (left arm will be on arm board)
+- Heparin 5000U SQ 1-2 hours after epidural placed
 
 ## Abdominal Position
 
@@ -87,9 +87,9 @@ Right side-rail cleared from the draw-sheet
 
 Pre-existing jejunostomy
 
--   Prep into field
--   Remove any eschar at exit site
--   Secure to skin inferiorly with 0 silk
+- Prep into field
+- Remove any eschar at exit site
+- Secure to skin inferiorly with 0 silk
 
 **Prep**
 
@@ -107,19 +107,19 @@ Blue utility (paper) drape is placed transversely just above level of pubis. Whi
 
 Review:
 
--   Consent
--   Comorbidities, including cardiopulmonary disease
--   Anticoagulation plan. If preoperative heparin was held for epidural, plans for timing of its administration. Circulator and anesthetist set alarms.
--   Prior abdominal or thoracic operations
--   Allergies
--   Blood
-    -   Surgeon’s expectation of blood loss
-    -   Availability of blood (type/screen vs type/cross).
-    -   Blood product administration limitations, if any
--   Introduction by name and role
--   Co-surgeons: Confirm availability prior to incision
--   Operative plan
--   Request ICU bed in STICU
+- Consent
+- Comorbidities, including cardiopulmonary disease
+- Anticoagulation plan. If preoperative heparin was held for epidural, plans for timing of its administration. Circulator and anesthetist set alarms.
+- Prior abdominal or thoracic operations
+- Allergies
+- Blood
+  - Surgeon’s expectation of blood loss
+  - Availability of blood (type/screen vs type/cross).
+  - Blood product administration limitations, if any
+- Introduction by name and role
+- Co-surgeons: Confirm availability prior to incision
+- Operative plan
+- Request ICU bed in STICU
 
 *Comorbidities:*
 
@@ -129,8 +129,8 @@ Beta blockade: Note whether patient on home beta blockade and if so, whether hom
 
 Anticipated Intraop Problems:
 
--   Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection
--   Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest
+- Possibility of tension left pneumothorax due to carbon dioxide entry into left chest during mediastinal dissection
+- Expectation of ventilatory difficulties due to carbon dioxide entry into the right chest
 
 ## Laparoscopy
 
@@ -346,18 +346,18 @@ Admission to ICU. Epidural dosed.
 
 Medications:
 
--   Protonix 40mg IV daily
--   Metoprolol 2.5mg IV q6h (may increase to 5mg)
--   Home antihypertensives held unless bp is still elevated after adequate beta blockade
--   No bowel regimen
--   Reglan 10mg IV q6 hours
+- Protonix 40mg IV daily
+- Metoprolol 2.5mg IV q6h (may increase to 5mg)
+- Home antihypertensives held unless bp is still elevated after adequate beta blockade
+- No bowel regimen
+- Reglan 10mg IV q6 hours
 
 Labs:
 
--   Daily drain amylase from JP2 starting POD#2
--   CBC every other day or daily if elevated above 12
--   BMP every other day
--   CMP on admission and POD #4
+- Daily drain amylase from JP2 starting POD#2
+- CBC every other day or daily if elevated above 12
+- BMP every other day
+- CMP on admission and POD #4
 
 Tube feeds at 30mL/hour start with Osmolite 1.5. Tube feeds advanced 10mL q12 hours once flatus returns.
 

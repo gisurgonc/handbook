@@ -3,7 +3,7 @@
 **Common Haiku Groups for Consults**
 
 | Service | Haiku Group |
-|------------------------------------|------------------------------------|
+|----|----|
 | Advanced GI (Dries/Doshi/Lewis/Chauhan) | CMC Advanced GI ERCP Consult |
 | Advanced GI (Narang) | CDHA Advanced GI ERCP |
 | Hospitalist | CGH Service Hospitalist CMC - Consults Only |
