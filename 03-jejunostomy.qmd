@@ -1,4 +1,4 @@
-# Jejunostomy Feedings {postop_jejunostomy}
+# Jejunostomy Feedings {#postop_jejunostomy}
 
 Due to the osmotic load, jejunostomy feedings are given via enteral (Kangaroo) pump rather than bolus feeding. Feedings are generally begun as continuous (around-the-clock) and are then transitioned to nocturnal (generally 6pm to 10am) prior to discharge.
 
@@ -12,16 +12,18 @@ Patients less than 150 pounds receive 4 cans of tube feedings, administered at 6
 
 Glucerna is formulated with carbohydrates with low glycemic index, which is particularly helpful for bolus feeding (via gastrostomy) or patients who are eating. Glycemic index is less important in patients on continuous tube feeds (eg via jejunostomy). In addition, the high fiber context of Glucerna may make this formula more prone to causing clogging of jejunostomy tubes. Free Water Flushes
 
-Once patients are transferred to the ward, free water via jejunostomy should be ordered as 240mL via jejunostomy qid. This is entered under Flush Enteral Tube for Free Water Requirements. Diarrhea with Jejunostomy Feedings
+Once patients are transferred to the ward, free water via jejunostomy should be ordered as 240mL via jejunostomy qid. This is entered under Flush Enteral Tube for Free Water Requirements. 
+
+## Diarrhea with Jejunostomy Feedings {#diarrhea_jejunostomy}
 
 Patients who experience diarrhea during jejunostomy administration (especially diarrhea at night) will need this addressed. Several steps
 
--   Send stool for C Diff
--   Consider changing tube feedings to a more easily digestible formula. Patients on Osmolite 1.5 can be changed to Vital 1.5. Patients on Vital 1.5 can be changed to Vivonex. Patients on Promote can be changed to Vital High Protein
--   Stop tube feedings for 2-4 hours to allow diarrhea to resolve
--   restart tube feeds at a lower rate (eg 20mL/hour lower than the prior rate).
--   Bannatrol can be given to patients taking an oral diet. Bannatrol is NOT given via jejunostomy tube to avoid clogging.
--   Lomotil is generally used as a last resort.
+- Send stool for C Diff
+- Consider changing tube feedings to a more easily digestible formula. Patients on Osmolite 1.5 can be changed to Vital 1.5. Patients on Vital 1.5 can be changed to Vivonex. Patients on Promote can be changed to Vital High Protein
+- Stop tube feedings for 2-4 hours to allow diarrhea to resolve
+- restart tube feeds at a lower rate (eg 20mL/hour lower than the prior rate).
+- Bannatrol can be given to patients taking an oral diet. Bannatrol is NOT given via jejunostomy tube to avoid clogging.
+- Lomotil is generally used as a last resort.
 
 ## Med Administration via J-Tubes
 
@@ -29,11 +31,11 @@ Patients who have difficulty with dysphagia or complete esophageal obstruction w
 
 Several common medicines are available in liquid form:
 
--   Acetaminophen (pediatric formulation)
--   Gabapentin
--   Oxycodone
--   Hydrocodone + acetaminophen
--   Reglan
+- Acetaminophen (pediatric formulation)
+- Gabapentin
+- Oxycodone
+- Hydrocodone + acetaminophen
+- Reglan
 
 Apart from delayed-release medicines and Flomax (tamsulosin), most medicines can be crushed and resuspended and administered via gastrostomy tube if needed.
 

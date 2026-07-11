@@ -20,16 +20,16 @@ Chest tubes generally consist of a 28Fr Blake drain placed into the right chest.
 
 ### Chest tube removal
 
--   Supplies needed: Suture removal kit, 4x4 gauze, xeroform or Vaseline gauze, 2" silk tape, red biohazard bag
--   Notify the bedside RN
--   Explain procedure to patient including the need for prolonged expiration during removal
--   Prepare a bandage with 4x4 gauze and Xeroform
--   Cut and remove suture
--   Cover the exit site with the Xeroform bandage
--   Rehearse process with patient: prolonged expiration
--   Pull tube and apply bandage
--   Place tube and Atrium/Pleurevac in red biohazard bag and dispose of in soiled utility room
--   Return patient room to prior condition (including lowering bed)
+- Supplies needed: Suture removal kit, 4x4 gauze, xeroform or Vaseline gauze, 2" silk tape, red biohazard bag
+- Notify the bedside RN
+- Explain procedure to patient including the need for prolonged expiration during removal
+- Prepare a bandage with 4x4 gauze and Xeroform
+- Cut and remove suture
+- Cover the exit site with the Xeroform bandage
+- Rehearse process with patient: prolonged expiration
+- Pull tube and apply bandage
+- Place tube and Atrium/Pleurevac in red biohazard bag and dispose of in soiled utility room
+- Return patient room to prior condition (including lowering bed)
 
 Chest x-ray 4 hours after removal to look for a pneumothorax.
 
@@ -37,7 +37,21 @@ Chest x-ray 4 hours after removal to look for a pneumothorax.
 
 All patients receive pantoprazole 40mg IV daily and metoclopramide 5-10mg IV q 6hrs. This is later switched to enteric PPI and reglan. For patients \<age 75, remeron is added as 15mg enteral qhs.
 
-## Evaluation for leak {#leak_evaluation}
+## Nasogastric Tubes {#leak_evaluation}
+
+A Covidien silicone Salem Sump 18Fr nasogastric tube is routinely placed at the time of surgery. This has four marks on the tube at 45, 55, 65, and 75cm. The tube is typically positioned with the 4th mark at the nares. Once patient are strong enough to stand for 5 minutes, a upper GI series is performed in radiology. An upper GI is ordered as *FL Upper GI Track Single Contrast* with the following comment "Evaluate for gastric emptying with 50mL IsoVue administered via NG tube. Perform study with aptient standing. Contact Dr Salo for study". Patients who are intubated will keep their nasogastric tubes until extubated (and able to stand).
+
+Note that an **upper GI is not performed to evaluate for leak** for several reasons:
+
+1\) Upper GI is notoriously insensitive for detection of leak for patients with an intrathoracic anastomosis.
+
+2\) Detection of leak requires that the anastomosis be filled with sufficient contrast to detect extravasation. This would require either oral contrast or administration of sufficient contrast via NG tube to reflux up to the anastomosis. Either strategy would place the patient at risk for aspiration. Our experience suggests that 30% have some degree of swallowing dysfunction after esophagectomy, making them at risk for aspiration.
+
+To reiterate, **upper GI is performed to evaluate gastric emptying.**
+
+## [Swallowing Evaluation](https://gisurgonc.github.io/handbook/03-ward_esophagectomy_mbs.htm)
+
+## Evaluation for leak
 
 Experience suggests that the median time to the diagnosis of leak is 7 day after surgery. Currently the risk of anastomotic leak at CMC after transthoracic esophagectomy is 8%. The most sensitive test for the diagnosis of leak is CT esophagram (see below). Based upon institutional experience, patients are divided into low risk of leak vs high risk for leak based upon drain amylase level and white blood cell count. Patients with a normal drain amylase (400IU/ml) between postoperative day 4 and day 7 AND white blood cell count less than 12 are considered low risk. Patients with either an elevated drain amylase or WBC greater than 12 are evaluated with CT esophagram. In a group of 100 patients, several were found to have elevated drain amylase in the first four days (up to 2000Iu/ml) which subsequently declined, and no evidence of leak was found
 
@@ -55,7 +69,7 @@ Patients who clinically deteriorate prior to post-operative day 7 in whom there 
 
 If a patient is demonstrated to have a leak, they are made NPO AND will have any pleural effusion treated with a pigtail catheter. Conservative management will generally be successful for most patients with leaks provided 1) there is no evidence of conduit necrosis 2) nutrition is optimized and 3) empyema is treated. Patients with leaks may even need a decortication, which emphasizes the importance of CT scan in the sick post-operative esophagectomy patient, so that an empyema can be diagnosed and treated. Patients with leaks who show signs of systemic illness may need to be considered for an intraluminal stent. Patients who are profoundly ill need to be evaluated for gastric necrosis with upper endoscopy.
 
-**Nutrition**
+## **Nutrition**
 
 All esophagectomy patients receive a feeding jejunostomy at the time of operation. In the immediate post-operative period, patients receive Osmolite 1.5 starting the day of surgery once they are off pressors. Tube feeds are started at 20mL/hour until flatus and then advanced at 10mL per hour every 8 hours, up to a goal of 60mL per hour (x24 hours). Patients who are on tube feeds prior to surgery are generally restarted on their home tube feed formula.
 
@@ -63,34 +77,23 @@ Patients who do not tolerate Osmolite are switched to Vital 1.5, which is pre-hy
 
 Obese patients (BMI\>30) are started on Vital High Protein at 20mL/hour and increased to a goal of 60mL/hour. Promote contains a more protein relative to carbohydrdates.
 
-Diarrhea in patients on tube feeds (especially nocturnal diarrhea) needs to be addressed. Despite STICU guidelines for nutrition in trauma patients, diarrhea (especially night-time diarrhea) is justification for alteration in tube feeds. See Diarrhea and Jejunostomy Feeding
+Diarrhea in patients on tube feeds (especially nocturnal diarrhea) needs to be addressed. Despite STICU guidelines for nutrition in trauma patients, diarrhea (especially night-time diarrhea) is justification for alteration in tube feeds. See [Diarrhea and Jejunostomy Feeding](#diarrhea_jejunostomy)
 
-*Diabetic Patients*
+### *Diabetic Patients*
 
 Patients on tube feeds are typically started on continuous (around-the-clock) tube feedings, and subsequently changed to a nocturnal regimen (typically 6pm to 10am). See [Jejunostomy Feeds in Diabetic Patients](#jejunostomy_diabetes)
 
-*‘Free Water’*
+### *‘Free Water’*
 
 In addition to tube feeds, most patients will receive ‘free’ water flushes through the jejunostomy. This is typically done as 240mL four times per day (for a total of 32oz)
 
-*Nasogastric Tubes*
+## *Drains*
 
-A silicone nasogastric tube (Covidien Salem Sump) is placed in all patients during surgery and the position confirmed by ultrasound intraoperatively. Tubes are positioned so that all 4 dots are outside. Gastric emptying is evaluated with upper GI prior to NG tube removal. Once extubated, upper GI is typically performed on the 2nd through 4th postoperative day. Conversely, patients who are intubated will keep their nasogastric tube until extubated.
-
-Upper GI is ordered as *FL Upper GI Track Single Contrast*
-
-Once NG tube is removed, patients undergo swallowing evaluation
-
-## [Swallowing Evaluation](https://gisurgonc.github.io/handbook/03-ward_esophagectomy_mbs.htm)
-
-
-*Drains*
-
--   JP1: 19Fr Blake drain in left pleura. The end of the tube is cut at an angle. The exit site the *usually* the most lateral/inferior drain.
--   JP2: 19Fr Blake drain in right pleura. The exit site is *usually* medial/superior to JP1
--   JP3: 19 Fr Blake drain in abdomen. If used, the exit site is *usually* most medial
--   JP4: 15Fr Blake drain in neck (for cervical incision)
--   JP5: 15Fr Blake drain in subcutaneous tissue of incision
+- JP1: 19Fr Blake drain in left pleura. The end of the tube is cut at an angle. The exit site the *usually* the left lower quadrant
+- JP2: 19Fr Blake drain in right pleura. The exit site is *usually* the right lower quadrant
+- JP3: 19 Fr Blake drain in abdomen. If used, the exit site is *usually* lateral mid-abdomen
+- JP4: 15Fr Blake drain in neck (for cervical incision)
+- JP5: 15Fr Blake drain in subcutaneous tissue of incision
 
 *Evaluation for Anastomotic leak*
 
@@ -114,17 +117,16 @@ Patients after esophagectomy typically go home with the following medicines:
 
 ### Home medications
 
-Metroprolol is routinely given in the postop period to reduce the risk of atrial fibrillation and is continued until the postoperative 
+Metroprolol is routinely given in the postop period to reduce the risk of atrial fibrillation and is continued until the postoperative
 
 ### Patients taking oral medicines (85%)
 
-- Proton pump inhibitors (will continue for 2 years) 
-- Oxycodone 5mg oral elixir via feeding tube. Current STOP guidelines dictate that patients receive no more than a 7 day supply of opiods at discharge 
-- Reglan 10mg po qid (will stop at 6 weeks post-op) 
-- Remeron 15mg qhs (will continue for 3 months post-op) 
-- Tylenol 1000mg q6 hours as elixir (pediatric form) 
-- Gabapentin 300mg as liquid tid x 14 days 
-- Metoprolol if started postoperatively (most patients). If not on beta blockers preoperatively, this will be cut in half at the first visit and stopped at the second postoperative visit. 
+- Proton pump inhibitors (will continue for 2 years)
+- Oxycodone 5mg oral elixir via feeding tube. Current STOP guidelines dictate that patients receive no more than a 7 day supply of opiods at discharge
+- Reglan 10mg po qid (will stop at 6 weeks post-op)
+- Remeron 15mg qhs (will continue for 3 months post-op)
+- Tylenol 1000mg q6 hours as elixir (pediatric form)
+- Metoprolol if started postoperatively (most patients). If not on beta blockers preoperatively, this will be cut in half at the first visit and stopped at the second postoperative visit.
 
 ### NPO Patients
 
@@ -139,6 +141,6 @@ Metoprolol is available as a liquid for inpatients, it is not available from out
 
 ## Diet at discharge
 
--   70% will pass their MBS for thin liquids are and discharged on protein shakes
--   15% will pass for nectar thick but fail for this liquids. They are discharged taking medicines with a sip of thickened water but otherwise NPO
--   15% will fail for nectar thick and are discharged NPO with medicines via jejunostomy
+- 70% will pass their MBS for thin liquids are and discharged on protein shakes
+- 15% will pass for nectar thick but fail for this liquids. They are discharged taking medicines with a sip of thickened water but otherwise NPO
+- 15% will fail for nectar thick and are discharged NPO with medicines via jejunostomy
