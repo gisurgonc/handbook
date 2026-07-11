@@ -8,12 +8,12 @@ In addition, the progress notes provide a narrative which can later be used to g
 
 **Esophagectomy Events to be Documented:**
 
--   Extubation date/time
--   NG Removal date
--   Chest tube removal date
--   MBS date(s) and results (aspiration \| penetration)
--   ICU DC orders written
--   ICU discharge (transfer to ward)
+- Extubation date/time
+- NG Removal date
+- Chest tube removal date
+- MBS date(s) and results (aspiration \| penetration)
+- ICU DC orders written
+- ICU discharge (transfer to ward)
 
 **Esophagectomy Complications to be Documented:**
 
