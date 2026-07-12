@@ -4,7 +4,7 @@
 
 Proton-pump inhibitors have been shown to reduce risk of marginal ulceration but also are associated with increased risk of delayed gastric emptying after pancreaticoduodenectomy and gastric bypass.
 
-There is a limited evidence base for duration of PPIs after gastrectomy.  The American Society for Metabolic and Bariatric surgery [@edwardsS1550] recommends at least 90 days of PPIs. A retrospective study found lower rate of marginal ulcer with 90 days of PPI after gastric bypass compared with 30 days.
+There is a limited evidence base for duration of PPIs after gastrectomy. The American Society for Metabolic and Bariatric surgery [@edwardsS1550] recommends at least 90 days of PPIs. A retrospective study found lower rate of marginal ulcer with 90 days of PPI after gastric bypass compared with 30 days.
 
 ## Nasogastric tubes
 
